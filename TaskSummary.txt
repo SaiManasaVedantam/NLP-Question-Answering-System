@@ -1,0 +1,12 @@
+This Project is divided into 4 major tasks as follows:
+
+1. NLP PIPELINE FOR FEATURE EXTRACTION
+	In this step, we extract the following features on the articles:
+	a. Sentence Tokenization
+	b. Word Tokenization
+	c. Lemmatization
+	d. Part-of-Speech(POS) Tagging
+	e. Dependency Parsing
+	f. Hypernym, Meronym, Holonym & Hyponym extraction using WordNet
+
+2. IMPLEMENTATION OF QUESTION-ANSWERING(QA) SYSTEM

@@ -1,0 +1,5 @@
+EXECUTING TASK 1:
+- You need to install nltk & spacy specifically along with any other modules you may need.
+- Install en_core_web_sm that matches with the version of spacy.
+- You can download and run either Task1.ipynb or use "python Task1.py"
+- You can download the articles and put them in the path in which you have the python file OR you can use the articles uploaded in this repository directly.

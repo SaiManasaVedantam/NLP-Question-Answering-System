@@ -10,3 +10,6 @@ Eg: Who founded Apple Inc.?
 
 # Resources
 Data is extracted from Stanford Question Answering Dataset (SQuAD). It is basically a reading comprehension dataset with questions posed on a set of Wikipedia articles for which, the answer to every question is a segment of text from the corresponding passage if it is answerable.
+
+# Execution Instructions
+Please check "Instructions.txt" for all detailed instructions on How to execute the code, Order of execution & the packages to be installed. Please check "TaskSummary.txt" to understanding which process is being done in each phase.
