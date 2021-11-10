@@ -13,3 +13,6 @@ Data is extracted from Stanford Question Answering Dataset (SQuAD). It is basica
 
 # Execution Instructions
 Please check "Instructions.txt" for all detailed instructions on How to execute the code, Order of execution & the packages to be installed. Please check "TaskSummary.txt" to understanding which process is being done in each phase.
+
+# Data Resources
+Please check my repository NLP-QA-System-Datasets for the articles. You can download them from here and use a local path to reference the articles on your local machine.
