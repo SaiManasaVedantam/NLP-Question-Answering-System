@@ -6,7 +6,8 @@ warnings.filterwarnings("ignore")
 import nltk
 import codecs
 import urllib
-import os, spacy
+import os, spacy, io, pprint
+import json
 import en_core_web_sm
 from spacy import displacy
 from nltk.corpus import wordnet as wn
@@ -102,23 +103,32 @@ def WordNetFeatures(word_tokens):
     
 # Performs Dependency Parsing
 def DependencyParsing(sentence):
-    depedencyParse = nlp(sentence)
-    for token in depedencyParse:
-        print(token.text,"----->",token.dep_,"----->",token.pos_,)
-    print('\n\n')
-    display(depedencyParse)
-    html = displacy.render(depedencyParse, style="dep")
-    display(HTML(html))
+    dependencyParse = nlp(sentence)
+    dependency_list = []
+    for token in dependencyParse:
+        token_list = []
+        token_list.append(token.text)
+        token_list.append(token.dep_)
+        token_list.append(token.pos_)
+        dependency_list.append(token_list)
+    #     print(token.text,"----->",token.dep_,"----->",token.pos_,)
+    # print('\n\n')
+    # display(depedencyParse)
+    # html = displacy.render(depedencyParse, style="dep")
+    # display(HTML(html))
+    return dependency_list
     
 
 # Main method
 if __name__ == "__main__":
     # List of all article names in the repository
+    
     articleNames = ["109.txt", "111.txt", "151.txt", "160.txt", "177.txt", 
                     "179.txt","181.txt", "196.txt", "199.txt", "220.txt", 
                     "222.txt", "226.txt", "288.txt", "297.txt", "304.txt", 
                     "342.txt", "347.txt", "360.txt", "390.txt", "400.txt", 
                     "56.txt", "58.txt", "6.txt"]
+    #articleNames = ["109.txt"]
     fileCount = len(articleNames)
     
     content = ""
@@ -128,77 +138,115 @@ if __name__ == "__main__":
         response = urllib.request.urlopen(fileName)
         webContents = response.read()
         stringTypeData = webContents.decode("utf-8")
-        content += stringTypeData
+        corpus_dict = {}
+        #content += stringTypeData
    
-    # Use this if you want to use a local file on your machine
-    """
-    content = None
-    try:
-        f = open("Articles/6.txt", "r")
-        content = f.read()
-        
-    except UnicodeDecodeError:
-        f = open("Articles/6.txt", "r", encoding = "utf8")
-        content = f.read()
-        
-    """
+        # Use this if you want to use a local file on your machine
+        """
+        content = None
+        try:
+            f = open("Articles/6.txt", "r")
+            content = f.read()
+            
+        except UnicodeDecodeError:
+            f = open("Articles/6.txt", "r", encoding = "utf8")
+            content = f.read()
+            
+        """
     
-    # Obtain wordnet lemmatizer
-    wordnet_lemmatizer = WordNetLemmatizer()
+        # Obtain wordnet lemmatizer
+        wordnet_lemmatizer = WordNetLemmatizer()
+        
+        # Get tokenized content
+        sentences = []
+        tokenizer = nltk.data.load("tokenizers/punkt/english.pickle")
+        # sentences.extend(tokenizer.tokenize(content))
+        sentences.extend(tokenizer.tokenize(stringTypeData))
+        
+        # Sentence count
+        print("Total Sentences After splitting the document: ", len(sentences))
+        #print("Extracting features for each of the sentences and shown below:")
     
-    # Get tokenized content
-    sentences = []
-    tokenizer = nltk.data.load("tokenizers/punkt/english.pickle")
-    sentences.extend(tokenizer.tokenize(content))
-    
-    # Sentence count
-    print("Total Sentences After splitting the document: ", len(sentences))
-    print("Extracting features for each of the sentences and shown below:")
-    
-    # We maintain all tokens, lemmas etc. in the following lists
-    all_word_tokens = []
-    all_word_lemmas = []
-    all_word_POStags = []
-    all_hypernyms = dict()
-    all_hyponymns = dict()
-    all_meronyms = dict()
-    all_holonyms = dict()
+        # We maintain all tokens, lemmas etc. in the following lists
+        all_word_tokens = []
+        all_word_lemmas = []
+        all_word_POStags = []
+        all_hypernyms = dict()
+        all_hyponymns = dict()
+        all_meronyms = dict()
+        all_holonyms = dict()
+        count = 0
     
     
-    # Extracting words
-    for sen in sentences:
-        print("\n------SENTENCE------")
-        print(sen)
+        # Extracting words
+        for sen in sentences:
+            #print("\n------SENTENCE------")
+            #print(sen)
+            
+            #print("\n----Word Tokenization----")
+            word_tokens = Tokenization(sen)
+            #all_word_tokens += word_tokens
+            #print(word_tokens)
+            
+            #print("\n----Word Lemmatization----")
+            word_lemmas = Lemmatization(word_tokens)
+            #all_word_lemmas += word_lemmas
+            #print(word_lemmas)
+            
+            #print("\n----POS Tagging----")
+            word_POStags = POSTagging(word_tokens)
+            #all_word_POStags += word_POStags
+            #print(word_POStags)
+            
+            #print("\n----WordNet Feature Extraction----")
+            hypernyms, hyponyms, meronyms, holonyms = WordNetFeatures(word_tokens)
+            #all_hypernyms = AppendData(all_hypernyms, hypernyms)
+            #all_hypernyms.update(hypernyms)
+            #print("===> HYPERNYMS: <===\n", hypernyms, "\n")
+            
+            #all_hyponymns = AppendData(all_hyponymns, hyponyms)
+            #print("===> HYPONYMS: <===\n", hyponyms, "\n")
+            
+            #all_meronyms = AppendData(all_meronyms, meronyms)
+            #print("===> MERONYMS: <===\n", meronyms, "\n")
+            
+            #all_holonyms = AppendData(all_holonyms, holonyms)
+            #print("===> HOLONYMS: <===\n", holonyms)
+            
+            #print("\n----Dependency Parsing----")
+            dependency_parse = DependencyParsing(sen)
+
+            count = count + 1
+            corpus_dict[count] = {}
+            corpus_dict[count]["sentence"] = {}
+            corpus_dict[count]["sentence"] = sen
+            corpus_dict[count]["tokenized_text"] = {}
+            corpus_dict[count]["tokenized_text"] = word_tokens
+            corpus_dict[count]["lemma"] = {}
+            corpus_dict[count]["lemma"] = word_lemmas
+            corpus_dict[count]["tagged"] = {}
+            corpus_dict[count]["tagged"] = word_POStags
+            corpus_dict[count]["dependency_parse"] = {}
+            corpus_dict[count]["dependency_parse"] = dependency_parse
+            corpus_dict[count]["hypernyms"] = {}
+            corpus_dict[count]["hypernyms"] = hypernyms
+            corpus_dict[count]["hyponyms"] = {}
+            corpus_dict[count]["hyponyms"] = hyponyms
+            corpus_dict[count]["meronyms"] = {}
+            corpus_dict[count]["meronyms"] = meronyms
+            corpus_dict[count]["holonyms"] = {}
+            corpus_dict[count]["holonyms"] = holonyms
+            corpus_dict[count]["file_name"] = {}
+            corpus_dict[count]["file_name"] = articleNames[i]
         
-        print("\n----Word Tokenization----")
-        word_tokens = Tokenization(sen)
-        all_word_tokens += word_tokens
-        #print(word_tokens)
-        
-        print("\n----Word Lemmatization----")
-        word_lemmas = Lemmatization(word_tokens)
-        all_word_lemmas += word_lemmas
-        #print(word_lemmas)
-        
-        print("\n----POS Tagging----")
-        word_POStags = POSTagging(word_tokens)
-        all_word_POStags += word_POStags
-        #print(word_POStags)
-        
-        print("\n----WordNet Feature Extraction----")
-        hypernyms, hyponyms, meronyms, holonyms = WordNetFeatures(word_tokens)
-        all_hypernyms = AppendData(all_hypernyms, hypernyms)
-        #all_hypernyms.update(hypernyms)
-        #print("===> HYPERNYMS: <===\n", hypernyms, "\n")
-        
-        all_hyponymns = AppendData(all_hyponymns, hyponyms)
-        #print("===> HYPONYMS: <===\n", hyponyms, "\n")
-        
-        all_meronyms = AppendData(all_meronyms, meronyms)
-        #print("===> MERONYMS: <===\n", meronyms, "\n")
-        
-        all_holonyms = AppendData(all_holonyms, holonyms)
-        #print("===> HOLONYMS: <===\n", holonyms)
-        
-        print("\n----Dependency Parsing----")
-        #DependencyParsing(sen)
+        output_name = 'pipeline/parsed-' + articleNames[i]
+        with open(output_name, 'w', encoding='utf8') as output_file:
+            json.dump(corpus_dict, output_file, indent=4, sort_keys=True, separators=(',', ': '), ensure_ascii=False)
+
+
+
+
+
+    
+    
+    
