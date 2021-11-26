@@ -7,6 +7,7 @@ This Project is divided into 4 major tasks as follows:
 	c. Lemmatization
 	d. Part-of-Speech(POS) Tagging
 	e. Dependency Parsing
-	f. Hypernym, Meronym, Holonym & Hyponym extraction using WordNet
+	f. Synonym, Hypernym, Meronym, Holonym & Hyponym extraction using WordNet
+	g. Obtain heads for each sentence in the corpus.
 
 2. IMPLEMENTATION OF QUESTION-ANSWERING(QA) SYSTEM
