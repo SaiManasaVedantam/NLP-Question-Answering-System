@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Turn off unnecessary warnings
 import warnings
 warnings.filterwarnings("ignore")
@@ -12,14 +6,12 @@ warnings.filterwarnings("ignore")
 import json
 import nltk
 import urllib
-import en_core_web_sm
 from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize, sent_tokenize 
 from nltk.wsd import lesk
 from nltk.parse import CoreNLPParser
 from nltk.parse.corenlp import CoreNLPDependencyParser
-from nltk.corpus import stopwords
 
 
 # Performs Word tokenization on sentences
@@ -43,7 +35,7 @@ def POSTagging(word_tokens):
 
 
 # Obtains sentence heads
-def getHeads(sentence, word_tokens):
+def GenerateHeads(sentence, word_tokens):
     # Set up dependency parser
     dependencyParser = CoreNLPDependencyParser(url='http://localhost:9000')
     headList = []
@@ -195,7 +187,7 @@ if __name__ == "__main__":
             #print("Dependency Parsing : Done")
             #print(depParse)
 
-            headList = getHeads(sen, word_tokens)
+            headList = GenerateHeads(sen, word_tokens)
             #print("Obtaining Heads : Done")
             #print(headList)
 
@@ -246,10 +238,3 @@ if __name__ == "__main__":
         print("Completed Processing File : " + articleNames[i])
         
     print("Task 1 Successfully Completed !!!")
-
-
-# In[ ]:
-
-
-
-

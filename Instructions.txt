@@ -1,6 +1,14 @@
 EXECUTING TASK 1:
-- You need to install nltk, Stanford's CoreNLPDependencyParser specifically along with any other modules you may need.
-- Run the Stanford's dependency parser from the terminal. 
-- You can download and run either Task1-NLP-Pipeline.ipynb or use "python Task1-NLP-Pipeline.py"
-- Download the articles and put them in the path in which you have the python file OR you can use the articles uploaded in this repository directly.
-- Create a Pipeline-Output folder to which the output files for which should be used as input for ElasticSearch are stored.
+-- You need to install nltk, Stanford's CoreNLPDependencyParser specifically along with any other modules you may need.
+-- Run the Stanford's dependency parser from the terminal. Make sure to have compatible java version.
+
+Command: java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
+
+-- You can download and run either Task1-NLP-Pipeline.ipynb or use "python Task1-NLP-Pipeline.py"
+-- Download the articles and put them in the path in which you have the python file OR you can use the articles uploaded in this repository directly.
+-- Create a Pipeline-Output folder to which the output files for which should be used as input for ElasticSearch are stored.
+
+EXECUTING TASK 2:
+-- You need ElasticSearch for this. Download, unzip and run it.
+-- For mac, go to the location & give the command:
+./bin/elasticsearch

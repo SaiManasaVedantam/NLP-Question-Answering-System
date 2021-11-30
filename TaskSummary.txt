@@ -11,3 +11,4 @@ This Project is divided into 4 major tasks as follows:
 	g. Obtain heads for each sentence in the corpus.
 
 2. IMPLEMENTATION OF QUESTION-ANSWERING(QA) SYSTEM
+	In this step, we use ElasticSearch to index files based on the word occurrences. We use the similar architecture on the Query string also.
