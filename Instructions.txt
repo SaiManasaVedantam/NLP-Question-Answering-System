@@ -12,3 +12,6 @@ EXECUTING TASK 2:
 -- You need ElasticSearch for this. Download, unzip and run it.
 -- For mac, go to the location & give the command:
 ./bin/elasticsearch
+
+
+File 111.txt is 11KB -> Run sample on this
