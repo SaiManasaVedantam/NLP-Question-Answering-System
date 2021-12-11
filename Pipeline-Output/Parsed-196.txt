@@ -357,6 +357,22 @@
         ],
         "ner_tag": "{'Physically': 'O', ',': 'O', 'clothing': 'O', 'serves': 'O', 'many': 'O', 'purposes': 'O', ':': 'O', 'it': 'O', 'can': 'O', 'serve': 'O', 'as': 'O', 'protection': 'O', 'from': 'O', 'the': 'O', 'elements': 'O', 'and': 'O', 'enhance': 'O', 'safety': 'O', 'during': 'O', 'hazardous': 'O', 'activities': 'O', 'such': 'O', 'hiking': 'O', 'cooking': 'O', '.': 'O'}",
         "sentence": "Physically, clothing serves many purposes: it can serve as protection from the elements, and can enhance safety during hazardous activities such as hiking and cooking.",
+        "stems": [
+            "physic",
+            "cloth",
+            "serv",
+            "mani",
+            "purpos",
+            "serv",
+            "protect",
+            "element",
+            "enhanc",
+            "safeti",
+            "hazard",
+            "activ",
+            "hike",
+            "cook"
+        ],
         "synonyms": [
             "physically",
             "clothing",
@@ -373,7 +389,7 @@
             "hike",
             "cook"
         ],
-        "tagged": [
+        "tags": [
             [
                 "physically",
                 "RB"
@@ -837,6 +853,23 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'protects': 'O', 'the': 'O', 'wearer': 'O', 'from': 'O', 'rough': 'O', 'surfaces': 'O', ',': 'O', 'rash': 'O', '-': 'O', 'causing': 'O', 'plants': 'O', 'insect': 'O', 'bites': 'O', 'splinters': 'O', 'thorns': 'O', 'and': 'O', 'prickles': 'O', 'by': 'O', 'providing': 'O', 'a': 'O', 'barrier': 'O', 'between': 'O', 'skin': 'O', 'environment': 'O', '.': 'O'}",
         "sentence": "It protects the wearer from rough surfaces, rash-causing plants, insect bites, splinters, thorns and prickles by providing a barrier between the skin and the environment.",
+        "stems": [
+            "protect",
+            "wearer",
+            "rough",
+            "surfac",
+            "rash-caus",
+            "plant",
+            "insect",
+            "bite",
+            "splinter",
+            "thorn",
+            "prickl",
+            "provid",
+            "barrier",
+            "skin",
+            "environ"
+        ],
         "synonyms": [
             "protect",
             "wearer",
@@ -854,7 +887,7 @@
             "skin",
             "environment"
         ],
-        "tagged": [
+        "tags": [
             [
                 "protects",
                 "NNS"
@@ -1049,6 +1082,13 @@
         "meronyms": [],
         "ner_tag": "{'Clothes': 'O', 'can': 'O', 'insulate': 'O', 'against': 'O', 'cold': 'O', 'or': 'O', 'hot': 'O', 'conditions': 'O', '.': 'O'}",
         "sentence": "Clothes can insulate against cold or hot conditions.",
+        "stems": [
+            "cloth",
+            "insul",
+            "cold",
+            "hot",
+            "condit"
+        ],
         "synonyms": [
             "invest",
             "isolate",
@@ -1056,7 +1096,7 @@
             "hot",
             "stipulate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clothes",
                 "NNS"
@@ -1316,6 +1356,17 @@
         "meronyms": [],
         "ner_tag": "{'Further': 'O', ',': 'O', 'they': 'O', 'can': 'O', 'provide': 'O', 'a': 'O', 'hygienic': 'O', 'barrier': 'O', 'keeping': 'O', 'infectious': 'O', 'and': 'O', 'toxic': 'O', 'materials': 'O', 'away': 'O', 'from': 'O', 'the': 'O', 'body': 'O', '.': 'O'}",
         "sentence": "Further, they can provide a hygienic barrier, keeping infectious and toxic materials away from the body.",
+        "stems": [
+            "provid",
+            "hygien",
+            "barrier",
+            "keep",
+            "infecti",
+            "toxic",
+            "materi",
+            "away",
+            "bodi"
+        ],
         "synonyms": [
             "provide",
             "hygienic",
@@ -1327,7 +1378,7 @@
             "off",
             "soundbox"
         ],
-        "tagged": [
+        "tags": [
             [
                 "provide",
                 "VB"
@@ -1500,6 +1551,15 @@
         ],
         "ner_tag": "{'Clothing': 'O', 'also': 'O', 'provides': 'O', 'protection': 'O', 'from': 'O', 'harmful': 'O', 'UV': 'O', 'radiation': 'O', '.': 'O'}",
         "sentence": "Clothing also provides protection from harmful UV radiation.",
+        "stems": [
+            "cloth",
+            "also",
+            "provid",
+            "protect",
+            "harm",
+            "uv",
+            "radiat"
+        ],
         "synonyms": [
             "clothing",
             "besides",
@@ -1509,7 +1569,7 @@
             "ultraviolet",
             "radiotherapy"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clothing",
                 "NN"
@@ -1832,6 +1892,18 @@
         ],
         "ner_tag": "{'There': 'O', 'is': 'O', 'no': 'O', 'easy': 'O', 'way': 'O', 'to': 'O', 'determine': 'O', 'when': 'O', 'clothing': 'O', 'was': 'O', 'first': 'ORDINAL', 'developed': 'O', ',': 'O', 'but': 'O', 'some': 'O', 'information': 'O', 'has': 'O', 'been': 'O', 'inferred': 'O', 'by': 'O', 'studying': 'O', 'lice': 'O', '.': 'O'}",
         "sentence": "There is no easy way to determine when clothing was first developed, but some information has been inferred by studying lice.",
+        "stems": [
+            "easi",
+            "way",
+            "determin",
+            "cloth",
+            "first",
+            "develop",
+            "inform",
+            "infer",
+            "studi",
+            "lice"
+        ],
         "synonyms": [
             "easy",
             "way",
@@ -1844,7 +1916,7 @@
             "study",
             "worm"
         ],
-        "tagged": [
+        "tags": [
             [
                 "easy",
                 "JJ"
@@ -2228,6 +2300,23 @@
         ],
         "ner_tag": "{'The': 'O', 'body': 'O', 'louse': 'O', 'specifically': 'O', 'lives': 'O', 'in': 'O', 'clothing': 'O', ',': 'O', 'and': 'O', 'diverge': 'O', 'from': 'O', 'head': 'O', 'lice': 'O', 'about': 'DATE', '107,000': 'DATE', 'years': 'DATE', 'ago': 'DATE', 'suggesting': 'O', 'that': 'O', 'existed': 'O', 'at': 'O', 'time': 'O', '.': 'O'}",
         "sentence": "The body louse specifically lives in clothing, and diverge from head lice about 107,000 years ago, suggesting that clothing existed at that time.",
+        "stems": [
+            "bodi",
+            "lous",
+            "specif",
+            "live",
+            "cloth",
+            "diverg",
+            "head",
+            "lice",
+            "107,000",
+            "year",
+            "ago",
+            "suggest",
+            "cloth",
+            "exist",
+            "time"
+        ],
         "synonyms": [
             "soundbox",
             "worm",
@@ -2245,7 +2334,7 @@
             "exist",
             "time"
         ],
-        "tagged": [
+        "tags": [
             [
                 "body",
                 "NN"
@@ -2764,6 +2853,28 @@
         ],
         "ner_tag": "{'Another': 'O', 'theory': 'O', 'is': 'O', 'that': 'O', 'modern': 'O', 'humans': 'O', 'are': 'O', 'the': 'O', 'only': 'O', 'survivors': 'O', 'of': 'O', 'several': 'O', 'species': 'O', 'primates': 'O', 'who': 'O', 'may': 'O', 'have': 'O', 'worn': 'O', 'clothes': 'O', 'and': 'O', 'clothing': 'O', 'been': 'O', 'used': 'O', 'as': 'O', 'long': 'O', 'ago': 'DATE', '650': 'DATE', 'thousand': 'DATE', 'years': 'DATE', '.': 'O'}",
         "sentence": "Another theory is that modern humans are the only survivors of several species of primates who may have worn clothes and that clothing may have been used as long ago as 650 thousand years ago.",
+        "stems": [
+            "anoth",
+            "theori",
+            "modern",
+            "human",
+            "survivor",
+            "sever",
+            "speci",
+            "primat",
+            "may",
+            "worn",
+            "cloth",
+            "cloth",
+            "may",
+            "use",
+            "long",
+            "ago",
+            "650",
+            "thousand",
+            "year",
+            "ago"
+        ],
         "synonyms": [
             "another",
             "theory",
@@ -2786,7 +2897,7 @@
             "year",
             "ago"
         ],
-        "tagged": [
+        "tags": [
             [
                 "another",
                 "DT"
@@ -3103,6 +3214,16 @@
         ],
         "ner_tag": "{'Other': 'O', 'louse': 'O', '-': 'O', 'based': 'O', 'estimates': 'O', 'put': 'O', 'the': 'O', 'introduction': 'O', 'of': 'O', 'clothing': 'O', 'at': 'O', 'around': 'O', '42,000': 'NUMBER', '–': 'O', '72,000': 'NUMBER', 'BP': 'O', '.': 'O'}",
         "sentence": "Other louse-based estimates put the introduction of clothing at around 42,000–72,000 BP.",
+        "stems": [
+            "louse-bas",
+            "estim",
+            "put",
+            "introduct",
+            "cloth",
+            "around",
+            "42,000–72,000",
+            "bp"
+        ],
         "synonyms": [
             "louse-based",
             "estimate",
@@ -3113,7 +3234,7 @@
             "42,000–72,000",
             "bp"
         ],
-        "tagged": [
+        "tags": [
             [
                 "louse-based",
                 "JJ"
@@ -3440,6 +3561,17 @@
         ],
         "ner_tag": "{'The': 'O', 'most': 'O', 'obvious': 'O', 'function': 'O', 'of': 'O', 'clothing': 'O', 'is': 'O', 'to': 'O', 'improve': 'O', 'the': 'O', 'comfort': 'O', 'wearer': 'O', ',': 'O', 'by': 'O', 'protecting': 'O', 'from': 'O', 'elements': 'O', '.': 'O'}",
         "sentence": "The most obvious function of clothing is to improve the comfort of the wearer, by protecting the wearer from the elements.",
+        "stems": [
+            "obviou",
+            "function",
+            "cloth",
+            "improv",
+            "comfort",
+            "wearer",
+            "protect",
+            "wearer",
+            "element"
+        ],
         "synonyms": [
             "obvious",
             "serve",
@@ -3451,7 +3583,7 @@
             "wearer",
             "element"
         ],
-        "tagged": [
+        "tags": [
             [
                 "obvious",
                 "JJ"
@@ -3826,6 +3958,23 @@
         ],
         "ner_tag": "{'In': 'O', 'hot': 'O', 'climates': 'O', ',': 'O', 'clothing': 'O', 'provides': 'O', 'protection': 'O', 'from': 'O', 'sunburn': 'O', 'or': 'O', 'wind': 'O', 'damage': 'O', 'while': 'O', 'in': 'O', 'cold': 'O', 'its': 'O', 'thermal': 'O', 'insulation': 'O', 'properties': 'O', 'are': 'O', 'generally': 'O', 'more': 'O', 'important': 'O', '.': 'O'}",
         "sentence": "In hot climates, clothing provides protection from sunburn or wind damage, while in cold climates its thermal insulation properties are generally more important.",
+        "stems": [
+            "hot",
+            "climat",
+            "cloth",
+            "provid",
+            "protect",
+            "sunburn",
+            "wind",
+            "damag",
+            "cold",
+            "climat",
+            "thermal",
+            "insul",
+            "properti",
+            "gener",
+            "import"
+        ],
         "synonyms": [
             "hot",
             "climate",
@@ -3843,7 +3992,7 @@
             "by_and_large",
             "important"
         ],
-        "tagged": [
+        "tags": [
             [
                 "hot",
                 "JJ"
@@ -4041,6 +4190,14 @@
         ],
         "ner_tag": "{'Shelter': 'O', 'usually': 'O', 'reduces': 'O', 'the': 'O', 'functional': 'O', 'need': 'O', 'for': 'O', 'clothing': 'O', '.': 'O'}",
         "sentence": "Shelter usually reduces the functional need for clothing.",
+        "stems": [
+            "shelter",
+            "usual",
+            "reduc",
+            "function",
+            "need",
+            "cloth"
+        ],
         "synonyms": [
             "tax_shelter",
             "normally",
@@ -4049,7 +4206,7 @@
             "need",
             "clothing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "shelter",
                 "NN"
@@ -4463,6 +4620,23 @@
         ],
         "ner_tag": "{'For': 'O', 'example': 'O', ',': 'O', 'coats': 'O', 'hats': 'O', 'gloves': 'O', 'and': 'O', 'other': 'O', 'superficial': 'O', 'layers': 'O', 'are': 'O', 'normally': 'O', 'removed': 'O', 'when': 'O', 'entering': 'O', 'a': 'O', 'warm': 'O', 'home': 'O', 'particularly': 'O', 'if': 'O', 'one': 'NUMBER', 'is': 'O', 'residing': 'O', 'or': 'O', 'sleeping': 'O', 'there': 'O', '.': 'O'}",
         "sentence": "For example, coats, hats, gloves, and other superficial layers are normally removed when entering a warm home, particularly if one is residing or sleeping there.",
+        "stems": [
+            "exampl",
+            "coat",
+            "hat",
+            "glove",
+            "superfici",
+            "layer",
+            "normal",
+            "remov",
+            "enter",
+            "warm",
+            "home",
+            "particularli",
+            "one",
+            "resid",
+            "sleep"
+        ],
         "synonyms": [
             "model",
             "coating",
@@ -4480,7 +4654,7 @@
             "reside",
             "sleeping"
         ],
-        "tagged": [
+        "tags": [
             [
                 "example",
                 "NN"
@@ -4940,6 +5114,25 @@
         ],
         "ner_tag": "{'Similarly': 'O', ',': 'O', 'clothing': 'O', 'has': 'O', 'seasonal': 'O', 'and': 'O', 'regional': 'O', 'aspects': 'O', 'so': 'O', 'that': 'O', 'thinner': 'TITLE', 'materials': 'O', 'fewer': 'O', 'layers': 'O', 'of': 'O', 'are': 'O', 'generally': 'O', 'worn': 'O', 'in': 'O', 'warmer': 'O', 'seasons': 'O', 'regions': 'O', 'than': 'O', 'colder': 'O', 'ones': 'O', '.': 'O'}",
         "sentence": "Similarly, clothing has seasonal and regional aspects, so that thinner materials and fewer layers of clothing are generally worn in warmer seasons and regions than in colder ones.",
+        "stems": [
+            "similarli",
+            "cloth",
+            "season",
+            "region",
+            "aspect",
+            "thinner",
+            "materi",
+            "fewer",
+            "layer",
+            "cloth",
+            "gener",
+            "worn",
+            "warmer",
+            "season",
+            "region",
+            "colder",
+            "one"
+        ],
         "synonyms": [
             "similarly",
             "clothing",
@@ -4959,7 +5152,7 @@
             "cold",
             "one"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similarly",
                 "RB"
@@ -5246,6 +5439,14 @@
         ],
         "ner_tag": "{'Clothing': 'O', 'can': 'O', 'and': 'O', 'has': 'O', 'in': 'O', 'history': 'O', 'been': 'O', 'made': 'O', 'from': 'O', 'a': 'O', 'very': 'O', 'wide': 'O', 'variety': 'O', 'of': 'O', 'materials': 'O', '.': 'O'}",
         "sentence": "Clothing can and has in history been made from a very wide variety of materials.",
+        "stems": [
+            "cloth",
+            "histori",
+            "made",
+            "wide",
+            "varieti",
+            "materi"
+        ],
         "synonyms": [
             "clothing",
             "history",
@@ -5254,7 +5455,7 @@
             "variety_show",
             "material"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clothing",
                 "VBG"
@@ -5547,6 +5748,19 @@
         "meronyms": [],
         "ner_tag": "{'Materials': 'O', 'have': 'O', 'ranged': 'O', 'from': 'O', 'leather': 'O', 'and': 'O', 'furs': 'O', ',': 'O', 'to': 'O', 'woven': 'O', 'materials': 'O', 'elaborate': 'O', 'exotic': 'O', 'natural': 'O', 'synthetic': 'O', 'fabrics': 'O', '.': 'O'}",
         "sentence": "Materials have ranged from leather and furs, to woven materials, to elaborate and exotic natural and synthetic fabrics.",
+        "stems": [
+            "materi",
+            "rang",
+            "leather",
+            "fur",
+            "woven",
+            "materi",
+            "elabor",
+            "exot",
+            "natur",
+            "synthet",
+            "fabric"
+        ],
         "synonyms": [
             "material",
             "rate",
@@ -5560,7 +5774,7 @@
             "synthetic",
             "framework"
         ],
-        "tagged": [
+        "tags": [
             [
                 "materials",
                 "NNS"
@@ -5737,13 +5951,19 @@
         ],
         "ner_tag": "{'Not': 'O', 'all': 'O', 'body': 'O', 'coverings': 'O', 'are': 'O', 'regarded': 'O', 'as': 'O', 'clothing': 'O', '.': 'O'}",
         "sentence": "Not all body coverings are regarded as clothing.",
+        "stems": [
+            "bodi",
+            "cover",
+            "regard",
+            "cloth"
+        ],
         "synonyms": [
             "soundbox",
             "shroud",
             "see",
             "clothing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "body",
                 "NN"
@@ -6509,6 +6729,35 @@
         ],
         "ner_tag": "{'Articles': 'O', 'carried': 'O', 'rather': 'O', 'than': 'O', 'worn': 'O', '(': 'O', 'such': 'O', 'as': 'O', 'purses': 'O', ')': 'O', ',': 'O', 'on': 'O', 'a': 'O', 'single': 'O', 'part': 'O', 'of': 'O', 'the': 'O', 'body': 'O', 'and': 'O', 'easily': 'O', 'removed': 'O', 'scarves': 'O', 'purely': 'O', 'for': 'O', 'adornment': 'O', 'jewelry': 'O', 'or': 'O', 'those': 'O', 'that': 'O', 'serve': 'O', 'function': 'O', 'other': 'O', 'protection': 'O', 'eyeglasses': 'O', 'are': 'O', 'normally': 'O', 'considered': 'O', 'accessories': 'O', 'clothing': 'O', 'footwear': 'O', 'hats': 'O', '.': 'O'}",
         "sentence": "Articles carried rather than worn (such as purses), worn on a single part of the body and easily removed (scarves), worn purely for adornment (jewelry), or those that serve a function other than protection (eyeglasses), are normally considered accessories rather than clothing, as are footwear and hats.",
+        "stems": [
+            "articl",
+            "carri",
+            "rather",
+            "worn",
+            "purs",
+            "worn",
+            "singl",
+            "part",
+            "bodi",
+            "easili",
+            "remov",
+            "scarv",
+            "worn",
+            "pure",
+            "adorn",
+            "jewelri",
+            "serv",
+            "function",
+            "protect",
+            "eyeglass",
+            "normal",
+            "consid",
+            "accessori",
+            "rather",
+            "cloth",
+            "footwear",
+            "hat"
+        ],
         "synonyms": [
             "article",
             "transport",
@@ -6538,7 +6787,7 @@
             "footwear",
             "hat"
         ],
-        "tagged": [
+        "tags": [
             [
                 "articles",
                 "NNS"
@@ -6848,6 +7097,17 @@
         ],
         "ner_tag": "{'Clothing': 'O', 'protects': 'O', 'against': 'O', 'many': 'O', 'things': 'O', 'that': 'O', 'might': 'O', 'injure': 'O', 'the': 'O', 'uncovered': 'O', 'human': 'O', 'body': 'O', '.': 'O'}",
         "sentence": "Clothing protects against many things that might injure the uncovered human body.",
+        "stems": [
+            "cloth",
+            "protect",
+            "mani",
+            "thing",
+            "might",
+            "injur",
+            "uncov",
+            "human",
+            "bodi"
+        ],
         "synonyms": [
             "clothing",
             "protect",
@@ -6859,7 +7119,7 @@
             "human",
             "soundbox"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clothing",
                 "VBG"
@@ -7216,6 +7476,19 @@
         "meronyms": [],
         "ner_tag": "{'Clothes': 'O', 'protect': 'O', 'people': 'O', 'from': 'O', 'the': 'O', 'elements': 'O', ',': 'O', 'including': 'O', 'rain': 'O', 'snow': 'O', 'wind': 'O', 'and': 'O', 'other': 'O', 'weather': 'O', 'as': 'O', 'well': 'O', 'sun': 'O', '.': 'O'}",
         "sentence": "Clothes protect people from the elements, including rain, snow, wind, and other weather, as well as from the sun.",
+        "stems": [
+            "cloth",
+            "protect",
+            "peopl",
+            "element",
+            "includ",
+            "rain",
+            "snow",
+            "wind",
+            "weather",
+            "well",
+            "sun"
+        ],
         "synonyms": [
             "invest",
             "protect",
@@ -7229,7 +7502,7 @@
             "well",
             "Sunday"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clothes",
                 "NNS"
@@ -7533,6 +7806,18 @@
         ],
         "ner_tag": "{'However': 'O', ',': 'O', 'clothing': 'O', 'that': 'O', 'is': 'O', 'too': 'O', 'sheer': 'O', 'thin': 'O', 'small': 'O', 'tight': 'O', 'etc.': 'O', 'offers': 'O', 'less': 'O', 'protection': 'O', '.': 'O'}",
         "sentence": "However, clothing that is too sheer, thin, small, tight, etc., offers less protection.",
+        "stems": [
+            "howev",
+            "cloth",
+            "sheer",
+            "thin",
+            "small",
+            "tight",
+            "etc.",
+            "offer",
+            "less",
+            "protect"
+        ],
         "synonyms": [
             "however",
             "clothing",
@@ -7545,7 +7830,7 @@
             "lupus_erythematosus",
             "protective_covering"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -7757,6 +8042,15 @@
         ],
         "ner_tag": "{'Clothes': 'O', 'also': 'O', 'reduce': 'O', 'risk': 'O', 'during': 'O', 'activities': 'O', 'such': 'O', 'as': 'O', 'work': 'O', 'or': 'O', 'sport': 'O', '.': 'O'}",
         "sentence": "Clothes also reduce risk during activities such as work or sport.",
+        "stems": [
+            "cloth",
+            "also",
+            "reduc",
+            "risk",
+            "activ",
+            "work",
+            "sport"
+        ],
         "synonyms": [
             "invest",
             "besides",
@@ -7766,7 +8060,7 @@
             "workplace",
             "sport"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clothes",
                 "NNS"
@@ -8120,6 +8414,21 @@
         ],
         "ner_tag": "{'Some': 'O', 'clothing': 'O', 'protects': 'O', 'from': 'O', 'specific': 'O', 'environmental': 'O', 'hazards': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'insects': 'O', 'noxious': 'O', 'chemicals': 'O', 'weather': 'O', 'weapons': 'O', 'and': 'O', 'contact': 'O', 'with': 'O', 'abrasive': 'O', 'substances': 'O', '.': 'O'}",
         "sentence": "Some clothing protects from specific environmental hazards, such as insects, noxious chemicals, weather, weapons, and contact with abrasive substances.",
+        "stems": [
+            "cloth",
+            "protect",
+            "specif",
+            "environment",
+            "hazard",
+            "insect",
+            "noxiou",
+            "chemic",
+            "weather",
+            "weapon",
+            "contact",
+            "abras",
+            "substanc"
+        ],
         "synonyms": [
             "clothing",
             "protect",
@@ -8135,7 +8444,7 @@
             "abrasive",
             "substance"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clothing",
                 "NN"
@@ -8450,6 +8759,19 @@
         ],
         "ner_tag": "{'Conversely': 'O', ',': 'O', 'clothing': 'O', 'may': 'O', 'protect': 'O', 'the': 'O', 'environment': 'O', 'from': 'O', 'wearer': 'O', 'as': 'O', 'with': 'O', 'doctors': 'O', 'wearing': 'O', 'medical': 'O', 'scrubs': 'O', '.': 'O'}",
         "sentence": "Conversely, clothing may protect the environment from the clothing wearer, as with doctors wearing medical scrubs.",
+        "stems": [
+            "convers",
+            "cloth",
+            "may",
+            "protect",
+            "environ",
+            "cloth",
+            "wearer",
+            "doctor",
+            "wear",
+            "medic",
+            "scrub"
+        ],
         "synonyms": [
             "conversely",
             "clothing",
@@ -8463,7 +8785,7 @@
             "checkup",
             "scrub"
         ],
-        "tagged": [
+        "tags": [
             [
                 "conversely",
                 "RB"
@@ -8695,6 +9017,17 @@
         ],
         "ner_tag": "{'Humans': 'O', 'have': 'O', 'shown': 'O', 'extreme': 'O', 'inventiveness': 'O', 'in': 'O', 'devising': 'O', 'clothing': 'O', 'solutions': 'O', 'to': 'O', 'environmental': 'O', 'hazards': 'O', '.': 'O'}",
         "sentence": "Humans have shown extreme inventiveness in devising clothing solutions to environmental hazards.",
+        "stems": [
+            "human",
+            "shown",
+            "extrem",
+            "invent",
+            "devis",
+            "cloth",
+            "solut",
+            "environment",
+            "hazard"
+        ],
         "synonyms": [
             "world",
             "show",
@@ -8706,7 +9039,7 @@
             "environmental",
             "hazard"
         ],
-        "tagged": [
+        "tags": [
             [
                 "humans",
                 "NNS"
@@ -9228,6 +9561,28 @@
         ],
         "ner_tag": "{'Examples': 'O', 'include': 'O', ':': 'O', 'space': 'O', 'suits': 'O', ',': 'O', 'air': 'O', 'conditioned': 'O', 'clothing': 'O', 'armor': 'O', 'diving': 'O', 'swimsuits': 'O', 'bee': 'O', '-': 'O', 'keeper': 'O', 'gear': 'O', 'motorcycle': 'O', 'leathers': 'O', 'high': 'O', 'visibility': 'O', 'and': 'O', 'other': 'O', 'pieces': 'O', 'of': 'O', 'protective': 'O', '.': 'O'}",
         "sentence": "Examples include: space suits, air conditioned clothing, armor, diving suits, swimsuits, bee-keeper gear, motorcycle leathers, high-visibility clothing, and other pieces of protective clothing.",
+        "stems": [
+            "exampl",
+            "includ",
+            "space",
+            "suit",
+            "air",
+            "condit",
+            "cloth",
+            "armor",
+            "dive",
+            "suit",
+            "swimsuit",
+            "bee-keep",
+            "gear",
+            "motorcycl",
+            "leather",
+            "high-vis",
+            "cloth",
+            "piec",
+            "protect",
+            "cloth"
+        ],
         "synonyms": [
             "model",
             "include",
@@ -9250,7 +9605,7 @@
             "protective",
             "clothing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "examples",
                 "NNS"
@@ -9822,6 +10177,28 @@
         ],
         "ner_tag": "{'Meanwhile': 'O', ',': 'O', 'the': 'O', 'distinction': 'O', 'between': 'O', 'clothing': 'O', 'and': 'O', 'protective': 'O', 'equipment': 'O', 'is': 'O', 'not': 'O', 'always': 'O', 'clear': 'O', '-': 'O', 'cut': 'O', '—': 'O', 'since': 'O', 'clothes': 'O', 'designed': 'O', 'to': 'O', 'be': 'O', 'fashionable': 'O', 'often': 'O', 'have': 'O', 'value': 'O', 'for': 'O', 'function': 'O', 'consider': 'O', 'fashion': 'O', 'in': 'O', 'their': 'O', 'design': 'O', '.': 'O'}",
         "sentence": "Meanwhile, the distinction between clothing and protective equipment is not always clear-cut—since clothes designed to be fashionable often have protective value and clothes designed for function often consider fashion in their design.",
+        "stems": [
+            "meanwhil",
+            "distinct",
+            "cloth",
+            "protect",
+            "equip",
+            "alway",
+            "clear-cut—sinc",
+            "cloth",
+            "design",
+            "fashion",
+            "often",
+            "protect",
+            "valu",
+            "cloth",
+            "design",
+            "function",
+            "often",
+            "consid",
+            "fashion",
+            "design"
+        ],
         "synonyms": [
             "meanwhile",
             "distinction",
@@ -9844,7 +10221,7 @@
             "manner",
             "plan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "meanwhile",
                 "JJ"
@@ -10040,6 +10417,13 @@
         "meronyms": [],
         "ner_tag": "{'Wearing': 'O', 'clothes': 'O', 'also': 'O', 'has': 'O', 'social': 'O', 'implications': 'O', '.': 'O'}",
         "sentence": "Wearing clothes also has social implications.",
+        "stems": [
+            "wear",
+            "cloth",
+            "also",
+            "social",
+            "implic"
+        ],
         "synonyms": [
             "wear",
             "invest",
@@ -10047,7 +10431,7 @@
             "sociable",
             "implication"
         ],
-        "tagged": [
+        "tags": [
             [
                 "wearing",
                 "VBG"
@@ -10412,6 +10796,21 @@
         "meronyms": [],
         "ner_tag": "{'They': 'O', 'cover': 'O', 'parts': 'O', 'of': 'O', 'the': 'O', 'body': 'O', 'that': 'O', 'social': 'O', 'norms': 'O', 'require': 'O', 'to': 'O', 'be': 'O', 'covered': 'O', ',': 'O', 'act': 'O', 'as': 'O', 'a': 'O', 'form': 'O', 'adornment': 'O', 'and': 'O', 'serve': 'O', 'other': 'O', 'purposes': 'O', '.': 'O'}",
         "sentence": "They cover parts of the body that social norms require to be covered, act as a form of adornment, and serve other social purposes.",
+        "stems": [
+            "cover",
+            "part",
+            "bodi",
+            "social",
+            "norm",
+            "requir",
+            "cover",
+            "act",
+            "form",
+            "adorn",
+            "serv",
+            "social",
+            "purpos"
+        ],
         "synonyms": [
             "top",
             "part",
@@ -10427,7 +10826,7 @@
             "sociable",
             "purpose"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cover",
                 "NN"
@@ -10947,6 +11346,28 @@
         ],
         "ner_tag": "{'Although': 'O', 'dissertations': 'O', 'on': 'O', 'clothing': 'O', 'and': 'O', 'its': 'O', 'function': 'O', 'appear': 'O', 'from': 'O', 'the': 'DATE', '19th': 'DATE', 'century': 'DATE', 'as': 'O', 'colonising': 'O', 'countries': 'O', 'dealt': 'O', 'with': 'O', 'new': 'O', 'environments': 'O', ',': 'O', 'concerted': 'O', 'scientific': 'O', 'research': 'O', 'into': 'O', 'psycho': 'O', '-': 'O', 'social': 'O', 'physiological': 'O', 'other': 'O', 'functions': 'O', 'of': 'O', '(': 'O', 'e.g': 'O', '.': 'O'}",
         "sentence": "Although dissertations on clothing and its function appear from the 19th century as colonising countries dealt with new environments, concerted scientific research into psycho-social, physiological and other functions of clothing (e.g.",
+        "stems": [
+            "although",
+            "dissert",
+            "cloth",
+            "function",
+            "appear",
+            "19th",
+            "centuri",
+            "colonis",
+            "countri",
+            "dealt",
+            "new",
+            "environ",
+            "concert",
+            "scientif",
+            "research",
+            "psycho-soci",
+            "physiolog",
+            "function",
+            "cloth",
+            "e.g"
+        ],
         "synonyms": [
             "although",
             "dissertation",
@@ -10969,7 +11390,7 @@
             "clothing",
             "e.g"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -11622,6 +12043,32 @@
         ],
         "ner_tag": "{'protective': 'O', ',': 'O', 'cartage': 'O', ')': 'O', 'occurred': 'O', 'in': 'O', 'the': 'DATE', 'first': 'DATE', 'half': 'DATE', 'of': 'O', '20th': 'DATE', 'century': 'DATE', 'with': 'O', 'publications': 'O', 'such': 'O', 'as': 'O', 'J.': 'PERSON', 'C.': 'PERSON', 'Flügel': 'PERSON', \"'s\": 'O', 'Psychology': 'O', 'Clothes': 'O', '1930': 'DATE', 'and': 'O', 'Newburgh': 'CITY', 'seminal': 'O', 'Physiology': 'MISC', 'Heat': 'MISC', 'Regulation': 'MISC', 'The': 'O', 'Science': 'O', 'Clothing': 'O', '1949': 'DATE', '.': 'O'}",
         "sentence": "protective, cartage) occurred in the first half of the 20th century, with publications such as J. C. Flügel's Psychology of Clothes in 1930, and Newburgh's seminal Physiology of Heat Regulation and The Science of Clothing in 1949.",
+        "stems": [
+            "protect",
+            "cartag",
+            "occur",
+            "first",
+            "half",
+            "20th",
+            "centuri",
+            "public",
+            "j.",
+            "c.",
+            "flügel",
+            "'s",
+            "psycholog",
+            "cloth",
+            "1930",
+            "newburgh",
+            "'s",
+            "semin",
+            "physiolog",
+            "heat",
+            "regul",
+            "scienc",
+            "cloth",
+            "1949"
+        ],
         "synonyms": [
             "protective",
             "cartage",
@@ -11648,7 +12095,7 @@
             "clothing",
             "1949"
         ],
-        "tagged": [
+        "tags": [
             [
                 "protective",
                 "JJ"
@@ -12122,6 +12569,22 @@
         ],
         "ner_tag": "{'By': 'O', '1968': 'DATE', ',': 'O', 'the': 'O', 'field': 'O', 'of': 'O', 'environmental': 'O', 'physiology': 'O', 'had': 'O', 'advanced': 'O', 'and': 'O', 'expanded': 'O', 'significantly': 'O', 'but': 'O', 'science': 'O', 'clothing': 'O', 'in': 'O', 'relation': 'O', 'to': 'O', 'changed': 'O', 'little': 'O', '.': 'O'}",
         "sentence": "By 1968, the field of environmental physiology had advanced and expanded significantly, but the science of clothing in relation to environmental physiology had changed little.",
+        "stems": [
+            "1968",
+            "field",
+            "environment",
+            "physiolog",
+            "advanc",
+            "expand",
+            "significantli",
+            "scienc",
+            "cloth",
+            "relat",
+            "environment",
+            "physiolog",
+            "chang",
+            "littl"
+        ],
         "synonyms": [
             "1968",
             "field",
@@ -12138,7 +12601,7 @@
             "change",
             "little"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1968",
                 "CD"
@@ -12763,6 +13226,34 @@
         ],
         "ner_tag": "{'While': 'O', 'considerable': 'O', 'research': 'O', 'has': 'O', 'since': 'O', 'occurred': 'O', 'and': 'O', 'the': 'O', 'knowledge': 'O', '-': 'O', 'base': 'O', 'grown': 'O', 'significantly': 'O', ',': 'O', 'main': 'O', 'concepts': 'O', 'remain': 'O', 'unchanged': 'O', 'indeed': 'O', 'Newburgh': 'CITY', \"'s\": 'O', 'book': 'O', 'is': 'O', 'still': 'O', 'cited': 'O', 'by': 'O', 'contemporary': 'O', 'authors': 'O', 'including': 'O', 'those': 'O', 'attempting': 'O', 'to': 'O', 'develop': 'O', 'thermoregulatory': 'O', 'models': 'O', 'of': 'O', 'clothing': 'O', 'development': 'O', '.': 'O'}",
         "sentence": "While considerable research has since occurred and the knowledge-base has grown significantly, the main concepts remain unchanged, and indeed Newburgh's book is still cited by contemporary authors, including those attempting to develop thermoregulatory models of clothing development.",
+        "stems": [
+            "consider",
+            "research",
+            "sinc",
+            "occur",
+            "knowledge-bas",
+            "grown",
+            "significantli",
+            "main",
+            "concept",
+            "remain",
+            "unchang",
+            "inde",
+            "newburgh",
+            "'s",
+            "book",
+            "still",
+            "cite",
+            "contemporari",
+            "author",
+            "includ",
+            "attempt",
+            "develop",
+            "thermoregulatori",
+            "model",
+            "cloth",
+            "develop"
+        ],
         "synonyms": [
             "considerable",
             "research",
@@ -12791,7 +13282,7 @@
             "clothing",
             "growth"
         ],
-        "tagged": [
+        "tags": [
             [
                 "considerable",
                 "JJ"
@@ -13303,6 +13794,25 @@
         ],
         "ner_tag": "{'In': 'O', 'Western': 'MISC', 'societies': 'O', ',': 'O', 'skirts': 'O', 'dresses': 'O', 'and': 'O', 'high': 'O', '-': 'O', 'heeled': 'O', 'shoes': 'O', 'are': 'O', 'usually': 'O', 'seen': 'O', 'as': 'O', 'women': 'O', \"'s\": 'O', 'clothing': 'O', 'while': 'O', 'neckties': 'O', 'men': 'O', '.': 'O'}",
         "sentence": "In Western societies, skirts, dresses and high-heeled shoes are usually seen as women's clothing, while neckties are usually seen as men's clothing.",
+        "stems": [
+            "western",
+            "societi",
+            "skirt",
+            "dress",
+            "high-heel",
+            "shoe",
+            "usual",
+            "seen",
+            "women",
+            "'s",
+            "cloth",
+            "neckti",
+            "usual",
+            "seen",
+            "men",
+            "'s",
+            "cloth"
+        ],
         "synonyms": [
             "western",
             "society",
@@ -13322,7 +13832,7 @@
             "'s",
             "clothing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "western",
                 "JJ"
@@ -13626,6 +14136,16 @@
         ],
         "ner_tag": "{'Trousers': 'O', 'were': 'O', 'once': 'DATE', 'seen': 'O', 'as': 'O', 'exclusively': 'O', 'male': 'O', 'clothing': 'O', ',': 'O', 'but': 'O', 'are': 'O', 'nowadays': 'O', 'worn': 'O', 'by': 'O', 'both': 'O', 'genders': 'O', '.': 'O'}",
         "sentence": "Trousers were once seen as exclusively male clothing, but are nowadays worn by both genders.",
+        "stems": [
+            "trouser",
+            "seen",
+            "exclus",
+            "male",
+            "cloth",
+            "nowaday",
+            "worn",
+            "gender"
+        ],
         "synonyms": [
             "trouser",
             "visit",
@@ -13636,7 +14156,7 @@
             "worn",
             "gender"
         ],
-        "tagged": [
+        "tags": [
             [
                 "trousers",
                 "NNS"
@@ -14095,6 +14615,23 @@
         ],
         "ner_tag": "{'Male': 'O', 'clothes': 'O', 'are': 'O', 'often': 'O', 'more': 'O', 'practical': 'O', '(': 'O', 'that': 'O', 'is': 'O', ',': 'O', 'they': 'O', 'can': 'O', 'function': 'O', 'well': 'O', 'under': 'O', 'a': 'O', 'wide': 'O', 'variety': 'O', 'of': 'O', 'situations': 'O', ')': 'O', 'but': 'O', 'wider': 'O', 'range': 'O', 'clothing': 'O', 'styles': 'O', 'available': 'O', 'for': 'O', 'females': 'O', '.': 'O'}",
         "sentence": "Male clothes are often more practical (that is, they can function well under a wide variety of situations), but a wider range of clothing styles are available for females.",
+        "stems": [
+            "male",
+            "cloth",
+            "often",
+            "practic",
+            "function",
+            "well",
+            "wide",
+            "varieti",
+            "situat",
+            "wider",
+            "rang",
+            "cloth",
+            "style",
+            "avail",
+            "femal"
+        ],
         "synonyms": [
             "male",
             "invest",
@@ -14112,7 +14649,7 @@
             "available",
             "female"
         ],
-        "tagged": [
+        "tags": [
             [
                 "male",
                 "JJ"
@@ -14395,6 +14932,17 @@
         ],
         "ner_tag": "{'Males': 'O', 'are': 'O', 'typically': 'O', 'allowed': 'O', 'to': 'O', 'bare': 'O', 'their': 'O', 'chests': 'O', 'in': 'O', 'a': 'O', 'greater': 'O', 'variety': 'O', 'of': 'O', 'public': 'O', 'places': 'O', '.': 'O'}",
         "sentence": "Males are typically allowed to bare their chests in a greater variety of public places.",
+        "stems": [
+            "male",
+            "typic",
+            "allow",
+            "bare",
+            "chest",
+            "greater",
+            "varieti",
+            "public",
+            "place"
+        ],
         "synonyms": [
             "male",
             "typically",
@@ -14406,7 +14954,7 @@
             "public",
             "topographic_point"
         ],
-        "tagged": [
+        "tags": [
             [
                 "males",
                 "NNS"
@@ -14688,6 +15236,17 @@
         ],
         "ner_tag": "{'It': 'O', 'is': 'O', 'generally': 'O', 'acceptable': 'O', 'for': 'O', 'a': 'O', 'woman': 'O', 'to': 'O', 'wear': 'O', 'traditionally': 'O', 'male': 'O', 'clothing': 'O', ',': 'O', 'while': 'O', 'the': 'O', 'converse': 'O', 'unusual': 'O', '.': 'O'}",
         "sentence": "It is generally acceptable for a woman to wear traditionally male clothing, while the converse is unusual.",
+        "stems": [
+            "gener",
+            "accept",
+            "woman",
+            "wear",
+            "tradit",
+            "male",
+            "cloth",
+            "convers",
+            "unusu"
+        ],
         "synonyms": [
             "by_and_large",
             "satisfactory",
@@ -14699,7 +15258,7 @@
             "converse",
             "strange"
         ],
-        "tagged": [
+        "tags": [
             [
                 "generally",
                 "RB"
@@ -14931,6 +15490,15 @@
         ],
         "ner_tag": "{'In': 'O', 'some': 'O', 'societies': 'O', ',': 'O', 'clothing': 'O', 'may': 'O', 'be': 'O', 'used': 'O', 'to': 'O', 'indicate': 'O', 'rank': 'O', 'or': 'O', 'status': 'O', '.': 'O'}",
         "sentence": "In some societies, clothing may be used to indicate rank or status.",
+        "stems": [
+            "societi",
+            "cloth",
+            "may",
+            "use",
+            "indic",
+            "rank",
+            "statu"
+        ],
         "synonyms": [
             "society",
             "clothing",
@@ -14940,7 +15508,7 @@
             "social_station",
             "status"
         ],
-        "tagged": [
+        "tags": [
             [
                 "societies",
                 "NNS"
@@ -15198,6 +15766,18 @@
         ],
         "ner_tag": "{'In': 'O', 'ancient': 'O', 'Rome': 'CITY', ',': 'O', 'for': 'O', 'example': 'O', 'only': 'O', 'senators': 'O', 'could': 'O', 'wear': 'O', 'garments': 'O', 'dyed': 'O', 'with': 'O', 'Tyrian': 'MISC', 'purple': 'O', '.': 'O'}",
         "sentence": "In ancient Rome, for example, only senators could wear garments dyed with Tyrian purple.",
+        "stems": [
+            "ancient",
+            "rome",
+            "exampl",
+            "senat",
+            "could",
+            "wear",
+            "garment",
+            "dy",
+            "tyrian",
+            "purpl"
+        ],
         "synonyms": [
             "ancient",
             "Rome",
@@ -15210,7 +15790,7 @@
             "tyrian",
             "purple"
         ],
-        "tagged": [
+        "tags": [
             [
                 "ancient",
                 "JJ"
@@ -15544,6 +16124,21 @@
         ],
         "ner_tag": "{'In': 'O', 'traditional': 'O', 'Hawaiian': 'MISC', 'society': 'O', ',': 'O', 'only': 'O', 'high': 'O', '-': 'O', 'ranking': 'O', 'chiefs': 'O', 'could': 'O', 'wear': 'O', 'feather': 'O', 'cloaks': 'O', 'and': 'O', 'palaoa': 'O', 'or': 'O', 'carved': 'O', 'whale': 'O', 'teeth': 'O', '.': 'O'}",
         "sentence": "In traditional Hawaiian society, only high-ranking chiefs could wear feather cloaks and palaoa, or carved whale teeth.",
+        "stems": [
+            "tradit",
+            "hawaiian",
+            "societi",
+            "high-rank",
+            "chief",
+            "could",
+            "wear",
+            "feather",
+            "cloak",
+            "palaoa",
+            "carv",
+            "whale",
+            "teeth"
+        ],
         "synonyms": [
             "traditional",
             "Hawaiian",
@@ -15559,7 +16154,7 @@
             "whale",
             "tooth"
         ],
-        "tagged": [
+        "tags": [
             [
                 "traditional",
                 "JJ"
@@ -15977,6 +16572,21 @@
         ],
         "ner_tag": "{'Under': 'O', 'the': 'O', 'Travancore': 'O', 'Kingdom': 'O', 'of': 'O', 'Kerala': 'LOCATION', ',': 'O', '(': 'O', 'India': 'COUNTRY', ')': 'O', 'lower': 'O', 'caste': 'O', 'women': 'O', 'had': 'O', 'to': 'O', 'pay': 'O', 'a': 'O', 'tax': 'O', 'for': 'O', 'right': 'O', 'cover': 'O', 'their': 'O', 'upper': 'O', 'body': 'O', '.': 'O'}",
         "sentence": "Under the Travancore Kingdom of Kerala, (India), lower caste women had to pay a tax for the right to cover their upper body.",
+        "stems": [
+            "travancor",
+            "kingdom",
+            "kerala",
+            "india",
+            "lower",
+            "cast",
+            "women",
+            "pay",
+            "tax",
+            "right",
+            "cover",
+            "upper",
+            "bodi"
+        ],
         "synonyms": [
             "travancore",
             "kingdom",
@@ -15992,7 +16602,7 @@
             "upper",
             "soundbox"
         ],
-        "tagged": [
+        "tags": [
             [
                 "travancore",
                 "NN"
@@ -16261,6 +16871,15 @@
         ],
         "ner_tag": "{'In': 'O', 'China': 'COUNTRY', ',': 'O', 'before': 'O', 'establishment': 'O', 'of': 'O', 'the': 'O', 'republic': 'O', 'only': 'O', 'emperor': 'TITLE', 'could': 'O', 'wear': 'O', 'yellow': 'O', '.': 'O'}",
         "sentence": "In China, before establishment of the republic, only the emperor could wear yellow.",
+        "stems": [
+            "china",
+            "establish",
+            "republ",
+            "emperor",
+            "could",
+            "wear",
+            "yellow"
+        ],
         "synonyms": [
             "Taiwan",
             "institution",
@@ -16270,7 +16889,7 @@
             "wear",
             "yellow"
         ],
-        "tagged": [
+        "tags": [
             [
                 "china",
                 "NN"
@@ -16503,6 +17122,19 @@
         ],
         "ner_tag": "{'History': 'O', 'provides': 'O', 'many': 'O', 'examples': 'O', 'of': 'O', 'elaborate': 'O', 'sumptuary': 'O', 'laws': 'O', 'that': 'O', 'regulated': 'O', 'what': 'O', 'people': 'O', 'could': 'O', 'wear': 'O', '.': 'O'}",
         "sentence": "History provides many examples of elaborate sumptuary laws that regulated what people could wear.",
+        "stems": [
+            "histori",
+            "provid",
+            "mani",
+            "exampl",
+            "elabor",
+            "sumptuari",
+            "law",
+            "regul",
+            "peopl",
+            "could",
+            "wear"
+        ],
         "synonyms": [
             "history",
             "provide",
@@ -16516,7 +17148,7 @@
             "could",
             "wear"
         ],
-        "tagged": [
+        "tags": [
             [
                 "history",
                 "NN"
@@ -17033,6 +17665,26 @@
         ],
         "ner_tag": "{'In': 'O', 'societies': 'O', 'without': 'O', 'such': 'O', 'laws': 'O', ',': 'O', 'which': 'O', 'includes': 'O', 'most': 'O', 'modern': 'O', 'social': 'O', 'status': 'O', 'is': 'O', 'instead': 'O', 'signaled': 'O', 'by': 'O', 'the': 'O', 'purchase': 'O', 'of': 'O', 'rare': 'O', 'or': 'O', 'luxury': 'O', 'items': 'O', 'that': 'O', 'are': 'O', 'limited': 'O', 'cost': 'O', 'to': 'O', 'those': 'O', 'with': 'O', 'wealth': 'O', '.': 'O'}",
         "sentence": "In societies without such laws, which includes most modern societies, social status is instead signaled by the purchase of rare or luxury items that are limited by cost to those with wealth or status.",
+        "stems": [
+            "societi",
+            "without",
+            "law",
+            "includ",
+            "modern",
+            "societi",
+            "social",
+            "statu",
+            "instead",
+            "signal",
+            "purchas",
+            "rare",
+            "luxuri",
+            "item",
+            "limit",
+            "cost",
+            "wealth",
+            "statu"
+        ],
         "synonyms": [
             "society",
             "without",
@@ -17053,7 +17705,7 @@
             "wealth",
             "status"
         ],
-        "tagged": [
+        "tags": [
             [
                 "societies",
                 "NNS"
@@ -17271,6 +17923,14 @@
         ],
         "ner_tag": "{'In': 'O', 'addition': 'O', ',': 'O', 'peer': 'O', 'pressure': 'O', 'influences': 'O', 'clothing': 'O', 'choice': 'O', '.': 'O'}",
         "sentence": "In addition, peer pressure influences clothing choice.",
+        "stems": [
+            "addit",
+            "peer",
+            "pressur",
+            "influenc",
+            "cloth",
+            "choic"
+        ],
         "synonyms": [
             "addition",
             "peer",
@@ -17279,7 +17939,7 @@
             "clothing",
             "option"
         ],
-        "tagged": [
+        "tags": [
             [
                 "addition",
                 "NN"
@@ -17705,6 +18365,24 @@
         ],
         "ner_tag": "{'According': 'O', 'to': 'O', 'archaeologists': 'O', 'and': 'O', 'anthropologists': 'O', ',': 'O', 'the': 'O', 'earliest': 'O', 'clothing': 'O', 'likely': 'O', 'consisted': 'O', 'of': 'O', 'fur': 'O', 'leather': 'O', 'leaves': 'O', 'or': 'O', 'grass': 'O', 'that': 'O', 'were': 'O', 'draped': 'O', 'wrapped': 'O', 'tied': 'O', 'around': 'O', 'body': 'O', '.': 'O'}",
         "sentence": "According to archaeologists and anthropologists, the earliest clothing likely consisted of fur, leather, leaves, or grass that were draped, wrapped, or tied around the body.",
+        "stems": [
+            "accord",
+            "archaeologist",
+            "anthropologist",
+            "earliest",
+            "cloth",
+            "like",
+            "consist",
+            "fur",
+            "leather",
+            "leav",
+            "grass",
+            "drape",
+            "wrap",
+            "tie",
+            "around",
+            "bodi"
+        ],
         "synonyms": [
             "harmonize",
             "archeologist",
@@ -17723,7 +18401,7 @@
             "around",
             "soundbox"
         ],
-        "tagged": [
+        "tags": [
             [
                 "according",
                 "VBG"
@@ -18103,6 +18781,23 @@
         ],
         "ner_tag": "{'Knowledge': 'O', 'of': 'O', 'such': 'O', 'clothing': 'O', 'remains': 'O', 'inferential': 'O', ',': 'O', 'since': 'O', 'materials': 'O', 'deteriorate': 'O', 'quickly': 'O', 'compared': 'O', 'to': 'O', 'stone': 'O', 'bone': 'O', 'shell': 'O', 'and': 'O', 'metal': 'O', 'artifacts': 'O', '.': 'O'}",
         "sentence": "Knowledge of such clothing remains inferential, since clothing materials deteriorate quickly compared to stone, bone, shell and metal artifacts.",
+        "stems": [
+            "knowledg",
+            "cloth",
+            "remain",
+            "inferenti",
+            "sinc",
+            "cloth",
+            "materi",
+            "deterior",
+            "quickli",
+            "compar",
+            "stone",
+            "bone",
+            "shell",
+            "metal",
+            "artifact"
+        ],
         "synonyms": [
             "cognition",
             "clothing",
@@ -18120,7 +18815,7 @@
             "metallic",
             "artifact"
         ],
-        "tagged": [
+        "tags": [
             [
                 "knowledge",
                 "NN"
@@ -18498,6 +19193,22 @@
         ],
         "ner_tag": "{'Archeologists': 'O', 'have': 'O', 'identified': 'O', 'very': 'O', 'early': 'O', 'sewing': 'O', 'needles': 'O', 'of': 'O', 'bone': 'O', 'and': 'O', 'ivory': 'O', 'from': 'O', 'about': 'O', '30,000': 'NUMBER', 'BC': 'STATE_OR_PROVINCE', ',': 'O', 'found': 'O', 'near': 'O', 'Kostenki': 'LOCATION', 'Russia': 'COUNTRY', 'in': 'O', '1988': 'DATE', '.': 'O'}",
         "sentence": "Archeologists have identified very early sewing needles of bone and ivory from about 30,000 BC, found near Kostenki, Russia in 1988.",
+        "stems": [
+            "archeologist",
+            "identifi",
+            "earli",
+            "sew",
+            "needl",
+            "bone",
+            "ivori",
+            "30,000",
+            "bc",
+            "found",
+            "near",
+            "kostenki",
+            "russia",
+            "1988"
+        ],
         "synonyms": [
             "archeologist",
             "name",
@@ -18514,7 +19225,7 @@
             "Soviet_Union",
             "1988"
         ],
-        "tagged": [
+        "tags": [
             [
                 "archeologists",
                 "NNS"
@@ -18949,6 +19660,23 @@
         ],
         "ner_tag": "{'Dyed': 'O', 'flax': 'O', 'fibers': 'O', 'that': 'O', 'could': 'O', 'have': 'O', 'been': 'O', 'used': 'O', 'in': 'O', 'clothing': 'O', 'found': 'O', 'a': 'O', 'prehistoric': 'O', 'cave': 'O', 'the': 'O', 'Republic': 'COUNTRY', 'of': 'COUNTRY', 'Georgia': 'COUNTRY', 'date': 'O', 'back': 'O', 'to': 'O', '36,000': 'NUMBER', 'BP': 'O', '.': 'O'}",
         "sentence": "Dyed flax fibers that could have been used in clothing have been found in a prehistoric cave in the Republic of Georgia that date back to 36,000 BP.",
+        "stems": [
+            "dy",
+            "flax",
+            "fiber",
+            "could",
+            "use",
+            "cloth",
+            "found",
+            "prehistor",
+            "cave",
+            "republ",
+            "georgia",
+            "date",
+            "back",
+            "36,000",
+            "bp"
+        ],
         "synonyms": [
             "dye",
             "flax",
@@ -18966,7 +19694,7 @@
             "36,000",
             "bp"
         ],
-        "tagged": [
+        "tags": [
             [
                 "dyed",
                 "VBN"
@@ -19177,6 +19905,15 @@
         "meronyms": [],
         "ner_tag": "{'Scientists': 'O', 'are': 'O', 'still': 'O', 'debating': 'O', 'when': 'O', 'people': 'O', 'started': 'O', 'wearing': 'O', 'clothes': 'O', '.': 'O'}",
         "sentence": "Scientists are still debating when people started wearing clothes.",
+        "stems": [
+            "scientist",
+            "still",
+            "debat",
+            "peopl",
+            "start",
+            "wear",
+            "cloth"
+        ],
         "synonyms": [
             "scientist",
             "still",
@@ -19186,7 +19923,7 @@
             "wear",
             "invest"
         ],
-        "tagged": [
+        "tags": [
             [
                 "scientists",
                 "NNS"
@@ -19724,6 +20461,35 @@
         ],
         "ner_tag": "{'Ralf': 'PERSON', 'Kittler': 'PERSON', ',': 'O', 'Manfred': 'PERSON', 'Kayser': 'PERSON', 'and': 'O', 'Mark': 'PERSON', 'Stoneking': 'PERSON', 'anthropologists': 'O', 'at': 'O', 'the': 'O', 'Max': 'ORGANIZATION', 'Planck': 'ORGANIZATION', 'Institute': 'ORGANIZATION', 'for': 'ORGANIZATION', 'Evolutionary': 'ORGANIZATION', 'Anthropology': 'ORGANIZATION', 'have': 'O', 'conducted': 'O', 'a': 'O', 'genetic': 'O', 'analysis': 'O', 'of': 'O', 'human': 'O', 'body': 'O', 'lice': 'O', 'that': 'O', 'suggests': 'O', 'clothing': 'O', 'originated': 'O', 'quite': 'O', 'recently': 'DATE', 'around': 'O', '170,000': 'DATE', 'years': 'DATE', 'ago': 'DATE', '.': 'O'}",
         "sentence": "Ralf Kittler, Manfred Kayser and Mark Stoneking, anthropologists at the Max Planck Institute for Evolutionary Anthropology, have conducted a genetic analysis of human body lice that suggests clothing originated quite recently, around 170,000 years ago.",
+        "stems": [
+            "ralf",
+            "kittler",
+            "manfr",
+            "kayser",
+            "mark",
+            "stonek",
+            "anthropologist",
+            "max",
+            "planck",
+            "institut",
+            "evolutionari",
+            "anthropolog",
+            "conduct",
+            "genet",
+            "analysi",
+            "human",
+            "bodi",
+            "lice",
+            "suggest",
+            "cloth",
+            "origin",
+            "quit",
+            "recent",
+            "around",
+            "170,000",
+            "year",
+            "ago"
+        ],
         "synonyms": [
             "ralf",
             "kittler",
@@ -19753,7 +20519,7 @@
             "year",
             "ago"
         ],
-        "tagged": [
+        "tags": [
             [
                 "ralf",
                 "NN"
@@ -20227,6 +20993,23 @@
         ],
         "ner_tag": "{'Body': 'O', 'lice': 'O', 'is': 'O', 'an': 'O', 'indicator': 'O', 'of': 'O', 'clothes': 'O', '-': 'O', 'wearing': 'O', ',': 'O', 'since': 'O', 'most': 'O', 'humans': 'O', 'have': 'O', 'sparse': 'O', 'body': 'O', 'hair': 'O', 'and': 'O', 'thus': 'O', 'require': 'O', 'human': 'O', 'clothing': 'O', 'to': 'O', 'survive': 'O', '.': 'O'}",
         "sentence": "Body lice is an indicator of clothes-wearing, since most humans have sparse body hair, and lice thus require human clothing to survive.",
+        "stems": [
+            "bodi",
+            "lice",
+            "indic",
+            "clothes-wear",
+            "sinc",
+            "human",
+            "spars",
+            "bodi",
+            "hair",
+            "lice",
+            "thu",
+            "requir",
+            "human",
+            "cloth",
+            "surviv"
+        ],
         "synonyms": [
             "soundbox",
             "worm",
@@ -20244,7 +21027,7 @@
             "clothing",
             "survive"
         ],
-        "tagged": [
+        "tags": [
             [
                 "body",
                 "NN"
@@ -20781,6 +21564,29 @@
         ],
         "ner_tag": "{'Their': 'O', 'research': 'O', 'suggests': 'O', 'the': 'O', 'invention': 'O', 'of': 'O', 'clothing': 'O', 'may': 'O', 'have': 'O', 'coincided': 'O', 'with': 'O', 'northward': 'O', 'migration': 'O', 'modern': 'O', 'Homo': 'O', 'sapiens': 'O', 'away': 'O', 'from': 'O', 'warm': 'O', 'climate': 'O', 'Africa': 'LOCATION', ',': 'O', 'thought': 'O', 'to': 'O', 'begun': 'O', 'between': 'O', '50,000': 'NUMBER', 'and': 'O', '100,000': 'DATE', 'years': 'DATE', 'ago': 'DATE', '.': 'O'}",
         "sentence": "Their research suggests the invention of clothing may have coincided with the northward migration of modern Homo sapiens away from the warm climate of Africa, thought to have begun between 50,000 and 100,000 years ago.",
+        "stems": [
+            "research",
+            "suggest",
+            "invent",
+            "cloth",
+            "may",
+            "coincid",
+            "northward",
+            "migrat",
+            "modern",
+            "homo",
+            "sapien",
+            "away",
+            "warm",
+            "climat",
+            "africa",
+            "thought",
+            "begun",
+            "50,000",
+            "100,000",
+            "year",
+            "ago"
+        ],
         "synonyms": [
             "research",
             "suggest",
@@ -20804,7 +21610,7 @@
             "year",
             "ago"
         ],
-        "tagged": [
+        "tags": [
             [
                 "research",
                 "NN"
@@ -21226,6 +22032,26 @@
         ],
         "ner_tag": "{'However': 'O', ',': 'O', 'a': 'DURATION', 'second': 'DURATION', 'group': 'O', 'of': 'O', 'researchers': 'O', 'using': 'O', 'similar': 'O', 'genetic': 'O', 'methods': 'O', 'estimate': 'O', 'that': 'O', 'clothing': 'O', 'originated': 'O', 'around': 'O', '540,000': 'DATE', 'years': 'DATE', 'ago': 'DATE', '(': 'O', 'Reed': 'O', 'et': 'O', 'al': 'O', '.': 'O'}",
         "sentence": "However, a second group of researchers using similar genetic methods estimate that clothing originated around 540,000 years ago (Reed et al.",
+        "stems": [
+            "howev",
+            "second",
+            "group",
+            "research",
+            "use",
+            "similar",
+            "genet",
+            "method",
+            "estim",
+            "cloth",
+            "origin",
+            "around",
+            "540,000",
+            "year",
+            "ago",
+            "reed",
+            "et",
+            "al"
+        ],
         "synonyms": [
             "however",
             "second_gear",
@@ -21246,7 +22072,7 @@
             "et",
             "aluminum"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -21368,10 +22194,13 @@
         "meronyms": [],
         "ner_tag": "{'2004': 'DATE', '.': 'O'}",
         "sentence": "2004.",
+        "stems": [
+            "2004"
+        ],
         "synonyms": [
             "2004"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2004",
                 "CD"
@@ -21503,6 +22332,13 @@
         "meronyms": [],
         "ner_tag": "{'PLoS': 'O', 'Biology': 'O', '2': 'NUMBER', '(': 'O', '11': 'NUMBER', ')': 'O', ':': 'O', 'e340': 'O', '.': 'O'}",
         "sentence": "PLoS Biology 2(11): e340).",
+        "stems": [
+            "plo",
+            "biolog",
+            "2",
+            "11",
+            "e340"
+        ],
         "synonyms": [
             "Palestine_Liberation_Organization",
             "biota",
@@ -21510,7 +22346,7 @@
             "eleven",
             "e340"
         ],
-        "tagged": [
+        "tags": [
             [
                 "plos",
                 "NN"
@@ -21703,6 +22539,13 @@
         ],
         "ner_tag": "{'For': 'O', 'now': 'DATE', ',': 'O', 'the': 'O', 'date': 'O', 'of': 'O', 'origin': 'O', 'clothing': 'O', 'remains': 'O', 'unresolved': 'O', '.': 'O'}",
         "sentence": "For now, the date of the origin of clothing remains unresolved.",
+        "stems": [
+            "date",
+            "origin",
+            "cloth",
+            "remain",
+            "unresolv"
+        ],
         "synonyms": [
             "go_steady",
             "origin",
@@ -21710,7 +22553,7 @@
             "stay",
             "open"
         ],
-        "tagged": [
+        "tags": [
             [
                 "date",
                 "NN"
@@ -21957,6 +22800,18 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Different': 'O', 'cultures': 'O', 'have': 'O', 'evolved': 'O', 'various': 'O', 'ways': 'O', 'of': 'O', 'creating': 'O', 'clothes': 'O', 'out': 'O', 'cloth': 'O', '.': 'O'}",
         "sentence": "[citation needed] Different cultures have evolved various ways of creating clothes out of cloth.",
+        "stems": [
+            "citat",
+            "need",
+            "differ",
+            "cultur",
+            "evolv",
+            "variou",
+            "way",
+            "creat",
+            "cloth",
+            "cloth"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -21969,7 +22824,7 @@
             "invest",
             "fabric"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -22131,6 +22986,14 @@
         ],
         "ner_tag": "{'One': 'NUMBER', 'approach': 'O', 'simply': 'O', 'involves': 'O', 'draping': 'O', 'the': 'O', 'cloth': 'O', '.': 'O'}",
         "sentence": "One approach simply involves draping the cloth.",
+        "stems": [
+            "one",
+            "approach",
+            "simpli",
+            "involv",
+            "drape",
+            "cloth"
+        ],
         "synonyms": [
             "one",
             "overture",
@@ -22139,7 +23002,7 @@
             "drape",
             "fabric"
         ],
-        "tagged": [
+        "tags": [
             [
                 "one",
                 "CD"
@@ -22707,6 +23570,31 @@
         ],
         "ner_tag": "{'Many': 'O', 'people': 'O', 'wore': 'O', ',': 'O', 'and': 'O', 'still': 'O', 'wear': 'O', 'garments': 'O', 'consisting': 'O', 'of': 'O', 'rectangles': 'O', 'cloth': 'O', 'wrapped': 'O', 'to': 'O', 'fit': 'O', '–': 'O', 'for': 'O', 'example': 'O', 'the': 'O', 'dhoti': 'O', 'men': 'O', 'sari': 'O', 'women': 'O', 'in': 'O', 'Indian': 'NATIONALITY', 'subcontinent': 'O', 'Scottish': 'NATIONALITY', 'kilt': 'O', 'or': 'O', 'Javanese': 'MISC', 'sarong': 'O', '.': 'O'}",
         "sentence": "Many people wore, and still wear, garments consisting of rectangles of cloth wrapped to fit – for example, the dhoti for men and the sari for women in the Indian subcontinent, the Scottish kilt or the Javanese sarong.",
+        "stems": [
+            "mani",
+            "peopl",
+            "wore",
+            "still",
+            "wear",
+            "garment",
+            "consist",
+            "rectangl",
+            "cloth",
+            "wrap",
+            "fit",
+            "–",
+            "exampl",
+            "dhoti",
+            "men",
+            "sari",
+            "women",
+            "indian",
+            "subcontin",
+            "scottish",
+            "kilt",
+            "javanes",
+            "sarong"
+        ],
         "synonyms": [
             "many",
             "people",
@@ -22732,7 +23620,7 @@
             "Javanese",
             "sarong"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -23306,6 +24194,24 @@
         ],
         "ner_tag": "{'The': 'O', 'clothes': 'O', 'may': 'O', 'simply': 'O', 'be': 'O', 'tied': 'O', 'up': 'O', ',': 'O', 'as': 'O', 'is': 'O', 'the': 'O', 'case': 'O', 'of': 'O', 'first': 'ORDINAL', 'two': 'NUMBER', 'garments': 'O', ';': 'O', 'or': 'O', 'pins': 'O', 'belts': 'O', 'hold': 'O', 'in': 'O', 'place': 'O', 'latter': 'O', '.': 'O'}",
         "sentence": "The clothes may simply be tied up, as is the case of the first two garments; or pins or belts hold the garments in place, as in the case of the latter two.",
+        "stems": [
+            "cloth",
+            "may",
+            "simpli",
+            "tie",
+            "case",
+            "first",
+            "two",
+            "garment",
+            "pin",
+            "belt",
+            "hold",
+            "garment",
+            "place",
+            "case",
+            "latter",
+            "two"
+        ],
         "synonyms": [
             "invest",
             "whitethorn",
@@ -23324,7 +24230,7 @@
             "latter",
             "two"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clothes",
                 "NNS"
@@ -23697,6 +24603,20 @@
         ],
         "ner_tag": "{'The': 'O', 'precious': 'O', 'cloth': 'O', 'remains': 'O', 'uncut': 'O', ',': 'O', 'and': 'O', 'people': 'O', 'of': 'O', 'various': 'O', 'sizes': 'O', 'or': 'O', 'the': 'O', 'same': 'O', 'person': 'O', 'at': 'O', 'different': 'O', 'can': 'O', 'wear': 'O', 'garment': 'O', '.': 'O'}",
         "sentence": "The precious cloth remains uncut, and people of various sizes or the same person at different sizes can wear the garment.",
+        "stems": [
+            "preciou",
+            "cloth",
+            "remain",
+            "uncut",
+            "peopl",
+            "variou",
+            "size",
+            "person",
+            "differ",
+            "size",
+            "wear",
+            "garment"
+        ],
         "synonyms": [
             "valued",
             "fabric",
@@ -23711,7 +24631,7 @@
             "wear",
             "garment"
         ],
-        "tagged": [
+        "tags": [
             [
                 "precious",
                 "JJ"
@@ -24057,6 +24977,19 @@
         ],
         "ner_tag": "{'By': 'O', 'the': 'DATE', 'early': 'DATE', 'years': 'DATE', 'of': 'DATE', '21st': 'DATE', 'century': 'DATE', ',': 'O', 'western': 'O', 'clothing': 'O', 'styles': 'O', 'had': 'O', 'to': 'O', 'some': 'O', 'extent': 'O', 'become': 'O', 'international': 'O', '.': 'O'}",
         "sentence": "By the early years of the 21st century, western clothing styles had, to some extent, become international styles.",
+        "stems": [
+            "earli",
+            "year",
+            "21st",
+            "centuri",
+            "western",
+            "cloth",
+            "style",
+            "extent",
+            "becom",
+            "intern",
+            "style"
+        ],
         "synonyms": [
             "early",
             "year",
@@ -24070,7 +25003,7 @@
             "International",
             "vogue"
         ],
-        "tagged": [
+        "tags": [
             [
                 "early",
                 "JJ"
@@ -24322,6 +25255,16 @@
         ],
         "ner_tag": "{'This': 'O', 'process': 'O', 'began': 'O', 'hundreds': 'DATE', 'of': 'O', 'years': 'DATE', 'earlier': 'DATE', ',': 'O', 'during': 'O', 'the': 'O', 'periods': 'O', 'European': 'NATIONALITY', 'colonialism': 'O', '.': 'O'}",
         "sentence": "This process began hundreds of years earlier, during the periods of European colonialism.",
+        "stems": [
+            "process",
+            "began",
+            "hundr",
+            "year",
+            "earlier",
+            "period",
+            "european",
+            "coloni"
+        ],
         "synonyms": [
             "work",
             "begin",
@@ -24332,7 +25275,7 @@
             "European",
             "colonialism"
         ],
-        "tagged": [
+        "tags": [
             [
                 "process",
                 "NN"
@@ -24721,6 +25664,24 @@
         ],
         "ner_tag": "{'The': 'O', 'process': 'O', 'of': 'O', 'cultural': 'O', 'dissemination': 'O', 'has': 'O', 'perpetuated': 'O', 'over': 'O', 'the': 'O', 'centuries': 'DURATION', 'as': 'O', 'Western': 'MISC', 'media': 'O', 'corporations': 'O', 'have': 'O', 'penetrated': 'O', 'markets': 'O', 'throughout': 'O', 'world': 'O', ',': 'O', 'spreading': 'O', 'culture': 'O', 'and': 'O', 'styles': 'O', '.': 'O'}",
         "sentence": "The process of cultural dissemination has perpetuated over the centuries as Western media corporations have penetrated markets throughout the world, spreading Western culture and styles.",
+        "stems": [
+            "process",
+            "cultur",
+            "dissemin",
+            "perpetu",
+            "centuri",
+            "western",
+            "media",
+            "corpor",
+            "penetr",
+            "market",
+            "throughout",
+            "world",
+            "spread",
+            "western",
+            "cultur",
+            "style"
+        ],
         "synonyms": [
             "work",
             "cultural",
@@ -24739,7 +25700,7 @@
             "polish",
             "vogue"
         ],
-        "tagged": [
+        "tags": [
             [
                 "process",
                 "NN"
@@ -24956,6 +25917,15 @@
         ],
         "ner_tag": "{'Fast': 'O', 'fashion': 'O', 'clothing': 'O', 'has': 'O', 'also': 'O', 'become': 'O', 'a': 'O', 'global': 'O', 'phenomenon': 'O', '.': 'O'}",
         "sentence": "Fast fashion clothing has also become a global phenomenon.",
+        "stems": [
+            "fast",
+            "fashion",
+            "cloth",
+            "also",
+            "becom",
+            "global",
+            "phenomenon"
+        ],
         "synonyms": [
             "fast",
             "manner",
@@ -24965,7 +25935,7 @@
             "ball-shaped",
             "phenomenon"
         ],
-        "tagged": [
+        "tags": [
             [
                 "fast",
                 "JJ"
@@ -25159,6 +26129,14 @@
         ],
         "ner_tag": "{'These': 'O', 'garments': 'O', 'are': 'O', 'less': 'O', 'expensive': 'O', ',': 'O', 'mass': 'O', '-': 'O', 'produced': 'O', 'Western': 'MISC', 'clothing': 'O', '.': 'O'}",
         "sentence": "These garments are less expensive, mass-produced Western clothing.",
+        "stems": [
+            "garment",
+            "less",
+            "expens",
+            "mass-produc",
+            "western",
+            "cloth"
+        ],
         "synonyms": [
             "garment",
             "lupus_erythematosus",
@@ -25167,7 +26145,7 @@
             "western",
             "clothing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "garments",
                 "NNS"
@@ -25440,6 +26418,20 @@
         ],
         "ner_tag": "{'Donated': 'O', 'used': 'O', 'clothing': 'O', 'from': 'O', 'Western': 'MISC', 'countries': 'O', 'are': 'O', 'also': 'O', 'delivered': 'O', 'to': 'O', 'people': 'O', 'in': 'O', 'poor': 'O', 'by': 'O', 'charity': 'O', 'organizations': 'O', '.': 'O'}",
         "sentence": "Donated used clothing from Western countries are also delivered to people in poor countries by charity organizations.",
+        "stems": [
+            "donat",
+            "use",
+            "cloth",
+            "western",
+            "countri",
+            "also",
+            "deliv",
+            "peopl",
+            "poor",
+            "countri",
+            "chariti",
+            "organ"
+        ],
         "synonyms": [
             "donate",
             "use",
@@ -25454,7 +26446,7 @@
             "charity",
             "organization"
         ],
-        "tagged": [
+        "tags": [
             [
                 "donated",
                 "VBN"
@@ -25760,6 +26752,19 @@
         ],
         "ner_tag": "{'Most': 'O', 'sports': 'O', 'and': 'O', 'physical': 'O', 'activities': 'O', 'are': 'O', 'practiced': 'O', 'wearing': 'O', 'special': 'O', 'clothing': 'O', ',': 'O', 'for': 'O', 'practical': 'O', 'comfort': 'O', 'or': 'O', 'safety': 'O', 'reasons': 'O', '.': 'O'}",
         "sentence": "Most sports and physical activities are practiced wearing special clothing, for practical, comfort or safety reasons.",
+        "stems": [
+            "sport",
+            "physic",
+            "activ",
+            "practic",
+            "wear",
+            "special",
+            "cloth",
+            "practic",
+            "comfort",
+            "safeti",
+            "reason"
+        ],
         "synonyms": [
             "sport",
             "physical",
@@ -25773,7 +26778,7 @@
             "safety",
             "reason"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sports",
                 "NNS"
@@ -26091,6 +27096,19 @@
         ],
         "ner_tag": "{'Common': 'O', 'sportswear': 'O', 'garments': 'O', 'include': 'O', 'shorts': 'O', ',': 'O', 'T': 'O', '-': 'O', 'shirts': 'O', 'tennis': 'O', 'leotards': 'O', 'tracksuits': 'O', 'and': 'O', 'trainers': 'O', '.': 'O'}",
         "sentence": "Common sportswear garments include shorts, T-shirts, tennis shirts, leotards, tracksuits, and trainers.",
+        "stems": [
+            "common",
+            "sportswear",
+            "garment",
+            "includ",
+            "short",
+            "t-shirt",
+            "tenni",
+            "shirt",
+            "leotard",
+            "tracksuit",
+            "trainer"
+        ],
         "synonyms": [
             "park",
             "sportswear",
@@ -26104,7 +27122,7 @@
             "tracksuits",
             "flight_simulator"
         ],
-        "tagged": [
+        "tags": [
             [
                 "common",
                 "JJ"
@@ -26486,6 +27504,20 @@
         ],
         "ner_tag": "{'Specialized': 'O', 'garments': 'O', 'include': 'O', 'wet': 'O', 'suits': 'O', '(': 'O', 'for': 'O', 'swimming': 'O', ',': 'O', 'diving': 'O', 'or': 'O', 'surfing': 'O', ')': 'O', 'salopettes': 'O', 'skiing': 'O', 'and': 'O', 'leotards': 'O', 'gymnastics': 'O', '.': 'O'}",
         "sentence": "Specialized garments include wet suits (for swimming, diving or surfing), salopettes (for skiing) and leotards (for gymnastics).",
+        "stems": [
+            "special",
+            "garment",
+            "includ",
+            "wet",
+            "suit",
+            "swim",
+            "dive",
+            "surf",
+            "salopett",
+            "ski",
+            "leotard",
+            "gymnast"
+        ],
         "synonyms": [
             "speciate",
             "garment",
@@ -26500,7 +27532,7 @@
             "leotard",
             "gymnastics"
         ],
-        "tagged": [
+        "tags": [
             [
                 "specialized",
                 "JJ"
@@ -26752,6 +27784,17 @@
         "meronyms": [],
         "ner_tag": "{'Also': 'O', ',': 'O', 'spandex': 'O', 'materials': 'O', 'are': 'O', 'often': 'O', 'used': 'O', 'as': 'O', 'base': 'O', 'layers': 'O', 'to': 'O', 'soak': 'O', 'up': 'O', 'sweat': 'O', '.': 'O'}",
         "sentence": "Also, spandex materials are often used as base layers to soak up sweat.",
+        "stems": [
+            "also",
+            "spandex",
+            "materi",
+            "often",
+            "use",
+            "base",
+            "layer",
+            "soak",
+            "sweat"
+        ],
         "synonyms": [
             "besides",
             "spandex",
@@ -26763,7 +27806,7 @@
             "soak",
             "sweat"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -27180,6 +28223,24 @@
         ],
         "ner_tag": "{'Spandex': 'O', 'is': 'O', 'also': 'O', 'preferable': 'O', 'for': 'O', 'active': 'O', 'sports': 'O', 'that': 'O', 'require': 'O', 'form': 'O', 'fitting': 'O', 'garments': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'volleyball': 'O', 'wrestling': 'O', 'track': 'O', '&': 'O', 'field': 'O', 'dance': 'O', 'gymnastics': 'O', 'and': 'O', 'swimming': 'O', '.': 'O'}",
         "sentence": "Spandex is also preferable for active sports that require form fitting garments, such as volleyball, wrestling, track & field, dance, gymnastics and swimming.",
+        "stems": [
+            "spandex",
+            "also",
+            "prefer",
+            "activ",
+            "sport",
+            "requir",
+            "form",
+            "fit",
+            "garment",
+            "volleybal",
+            "wrestl",
+            "track",
+            "field",
+            "danc",
+            "gymnast",
+            "swim"
+        ],
         "synonyms": [
             "spandex",
             "besides",
@@ -27198,7 +28259,7 @@
             "gymnastics",
             "swim"
         ],
-        "tagged": [
+        "tags": [
             [
                 "spandex",
                 "NN"
@@ -27485,6 +28546,18 @@
         ],
         "ner_tag": "{'The': 'O', 'world': 'O', 'of': 'O', 'clothing': 'O', 'is': 'O', 'always': 'O', 'changing': 'O', ',': 'O', 'as': 'O', 'new': 'O', 'cultural': 'O', 'influences': 'O', 'meet': 'O', 'technological': 'O', 'innovations': 'O', '.': 'O'}",
         "sentence": "The world of clothing is always changing, as new cultural influences meet technological innovations.",
+        "stems": [
+            "world",
+            "cloth",
+            "alway",
+            "chang",
+            "new",
+            "cultur",
+            "influenc",
+            "meet",
+            "technolog",
+            "innov"
+        ],
         "synonyms": [
             "world",
             "clothing",
@@ -27497,7 +28570,7 @@
             "technical",
             "invention"
         ],
-        "tagged": [
+        "tags": [
             [
                 "world",
                 "NN"
@@ -28075,6 +29148,32 @@
         ],
         "ner_tag": "{'Researchers': 'O', 'in': 'O', 'scientific': 'O', 'labs': 'O', 'have': 'O', 'been': 'O', 'developing': 'O', 'prototypes': 'O', 'for': 'O', 'fabrics': 'O', 'that': 'O', 'can': 'O', 'serve': 'O', 'functional': 'O', 'purposes': 'O', 'well': 'O', 'beyond': 'O', 'their': 'O', 'traditional': 'O', 'roles': 'O', ',': 'O', 'example': 'O', 'clothes': 'O', 'automatically': 'O', 'adjust': 'O', 'temperature': 'O', 'repel': 'O', 'bullets': 'O', 'project': 'O', 'images': 'O', 'and': 'O', 'generate': 'O', 'electricity': 'O', '.': 'O'}",
         "sentence": "Researchers in scientific labs have been developing prototypes for fabrics that can serve functional purposes well beyond their traditional roles, for example, clothes that can automatically adjust their temperature, repel bullets, project images, and generate electricity.",
+        "stems": [
+            "research",
+            "scientif",
+            "lab",
+            "develop",
+            "prototyp",
+            "fabric",
+            "serv",
+            "function",
+            "purpos",
+            "well",
+            "beyond",
+            "tradit",
+            "role",
+            "exampl",
+            "cloth",
+            "automat",
+            "adjust",
+            "temperatur",
+            "repel",
+            "bullet",
+            "project",
+            "imag",
+            "gener",
+            "electr"
+        ],
         "synonyms": [
             "research_worker",
             "scientific",
@@ -28101,7 +29200,7 @@
             "render",
             "electricity"
         ],
-        "tagged": [
+        "tags": [
             [
                 "researchers",
                 "NNS"
@@ -28632,6 +29731,25 @@
         ],
         "ner_tag": "{'Some': 'O', 'practical': 'O', 'advances': 'O', 'already': 'O', 'available': 'O', 'to': 'O', 'consumers': 'O', 'are': 'O', 'bullet': 'O', '-': 'O', 'resistant': 'O', 'garments': 'O', 'made': 'O', 'with': 'O', 'kevlar': 'O', 'and': 'O', 'stain': 'O', 'fabrics': 'O', 'that': 'O', 'coated': 'O', 'chemical': 'O', 'mixtures': 'O', 'reduce': 'O', 'the': 'O', 'absorption': 'O', 'of': 'O', 'liquids': 'O', '.': 'O'}",
         "sentence": "Some practical advances already available to consumers are bullet-resistant garments made with kevlar and stain-resistant fabrics that are coated with chemical mixtures that reduce the absorption of liquids.",
+        "stems": [
+            "practic",
+            "advanc",
+            "alreadi",
+            "avail",
+            "consum",
+            "bullet-resist",
+            "garment",
+            "made",
+            "kevlar",
+            "stain-resist",
+            "fabric",
+            "coat",
+            "chemic",
+            "mixtur",
+            "reduc",
+            "absorpt",
+            "liquid"
+        ],
         "synonyms": [
             "practical",
             "promote",
@@ -28651,7 +29769,7 @@
             "absorption",
             "liquid"
         ],
-        "tagged": [
+        "tags": [
             [
                 "practical",
                 "JJ"
@@ -29103,6 +30221,26 @@
         ],
         "ner_tag": "{'Though': 'O', 'mechanization': 'O', 'transformed': 'O', 'most': 'O', 'aspects': 'O', 'of': 'O', 'human': 'O', 'industry': 'O', 'by': 'O', 'the': 'DATE', 'mid-20th': 'DATE', 'century': 'DATE', ',': 'O', 'garment': 'O', 'workers': 'O', 'have': 'O', 'continued': 'O', 'to': 'O', 'labor': 'O', 'under': 'O', 'challenging': 'O', 'conditions': 'O', 'that': 'O', 'demand': 'O', 'repetitive': 'O', 'manual': 'O', '.': 'O'}",
         "sentence": "Though mechanization transformed most aspects of human industry by the mid-20th century, garment workers have continued to labor under challenging conditions that demand repetitive manual labor.",
+        "stems": [
+            "though",
+            "mechan",
+            "transform",
+            "aspect",
+            "human",
+            "industri",
+            "mid-20th",
+            "centuri",
+            "garment",
+            "worker",
+            "continu",
+            "labor",
+            "challeng",
+            "condit",
+            "demand",
+            "repetit",
+            "manual",
+            "labor"
+        ],
         "synonyms": [
             "though",
             "mechanization",
@@ -29123,7 +30261,7 @@
             "manual_of_arms",
             "tug"
         ],
-        "tagged": [
+        "tags": [
             [
                 "though",
                 "IN"
@@ -29626,6 +30764,23 @@
         ],
         "ner_tag": "{'Mass': 'O', '-': 'O', 'produced': 'O', 'clothing': 'O', 'is': 'O', 'often': 'O', 'made': 'O', 'in': 'O', 'what': 'O', 'are': 'O', 'considered': 'O', 'by': 'O', 'some': 'O', 'to': 'O', 'be': 'O', 'sweatshops': 'O', ',': 'O', 'typified': 'O', 'long': 'O', 'work': 'O', 'hours': 'DURATION', 'lack': 'O', 'of': 'O', 'benefits': 'O', 'and': 'O', 'worker': 'O', 'representation': 'O', '.': 'O'}",
         "sentence": "Mass-produced clothing is often made in what are considered by some to be sweatshops, typified by long work hours, lack of benefits, and lack of worker representation.",
+        "stems": [
+            "mass-produc",
+            "cloth",
+            "often",
+            "made",
+            "consid",
+            "sweatshop",
+            "typifi",
+            "long",
+            "work",
+            "hour",
+            "lack",
+            "benefit",
+            "lack",
+            "worker",
+            "represent"
+        ],
         "synonyms": [
             "mass-produce",
             "clothing",
@@ -29643,7 +30798,7 @@
             "worker",
             "theatrical_performance"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mass-produced",
                 "JJ"
@@ -30084,6 +31239,25 @@
         ],
         "ner_tag": "{'While': 'O', 'most': 'O', 'examples': 'O', 'of': 'O', 'such': 'O', 'conditions': 'O', 'are': 'O', 'found': 'O', 'in': 'O', 'developing': 'O', 'countries': 'O', ',': 'O', 'clothes': 'O', 'made': 'O', 'industrialized': 'O', 'nations': 'O', 'may': 'O', 'also': 'O', 'be': 'O', 'manufactured': 'O', 'similarly': 'O', 'often': 'O', 'staffed': 'O', 'by': 'O', 'undocumented': 'O', 'immigrants': 'O', '.': 'O'}",
         "sentence": "While most examples of such conditions are found in developing countries, clothes made in industrialized nations may also be manufactured similarly, often staffed by undocumented immigrants.",
+        "stems": [
+            "exampl",
+            "condit",
+            "found",
+            "develop",
+            "countri",
+            "cloth",
+            "made",
+            "industri",
+            "nation",
+            "may",
+            "also",
+            "manufactur",
+            "similarli",
+            "often",
+            "staf",
+            "undocu",
+            "immigr"
+        ],
         "synonyms": [
             "model",
             "stipulate",
@@ -30103,7 +31277,7 @@
             "undocumented",
             "immigrant"
         ],
-        "tagged": [
+        "tags": [
             [
                 "examples",
                 "NNS"
@@ -30598,6 +31772,28 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Outsourcing': 'O', 'production': 'O', 'to': 'O', 'low': 'O', 'wage': 'O', 'countries': 'O', 'like': 'O', 'Bangladesh': 'COUNTRY', ',': 'O', 'China': 'COUNTRY', 'India': 'COUNTRY', 'and': 'O', 'Sri': 'COUNTRY', 'Lanka': 'COUNTRY', 'became': 'O', 'possible': 'O', 'when': 'O', 'the': 'O', 'Multi': 'O', 'Fibre': 'O', 'Agreement': 'O', '(': 'O', 'MFA': 'ORGANIZATION', ')': 'O', 'was': 'O', 'abolished': 'O', '.': 'O'}",
         "sentence": "[citation needed] Outsourcing production to low wage countries like Bangladesh, China, India and Sri Lanka became possible when the Multi Fibre Agreement (MFA) was abolished.",
+        "stems": [
+            "citat",
+            "need",
+            "outsourc",
+            "product",
+            "low",
+            "wage",
+            "countri",
+            "like",
+            "bangladesh",
+            "china",
+            "india",
+            "sri",
+            "lanka",
+            "becam",
+            "possibl",
+            "multi",
+            "fibr",
+            "agreement",
+            "mfa",
+            "abolish"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -30620,7 +31816,7 @@
             "Master_of_Fine_Arts",
             "abolish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -30928,6 +32124,16 @@
         ],
         "ner_tag": "{'The': 'O', 'MFA': 'ORGANIZATION', ',': 'O', 'which': 'O', 'placed': 'O', 'quotas': 'O', 'on': 'O', 'textiles': 'O', 'imports': 'O', 'was': 'O', 'deemed': 'O', 'a': 'O', 'protectionist': 'IDEOLOGY', 'measure': 'O', '.': 'O'}",
         "sentence": "The MFA, which placed quotas on textiles imports, was deemed a protectionist measure.",
+        "stems": [
+            "mfa",
+            "place",
+            "quota",
+            "textil",
+            "import",
+            "deem",
+            "protectionist",
+            "measur"
+        ],
         "synonyms": [
             "Master_of_Fine_Arts",
             "target",
@@ -30938,7 +32144,7 @@
             "protectionist",
             "standard"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mfa",
                 "NN"
@@ -31277,6 +32483,21 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Globalization': 'O', 'is': 'O', 'often': 'O', 'quoted': 'O', 'as': 'O', 'the': 'O', 'single': 'O', 'most': 'O', 'contributing': 'O', 'factor': 'O', 'to': 'O', 'poor': 'O', 'working': 'O', 'conditions': 'O', 'of': 'O', 'garment': 'O', 'workers': 'O', '.': 'O'}",
         "sentence": "[citation needed] Globalization is often quoted as the single most contributing factor to the poor working conditions of garment workers.",
+        "stems": [
+            "citat",
+            "need",
+            "global",
+            "often",
+            "quot",
+            "singl",
+            "contribut",
+            "factor",
+            "poor",
+            "work",
+            "condit",
+            "garment",
+            "worker"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -31292,7 +32513,7 @@
             "garment",
             "worker"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -31867,6 +33088,33 @@
         ],
         "ner_tag": "{'Although': 'O', 'many': 'O', 'countries': 'O', 'recognize': 'O', 'treaties': 'O', 'like': 'O', 'the': 'O', 'International': 'ORGANIZATION', 'Labor': 'ORGANIZATION', 'Organization': 'ORGANIZATION', ',': 'O', 'which': 'O', 'attempt': 'O', 'to': 'O', 'set': 'O', 'standards': 'O', 'for': 'O', 'worker': 'O', 'safety': 'O', 'and': 'O', 'rights': 'O', 'have': 'O', 'made': 'O', 'exceptions': 'O', 'certain': 'O', 'parts': 'O', 'of': 'O', 'or': 'O', 'failed': 'O', 'thoroughly': 'O', 'enforce': 'O', 'them': 'O', '.': 'O'}",
         "sentence": "Although many countries recognize treaties like the International Labor Organization, which attempt to set standards for worker safety and rights, many countries have made exceptions to certain parts of the treaties or failed to thoroughly enforce them.",
+        "stems": [
+            "although",
+            "mani",
+            "countri",
+            "recogn",
+            "treati",
+            "like",
+            "intern",
+            "labor",
+            "organ",
+            "attempt",
+            "set",
+            "standard",
+            "worker",
+            "safeti",
+            "right",
+            "mani",
+            "countri",
+            "made",
+            "except",
+            "certain",
+            "part",
+            "treati",
+            "fail",
+            "thoroughli",
+            "enforc"
+        ],
         "synonyms": [
             "although",
             "many",
@@ -31894,7 +33142,7 @@
             "thoroughly",
             "enforce"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -32202,6 +33450,15 @@
         ],
         "ner_tag": "{'India': 'COUNTRY', 'for': 'O', 'example': 'O', 'has': 'O', 'not': 'O', 'ratified': 'O', 'sections': 'O', '87': 'NUMBER', 'and': 'O', '92': 'NUMBER', 'of': 'O', 'the': 'O', 'treaty': 'O', '.': 'O'}",
         "sentence": "India for example has not ratified sections 87 and 92 of the treaty.",
+        "stems": [
+            "india",
+            "exampl",
+            "ratifi",
+            "section",
+            "87",
+            "92",
+            "treati"
+        ],
         "synonyms": [
             "India",
             "model",
@@ -32211,7 +33468,7 @@
             "ninety-two",
             "treaty"
         ],
-        "tagged": [
+        "tags": [
             [
                 "india",
                 "JJ"
@@ -32456,6 +33713,17 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'The': 'O', 'use': 'O', 'of': 'O', 'animal': 'O', 'fur': 'O', 'in': 'O', 'clothing': 'O', 'dates': 'O', 'to': 'O', 'prehistoric': 'O', 'times': 'O', '.': 'O'}",
         "sentence": "[citation needed] The use of animal fur in clothing dates to prehistoric times.",
+        "stems": [
+            "citat",
+            "need",
+            "use",
+            "anim",
+            "fur",
+            "cloth",
+            "date",
+            "prehistor",
+            "time"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -32467,7 +33735,7 @@
             "prehistoric",
             "times"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -32930,6 +34198,27 @@
         ],
         "ner_tag": "{'It': 'O', 'is': 'O', 'currently': 'DATE', 'associated': 'O', 'in': 'O', 'developed': 'O', 'countries': 'O', 'with': 'O', 'expensive': 'O', ',': 'O', 'designer': 'TITLE', 'clothing': 'O', 'although': 'O', 'fur': 'O', 'still': 'O', 'used': 'O', 'by': 'O', 'indigenous': 'O', 'people': 'O', 'arctic': 'O', 'zones': 'O', 'and': 'O', 'higher': 'O', 'elevations': 'O', 'for': 'O', 'its': 'O', 'warmth': 'O', 'protection': 'O', '.': 'O'}",
         "sentence": "It is currently associated in developed countries with expensive, designer clothing, although fur is still used by indigenous people in arctic zones and higher elevations for its warmth and protection.",
+        "stems": [
+            "current",
+            "associ",
+            "develop",
+            "countri",
+            "expens",
+            "design",
+            "cloth",
+            "although",
+            "fur",
+            "still",
+            "use",
+            "indigen",
+            "peopl",
+            "arctic",
+            "zone",
+            "higher",
+            "elev",
+            "warmth",
+            "protect"
+        ],
         "synonyms": [
             "presently",
             "associate",
@@ -32951,7 +34240,7 @@
             "warmth",
             "protective_covering"
         ],
-        "tagged": [
+        "tags": [
             [
                 "currently",
                 "RB"
@@ -33318,6 +34607,17 @@
         "meronyms": [],
         "ner_tag": "{'Once': 'DATE', 'uncontroversial': 'O', ',': 'O', 'it': 'O', 'has': 'O', 'recently': 'DATE', 'been': 'O', 'the': 'O', 'focus': 'O', 'of': 'O', 'campaigns': 'O', 'on': 'O', 'grounds': 'O', 'that': 'O', 'campaigners': 'O', 'consider': 'O', 'cruel': 'O', 'and': 'O', 'unnecessary': 'O', '.': 'O'}",
         "sentence": "Once uncontroversial, it has recently been the focus of campaigns on the grounds that campaigners consider it cruel and unnecessary.",
+        "stems": [
+            "uncontroversi",
+            "recent",
+            "focu",
+            "campaign",
+            "ground",
+            "campaign",
+            "consid",
+            "cruel",
+            "unnecessari"
+        ],
         "synonyms": [
             "uncontroversial",
             "recently",
@@ -33329,7 +34629,7 @@
             "barbarous",
             "unnecessary"
         ],
-        "tagged": [
+        "tags": [
             [
                 "uncontroversial",
                 "JJ"
@@ -33684,6 +34984,22 @@
         ],
         "ner_tag": "{'PETA': 'ORGANIZATION', ',': 'O', 'along': 'O', 'with': 'O', 'other': 'O', 'animal': 'O', 'rights': 'IDEOLOGY', 'and': 'O', 'liberation': 'O', 'groups': 'O', 'have': 'O', 'called': 'O', 'attention': 'O', 'to': 'O', 'fur': 'O', 'farming': 'O', 'practices': 'O', 'they': 'O', 'consider': 'O', 'cruel': 'O', '.': 'O'}",
         "sentence": "PETA, along with other animal rights and animal liberation groups have called attention to fur farming and other practices they consider cruel.",
+        "stems": [
+            "peta",
+            "along",
+            "anim",
+            "right",
+            "anim",
+            "liber",
+            "group",
+            "call",
+            "attent",
+            "fur",
+            "farm",
+            "practic",
+            "consid",
+            "cruel"
+        ],
         "synonyms": [
             "peta",
             "along",
@@ -33700,7 +35016,7 @@
             "view",
             "barbarous"
         ],
-        "tagged": [
+        "tags": [
             [
                 "peta",
                 "NN"
@@ -33987,6 +35303,16 @@
         ],
         "ner_tag": "{'Many': 'O', 'kinds': 'O', 'of': 'O', 'clothing': 'O', 'are': 'O', 'designed': 'O', 'to': 'O', 'be': 'O', 'ironed': 'O', 'before': 'O', 'they': 'O', 'worn': 'O', 'remove': 'O', 'wrinkles': 'O', '.': 'O'}",
         "sentence": "Many kinds of clothing are designed to be ironed before they are worn to remove wrinkles.",
+        "stems": [
+            "mani",
+            "kind",
+            "cloth",
+            "design",
+            "iron",
+            "worn",
+            "remov",
+            "wrinkl"
+        ],
         "synonyms": [
             "many",
             "kind",
@@ -33997,7 +35323,7 @@
             "remove",
             "wrinkle"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -34289,6 +35615,17 @@
         ],
         "ner_tag": "{'Most': 'O', 'modern': 'O', 'formal': 'O', 'and': 'O', 'semi-formal': 'O', 'clothing': 'O', 'is': 'O', 'in': 'O', 'this': 'O', 'category': 'O', '(': 'O', 'for': 'O', 'example': 'O', ',': 'O', 'dress': 'O', 'shirts': 'O', 'suits': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Most modern formal and semi-formal clothing is in this category (for example, dress shirts and suits).",
+        "stems": [
+            "modern",
+            "formal",
+            "semi-form",
+            "cloth",
+            "categori",
+            "exampl",
+            "dress",
+            "shirt",
+            "suit"
+        ],
         "synonyms": [
             "Modern",
             "formal",
@@ -34300,7 +35637,7 @@
             "shirt",
             "suit"
         ],
-        "tagged": [
+        "tags": [
             [
                 "modern",
                 "JJ"
@@ -34514,6 +35851,15 @@
         ],
         "ner_tag": "{'Ironed': 'O', 'clothes': 'O', 'are': 'O', 'believed': 'O', 'to': 'O', 'look': 'O', 'clean': 'O', ',': 'O', 'fresh': 'O', 'and': 'O', 'neat': 'O', '.': 'O'}",
         "sentence": "Ironed clothes are believed to look clean, fresh, and neat.",
+        "stems": [
+            "iron",
+            "cloth",
+            "believ",
+            "look",
+            "clean",
+            "fresh",
+            "neat"
+        ],
         "synonyms": [
             "ironed",
             "invest",
@@ -34523,7 +35869,7 @@
             "fresh",
             "neat"
         ],
-        "tagged": [
+        "tags": [
             [
                 "ironed",
                 "JJ"
@@ -34825,6 +36171,19 @@
         ],
         "ner_tag": "{'Much': 'O', 'contemporary': 'O', 'casual': 'O', 'clothing': 'O', 'is': 'O', 'made': 'O', 'of': 'O', 'knit': 'O', 'materials': 'O', 'that': 'O', 'do': 'O', 'not': 'O', 'readily': 'O', 'wrinkle': 'O', ',': 'O', 'and': 'O', 'require': 'O', 'ironing': 'O', '.': 'O'}",
         "sentence": "Much contemporary casual clothing is made of knit materials that do not readily wrinkle, and do not require ironing.",
+        "stems": [
+            "much",
+            "contemporari",
+            "casual",
+            "cloth",
+            "made",
+            "knit",
+            "materi",
+            "readili",
+            "wrinkl",
+            "requir",
+            "iron"
+        ],
         "synonyms": [
             "much",
             "contemporary",
@@ -34838,7 +36197,7 @@
             "want",
             "iron"
         ],
-        "tagged": [
+        "tags": [
             [
                 "much",
                 "JJ"
@@ -35241,6 +36600,21 @@
         ],
         "ner_tag": "{'Some': 'O', 'clothing': 'O', 'is': 'O', 'permanent': 'O', 'press': 'O', ',': 'O', 'having': 'O', 'been': 'O', 'treated': 'O', 'with': 'O', 'a': 'O', 'coating': 'O', '(': 'O', 'such': 'O', 'as': 'O', 'polytetrafluoroethylene': 'O', ')': 'O', 'that': 'O', 'suppresses': 'O', 'wrinkles': 'O', 'and': 'O', 'creates': 'O', 'smooth': 'O', 'appearance': 'O', 'without': 'O', 'ironing': 'O', '.': 'O'}",
         "sentence": "Some clothing is permanent press, having been treated with a coating (such as polytetrafluoroethylene) that suppresses wrinkles and creates a smooth appearance without ironing.",
+        "stems": [
+            "cloth",
+            "perman",
+            "press",
+            "treat",
+            "coat",
+            "polytetrafluoroethylen",
+            "suppress",
+            "wrinkl",
+            "creat",
+            "smooth",
+            "appear",
+            "without",
+            "iron"
+        ],
         "synonyms": [
             "clothing",
             "permanent_wave",
@@ -35256,7 +36630,7 @@
             "without",
             "iron"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clothing",
                 "NN"
@@ -35950,6 +37324,38 @@
         ],
         "ner_tag": "{'A': 'O', 'resin': 'O', 'used': 'O', 'for': 'O', 'making': 'O', 'non-wrinkle': 'O', 'shirts': 'O', 'releases': 'O', 'formaldehyde': 'O', ',': 'O', 'which': 'O', 'could': 'O', 'cause': 'O', 'contact': 'O', 'dermatitis': 'O', 'some': 'O', 'people': 'O', ';': 'O', 'no': 'O', 'disclosure': 'O', 'requirements': 'O', 'exist': 'O', 'and': 'O', 'in': 'O', '2008': 'DATE', 'the': 'O', 'U.S.': 'ORGANIZATION', 'Government': 'ORGANIZATION', 'Accountability': 'ORGANIZATION', 'Office': 'ORGANIZATION', 'tested': 'O', 'clothing': 'O', 'found': 'O', 'that': 'O', 'generally': 'O', 'highest': 'O', 'levels': 'O', 'were': 'O', 'pants': 'O', '.': 'O'}",
         "sentence": "A resin used for making non-wrinkle shirts releases formaldehyde, which could cause contact dermatitis for some people; no disclosure requirements exist, and in 2008 the U.S. Government Accountability Office tested formaldehyde in clothing and found that generally the highest levels were in non-wrinkle shirts and pants.",
+        "stems": [
+            "resin",
+            "use",
+            "make",
+            "non-wrinkl",
+            "shirt",
+            "releas",
+            "formaldehyd",
+            "could",
+            "caus",
+            "contact",
+            "dermat",
+            "peopl",
+            "disclosur",
+            "requir",
+            "exist",
+            "2008",
+            "u.s.",
+            "govern",
+            "account",
+            "offic",
+            "test",
+            "formaldehyd",
+            "cloth",
+            "found",
+            "gener",
+            "highest",
+            "level",
+            "non-wrinkl",
+            "shirt",
+            "pant"
+        ],
         "synonyms": [
             "resin",
             "used",
@@ -35982,7 +37388,7 @@
             "shirt",
             "trouser"
         ],
-        "tagged": [
+        "tags": [
             [
                 "resin",
                 "NN"
@@ -36683,6 +38089,30 @@
         ],
         "ner_tag": "{'In': 'O', '1999': 'DATE', ',': 'O', 'a': 'O', 'study': 'O', 'of': 'O', 'the': 'O', 'effect': 'O', 'washing': 'O', 'on': 'O', 'formaldehyde': 'O', 'levels': 'O', 'found': 'O', 'that': 'O', 'after': 'O', '6': 'DURATION', 'months': 'DURATION', '7': 'NUMBER', '27': 'NUMBER', 'shirts': 'O', 'had': 'O', 'in': 'O', 'excess': 'O', '75': 'NUMBER', 'ppm': 'O', 'which': 'O', 'is': 'O', 'safe': 'O', 'limit': 'O', 'for': 'O', 'direct': 'O', 'skin': 'O', 'exposure': 'O', '.': 'O'}",
         "sentence": "In 1999, a study of the effect of washing on the formaldehyde levels found that after 6 months after washing, 7 of 27 shirts had levels in excess of 75 ppm, which is a safe limit for direct skin exposure.",
+        "stems": [
+            "1999",
+            "studi",
+            "effect",
+            "wash",
+            "formaldehyd",
+            "level",
+            "found",
+            "6",
+            "month",
+            "wash",
+            "7",
+            "27",
+            "shirt",
+            "level",
+            "excess",
+            "75",
+            "ppm",
+            "safe",
+            "limit",
+            "direct",
+            "skin",
+            "exposur"
+        ],
         "synonyms": [
             "1999",
             "survey",
@@ -36707,7 +38137,7 @@
             "skin",
             "photograph"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1999",
                 "CD"
@@ -36939,13 +38369,19 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'past': 'DATE', 'times': 'O', ',': 'O', 'mending': 'O', 'was': 'O', 'an': 'O', 'art': 'O', '.': 'O'}",
         "sentence": "In past times, mending was an art.",
+        "stems": [
+            "past",
+            "time",
+            "mend",
+            "art"
+        ],
         "synonyms": [
             "past",
             "times",
             "repair",
             "artwork"
         ],
-        "tagged": [
+        "tags": [
             [
                 "past",
                 "JJ"
@@ -37283,6 +38719,23 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'meticulous': 'O', 'tailor': 'TITLE', 'or': 'O', 'seamstress': 'TITLE', 'could': 'O', 'mend': 'O', 'rips': 'O', 'with': 'O', 'thread': 'O', 'raveled': 'O', 'from': 'O', 'hems': 'O', 'and': 'O', 'seam': 'O', 'edges': 'O', 'so': 'O', 'skillfully': 'O', 'that': 'O', 'the': 'O', 'tear': 'O', 'was': 'O', 'practically': 'O', 'invisible': 'O', '.': 'O'}",
         "sentence": "A meticulous tailor or seamstress could mend rips with thread raveled from hems and seam edges so skillfully that the tear was practically invisible.",
+        "stems": [
+            "meticul",
+            "tailor",
+            "seamstress",
+            "could",
+            "mend",
+            "rip",
+            "thread",
+            "ravel",
+            "hem",
+            "seam",
+            "edg",
+            "skill",
+            "tear",
+            "practic",
+            "invis"
+        ],
         "synonyms": [
             "meticulous",
             "tailor",
@@ -37300,7 +38753,7 @@
             "practically",
             "invisible"
         ],
-        "tagged": [
+        "tags": [
             [
                 "meticulous",
                 "JJ"
@@ -37665,6 +39118,20 @@
         ],
         "ner_tag": "{'When': 'O', 'the': 'O', 'raw': 'O', 'material': 'O', '–': 'O', 'cloth': 'O', 'was': 'O', 'worth': 'O', 'more': 'O', 'than': 'O', 'labor': 'O', ',': 'O', 'it': 'O', 'made': 'O', 'sense': 'O', 'to': 'O', 'expend': 'O', 'in': 'O', 'saving': 'O', '.': 'O'}",
         "sentence": "When the raw material – cloth – was worth more than labor, it made sense to expend labor in saving it.",
+        "stems": [
+            "raw",
+            "materi",
+            "–",
+            "cloth",
+            "–",
+            "worth",
+            "labor",
+            "made",
+            "sens",
+            "expend",
+            "labor",
+            "save"
+        ],
         "synonyms": [
             "sensitive",
             "material",
@@ -37679,7 +39146,7 @@
             "tug",
             "write"
         ],
-        "tagged": [
+        "tags": [
             [
                 "raw",
                 "JJ"
@@ -37851,6 +39318,13 @@
         ],
         "ner_tag": "{'Today': 'DATE', 'clothing': 'O', 'is': 'O', 'considered': 'O', 'a': 'O', 'consumable': 'O', 'item': 'O', '.': 'O'}",
         "sentence": "Today clothing is considered a consumable item.",
+        "stems": [
+            "today",
+            "cloth",
+            "consid",
+            "consum",
+            "item"
+        ],
         "synonyms": [
             "today",
             "clothing",
@@ -37858,7 +39332,7 @@
             "consumable",
             "token"
         ],
-        "tagged": [
+        "tags": [
             [
                 "today",
                 "NN"
@@ -38077,6 +39551,15 @@
         ],
         "ner_tag": "{'Mass': 'O', '-': 'O', 'manufactured': 'O', 'clothing': 'O', 'is': 'O', 'less': 'O', 'expensive': 'O', 'than': 'O', 'the': 'O', 'labor': 'O', 'required': 'O', 'to': 'O', 'repair': 'O', 'it': 'O', '.': 'O'}",
         "sentence": "Mass-manufactured clothing is less expensive than the labor required to repair it.",
+        "stems": [
+            "mass-manufactur",
+            "cloth",
+            "less",
+            "expens",
+            "labor",
+            "requir",
+            "repair"
+        ],
         "synonyms": [
             "mass-manufactured",
             "clothing",
@@ -38086,7 +39569,7 @@
             "want",
             "repair"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mass-manufactured",
                 "JJ"
@@ -38309,6 +39792,18 @@
         ],
         "ner_tag": "{'Many': 'O', 'people': 'O', 'buy': 'O', 'a': 'O', 'new': 'O', 'piece': 'O', 'of': 'O', 'clothing': 'O', 'rather': 'O', 'than': 'O', 'spend': 'O', 'time': 'O', 'mending': 'O', '.': 'O'}",
         "sentence": "Many people buy a new piece of clothing rather than spend time mending.",
+        "stems": [
+            "mani",
+            "peopl",
+            "buy",
+            "new",
+            "piec",
+            "cloth",
+            "rather",
+            "spend",
+            "time",
+            "mend"
+        ],
         "synonyms": [
             "many",
             "people",
@@ -38321,7 +39816,7 @@
             "time",
             "repair"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -38541,6 +40036,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'thrifty': 'O', 'still': 'O', 'replace': 'O', 'zippers': 'O', 'and': 'O', 'buttons': 'O', 'sew': 'O', 'up': 'O', 'ripped': 'O', 'hems': 'O', '.': 'O'}",
         "sentence": "The thrifty still replace zippers and buttons and sew up ripped hems.",
+        "stems": [
+            "thrifti",
+            "still",
+            "replac",
+            "zipper",
+            "button",
+            "sew",
+            "rip",
+            "hem"
+        ],
         "synonyms": [
             "thrifty",
             "still",
@@ -38551,7 +40056,7 @@
             "rip",
             "hem"
         ],
-        "tagged": [
+        "tags": [
             [
                 "thrifty",
                 "NNS"

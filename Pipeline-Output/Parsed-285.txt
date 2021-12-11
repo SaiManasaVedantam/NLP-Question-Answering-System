@@ -365,6 +365,19 @@
         "meronyms": [],
         "ner_tag": "{'While': 'O', 'there': 'O', 'is': 'O', 'some': 'O', 'international': 'O', 'commonality': 'O', 'in': 'O', 'the': 'O', 'way': 'O', 'political': 'O', 'parties': 'O', 'are': 'O', 'recognized': 'O', ',': 'O', 'and': 'O', 'how': 'O', 'they': 'O', 'operate': 'O', 'often': 'O', 'many': 'O', 'differences': 'O', 'significant': 'O', '.': 'O'}",
         "sentence": "While there is some international commonality in the way political parties are recognized, and in how they operate, there are often many differences, and some are significant.",
+        "stems": [
+            "intern",
+            "common",
+            "way",
+            "polit",
+            "parti",
+            "recogn",
+            "oper",
+            "often",
+            "mani",
+            "differ",
+            "signific"
+        ],
         "synonyms": [
             "International",
             "commonalty",
@@ -378,7 +391,7 @@
             "dispute",
             "significant"
         ],
-        "tagged": [
+        "tags": [
             [
                 "international",
                 "JJ"
@@ -752,6 +765,19 @@
         "meronyms": [],
         "ner_tag": "{'Many': 'O', 'political': 'O', 'parties': 'O', 'have': 'O', 'an': 'O', 'ideological': 'O', 'core': 'O', ',': 'O', 'but': 'O', 'some': 'O', 'do': 'O', 'not': 'O', 'and': 'O', 'many': 'O', 'represent': 'O', 'very': 'O', 'different': 'O', 'ideologies': 'O', 'than': 'O', 'they': 'O', 'did': 'O', 'when': 'O', 'first': 'ORDINAL', 'founded': 'O', '.': 'O'}",
         "sentence": "Many political parties have an ideological core, but some do not, and many represent very different ideologies than they did when first founded.",
+        "stems": [
+            "mani",
+            "polit",
+            "parti",
+            "ideolog",
+            "core",
+            "mani",
+            "repres",
+            "differ",
+            "ideolog",
+            "first",
+            "found"
+        ],
         "synonyms": [
             "many",
             "political",
@@ -765,7 +791,7 @@
             "first_gear",
             "establish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -1013,6 +1039,15 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'democracies': 'O', ',': 'O', 'political': 'O', 'parties': 'O', 'are': 'O', 'elected': 'O', 'by': 'O', 'the': 'O', 'electorate': 'O', 'to': 'O', 'run': 'O', 'a': 'O', 'government': 'O', '.': 'O'}",
         "sentence": "In democracies, political parties are elected by the electorate to run a government.",
+        "stems": [
+            "democraci",
+            "polit",
+            "parti",
+            "elect",
+            "elector",
+            "run",
+            "govern"
+        ],
         "synonyms": [
             "democracy",
             "political",
@@ -1022,7 +1057,7 @@
             "tend",
             "government"
         ],
-        "tagged": [
+        "tags": [
             [
                 "democracies",
                 "NNS"
@@ -1383,6 +1418,20 @@
         ],
         "ner_tag": "{'Many': 'O', 'countries': 'O', 'have': 'O', 'numerous': 'O', 'powerful': 'O', 'political': 'O', 'parties': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'Germany': 'COUNTRY', 'and': 'O', 'India': 'COUNTRY', 'some': 'O', 'nations': 'O', 'one': 'NUMBER', '-': 'NUMBER', 'party': 'NUMBER', 'systems': 'O', 'China': 'COUNTRY', '.': 'O'}",
         "sentence": "Many countries have numerous powerful political parties, such as Germany and India and some nations have one-party systems, such as China.",
+        "stems": [
+            "mani",
+            "countri",
+            "numer",
+            "power",
+            "polit",
+            "parti",
+            "germani",
+            "india",
+            "nation",
+            "one-parti",
+            "system",
+            "china"
+        ],
         "synonyms": [
             "many",
             "state",
@@ -1397,7 +1446,7 @@
             "system",
             "Taiwan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -1764,6 +1813,19 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', 'is': 'O', 'a': 'O', 'two': 'NUMBER', '-': 'NUMBER', 'party': 'NUMBER', 'system': 'O', ',': 'O', 'with': 'O', 'its': 'O', 'most': 'O', 'powerful': 'O', 'parties': 'O', 'being': 'O', 'the': 'O', 'Democratic': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'and': 'O', 'Republican': 'ORGANIZATION', '.': 'O'}",
         "sentence": "The United States is a two-party system, with its two most powerful parties being the Democratic Party and the Republican Party.",
+        "stems": [
+            "unit",
+            "state",
+            "two-parti",
+            "system",
+            "two",
+            "power",
+            "parti",
+            "democrat",
+            "parti",
+            "republican",
+            "parti"
+        ],
         "synonyms": [
             "united",
             "state",
@@ -1777,7 +1839,7 @@
             "republican",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "united",
                 "JJ"
@@ -2233,6 +2295,24 @@
         ],
         "ner_tag": "{'The': 'O', 'first': 'ORDINAL', 'political': 'O', 'factions': 'O', ',': 'O', 'cohering': 'O', 'around': 'O', 'a': 'O', 'basic': 'O', 'if': 'O', 'fluid': 'O', 'set': 'O', 'of': 'O', 'principles': 'O', 'emerged': 'O', 'from': 'O', 'the': 'O', 'Exclusion': 'MISC', 'Crisis': 'MISC', 'and': 'O', 'Glorious': 'O', 'Revolution': 'O', 'in': 'O', 'late': 'O', '-': 'O', '17th': 'O', 'century': 'O', 'England': 'COUNTRY', '.': 'O'}",
         "sentence": "The first political factions, cohering around a basic, if fluid, set of principles emerged from the Exclusion Crisis and Glorious Revolution in late-17th-century England.",
+        "stems": [
+            "first",
+            "polit",
+            "faction",
+            "coher",
+            "around",
+            "basic",
+            "fluid",
+            "set",
+            "principl",
+            "emerg",
+            "exclus",
+            "crisi",
+            "gloriou",
+            "revolut",
+            "late-17th-centuri",
+            "england"
+        ],
         "synonyms": [
             "first_gear",
             "political",
@@ -2251,7 +2331,7 @@
             "late-17th-century",
             "England"
         ],
-        "tagged": [
+        "tags": [
             [
                 "first",
                 "RB"
@@ -3578,6 +3658,63 @@
         ],
         "ner_tag": "{'The': 'O', 'Whigs': 'MISC', 'supported': 'O', 'Protestant': 'RELIGION', 'constitutional': 'O', 'monarchy': 'O', 'against': 'O', 'absolute': 'O', 'rule': 'O', 'and': 'O', 'the': 'O', 'Tories': 'O', ',': 'O', 'originating': 'O', 'in': 'O', 'Royalist': 'O', '(': 'O', 'or': 'O', '``': 'O', 'Cavalier': 'O', \"''\": 'O', ')': 'O', 'faction': 'O', 'of': 'O', 'English': 'NATIONALITY', 'Civil': 'MISC', 'War': 'CAUSE_OF_DEATH', 'were': 'O', 'conservative': 'IDEOLOGY', 'royalist': 'O', 'supporters': 'O', 'a': 'O', 'strong': 'O', 'as': 'O', 'counterbalance': 'O', 'to': 'O', 'republican': 'IDEOLOGY', 'tendencies': 'O', 'who': 'O', 'dominant': 'O', 'political': 'O', 'for': 'O', 'most': 'O', 'first': 'DATE', 'half': 'DATE', '18th': 'DATE', 'century': 'DATE', ';': 'O', 'they': 'O', 'Hanoverian': 'MISC', 'succession': 'O', '1715': 'DATE', 'Jacobite': 'MISC', 'deposed': 'O', 'Roman': 'ORGANIZATION', 'Catholic': 'ORGANIZATION', 'Stuart': 'ORGANIZATION', 'dynasty': 'O', 'able': 'O', 'purge': 'O', 'Tory': 'ORGANIZATION', 'politicians': 'O', 'from': 'O', 'important': 'O', 'government': 'O', 'positions': 'O', 'after': 'O', 'failed': 'O', 'rising': 'O', '.': 'O'}",
         "sentence": "The Whigs supported Protestant constitutional monarchy against absolute rule and the Tories, originating in the Royalist (or \"Cavalier\") faction of the English Civil War, were conservative royalist supporters of a strong monarchy as a counterbalance to the republican tendencies of Whigs, who were the dominant political faction for most of the first half of the 18th century; they supported the Hanoverian succession of 1715 against the Jacobite supporters of the deposed Roman Catholic Stuart dynasty and were able to purge Tory politicians from important government positions after the failed Jacobite rising of 1715.",
+        "stems": [
+            "whig",
+            "support",
+            "protest",
+            "constitut",
+            "monarchi",
+            "absolut",
+            "rule",
+            "tori",
+            "origin",
+            "royalist",
+            "``",
+            "cavali",
+            "''",
+            "faction",
+            "english",
+            "civil",
+            "war",
+            "conserv",
+            "royalist",
+            "support",
+            "strong",
+            "monarchi",
+            "counterbal",
+            "republican",
+            "tendenc",
+            "whig",
+            "domin",
+            "polit",
+            "faction",
+            "first",
+            "half",
+            "18th",
+            "centuri",
+            "support",
+            "hanoverian",
+            "success",
+            "1715",
+            "jacobit",
+            "support",
+            "depos",
+            "roman",
+            "cathol",
+            "stuart",
+            "dynasti",
+            "abl",
+            "purg",
+            "tori",
+            "politician",
+            "import",
+            "govern",
+            "posit",
+            "fail",
+            "jacobit",
+            "rise",
+            "1715"
+        ],
         "synonyms": [
             "Whig",
             "support",
@@ -3635,7 +3772,7 @@
             "rise",
             "1715"
         ],
-        "tagged": [
+        "tags": [
             [
                 "whigs",
                 "NNS"
@@ -4307,6 +4444,21 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'leader': 'TITLE', 'of': 'O', 'the': 'O', 'Whigs': 'MISC', 'was': 'O', 'Robert': 'PERSON', 'Walpole': 'PERSON', ',': 'O', 'who': 'O', 'maintained': 'O', 'control': 'O', 'government': 'O', 'in': 'O', 'period': 'O', '1721': 'DATE', '–': 'O', '1742': 'DATE', ';': 'O', 'his': 'O', 'protégé': 'O', 'Henry': 'PERSON', 'Pelham': 'PERSON', '(': 'O', '1743': 'DATE', '1754': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "The leader of the Whigs was Robert Walpole, who maintained control of the government in the period 1721–1742; his protégé was Henry Pelham (1743–1754).",
+        "stems": [
+            "leader",
+            "whig",
+            "robert",
+            "walpol",
+            "maintain",
+            "control",
+            "govern",
+            "period",
+            "1721–1742",
+            "protégé",
+            "henri",
+            "pelham",
+            "1743–1754"
+        ],
         "synonyms": [
             "leader",
             "Whig",
@@ -4322,7 +4474,7 @@
             "Pelham",
             "1743–1754"
         ],
-        "tagged": [
+        "tags": [
             [
                 "leader",
                 "NN"
@@ -4728,6 +4880,22 @@
         ],
         "ner_tag": "{'As': 'O', 'the': 'O', 'century': 'DATE', 'wore': 'O', 'on': 'O', ',': 'O', 'factions': 'O', 'slowly': 'O', 'began': 'O', 'to': 'O', 'adopt': 'O', 'more': 'O', 'coherent': 'O', 'political': 'O', 'tendencies': 'O', 'as': 'O', 'interests': 'O', 'of': 'O', 'their': 'O', 'power': 'O', 'bases': 'O', 'diverge': 'O', '.': 'O'}",
         "sentence": "As the century wore on, the factions slowly began to adopt more coherent political tendencies as the interests of their power bases began to diverge.",
+        "stems": [
+            "centuri",
+            "wore",
+            "faction",
+            "slowli",
+            "began",
+            "adopt",
+            "coher",
+            "polit",
+            "tendenc",
+            "interest",
+            "power",
+            "base",
+            "began",
+            "diverg"
+        ],
         "synonyms": [
             "century",
             "wear",
@@ -4744,7 +4912,7 @@
             "begin",
             "diverge"
         ],
-        "tagged": [
+        "tags": [
             [
                 "century",
                 "NN"
@@ -5134,6 +5302,24 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Whig': 'IDEOLOGY', 'party': 'O', \"'s\": 'O', 'initial': 'O', 'base': 'O', 'of': 'O', 'support': 'O', 'from': 'O', 'the': 'O', 'great': 'O', 'aristocratic': 'O', 'families': 'O', ',': 'O', 'widened': 'O', 'to': 'O', 'include': 'O', 'emerging': 'O', 'industrial': 'O', 'interests': 'O', 'and': 'O', 'wealthy': 'O', 'merchants': 'O', '.': 'O'}",
         "sentence": "The Whig party's initial base of support from the great aristocratic families, widened to include the emerging industrial interests and wealthy merchants.",
+        "stems": [
+            "whig",
+            "parti",
+            "'s",
+            "initi",
+            "base",
+            "support",
+            "great",
+            "aristocrat",
+            "famili",
+            "widen",
+            "includ",
+            "emerg",
+            "industri",
+            "interest",
+            "wealthi",
+            "merchant"
+        ],
         "synonyms": [
             "Whig",
             "party",
@@ -5152,7 +5338,7 @@
             "affluent",
             "merchant"
         ],
-        "tagged": [
+        "tags": [
             [
                 "whig",
                 "NN"
@@ -5733,6 +5919,30 @@
         "meronyms": [],
         "ner_tag": "{'As': 'O', 'well': 'O', 'as': 'O', 'championing': 'O', 'constitutional': 'O', 'monarchy': 'O', 'with': 'O', 'strict': 'O', 'limits': 'O', 'on': 'O', 'the': 'O', 'monarch': 'O', \"'s\": 'O', 'power': 'O', ',': 'O', 'Whigs': 'MISC', 'adamantly': 'O', 'opposed': 'O', 'a': 'O', 'Catholic': 'RELIGION', 'king': 'TITLE', 'threat': 'O', 'to': 'O', 'liberty': 'O', 'and': 'O', 'believed': 'O', 'in': 'O', 'extending': 'O', 'toleration': 'O', 'nonconformist': 'O', 'Protestants': 'O', 'or': 'O', 'dissenters': 'O', '.': 'O'}",
         "sentence": "As well as championing constitutional monarchy with strict limits on the monarch's power, the Whigs adamantly opposed a Catholic king as a threat to liberty, and believed in extending toleration to nonconformist Protestants, or dissenters.",
+        "stems": [
+            "well",
+            "champion",
+            "constitut",
+            "monarchi",
+            "strict",
+            "limit",
+            "monarch",
+            "'s",
+            "power",
+            "whig",
+            "adamantli",
+            "oppos",
+            "cathol",
+            "king",
+            "threat",
+            "liberti",
+            "believ",
+            "extend",
+            "toler",
+            "nonconformist",
+            "protest",
+            "dissent"
+        ],
         "synonyms": [
             "well",
             "champion",
@@ -5757,7 +5967,7 @@
             "Protestant_Church",
             "dissenter"
         ],
-        "tagged": [
+        "tags": [
             [
                 "well",
                 "RB"
@@ -6213,6 +6423,23 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'major': 'O', 'influence': 'O', 'on': 'O', 'the': 'O', 'Whigs': 'MISC', 'were': 'O', 'liberal': 'IDEOLOGY', 'political': 'O', 'ideas': 'O', 'of': 'O', 'John': 'PERSON', 'Locke': 'PERSON', ',': 'O', 'and': 'O', 'concepts': 'O', 'universal': 'O', 'rights': 'O', 'employed': 'O', 'by': 'O', 'Algernon': 'PERSON', 'Sidney': 'PERSON', '.': 'O'}",
         "sentence": "A major influence on the Whigs were the liberal political ideas of John Locke, and the concepts of universal rights employed by Locke and Algernon Sidney.",
+        "stems": [
+            "major",
+            "influenc",
+            "whig",
+            "liber",
+            "polit",
+            "idea",
+            "john",
+            "lock",
+            "concept",
+            "univers",
+            "right",
+            "employ",
+            "lock",
+            "algernon",
+            "sidney"
+        ],
         "synonyms": [
             "major",
             "influence",
@@ -6230,7 +6457,7 @@
             "algernon",
             "Sidney"
         ],
-        "tagged": [
+        "tags": [
             [
                 "major",
                 "JJ"
@@ -7097,6 +7324,39 @@
         ],
         "ner_tag": "{'Although': 'O', 'the': 'O', 'Tories': 'ORGANIZATION', 'were': 'O', 'dismissed': 'O', 'from': 'O', 'office': 'O', 'for': 'O', 'half': 'O', 'a': 'DURATION', 'century': 'DURATION', ',': 'O', 'most': 'O', 'of': 'O', 'this': 'O', 'period': 'O', '(': 'O', 'at': 'O', 'first': 'ORDINAL', 'under': 'O', 'leadership': 'O', 'Sir': 'O', 'William': 'PERSON', 'Wyndham': 'PERSON', ')': 'O', 'retained': 'O', 'party': 'O', 'cohesion': 'O', 'with': 'O', 'occasional': 'O', 'hopes': 'O', 'regaining': 'O', 'particularly': 'O', 'accession': 'O', 'George': 'PERSON', 'II': 'PERSON', '1727': 'DATE', 'and': 'O', 'downfall': 'O', 'ministry': 'O', 'Robert': 'PERSON', 'Walpole': 'PERSON', 'in': 'O', '1742': 'DATE', '.': 'O'}",
         "sentence": "Although the Tories were dismissed from office for half a century, for most of this period (at first under the leadership of Sir William Wyndham), the Tories retained party cohesion, with occasional hopes of regaining office, particularly at the accession of George II (1727) and the downfall of the ministry of Sir Robert Walpole in 1742.",
+        "stems": [
+            "although",
+            "tori",
+            "dismiss",
+            "offic",
+            "half",
+            "centuri",
+            "period",
+            "first",
+            "leadership",
+            "sir",
+            "william",
+            "wyndham",
+            "tori",
+            "retain",
+            "parti",
+            "cohes",
+            "occasion",
+            "hope",
+            "regain",
+            "offic",
+            "particularli",
+            "access",
+            "georg",
+            "ii",
+            "1727",
+            "downfal",
+            "ministri",
+            "sir",
+            "robert",
+            "walpol",
+            "1742"
+        ],
         "synonyms": [
             "although",
             "Tory",
@@ -7130,7 +7390,7 @@
             "Walpole",
             "1742"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -7488,6 +7748,16 @@
         "meronyms": [],
         "ner_tag": "{'They': 'O', 'acted': 'O', 'as': 'O', 'a': 'O', 'united': 'O', ',': 'O', 'though': 'O', 'unavailing': 'O', 'opposition': 'O', 'to': 'O', 'Whig': 'IDEOLOGY', 'corruption': 'O', 'and': 'O', 'scandals': 'O', '.': 'O'}",
         "sentence": "They acted as a united, though unavailing, opposition to Whig corruption and scandals.",
+        "stems": [
+            "act",
+            "unit",
+            "though",
+            "unavail",
+            "opposit",
+            "whig",
+            "corrupt",
+            "scandal"
+        ],
         "synonyms": [
             "act",
             "united",
@@ -7498,7 +7768,7 @@
             "putrescence",
             "scandal"
         ],
-        "tagged": [
+        "tags": [
             [
                 "acted",
                 "VBN"
@@ -8053,6 +8323,28 @@
         "meronyms": [],
         "ner_tag": "{'At': 'O', 'times': 'O', 'they': 'O', 'cooperated': 'O', 'with': 'O', 'the': 'O', '``': 'O', 'Opposition': 'MISC', 'Whigs': 'MISC', \"''\": 'O', ',': 'O', 'who': 'O', 'were': 'O', 'in': 'O', 'opposition': 'O', 'to': 'O', 'Whig': 'IDEOLOGY', 'government': 'O', ';': 'O', 'however': 'O', 'ideological': 'O', 'gap': 'O', 'between': 'O', 'Tories': 'O', 'and': 'O', 'prevented': 'O', 'them': 'O', 'from': 'O', 'coalescing': 'O', 'as': 'O', 'a': 'O', 'single': 'O', 'party': 'O', '.': 'O'}",
         "sentence": "At times they cooperated with the \"Opposition Whigs\", Whigs who were in opposition to the Whig government; however, the ideological gap between the Tories and the Opposition Whigs prevented them from coalescing as a single party.",
+        "stems": [
+            "time",
+            "cooper",
+            "``",
+            "opposit",
+            "whig",
+            "''",
+            "whig",
+            "opposit",
+            "whig",
+            "govern",
+            "howev",
+            "ideolog",
+            "gap",
+            "tori",
+            "opposit",
+            "whig",
+            "prevent",
+            "coalesc",
+            "singl",
+            "parti"
+        ],
         "synonyms": [
             "times",
             "collaborate",
@@ -8075,7 +8367,7 @@
             "single",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "times",
                 "NNS"
@@ -8378,6 +8670,17 @@
         "meronyms": [],
         "ner_tag": "{'They': 'O', 'finally': 'O', 'regained': 'O', 'power': 'O', 'with': 'O', 'the': 'O', 'accession': 'O', 'of': 'O', 'George': 'PERSON', 'III': 'PERSON', 'in': 'O', '1760': 'DATE', 'under': 'O', 'Lord': 'O', 'Bute': 'O', '.': 'O'}",
         "sentence": "They finally regained power with the accession of George III in 1760 under Lord Bute.",
+        "stems": [
+            "final",
+            "regain",
+            "power",
+            "access",
+            "georg",
+            "iii",
+            "1760",
+            "lord",
+            "bute"
+        ],
         "synonyms": [
             "ultimately",
             "recover",
@@ -8389,7 +8692,7 @@
             "overlord",
             "bute"
         ],
-        "tagged": [
+        "tags": [
             [
                 "finally",
                 "RB"
@@ -9031,6 +9334,37 @@
         ],
         "ner_tag": "{'When': 'O', 'they': 'O', 'lost': 'O', 'power': 'O', ',': 'O', 'the': 'O', 'old': 'O', 'Whig': 'IDEOLOGY', 'leadership': 'O', 'dissolved': 'O', 'into': 'O', 'a': 'DURATION', 'decade': 'DURATION', 'of': 'O', 'factional': 'O', 'chaos': 'O', 'with': 'O', 'distinct': 'O', '``': 'O', 'Grenvillite': 'O', \"''\": 'O', 'Bedfordite': 'O', 'Rockinghamite': 'O', 'and': 'O', 'Chathamite': 'O', 'factions': 'O', 'successively': 'O', 'in': 'O', 'all': 'O', 'referring': 'O', 'to': 'O', 'themselves': 'O', 'as': 'O', 'Whigs': 'MISC', '.': 'O'}",
         "sentence": "When they lost power, the old Whig leadership dissolved into a decade of factional chaos with distinct \"Grenvillite\", \"Bedfordite\", \"Rockinghamite\", and \"Chathamite\" factions successively in power, and all referring to themselves as \"Whigs\".",
+        "stems": [
+            "lost",
+            "power",
+            "old",
+            "whig",
+            "leadership",
+            "dissolv",
+            "decad",
+            "faction",
+            "chao",
+            "distinct",
+            "``",
+            "grenvillit",
+            "''",
+            "``",
+            "bedfordit",
+            "''",
+            "``",
+            "rockinghamit",
+            "''",
+            "``",
+            "chathamit",
+            "''",
+            "faction",
+            "success",
+            "power",
+            "refer",
+            "``",
+            "whig",
+            "''"
+        ],
         "synonyms": [
             "suffer",
             "world_power",
@@ -9062,7 +9396,7 @@
             "Whig",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "lost",
                 "VBN"
@@ -9352,6 +9686,13 @@
         "meronyms": [],
         "ner_tag": "{'Out': 'O', 'of': 'O', 'this': 'O', 'chaos': 'O', ',': 'O', 'the': 'O', 'first': 'ORDINAL', 'distinctive': 'O', 'parties': 'O', 'emerged': 'O', '.': 'O'}",
         "sentence": "Out of this chaos, the first distinctive parties emerged.",
+        "stems": [
+            "chao",
+            "first",
+            "distinct",
+            "parti",
+            "emerg"
+        ],
         "synonyms": [
             "chaos",
             "first_gear",
@@ -9359,7 +9700,7 @@
             "party",
             "come_forth"
         ],
-        "tagged": [
+        "tags": [
             [
                 "chaos",
                 "NN"
@@ -9719,6 +10060,21 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'first': 'ORDINAL', 'such': 'O', 'party': 'O', 'was': 'O', 'the': 'O', 'Rockingham': 'ORGANIZATION', 'Whigs': 'ORGANIZATION', 'under': 'O', 'leadership': 'O', 'of': 'O', 'Charles': 'PERSON', 'Watson': 'PERSON', '-': 'PERSON', 'Wentworth': 'PERSON', 'and': 'O', 'intellectual': 'O', 'guidance': 'O', 'political': 'O', 'philosopher': 'TITLE', 'Edmund': 'PERSON', 'Burke': 'PERSON', '.': 'O'}",
         "sentence": "The first such party was the Rockingham Whigs under the leadership of Charles Watson-Wentworth and the intellectual guidance of the political philosopher Edmund Burke.",
+        "stems": [
+            "first",
+            "parti",
+            "rockingham",
+            "whig",
+            "leadership",
+            "charl",
+            "watson-wentworth",
+            "intellectu",
+            "guidanc",
+            "polit",
+            "philosoph",
+            "edmund",
+            "burk"
+        ],
         "synonyms": [
             "first_gear",
             "party",
@@ -9734,7 +10090,7 @@
             "edmund",
             "burke"
         ],
-        "tagged": [
+        "tags": [
             [
                 "first",
                 "RB"
@@ -10331,6 +10687,30 @@
         "meronyms": [],
         "ner_tag": "{'Burke': 'PERSON', 'laid': 'O', 'out': 'O', 'a': 'O', 'philosophy': 'O', 'that': 'O', 'described': 'O', 'the': 'O', 'basic': 'O', 'framework': 'O', 'of': 'O', 'political': 'O', 'party': 'O', 'as': 'O', '``': 'O', 'body': 'O', 'men': 'O', 'united': 'O', 'for': 'O', 'promoting': 'O', 'by': 'O', 'their': 'O', 'joint': 'O', 'endeavours': 'O', 'national': 'O', 'interest': 'O', ',': 'O', 'upon': 'O', 'some': 'O', 'particular': 'O', 'principle': 'O', 'in': 'O', 'which': 'O', 'they': 'O', 'are': 'O', 'all': 'O', 'agreed': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "Burke laid out a philosophy that described the basic framework of the political party as \"a body of men united for promoting by their joint endeavours the national interest, upon some particular principle in which they are all agreed\".",
+        "stems": [
+            "burk",
+            "laid",
+            "philosophi",
+            "describ",
+            "basic",
+            "framework",
+            "polit",
+            "parti",
+            "``",
+            "bodi",
+            "men",
+            "unit",
+            "promot",
+            "joint",
+            "endeavour",
+            "nation",
+            "interest",
+            "upon",
+            "particular",
+            "principl",
+            "agre",
+            "''"
+        ],
         "synonyms": [
             "burke",
             "put",
@@ -10355,7 +10735,7 @@
             "agree",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "burke",
                 "NN"
@@ -11057,6 +11437,31 @@
         ],
         "ner_tag": "{'As': 'O', 'opposed': 'O', 'to': 'O', 'the': 'O', 'instability': 'O', 'of': 'O', 'earlier': 'O', 'factions': 'O', ',': 'O', 'which': 'O', 'were': 'O', 'often': 'O', 'tied': 'O', 'a': 'O', 'particular': 'O', 'leader': 'TITLE', 'and': 'O', 'could': 'O', 'disintegrate': 'O', 'if': 'O', 'removed': 'O', 'from': 'O', 'power': 'O', 'party': 'O', 'was': 'O', 'centred': 'O', 'around': 'O', 'set': 'O', 'core': 'O', 'principles': 'O', 'remained': 'O', 'out': 'O', 'as': 'O', 'united': 'O', 'opposition': 'O', 'government': 'O', '.': 'O'}",
         "sentence": "As opposed to the instability of the earlier factions, which were often tied to a particular leader and could disintegrate if removed from power, the party was centred around a set of core principles and remained out of power as a united opposition to government.",
+        "stems": [
+            "oppos",
+            "instabl",
+            "earlier",
+            "faction",
+            "often",
+            "tie",
+            "particular",
+            "leader",
+            "could",
+            "disintegr",
+            "remov",
+            "power",
+            "parti",
+            "centr",
+            "around",
+            "set",
+            "core",
+            "principl",
+            "remain",
+            "power",
+            "unit",
+            "opposit",
+            "govern"
+        ],
         "synonyms": [
             "react",
             "imbalance",
@@ -11082,7 +11487,7 @@
             "opposition",
             "government"
         ],
-        "tagged": [
+        "tags": [
             [
                 "opposed",
                 "VBN"
@@ -11437,6 +11842,17 @@
         ],
         "ner_tag": "{'The': 'O', 'modern': 'O', 'Conservative': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'was': 'O', 'created': 'O', 'out': 'O', 'of': 'O', 'the': 'DATE', \"'\": 'O', 'Pittite': 'O', 'Tories': 'O', 'early': 'DATE', '19th': 'DATE', 'century': 'DATE', '.': 'O'}",
         "sentence": "The modern Conservative Party was created out of the 'Pittite' Tories of the early 19th century.",
+        "stems": [
+            "modern",
+            "conserv",
+            "parti",
+            "creat",
+            "'pittit",
+            "tori",
+            "earli",
+            "19th",
+            "centuri"
+        ],
         "synonyms": [
             "Modern",
             "Conservative",
@@ -11448,7 +11864,7 @@
             "nineteenth",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "modern",
                 "JJ"
@@ -11661,6 +12077,15 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'late': 'O', '1820s': 'SET', 'disputes': 'O', 'over': 'O', 'political': 'O', 'reform': 'O', 'broke': 'O', 'up': 'O', 'this': 'O', 'grouping': 'O', '.': 'O'}",
         "sentence": "In the late 1820s disputes over political reform broke up this grouping.",
+        "stems": [
+            "late",
+            "1820",
+            "disput",
+            "polit",
+            "reform",
+            "broke",
+            "group"
+        ],
         "synonyms": [
             "late",
             "1820s",
@@ -11670,7 +12095,7 @@
             "unwrap",
             "grouping"
         ],
-        "tagged": [
+        "tags": [
             [
                 "late",
                 "RB"
@@ -11889,6 +12314,17 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'government': 'O', 'led': 'O', 'by': 'O', 'the': 'O', 'Duke': 'TITLE', 'of': 'O', 'Wellington': 'CITY', 'collapsed': 'O', 'amidst': 'O', 'dire': 'O', 'election': 'O', 'results': 'O', '.': 'O'}",
         "sentence": "A government led by the Duke of Wellington collapsed amidst dire election results.",
+        "stems": [
+            "govern",
+            "led",
+            "duke",
+            "wellington",
+            "collaps",
+            "amidst",
+            "dire",
+            "elect",
+            "result"
+        ],
         "synonyms": [
             "government",
             "run",
@@ -11900,7 +12336,7 @@
             "election",
             "solution"
         ],
-        "tagged": [
+        "tags": [
             [
                 "government",
                 "NN"
@@ -12136,6 +12572,17 @@
         ],
         "ner_tag": "{'Following': 'O', 'this': 'O', 'disaster': 'CAUSE_OF_DEATH', 'Robert': 'PERSON', 'Peel': 'PERSON', 'set': 'O', 'about': 'O', 'assembling': 'O', 'a': 'O', 'new': 'O', 'coalition': 'O', 'of': 'O', 'forces': 'O', '.': 'O'}",
         "sentence": "Following this disaster Robert Peel set about assembling a new coalition of forces.",
+        "stems": [
+            "follow",
+            "disast",
+            "robert",
+            "peel",
+            "set",
+            "assembl",
+            "new",
+            "coalit",
+            "forc"
+        ],
         "synonyms": [
             "take_after",
             "catastrophe",
@@ -12147,7 +12594,7 @@
             "alliance",
             "wedge"
         ],
-        "tagged": [
+        "tags": [
             [
                 "following",
                 "VBG"
@@ -12788,6 +13235,34 @@
         ],
         "ner_tag": "{'Peel': 'O', 'issued': 'O', 'the': 'O', 'Tamworth': 'CITY', 'Manifesto': 'O', 'in': 'O', '1834': 'DATE', 'which': 'O', 'set': 'O', 'out': 'O', 'basic': 'O', 'principles': 'O', 'of': 'O', 'Conservatism': 'IDEOLOGY', ';': 'O', '–': 'O', 'necessity': 'O', 'specific': 'O', 'cases': 'O', 'reform': 'O', 'order': 'O', 'to': 'O', 'survive': 'O', ',': 'O', 'but': 'O', 'an': 'O', 'opposition': 'O', 'unnecessary': 'O', 'change': 'O', 'that': 'O', 'could': 'O', 'lead': 'O', '``': 'O', 'a': 'O', 'perpetual': 'O', 'vortex': 'O', 'agitation': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "Peel issued the Tamworth Manifesto in 1834 which set out the basic principles of Conservatism; – the necessity in specific cases of reform in order to survive, but an opposition to unnecessary change, that could lead to \"a perpetual vortex of agitation\".",
+        "stems": [
+            "peel",
+            "issu",
+            "tamworth",
+            "manifesto",
+            "1834",
+            "set",
+            "basic",
+            "principl",
+            "conservat",
+            "–",
+            "necess",
+            "specif",
+            "case",
+            "reform",
+            "order",
+            "surviv",
+            "opposit",
+            "unnecessari",
+            "chang",
+            "could",
+            "lead",
+            "``",
+            "perpetu",
+            "vortex",
+            "agit",
+            "''"
+        ],
         "synonyms": [
             "peel",
             "issue",
@@ -12816,7 +13291,7 @@
             "agitation",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "peel",
                 "NN"
@@ -13571,6 +14046,35 @@
         "meronyms": [],
         "ner_tag": "{'Meanwhile': 'O', ',': 'O', 'the': 'O', 'Whigs': 'MISC', 'along': 'O', 'with': 'O', 'free': 'IDEOLOGY', 'trade': 'IDEOLOGY', 'Tory': 'MISC', 'followers': 'O', 'of': 'O', 'Robert': 'PERSON', 'Peel': 'PERSON', 'and': 'O', 'independent': 'RELIGION', 'Radicals': 'MISC', 'formed': 'O', 'Liberal': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'under': 'O', 'Lord': 'O', 'Palmerston': 'CITY', 'in': 'O', '1859': 'DATE', 'transformed': 'O', 'into': 'O', 'a': 'O', 'party': 'O', 'growing': 'O', 'urban': 'O', 'middle': 'IDEOLOGY', '-': 'IDEOLOGY', 'class': 'IDEOLOGY', 'long': 'O', 'leadership': 'O', 'William': 'PERSON', 'Ewart': 'PERSON', 'Gladstone': 'PERSON', '.': 'O'}",
         "sentence": "Meanwhile, the Whigs, along with free trade Tory followers of Robert Peel, and independent Radicals, formed the Liberal Party under Lord Palmerston in 1859, and transformed into a party of the growing urban middle-class, under the long leadership of William Ewart Gladstone.",
+        "stems": [
+            "meanwhil",
+            "whig",
+            "along",
+            "free",
+            "trade",
+            "tori",
+            "follow",
+            "robert",
+            "peel",
+            "independ",
+            "radic",
+            "form",
+            "liber",
+            "parti",
+            "lord",
+            "palmerston",
+            "1859",
+            "transform",
+            "parti",
+            "grow",
+            "urban",
+            "middle-class",
+            "long",
+            "leadership",
+            "william",
+            "ewart",
+            "gladston"
+        ],
         "synonyms": [
             "meanwhile",
             "Whig",
@@ -13600,7 +14104,7 @@
             "ewart",
             "portmanteau"
         ],
-        "tagged": [
+        "tags": [
             [
                 "meanwhile",
                 "RB"
@@ -14532,6 +15036,42 @@
         ],
         "ner_tag": "{'Although': 'O', 'the': 'O', 'Founding': 'O', 'Fathers': 'O', 'of': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', 'did': 'O', 'not': 'O', 'originally': 'O', 'intend': 'O', 'for': 'O', 'American': 'NATIONALITY', 'politics': 'O', 'to': 'O', 'be': 'O', 'partisan': 'O', ',': 'O', 'early': 'O', 'political': 'O', 'controversies': 'O', 'in': 'O', '1790s': 'DATE', 'over': 'O', 'extent': 'O', 'federal': 'O', 'government': 'O', 'powers': 'O', 'saw': 'O', 'emergence': 'O', 'two': 'NUMBER', 'proto': 'O', '-': 'ORGANIZATION', 'parties': 'O', 'Federalist': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'and': 'O', 'Democratic': 'ORGANIZATION', 'Republican': 'ORGANIZATION', 'which': 'O', 'were': 'O', 'championed': 'O', 'by': 'O', 'Framers': 'O', 'Alexander': 'PERSON', 'Hamilton': 'PERSON', 'James': 'PERSON', 'Madison': 'PERSON', 'respectively': 'O', '.': 'O'}",
         "sentence": "Although the Founding Fathers of the United States did not originally intend for American politics to be partisan, early political controversies in the 1790s over the extent of federal government powers saw the emergence of two proto-political parties- the Federalist Party and the Democratic-Republican Party, which were championed by Framers Alexander Hamilton and James Madison, respectively.",
+        "stems": [
+            "although",
+            "found",
+            "father",
+            "unit",
+            "state",
+            "origin",
+            "intend",
+            "american",
+            "polit",
+            "partisan",
+            "earli",
+            "polit",
+            "controversi",
+            "1790",
+            "extent",
+            "feder",
+            "govern",
+            "power",
+            "saw",
+            "emerg",
+            "two",
+            "proto-polit",
+            "parties-",
+            "federalist",
+            "parti",
+            "democratic-republican",
+            "parti",
+            "champion",
+            "framer",
+            "alexand",
+            "hamilton",
+            "jame",
+            "madison",
+            "respect"
+        ],
         "synonyms": [
             "although",
             "establish",
@@ -14568,7 +15108,7 @@
             "Madison",
             "respectively"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -15093,6 +15633,23 @@
         ],
         "ner_tag": "{'However': 'O', ',': 'O', 'a': 'O', 'consensus': 'O', 'reached': 'O', 'on': 'O', 'these': 'O', 'issues': 'O', 'ended': 'O', 'party': 'O', 'politics': 'O', 'in': 'O', '1816': 'DATE', 'for': 'O', 'decade': 'DURATION', 'period': 'O', 'commonly': 'O', 'known': 'O', 'as': 'O', 'the': 'O', 'Era': 'O', 'of': 'O', 'Good': 'O', 'Feelings': 'O', '.': 'O'}",
         "sentence": "However, a consensus reached on these issues ended party politics in 1816 for a decade, a period commonly known as the Era of Good Feelings.",
+        "stems": [
+            "howev",
+            "consensu",
+            "reach",
+            "issu",
+            "end",
+            "parti",
+            "polit",
+            "1816",
+            "decad",
+            "period",
+            "commonli",
+            "known",
+            "era",
+            "good",
+            "feel"
+        ],
         "synonyms": [
             "however",
             "consensus",
@@ -15110,7 +15667,7 @@
             "well",
             "spirit"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -15591,6 +16148,23 @@
         "meronyms": [],
         "ner_tag": "{'At': 'O', 'the': 'O', 'same': 'O', 'time': 'O', ',': 'O', 'political': 'O', 'party': 'O', 'reached': 'O', 'its': 'O', 'modern': 'O', 'form': 'O', 'with': 'O', 'a': 'O', 'membership': 'O', 'disciplined': 'O', 'through': 'O', 'use': 'O', 'of': 'O', 'whip': 'O', 'and': 'O', 'implementation': 'O', 'efficient': 'O', 'structures': 'O', 'control': 'O', '.': 'O'}",
         "sentence": "At the same time, the political party reached its modern form, with a membership disciplined through the use of a party whip and the implementation of efficient structures of control.",
+        "stems": [
+            "time",
+            "polit",
+            "parti",
+            "reach",
+            "modern",
+            "form",
+            "membership",
+            "disciplin",
+            "use",
+            "parti",
+            "whip",
+            "implement",
+            "effici",
+            "structur",
+            "control"
+        ],
         "synonyms": [
             "time",
             "political",
@@ -15608,7 +16182,7 @@
             "structure",
             "master"
         ],
-        "tagged": [
+        "tags": [
             [
                 "time",
                 "NN"
@@ -16089,6 +16663,28 @@
         ],
         "ner_tag": "{'The': 'O', 'Home': 'O', 'Rule': 'O', 'League': 'ORGANIZATION', 'Party': 'ORGANIZATION', ',': 'O', 'campaigning': 'O', 'for': 'O', 'Ireland': 'COUNTRY', 'in': 'O', 'the': 'DATE', 'British': 'ORGANIZATION', 'Parliament': 'ORGANIZATION', 'was': 'O', 'fundamentally': 'O', 'changed': 'O', 'by': 'O', 'great': 'O', 'Irish': 'NATIONALITY', 'political': 'O', 'leader': 'TITLE', 'Charles': 'PERSON', 'Stewart': 'PERSON', 'Parnell': 'PERSON', '1880s': 'DATE', '.': 'O'}",
         "sentence": "The Home Rule League Party, campaigning for Home Rule for Ireland in the British Parliament was fundamentally changed by the great Irish political leader Charles Stewart Parnell in the 1880s.",
+        "stems": [
+            "home",
+            "rule",
+            "leagu",
+            "parti",
+            "campaign",
+            "home",
+            "rule",
+            "ireland",
+            "british",
+            "parliament",
+            "fundament",
+            "chang",
+            "great",
+            "irish",
+            "polit",
+            "leader",
+            "charl",
+            "stewart",
+            "parnel",
+            "1880"
+        ],
         "synonyms": [
             "home_plate",
             "rule",
@@ -16111,7 +16707,7 @@
             "Parnell",
             "eighties"
         ],
-        "tagged": [
+        "tags": [
             [
                 "home",
                 "NN"
@@ -16651,6 +17247,30 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '1882': 'DATE', ',': 'O', 'he': 'O', 'changed': 'O', 'his': 'O', 'party': 'O', \"'s\": 'O', 'name': 'O', 'to': 'O', 'the': 'O', 'Irish': 'ORGANIZATION', 'Parliamentary': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'and': 'O', 'created': 'O', 'a': 'O', 'well': 'O', '-': 'O', 'organized': 'O', 'grass': 'O', 'roots': 'O', 'structure': 'O', 'introducing': 'O', 'membership': 'O', 'replace': 'O', '``': 'O', 'ad': 'O', 'hoc': 'O', \"''\": 'O', 'informal': 'O', 'groupings': 'O', '.': 'O'}",
         "sentence": "In 1882, he changed his party's name to the Irish Parliamentary Party and created a well-organized grass roots structure, introducing membership to replace \"ad hoc\" informal groupings.",
+        "stems": [
+            "1882",
+            "chang",
+            "parti",
+            "'s",
+            "name",
+            "irish",
+            "parliamentari",
+            "parti",
+            "creat",
+            "well-organ",
+            "grass",
+            "root",
+            "structur",
+            "introduc",
+            "membership",
+            "replac",
+            "``",
+            "ad",
+            "hoc",
+            "''",
+            "inform",
+            "group"
+        ],
         "synonyms": [
             "1882",
             "change",
@@ -16675,7 +17295,7 @@
             "cozy",
             "grouping"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1882",
                 "CD"
@@ -17344,6 +17964,31 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'created': 'O', 'a': 'O', 'new': 'O', 'selection': 'O', 'procedure': 'O', 'to': 'O', 'ensure': 'O', 'the': 'O', 'professional': 'O', 'of': 'O', 'party': 'O', 'candidates': 'O', 'committed': 'O', 'taking': 'O', 'their': 'O', 'seats': 'O', ',': 'O', 'and': 'O', 'in': 'O', '1884': 'DATE', 'he': 'O', 'imposed': 'O', 'firm': 'O', \"'\": 'O', 'pledge': 'O', 'which': 'O', 'obliged': 'O', 'MPs': 'O', 'vote': 'O', 'as': 'O', 'bloc': 'O', 'parliament': 'O', 'on': 'O', 'all': 'O', 'occasions': 'O', '.': 'O'}",
         "sentence": "He created a new selection procedure to ensure the professional selection of party candidates committed to taking their seats, and in 1884 he imposed a firm 'party pledge' which obliged MPs to vote as a bloc in parliament on all occasions.",
+        "stems": [
+            "creat",
+            "new",
+            "select",
+            "procedur",
+            "ensur",
+            "profession",
+            "select",
+            "parti",
+            "candid",
+            "commit",
+            "take",
+            "seat",
+            "1884",
+            "impos",
+            "firm",
+            "'parti",
+            "pledg",
+            "oblig",
+            "mp",
+            "vote",
+            "bloc",
+            "parliament",
+            "occas"
+        ],
         "synonyms": [
             "produce",
             "newfangled",
@@ -17369,7 +18014,7 @@
             "parliament",
             "occasion"
         ],
-        "tagged": [
+        "tags": [
             [
                 "created",
                 "VBN"
@@ -17714,6 +18359,17 @@
         ],
         "ner_tag": "{'The': 'O', 'creation': 'O', 'of': 'O', 'a': 'O', 'strict': 'O', 'party': 'O', 'whip': 'O', 'and': 'O', 'formal': 'O', 'structure': 'O', 'was': 'O', 'unique': 'O', 'at': 'O', 'the': 'O', 'time': 'DATE', '.': 'O'}",
         "sentence": "The creation of a strict party whip and a formal party structure was unique at the time.",
+        "stems": [
+            "creation",
+            "strict",
+            "parti",
+            "whip",
+            "formal",
+            "parti",
+            "structur",
+            "uniqu",
+            "time"
+        ],
         "synonyms": [
             "universe",
             "rigorous",
@@ -17725,7 +18381,7 @@
             "unique",
             "time"
         ],
-        "tagged": [
+        "tags": [
             [
                 "creation",
                 "NN"
@@ -18197,6 +18853,28 @@
         "meronyms": [],
         "ner_tag": "{'His': 'O', 'party': 'O', \"'s\": 'O', 'efficient': 'O', 'structure': 'O', 'and': 'O', 'control': 'O', 'contrasted': 'O', 'with': 'O', 'the': 'O', 'loose': 'O', 'rules': 'O', 'flexible': 'O', 'informality': 'O', 'found': 'O', 'in': 'O', 'main': 'O', 'British': 'NATIONALITY', 'parties': 'O', ';': 'O', '–': 'O', 'they': 'O', 'soon': 'O', 'came': 'O', 'to': 'O', 'model': 'TITLE', 'themselves': 'O', 'on': 'O', 'Parnellite': 'O', '.': 'O'}",
         "sentence": "His party's efficient structure and control contrasted with the loose rules and flexible informality found in the main British parties; – they soon came to model themselves on the Parnellite model.",
+        "stems": [
+            "parti",
+            "'s",
+            "effici",
+            "structur",
+            "control",
+            "contrast",
+            "loos",
+            "rule",
+            "flexibl",
+            "inform",
+            "found",
+            "main",
+            "british",
+            "parti",
+            "–",
+            "soon",
+            "came",
+            "model",
+            "parnellit",
+            "model"
+        ],
         "synonyms": [
             "party",
             "'s",
@@ -18219,7 +18897,7 @@
             "parnellite",
             "model"
         ],
-        "tagged": [
+        "tags": [
             [
                 "party",
                 "NN"
@@ -19184,6 +19862,44 @@
         ],
         "ner_tag": "{'A': 'O', 'political': 'O', 'party': 'O', 'is': 'O', 'typically': 'O', 'led': 'O', 'by': 'O', 'a': 'O', 'leader': 'TITLE', '(': 'O', 'the': 'O', 'most': 'O', 'powerful': 'O', 'member': 'O', 'and': 'O', 'spokesperson': 'TITLE', 'representing': 'O', ')': 'O', ',': 'O', 'secretary': 'TITLE', 'who': 'O', 'maintains': 'O', 'daily': 'SET', 'work': 'O', 'records': 'O', 'of': 'O', 'meetings': 'O', 'treasurer': 'TITLE', 'responsible': 'O', 'for': 'O', 'membership': 'O', 'dues': 'O', 'chair': 'O', 'forms': 'O', 'strategies': 'O', 'recruiting': 'O', 'retaining': 'O', 'members': 'O', 'also': 'O', 'chairs': 'O', '.': 'O'}",
         "sentence": "A political party is typically led by a party leader (the most powerful member and spokesperson representing the party), a party secretary (who maintains the daily work and records of party meetings), party treasurer (who is responsible for membership dues) and party chair (who forms strategies for recruiting and retaining party members, and also chairs party meetings).",
+        "stems": [
+            "polit",
+            "parti",
+            "typic",
+            "led",
+            "parti",
+            "leader",
+            "power",
+            "member",
+            "spokesperson",
+            "repres",
+            "parti",
+            "parti",
+            "secretari",
+            "maintain",
+            "daili",
+            "work",
+            "record",
+            "parti",
+            "meet",
+            "parti",
+            "treasur",
+            "respons",
+            "membership",
+            "due",
+            "parti",
+            "chair",
+            "form",
+            "strategi",
+            "recruit",
+            "retain",
+            "parti",
+            "member",
+            "also",
+            "chair",
+            "parti",
+            "meet"
+        ],
         "synonyms": [
             "political",
             "party",
@@ -19222,7 +19938,7 @@
             "party",
             "meeting"
         ],
-        "tagged": [
+        "tags": [
             [
                 "political",
                 "JJ"
@@ -19760,6 +20476,21 @@
         ],
         "ner_tag": "{'Most': 'O', 'of': 'O', 'the': 'O', 'above': 'O', 'positions': 'O', 'are': 'O', 'also': 'O', 'members': 'O', 'party': 'O', 'executive': 'TITLE', ',': 'O', 'leading': 'O', 'organization': 'O', 'which': 'O', 'sets': 'O', 'policy': 'O', 'for': 'O', 'entire': 'O', 'at': 'O', 'national': 'O', 'level': 'O', '.': 'O'}",
         "sentence": "Most of the above positions are also members of the party executive, the leading organization which sets policy for the entire party at the national level.",
+        "stems": [
+            "posit",
+            "also",
+            "member",
+            "parti",
+            "execut",
+            "lead",
+            "organ",
+            "set",
+            "polici",
+            "entir",
+            "parti",
+            "nation",
+            "level"
+        ],
         "synonyms": [
             "status",
             "besides",
@@ -19775,7 +20506,7 @@
             "national",
             "tied"
         ],
-        "tagged": [
+        "tags": [
             [
                 "positions",
                 "NNS"
@@ -20189,6 +20920,21 @@
         ],
         "ner_tag": "{'The': 'O', 'structure': 'O', 'is': 'O', 'far': 'O', 'more': 'O', 'decentralized': 'O', 'in': 'O', 'the': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', 'because': 'O', 'of': 'O', 'separation': 'O', 'powers': 'O', ',': 'O', 'federalism': 'IDEOLOGY', 'and': 'O', 'multiplicity': 'O', 'economic': 'O', 'interests': 'O', 'religious': 'O', 'sects': 'O', '.': 'O'}",
         "sentence": "The structure is far more decentralized in the United States because of the separation of powers, federalism and the multiplicity of economic interests and religious sects.",
+        "stems": [
+            "structur",
+            "far",
+            "decentr",
+            "unit",
+            "state",
+            "separ",
+            "power",
+            "feder",
+            "multipl",
+            "econom",
+            "interest",
+            "religi",
+            "sect"
+        ],
         "synonyms": [
             "structure",
             "far",
@@ -20204,7 +20950,7 @@
             "religious",
             "sect"
         ],
-        "tagged": [
+        "tags": [
             [
                 "structure",
                 "NN"
@@ -20517,6 +21263,20 @@
         "meronyms": [],
         "ner_tag": "{'Even': 'O', 'state': 'O', 'parties': 'O', 'are': 'O', 'decentralized': 'O', 'as': 'O', 'county': 'O', 'and': 'O', 'other': 'O', 'local': 'O', 'committees': 'O', 'largely': 'O', 'independent': 'RELIGION', 'of': 'O', 'central': 'O', '.': 'O'}",
         "sentence": "Even state parties are decentralized as county and other local committees are largely independent of state central committees.",
+        "stems": [
+            "even",
+            "state",
+            "parti",
+            "decentr",
+            "counti",
+            "local",
+            "committe",
+            "larg",
+            "independ",
+            "state",
+            "central",
+            "committe"
+        ],
         "synonyms": [
             "tied",
             "state",
@@ -20531,7 +21291,7 @@
             "central",
             "committee"
         ],
-        "tagged": [
+        "tags": [
             [
                 "even",
                 "RB"
@@ -21103,6 +21863,26 @@
         ],
         "ner_tag": "{'The': 'O', 'national': 'O', 'party': 'O', 'leader': 'TITLE', 'in': 'O', 'the': 'O', 'U.S.': 'COUNTRY', 'will': 'O', 'be': 'O', 'president': 'TITLE', ',': 'O', 'if': 'O', 'holds': 'O', 'that': 'O', 'office': 'O', 'or': 'O', 'a': 'O', 'prominent': 'O', 'member': 'O', 'of': 'O', 'Congress': 'ORGANIZATION', 'opposition': 'O', '(': 'O', 'although': 'O', 'big': 'O', '-': 'O', 'state': 'O', 'governor': 'TITLE', 'may': 'O', 'aspire': 'O', 'to': 'O', 'role': 'O', ')': 'O', '.': 'O'}",
         "sentence": "The national party leader in the U.S. will be the president, if the party holds that office, or a prominent member of Congress in opposition (although a big-state governor may aspire to that role).",
+        "stems": [
+            "nation",
+            "parti",
+            "leader",
+            "u.s.",
+            "presid",
+            "parti",
+            "hold",
+            "offic",
+            "promin",
+            "member",
+            "congress",
+            "opposit",
+            "although",
+            "big-stat",
+            "governor",
+            "may",
+            "aspir",
+            "role"
+        ],
         "synonyms": [
             "national",
             "party",
@@ -21123,7 +21903,7 @@
             "draw_a_bead_on",
             "role"
         ],
-        "tagged": [
+        "tags": [
             [
                 "national",
                 "JJ"
@@ -21618,6 +22398,23 @@
         "meronyms": [],
         "ner_tag": "{'Officially': 'O', ',': 'O', 'each': 'O', 'party': 'O', 'has': 'O', 'a': 'O', 'chairman': 'TITLE', 'for': 'O', 'its': 'O', 'national': 'O', 'committee': 'O', 'who': 'O', 'is': 'O', 'prominent': 'O', 'spokesman': 'TITLE', 'organizer': 'TITLE', 'and': 'O', 'fund': 'O', '-': 'O', 'raiser': 'O', 'but': 'O', 'without': 'O', 'the': 'O', 'status': 'O', 'of': 'O', 'elected': 'O', 'office': 'O', 'holders': 'O', '.': 'O'}",
         "sentence": "Officially, each party has a chairman for its national committee who is a prominent spokesman, organizer and fund-raiser, but without the status of prominent elected office holders.",
+        "stems": [
+            "offici",
+            "parti",
+            "chairman",
+            "nation",
+            "committe",
+            "promin",
+            "spokesman",
+            "organ",
+            "fund-rais",
+            "without",
+            "statu",
+            "promin",
+            "elect",
+            "offic",
+            "holder"
+        ],
         "synonyms": [
             "officially",
             "party",
@@ -21635,7 +22432,7 @@
             "position",
             "holder"
         ],
-        "tagged": [
+        "tags": [
             [
                 "officially",
                 "RB"
@@ -22603,6 +23400,47 @@
         ],
         "ner_tag": "{'When': 'O', 'the': 'O', 'party': 'O', 'is': 'O', 'represented': 'O', 'by': 'O', 'members': 'O', 'in': 'O', 'lower': 'O', 'house': 'O', 'of': 'O', 'parliament': 'O', ',': 'O', 'leader': 'TITLE', 'simultaneously': 'O', 'serves': 'O', 'as': 'O', 'parliamentary': 'O', 'group': 'O', 'that': 'O', 'full': 'O', 'representation': 'O', ';': 'O', 'depending': 'O', 'on': 'O', 'a': 'O', 'minimum': 'O', 'number': 'O', 'seats': 'O', 'held': 'O', 'Westminster': 'CITY', '-': 'O', 'based': 'O', 'parties': 'O', 'typically': 'O', 'allow': 'O', 'for': 'O', 'leaders': 'O', 'to': 'O', 'form': 'O', 'frontbench': 'O', 'teams': 'O', 'senior': 'O', 'fellow': 'O', 'serve': 'O', 'critics': 'O', 'aspects': 'O', 'government': 'O', 'policy': 'O', '.': 'O'}",
         "sentence": "When the party is represented by members in the lower house of parliament, the party leader simultaneously serves as the leader of the parliamentary group of that full party representation; depending on a minimum number of seats held, Westminster-based parties typically allow for leaders to form frontbench teams of senior fellow members of the parliamentary group to serve as critics of aspects of government policy.",
+        "stems": [
+            "parti",
+            "repres",
+            "member",
+            "lower",
+            "hous",
+            "parliament",
+            "parti",
+            "leader",
+            "simultan",
+            "serv",
+            "leader",
+            "parliamentari",
+            "group",
+            "full",
+            "parti",
+            "represent",
+            "depend",
+            "minimum",
+            "number",
+            "seat",
+            "held",
+            "westminster-bas",
+            "parti",
+            "typic",
+            "allow",
+            "leader",
+            "form",
+            "frontbench",
+            "team",
+            "senior",
+            "fellow",
+            "member",
+            "parliamentari",
+            "group",
+            "serv",
+            "critic",
+            "aspect",
+            "govern",
+            "polici"
+        ],
         "synonyms": [
             "party",
             "typify",
@@ -22644,7 +23482,7 @@
             "government",
             "policy"
         ],
-        "tagged": [
+        "tags": [
             [
                 "party",
                 "NN"
@@ -23315,6 +24153,32 @@
         ],
         "ner_tag": "{'When': 'O', 'a': 'O', 'party': 'O', 'becomes': 'O', 'the': 'O', 'largest': 'O', 'not': 'O', 'part': 'O', 'of': 'O', 'Government': 'O', ',': 'O', \"'s\": 'O', 'parliamentary': 'O', 'group': 'O', 'forms': 'O', 'Official': 'O', 'Opposition': 'O', 'with': 'O', 'frontbench': 'O', 'team': 'O', 'members': 'O', 'often': 'O', 'forming': 'O', 'Shadow': 'O', 'cabinet': 'O', '.': 'O'}",
         "sentence": "When a party becomes the largest party not part of the Government, the party's parliamentary group forms the Official Opposition, with Official Opposition frontbench team members often forming the Official Opposition Shadow cabinet.",
+        "stems": [
+            "parti",
+            "becom",
+            "largest",
+            "parti",
+            "part",
+            "govern",
+            "parti",
+            "'s",
+            "parliamentari",
+            "group",
+            "form",
+            "offici",
+            "opposit",
+            "offici",
+            "opposit",
+            "frontbench",
+            "team",
+            "member",
+            "often",
+            "form",
+            "offici",
+            "opposit",
+            "shadow",
+            "cabinet"
+        ],
         "synonyms": [
             "party",
             "become",
@@ -23341,7 +24205,7 @@
             "tail",
             "cabinet"
         ],
-        "tagged": [
+        "tags": [
             [
                 "party",
                 "NN"
@@ -23784,6 +24648,22 @@
         "meronyms": [],
         "ner_tag": "{'When': 'O', 'a': 'O', 'party': 'O', 'achieves': 'O', 'enough': 'O', 'seats': 'O', 'in': 'O', 'an': 'O', 'election': 'O', 'to': 'O', 'form': 'O', 'majority': 'O', ',': 'O', 'the': 'O', \"'s\": 'O', 'frontbench': 'O', 'becomes': 'O', 'Cabinet': 'ORGANIZATION', 'of': 'O', 'government': 'O', 'ministers': 'O', '.': 'O'}",
         "sentence": "When a party achieves enough seats in an election to form a majority, the party's frontbench becomes the Cabinet of government ministers.",
+        "stems": [
+            "parti",
+            "achiev",
+            "enough",
+            "seat",
+            "elect",
+            "form",
+            "major",
+            "parti",
+            "'s",
+            "frontbench",
+            "becom",
+            "cabinet",
+            "govern",
+            "minist"
+        ],
         "synonyms": [
             "party",
             "achieve",
@@ -23800,7 +24680,7 @@
             "government",
             "minister"
         ],
-        "tagged": [
+        "tags": [
             [
                 "party",
                 "NN"
@@ -24296,6 +25176,25 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'freedom': 'O', 'to': 'O', 'form': 'O', ',': 'O', 'declare': 'O', 'membership': 'O', 'in': 'O', 'or': 'O', 'campaign': 'O', 'for': 'O', 'candidates': 'O', 'from': 'O', 'a': 'O', 'political': 'O', 'party': 'O', 'is': 'O', 'considered': 'O', 'measurement': 'O', 'of': 'O', 'state': 'O', \"'s\": 'O', 'adherence': 'O', 'liberal': 'IDEOLOGY', 'democracy': 'IDEOLOGY', 'as': 'O', 'value': 'O', '.': 'O'}",
         "sentence": "The freedom to form, declare membership in, or campaign for candidates from a political party is considered a measurement of a state's adherence to liberal democracy as a political value.",
+        "stems": [
+            "freedom",
+            "form",
+            "declar",
+            "membership",
+            "campaign",
+            "candid",
+            "polit",
+            "parti",
+            "consid",
+            "measur",
+            "state",
+            "'s",
+            "adher",
+            "liber",
+            "democraci",
+            "polit",
+            "valu"
+        ],
         "synonyms": [
             "freedom",
             "shape",
@@ -24315,7 +25214,7 @@
             "political",
             "value"
         ],
-        "tagged": [
+        "tags": [
             [
                 "freedom",
                 "NN"
@@ -25115,6 +26014,37 @@
         "meronyms": [],
         "ner_tag": "{'Regulation': 'O', 'of': 'O', 'parties': 'O', 'may': 'O', 'run': 'O', 'from': 'O', 'a': 'O', 'crackdown': 'O', 'on': 'O', 'or': 'O', 'repression': 'O', 'all': 'O', 'opposition': 'O', ',': 'O', 'norm': 'O', 'for': 'O', 'authoritarian': 'O', 'governments': 'O', 'to': 'O', 'the': 'O', 'certain': 'O', 'which': 'O', 'hold': 'O', 'promote': 'O', 'ideals': 'O', 'counter': 'O', 'general': 'TITLE', 'ideology': 'O', 'state': 'O', \"'s\": 'O', 'incumbents': 'O', '(': 'O', 'possess': 'O', 'membership': 'O', 'by': 'O', '-': 'O', 'laws': 'O', 'are': 'O', 'legally': 'O', 'unenforceable': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Regulation of parties may run from a crackdown on or repression of all opposition parties, a norm for authoritarian governments, to the repression of certain parties which hold or promote ideals which run counter to the general ideology of the state's incumbents (or possess membership by-laws which are legally unenforceable).",
+        "stems": [
+            "regul",
+            "parti",
+            "may",
+            "run",
+            "crackdown",
+            "repress",
+            "opposit",
+            "parti",
+            "norm",
+            "authoritarian",
+            "govern",
+            "repress",
+            "certain",
+            "parti",
+            "hold",
+            "promot",
+            "ideal",
+            "run",
+            "counter",
+            "gener",
+            "ideolog",
+            "state",
+            "'s",
+            "incumb",
+            "possess",
+            "membership",
+            "by-law",
+            "legal",
+            "unenforc"
+        ],
         "synonyms": [
             "rule",
             "party",
@@ -25146,7 +26076,7 @@
             "legally",
             "unenforceable"
         ],
-        "tagged": [
+        "tags": [
             [
                 "regulation",
                 "NN"
@@ -26083,6 +27013,42 @@
         "meronyms": [],
         "ner_tag": "{'Furthermore': 'O', ',': 'O', 'in': 'O', 'the': 'O', 'case': 'O', 'of': 'O', 'far': 'O', '-': 'O', 'right': 'O', 'left': 'O', 'and': 'O', 'regionalism': 'IDEOLOGY', 'parties': 'O', 'national': 'O', 'parliaments': 'O', 'much': 'O', 'European': 'ORGANIZATION', 'Union': 'ORGANIZATION', 'mainstream': 'O', 'political': 'O', 'may': 'O', 'form': 'O', 'an': 'O', 'informal': 'O', 'cordon': 'O', 'sanitarian': 'TITLE', 'which': 'O', 'applies': 'O', 'a': 'O', 'policy': 'O', 'non-cooperation': 'O', 'towards': 'O', 'those': 'O', '``': 'O', 'Outsider': 'O', 'Parties': 'O', \"''\": 'O', 'present': 'DATE', 'legislature': 'O', 'are': 'O', 'viewed': 'O', 'as': 'O', \"'\": 'O', 'anti-system': 'O', 'or': 'O', 'otherwise': 'O', 'unacceptable': 'O', 'for': 'O', 'government': 'O', '.': 'O'}",
         "sentence": "Furthermore, in the case of far-right, far-left and regionalism parties in the national parliaments of much of the European Union, mainstream political parties may form an informal cordon sanitarian which applies a policy of non-cooperation towards those \"Outsider Parties\" present in the legislature which are viewed as 'anti-system' or otherwise unacceptable for government.",
+        "stems": [
+            "furthermor",
+            "case",
+            "far-right",
+            "far-left",
+            "region",
+            "parti",
+            "nation",
+            "parliament",
+            "much",
+            "european",
+            "union",
+            "mainstream",
+            "polit",
+            "parti",
+            "may",
+            "form",
+            "inform",
+            "cordon",
+            "sanitarian",
+            "appli",
+            "polici",
+            "non-cooper",
+            "toward",
+            "``",
+            "outsid",
+            "parti",
+            "''",
+            "present",
+            "legislatur",
+            "view",
+            "'anti-system",
+            "otherwis",
+            "unaccept",
+            "govern"
+        ],
         "synonyms": [
             "furthermore",
             "subject",
@@ -26119,7 +27085,7 @@
             "unacceptable",
             "government"
         ],
-        "tagged": [
+        "tags": [
             [
                 "furthermore",
                 "RB"
@@ -26986,6 +27952,41 @@
         ],
         "ner_tag": "{'Cordon': 'MISC', 'Sanitarian': 'TITLE', ',': 'O', 'however': 'O', 'have': 'O', 'been': 'O', 'increasingly': 'O', 'abandoned': 'O', 'over': 'O', 'the': 'O', 'past': 'DURATION', 'two': 'DURATION', 'decades': 'DURATION', 'in': 'O', 'multi-party': 'O', 'democracies': 'O', 'as': 'O', 'pressure': 'O', 'to': 'O', 'construct': 'O', 'broad': 'O', 'coalitions': 'O', 'order': 'O', 'win': 'O', 'elections': 'O', '–': 'O', 'along': 'O', 'with': 'O', 'increased': 'O', 'willingness': 'O', 'of': 'O', 'outsider': 'O', 'parties': 'O', 'themselves': 'O', 'participate': 'O', 'government': 'O', 'has': 'O', 'led': 'O', 'many': 'O', 'such': 'O', 'entering': 'O', 'electoral': 'O', 'and': 'O', '.': 'O'}",
         "sentence": "Cordon Sanitarian, however, have been increasingly abandoned over the past two decades in multi-party democracies as the pressure to construct broad coalitions in order to win elections – along with the increased willingness of outsider parties themselves to participate in government – has led to many such parties entering electoral and government coalitions.",
+        "stems": [
+            "cordon",
+            "sanitarian",
+            "howev",
+            "increasingli",
+            "abandon",
+            "past",
+            "two",
+            "decad",
+            "multi-parti",
+            "democraci",
+            "pressur",
+            "construct",
+            "broad",
+            "coalit",
+            "order",
+            "win",
+            "elect",
+            "–",
+            "along",
+            "increas",
+            "willing",
+            "outsid",
+            "parti",
+            "particip",
+            "govern",
+            "–",
+            "led",
+            "mani",
+            "parti",
+            "enter",
+            "elector",
+            "govern",
+            "coalit"
+        ],
         "synonyms": [
             "cordon",
             "sanitarian",
@@ -27021,7 +28022,7 @@
             "government",
             "alliance"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cordon",
                 "NN"
@@ -27427,6 +28428,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'a': 'O', 'nonpartisan': 'IDEOLOGY', 'system': 'O', ',': 'O', 'no': 'O', 'official': 'O', 'political': 'O', 'parties': 'O', 'exist': 'O', 'sometimes': 'O', 'reflecting': 'O', 'legal': 'O', 'restrictions': 'O', 'on': 'O', '.': 'O'}",
         "sentence": "In a nonpartisan system, no official political parties exist, sometimes reflecting legal restrictions on political parties.",
+        "stems": [
+            "nonpartisan",
+            "system",
+            "offici",
+            "polit",
+            "parti",
+            "exist",
+            "sometim",
+            "reflect",
+            "legal",
+            "restrict",
+            "polit",
+            "parti"
+        ],
         "synonyms": [
             "nonpartisan",
             "system",
@@ -27441,7 +28456,7 @@
             "political",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "nonpartisan",
                 "JJ"
@@ -27713,6 +28728,14 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'nonpartisan': 'IDEOLOGY', 'elections': 'O', ',': 'O', 'each': 'O', 'candidate': 'TITLE', 'is': 'O', 'eligible': 'O', 'for': 'O', 'office': 'O', 'on': 'O', 'his': 'O', 'or': 'O', 'her': 'O', 'own': 'O', 'merits': 'O', '.': 'O'}",
         "sentence": "In nonpartisan elections, each candidate is eligible for office on his or her own merits.",
+        "stems": [
+            "nonpartisan",
+            "elect",
+            "candid",
+            "elig",
+            "offic",
+            "merit"
+        ],
         "synonyms": [
             "nonpartisan",
             "election",
@@ -27721,7 +28744,7 @@
             "position",
             "merit"
         ],
-        "tagged": [
+        "tags": [
             [
                 "nonpartisan",
                 "JJ"
@@ -27944,6 +28967,16 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'nonpartisan': 'IDEOLOGY', 'legislatures': 'O', ',': 'O', 'there': 'O', 'are': 'O', 'no': 'O', 'typically': 'O', 'formal': 'O', 'party': 'O', 'alignments': 'O', 'within': 'O', 'the': 'O', 'legislature': 'O', '.': 'O'}",
         "sentence": "In nonpartisan legislatures, there are no typically formal party alignments within the legislature.",
+        "stems": [
+            "nonpartisan",
+            "legislatur",
+            "typic",
+            "formal",
+            "parti",
+            "align",
+            "within",
+            "legislatur"
+        ],
         "synonyms": [
             "nonpartisan",
             "legislature",
@@ -27954,7 +28987,7 @@
             "inside",
             "legislature"
         ],
-        "tagged": [
+        "tags": [
             [
                 "nonpartisan",
                 "JJ"
@@ -28224,6 +29257,17 @@
         ],
         "ner_tag": "{'The': 'O', 'administration': 'O', 'of': 'O', 'George': 'PERSON', 'Washington': 'PERSON', 'and': 'O', 'the': 'O', 'first': 'ORDINAL', 'few': 'O', 'sessions': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', 'Congress': 'ORGANIZATION', 'were': 'O', 'nonpartisan': 'IDEOLOGY', '.': 'O'}",
         "sentence": "The administration of George Washington and the first few sessions of the United States Congress were nonpartisan.",
+        "stems": [
+            "administr",
+            "georg",
+            "washington",
+            "first",
+            "session",
+            "unit",
+            "state",
+            "congress",
+            "nonpartisan"
+        ],
         "synonyms": [
             "presidency",
             "George",
@@ -28235,7 +29279,7 @@
             "sexual_intercourse",
             "nonpartisan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "administration",
                 "NN"
@@ -28425,6 +29469,15 @@
         "meronyms": [],
         "ner_tag": "{'Washington': 'STATE_OR_PROVINCE', 'also': 'O', 'warned': 'O', 'against': 'O', 'political': 'O', 'parties': 'O', 'during': 'O', 'his': 'O', 'Farewell': 'O', 'Address': 'O', '.': 'O'}",
         "sentence": "Washington also warned against political parties during his Farewell Address.",
+        "stems": [
+            "washington",
+            "also",
+            "warn",
+            "polit",
+            "parti",
+            "farewel",
+            "address"
+        ],
         "synonyms": [
             "Washington",
             "besides",
@@ -28434,7 +29487,7 @@
             "farewell",
             "address"
         ],
-        "tagged": [
+        "tags": [
             [
                 "washington",
                 "NN"
@@ -28750,6 +29803,19 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', ',': 'O', 'unicameral': 'O', 'legislature': 'O', 'of': 'O', 'Nebraska': 'STATE_OR_PROVINCE', 'is': 'O', 'nonpartisan': 'IDEOLOGY', 'but': 'O', 'elected': 'O', 'and': 'O', 'votes': 'O', 'on': 'O', 'informal': 'O', 'party': 'O', 'lines': 'O', '.': 'O'}",
         "sentence": "In the United States, the unicameral legislature of Nebraska is nonpartisan but is elected and votes on informal party lines.",
+        "stems": [
+            "unit",
+            "state",
+            "unicamer",
+            "legislatur",
+            "nebraska",
+            "nonpartisan",
+            "elect",
+            "vote",
+            "inform",
+            "parti",
+            "line"
+        ],
         "synonyms": [
             "united",
             "state",
@@ -28763,7 +29829,7 @@
             "party",
             "wrinkle"
         ],
-        "tagged": [
+        "tags": [
             [
                 "united",
                 "JJ"
@@ -29014,6 +30080,15 @@
         ],
         "ner_tag": "{'In': 'O', 'Canada': 'COUNTRY', ',': 'O', 'the': 'O', 'territorial': 'O', 'legislatures': 'O', 'of': 'O', 'Northwest': 'STATE_OR_PROVINCE', 'Territories': 'STATE_OR_PROVINCE', 'and': 'O', 'Nunavut': 'STATE_OR_PROVINCE', 'are': 'O', 'nonpartisan': 'IDEOLOGY', '.': 'O'}",
         "sentence": "In Canada, the territorial legislatures of the Northwest Territories and Nunavut are nonpartisan.",
+        "stems": [
+            "canada",
+            "territori",
+            "legislatur",
+            "northwest",
+            "territori",
+            "nunavut",
+            "nonpartisan"
+        ],
         "synonyms": [
             "Canada",
             "territorial",
@@ -29023,7 +30098,7 @@
             "Nunavut",
             "nonpartisan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "canada",
                 "JJ"
@@ -29189,6 +30264,13 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'New': 'COUNTRY', 'Zealand': 'COUNTRY', ',': 'O', 'Tokelau': 'LOCATION', 'has': 'O', 'a': 'O', 'nonpartisan': 'IDEOLOGY', 'parliament': 'O', '.': 'O'}",
         "sentence": "In New Zealand, Tokelau has a nonpartisan parliament.",
+        "stems": [
+            "new",
+            "zealand",
+            "tokelau",
+            "nonpartisan",
+            "parliament"
+        ],
         "synonyms": [
             "newfangled",
             "Zealand",
@@ -29196,7 +30278,7 @@
             "nonpartisan",
             "parliament"
         ],
-        "tagged": [
+        "tags": [
             [
                 "new",
                 "JJ"
@@ -29362,6 +30444,14 @@
         "meronyms": [],
         "ner_tag": "{'Many': 'O', 'city': 'O', 'and': 'O', 'county': 'O', 'governments': 'O', '[': 'O', 'vague': 'O', ']': 'O', 'are': 'O', 'nonpartisan': 'IDEOLOGY', '.': 'O'}",
         "sentence": "Many city and county governments[vague] are nonpartisan.",
+        "stems": [
+            "mani",
+            "citi",
+            "counti",
+            "govern",
+            "vagu",
+            "nonpartisan"
+        ],
         "synonyms": [
             "many",
             "city",
@@ -29370,7 +30460,7 @@
             "undefined",
             "nonpartisan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -29578,6 +30668,16 @@
         ],
         "ner_tag": "{'Nonpartisan': 'IDEOLOGY', 'elections': 'O', 'and': 'O', 'modes': 'O', 'of': 'O', 'governance': 'O', 'are': 'O', 'common': 'O', 'outside': 'O', 'state': 'O', 'institutions': 'O', '.': 'O'}",
         "sentence": "Nonpartisan elections and modes of governance are common outside of state institutions.",
+        "stems": [
+            "nonpartisan",
+            "elect",
+            "mode",
+            "govern",
+            "common",
+            "outsid",
+            "state",
+            "institut"
+        ],
         "synonyms": [
             "nonpartisan",
             "election",
@@ -29588,7 +30688,7 @@
             "state",
             "mental_hospital"
         ],
-        "tagged": [
+        "tags": [
             [
                 "nonpartisan",
                 "JJ"
@@ -29872,6 +30972,21 @@
         "meronyms": [],
         "ner_tag": "{'Unless': 'O', 'there': 'O', 'are': 'O', 'legal': 'O', 'prohibitions': 'O', 'against': 'O', 'political': 'O', 'parties': 'O', ',': 'O', 'factions': 'O', 'within': 'O', 'nonpartisan': 'IDEOLOGY', 'systems': 'O', 'often': 'O', 'evolve': 'O', 'into': 'O', '.': 'O'}",
         "sentence": "Unless there are legal prohibitions against political parties, factions within nonpartisan systems often evolve into political parties.",
+        "stems": [
+            "unless",
+            "legal",
+            "prohibit",
+            "polit",
+            "parti",
+            "faction",
+            "within",
+            "nonpartisan",
+            "system",
+            "often",
+            "evolv",
+            "polit",
+            "parti"
+        ],
         "synonyms": [
             "unless",
             "legal",
@@ -29887,7 +31002,7 @@
             "political",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "unless",
                 "IN"
@@ -30167,6 +31282,18 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'one': 'NUMBER', '-': 'NUMBER', 'party': 'O', 'systems': 'O', ',': 'O', 'political': 'O', 'is': 'O', 'legally': 'O', 'allowed': 'O', 'to': 'O', 'hold': 'O', 'effective': 'O', 'power': 'O', '.': 'O'}",
         "sentence": "In one-party systems, one political party is legally allowed to hold effective power.",
+        "stems": [
+            "one-parti",
+            "system",
+            "one",
+            "polit",
+            "parti",
+            "legal",
+            "allow",
+            "hold",
+            "effect",
+            "power"
+        ],
         "synonyms": [
             "one-party",
             "system",
@@ -30179,7 +31306,7 @@
             "effective",
             "world_power"
         ],
-        "tagged": [
+        "tags": [
             [
                 "one-party",
                 "JJ"
@@ -30493,6 +31620,20 @@
         "meronyms": [],
         "ner_tag": "{'Although': 'O', 'minor': 'O', 'parties': 'O', 'may': 'O', 'sometimes': 'O', 'be': 'O', 'allowed': 'O', ',': 'O', 'they': 'O', 'are': 'O', 'legally': 'O', 'required': 'O', 'to': 'O', 'accept': 'O', 'the': 'O', 'leadership': 'O', 'of': 'O', 'dominant': 'O', 'party': 'O', '.': 'O'}",
         "sentence": "Although minor parties may sometimes be allowed, they are legally required to accept the leadership of the dominant party.",
+        "stems": [
+            "although",
+            "minor",
+            "parti",
+            "may",
+            "sometim",
+            "allow",
+            "legal",
+            "requir",
+            "accept",
+            "leadership",
+            "domin",
+            "parti"
+        ],
         "synonyms": [
             "although",
             "minor",
@@ -30507,7 +31648,7 @@
             "prevailing",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -30926,6 +32067,24 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'party': 'O', 'may': 'O', 'not': 'O', 'always': 'O', 'be': 'O', 'identical': 'O', 'to': 'O', 'the': 'O', 'government': 'O', ',': 'O', 'although': 'O', 'sometimes': 'O', 'positions': 'O', 'within': 'O', 'in': 'O', 'fact': 'O', 'more': 'O', 'important': 'O', 'than': 'O', '.': 'O'}",
         "sentence": "This party may not always be identical to the government, although sometimes positions within the party may in fact be more important than positions within the government.",
+        "stems": [
+            "parti",
+            "may",
+            "alway",
+            "ident",
+            "govern",
+            "although",
+            "sometim",
+            "posit",
+            "within",
+            "parti",
+            "may",
+            "fact",
+            "import",
+            "posit",
+            "within",
+            "govern"
+        ],
         "synonyms": [
             "party",
             "whitethorn",
@@ -30944,7 +32103,7 @@
             "inside",
             "government"
         ],
-        "tagged": [
+        "tags": [
             [
                 "party",
                 "NN"
@@ -31326,6 +32485,20 @@
         ],
         "ner_tag": "{'North': 'COUNTRY', 'Korea': 'COUNTRY', 'and': 'DATE', 'China': 'COUNTRY', 'are': 'O', 'examples': 'O', ';': 'O', 'others': 'O', 'can': 'O', 'be': 'O', 'found': 'O', 'in': 'O', 'Fascist': 'MISC', 'states': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'Nazi': 'IDEOLOGY', 'Germany': 'COUNTRY', 'between': 'O', '1934': 'DATE', '1945': 'DATE', '.': 'O'}",
         "sentence": "North Korea and China are examples; others can be found in Fascist states, such as Nazi Germany between 1934 and 1945.",
+        "stems": [
+            "north",
+            "korea",
+            "china",
+            "exampl",
+            "other",
+            "found",
+            "fascist",
+            "state",
+            "nazi",
+            "germani",
+            "1934",
+            "1945"
+        ],
         "synonyms": [
             "north",
             "Korea",
@@ -31340,7 +32513,7 @@
             "1934",
             "1945"
         ],
-        "tagged": [
+        "tags": [
             [
                 "north",
                 "JJ"
@@ -31578,6 +32751,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'one': 'NUMBER', '-': 'NUMBER', 'party': 'NUMBER', 'system': 'O', 'is': 'O', 'thus': 'O', 'usually': 'O', 'equated': 'O', 'with': 'O', 'dictatorships': 'O', 'and': 'O', 'tyranny': 'O', '.': 'O'}",
         "sentence": "The one-party system is thus usually equated with dictatorships and tyranny.",
+        "stems": [
+            "one-parti",
+            "system",
+            "thu",
+            "usual",
+            "equat",
+            "dictatorship",
+            "tyranni"
+        ],
         "synonyms": [
             "one-party",
             "system",
@@ -31587,7 +32769,7 @@
             "dictatorship",
             "dictatorship"
         ],
-        "tagged": [
+        "tags": [
             [
                 "one-party",
                 "JJ"
@@ -32076,6 +33258,26 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'dominant': 'O', '-': 'O', 'party': 'O', 'systems': 'O', ',': 'O', 'opposition': 'O', 'parties': 'O', 'are': 'O', 'allowed': 'O', 'and': 'O', 'there': 'O', 'may': 'O', 'be': 'O', 'even': 'O', 'a': 'O', 'deeply': 'O', 'established': 'O', 'democratic': 'IDEOLOGY', 'tradition': 'O', 'but': 'O', 'other': 'O', 'widely': 'O', 'considered': 'O', 'to': 'O', 'have': 'O', 'no': 'O', 'real': 'O', 'chance': 'O', 'of': 'O', 'gaining': 'O', 'power': 'O', '.': 'O'}",
         "sentence": "In dominant-party systems, opposition parties are allowed, and there may be even a deeply established democratic tradition, but other parties are widely considered to have no real chance of gaining power.",
+        "stems": [
+            "dominant-parti",
+            "system",
+            "opposit",
+            "parti",
+            "allow",
+            "may",
+            "even",
+            "deepli",
+            "establish",
+            "democrat",
+            "tradit",
+            "parti",
+            "wide",
+            "consid",
+            "real",
+            "chanc",
+            "gain",
+            "power"
+        ],
         "synonyms": [
             "dominant-party",
             "system",
@@ -32096,7 +33298,7 @@
             "reach",
             "world_power"
         ],
-        "tagged": [
+        "tags": [
             [
                 "dominant-party",
                 "JJ"
@@ -32449,6 +33651,19 @@
         "meronyms": [],
         "ner_tag": "{'Sometimes': 'O', ',': 'O', 'political': 'O', 'social': 'O', 'and': 'O', 'economic': 'O', 'circumstances': 'O', 'public': 'O', 'opinion': 'O', 'are': 'O', 'the': 'O', 'reason': 'O', 'for': 'O', 'others': 'O', 'parties': 'O', \"'\": 'O', 'failure': 'O', '.': 'O'}",
         "sentence": "Sometimes, political, social and economic circumstances, and public opinion are the reason for others parties' failure.",
+        "stems": [
+            "sometim",
+            "polit",
+            "social",
+            "econom",
+            "circumst",
+            "public",
+            "opinion",
+            "reason",
+            "other",
+            "parti",
+            "failur"
+        ],
         "synonyms": [
             "sometimes",
             "political",
@@ -32462,7 +33677,7 @@
             "party",
             "failure"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sometimes",
                 "RB"
@@ -32917,6 +34132,25 @@
         ],
         "ner_tag": "{'Sometimes': 'O', ',': 'O', 'typically': 'O', 'in': 'O', 'countries': 'O', 'with': 'O', 'less': 'O', 'of': 'O', 'an': 'O', 'established': 'O', 'democratic': 'IDEOLOGY', 'tradition': 'O', 'it': 'O', 'is': 'O', 'possible': 'O', 'the': 'O', 'dominant': 'O', 'party': 'O', 'will': 'O', 'remain': 'O', 'power': 'O', 'by': 'O', 'using': 'O', 'patronage': 'O', 'and': 'O', 'sometimes': 'O', 'voting': 'O', 'fraud': 'CRIMINAL_CHARGE', '.': 'O'}",
         "sentence": "Sometimes, typically in countries with less of an established democratic tradition, it is possible the dominant party will remain in power by using patronage and sometimes by voting fraud.",
+        "stems": [
+            "sometim",
+            "typic",
+            "countri",
+            "less",
+            "establish",
+            "democrat",
+            "tradit",
+            "possibl",
+            "domin",
+            "parti",
+            "remain",
+            "power",
+            "use",
+            "patronag",
+            "sometim",
+            "vote",
+            "fraud"
+        ],
         "synonyms": [
             "sometimes",
             "typically",
@@ -32936,7 +34170,7 @@
             "vote",
             "imposter"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sometimes",
                 "RB"
@@ -33248,6 +34482,17 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'latter': 'O', 'case': 'O', ',': 'O', 'definition': 'O', 'between': 'O', 'dominant': 'O', 'and': 'O', 'one': 'NUMBER', '-': 'NUMBER', 'party': 'NUMBER', 'system': 'O', 'becomes': 'O', 'rather': 'O', 'blurred': 'O', '.': 'O'}",
         "sentence": "In the latter case, the definition between dominant and one-party system becomes rather blurred.",
+        "stems": [
+            "latter",
+            "case",
+            "definit",
+            "domin",
+            "one-parti",
+            "system",
+            "becom",
+            "rather",
+            "blur"
+        ],
         "synonyms": [
             "latter",
             "subject",
@@ -33259,7 +34504,7 @@
             "quite",
             "smear"
         ],
-        "tagged": [
+        "tags": [
             [
                 "latter",
                 "JJ"
@@ -33880,6 +35125,36 @@
         ],
         "ner_tag": "{'Examples': 'O', 'of': 'O', 'dominant': 'O', 'party': 'O', 'systems': 'O', 'include': 'O', 'the': 'O', 'People': 'ORGANIZATION', \"'s\": 'ORGANIZATION', 'Action': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'in': 'O', 'Singapore': 'COUNTRY', ',': 'O', 'African': 'ORGANIZATION', 'National': 'ORGANIZATION', 'Congress': 'ORGANIZATION', 'South': 'COUNTRY', 'Africa': 'COUNTRY', 'Cambodian': 'ORGANIZATION', 'Cambodia': 'COUNTRY', 'Liberal': 'ORGANIZATION', 'Democratic': 'ORGANIZATION', 'Japan': 'COUNTRY', 'and': 'O', 'Liberation': 'ORGANIZATION', 'Front': 'ORGANIZATION', 'Algeria': 'COUNTRY', '.': 'O'}",
         "sentence": "Examples of dominant party systems include the People's Action Party in Singapore, the African National Congress in South Africa, the Cambodian People's Party in Cambodia, the Liberal Democratic Party in Japan, and the National Liberation Front in Algeria.",
+        "stems": [
+            "exampl",
+            "domin",
+            "parti",
+            "system",
+            "includ",
+            "peopl",
+            "'s",
+            "action",
+            "parti",
+            "singapor",
+            "african",
+            "nation",
+            "congress",
+            "south",
+            "africa",
+            "cambodian",
+            "peopl",
+            "'s",
+            "parti",
+            "cambodia",
+            "liber",
+            "democrat",
+            "parti",
+            "japan",
+            "nation",
+            "liber",
+            "front",
+            "algeria"
+        ],
         "synonyms": [
             "model",
             "prevailing",
@@ -33910,7 +35185,7 @@
             "movement",
             "Algeria"
         ],
-        "tagged": [
+        "tags": [
             [
                 "examples",
                 "NNS"
@@ -34635,6 +35910,32 @@
         ],
         "ner_tag": "{'One': 'NUMBER', '-': 'NUMBER', 'party': 'NUMBER', 'dominant': 'O', 'system': 'O', 'also': 'O', 'existed': 'O', 'in': 'O', 'Mexico': 'COUNTRY', 'with': 'O', 'the': 'O', 'Institutional': 'ORGANIZATION', 'Revolutionary': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'until': 'O', '1990s': 'DATE', ',': 'O', 'southern': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', 'Democratic': 'ORGANIZATION', 'from': 'O', 'late': 'DATE', '19th': 'DATE', 'century': 'DATE', '1970s': 'DATE', 'Indonesia': 'COUNTRY', 'Golkar': 'MISC', 'early': 'O', '1998': 'DATE', '.': 'O'}",
         "sentence": "One-party dominant system also existed in Mexico with the Institutional Revolutionary Party until the 1990s, in the southern United States with the Democratic Party from the late 19th century until the 1970s, in Indonesia with the Golkar from the early 1970s until 1998.",
+        "stems": [
+            "one-parti",
+            "domin",
+            "system",
+            "also",
+            "exist",
+            "mexico",
+            "institut",
+            "revolutionari",
+            "parti",
+            "1990",
+            "southern",
+            "unit",
+            "state",
+            "democrat",
+            "parti",
+            "late",
+            "19th",
+            "centuri",
+            "1970",
+            "indonesia",
+            "golkar",
+            "earli",
+            "1970",
+            "1998"
+        ],
         "synonyms": [
             "one-party",
             "prevailing",
@@ -34661,7 +35962,7 @@
             "seventies",
             "1998"
         ],
-        "tagged": [
+        "tags": [
             [
                 "one-party",
                 "JJ"
@@ -34934,6 +36235,14 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', 'has': 'O', 'become': 'O', 'essentially': 'O', 'a': 'O', 'two': 'NUMBER', '-': 'NUMBER', 'party': 'NUMBER', 'system': 'O', '.': 'O'}",
         "sentence": "The United States has become essentially a two-party system.",
+        "stems": [
+            "unit",
+            "state",
+            "becom",
+            "essenti",
+            "two-parti",
+            "system"
+        ],
         "synonyms": [
             "united",
             "state",
@@ -34942,7 +36251,7 @@
             "bipartisan",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "united",
                 "JJ"
@@ -35342,6 +36651,22 @@
         "meronyms": [],
         "ner_tag": "{'Since': 'O', 'a': 'O', 'conservative': 'IDEOLOGY', '(': 'O', 'such': 'O', 'as': 'O', 'the': 'O', 'Republican': 'ORGANIZATION', 'Party': 'ORGANIZATION', ')': 'O', 'and': 'O', 'liberal': 'IDEOLOGY', 'Democratic': 'ORGANIZATION', 'party': 'O', 'has': 'O', 'usually': 'O', 'been': 'O', 'status': 'O', 'quo': 'O', 'within': 'O', 'American': 'NATIONALITY', 'politics': 'O', '.': 'O'}",
         "sentence": "Since a conservative (such as the Republican Party) and liberal (such as the Democratic Party) party has usually been the status quo within American politics.",
+        "stems": [
+            "sinc",
+            "conserv",
+            "republican",
+            "parti",
+            "liber",
+            "democrat",
+            "parti",
+            "parti",
+            "usual",
+            "statu",
+            "quo",
+            "within",
+            "american",
+            "polit"
+        ],
         "synonyms": [
             "since",
             "Conservative",
@@ -35358,7 +36683,7 @@
             "American",
             "politics"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -35785,6 +37110,24 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'first': 'ORDINAL', 'parties': 'O', 'were': 'O', 'called': 'O', 'Federalist': 'O', 'and': 'O', 'Republican': 'IDEOLOGY', ',': 'O', 'followed': 'O', 'by': 'O', 'a': 'O', 'brief': 'O', 'period': 'O', 'of': 'O', 'dominance': 'O', 'before': 'O', 'split': 'O', 'occurred': 'O', 'between': 'O', 'National': 'MISC', 'Republicans': 'MISC', 'Democratic': 'IDEOLOGY', '.': 'O'}",
         "sentence": "The first parties were called Federalist and Republican, followed by a brief period of Republican dominance before a split occurred between National Republicans and Democratic Republicans.",
+        "stems": [
+            "first",
+            "parti",
+            "call",
+            "federalist",
+            "republican",
+            "follow",
+            "brief",
+            "period",
+            "republican",
+            "domin",
+            "split",
+            "occur",
+            "nation",
+            "republican",
+            "democrat",
+            "republican"
+        ],
         "synonyms": [
             "first_gear",
             "party",
@@ -35803,7 +37146,7 @@
             "democratic",
             "Republican"
         ],
-        "tagged": [
+        "tags": [
             [
                 "first",
                 "JJ"
@@ -36066,6 +37409,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'former': 'O', 'became': 'O', 'the': 'O', 'Whig': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'and': 'O', 'latter': 'O', 'Democratic': 'ORGANIZATION', '.': 'O'}",
         "sentence": "The former became the Whig Party and the latter became the Democratic Party.",
+        "stems": [
+            "former",
+            "becam",
+            "whig",
+            "parti",
+            "latter",
+            "becam",
+            "democrat",
+            "parti"
+        ],
         "synonyms": [
             "former",
             "become",
@@ -36076,7 +37429,7 @@
             "democratic",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "former",
                 "JJ"
@@ -36559,6 +37912,25 @@
         ],
         "ner_tag": "{'The': 'O', 'Whigs': 'MISC', 'survived': 'O', 'only': 'O', 'for': 'O', 'two': 'DURATION', 'decades': 'DURATION', 'before': 'O', 'they': 'O', 'split': 'O', 'over': 'O', 'the': 'O', 'spread': 'O', 'of': 'O', 'slavery': 'O', ',': 'O', 'those': 'O', 'opposed': 'O', 'becoming': 'O', 'members': 'O', 'new': 'O', 'Republican': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'as': 'O', 'did': 'O', 'anti-slavery': 'O', 'Democratic': 'ORGANIZATION', '.': 'O'}",
         "sentence": "The Whigs survived only for two decades before they split over the spread of slavery, those opposed becoming members of the new Republican Party, as did anti-slavery members of the Democratic Party.",
+        "stems": [
+            "whig",
+            "surviv",
+            "two",
+            "decad",
+            "split",
+            "spread",
+            "slaveri",
+            "oppos",
+            "becom",
+            "member",
+            "new",
+            "republican",
+            "parti",
+            "anti-slaveri",
+            "member",
+            "democrat",
+            "parti"
+        ],
         "synonyms": [
             "Whig",
             "survive",
@@ -36578,7 +37950,7 @@
             "democratic",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "whigs",
                 "NNS"
@@ -36941,6 +38313,19 @@
         "meronyms": [],
         "ner_tag": "{'Third': 'ORDINAL', 'parties': 'O', '(': 'O', 'such': 'O', 'as': 'O', 'the': 'O', 'Libertarian': 'ORGANIZATION', 'Party': 'ORGANIZATION', ')': 'O', 'often': 'O', 'receive': 'O', 'little': 'O', 'support': 'O', 'and': 'O', 'are': 'O', 'very': 'O', 'rarely': 'O', 'victors': 'O', 'in': 'O', 'elections': 'O', '.': 'O'}",
         "sentence": "Third parties (such as the Libertarian Party) often receive little support and are very rarely the victors in elections.",
+        "stems": [
+            "third",
+            "parti",
+            "libertarian",
+            "parti",
+            "often",
+            "receiv",
+            "littl",
+            "support",
+            "rare",
+            "victor",
+            "elect"
+        ],
         "synonyms": [
             "third_gear",
             "party",
@@ -36954,7 +38339,7 @@
             "victor",
             "election"
         ],
-        "tagged": [
+        "tags": [
             [
                 "third",
                 "JJ"
@@ -37510,6 +38895,27 @@
         "meronyms": [],
         "ner_tag": "{'Despite': 'O', 'this': 'O', ',': 'O', 'there': 'O', 'have': 'O', 'been': 'O', 'several': 'O', 'examples': 'O', 'of': 'O', 'third': 'ORDINAL', 'parties': 'O', 'siphoning': 'O', 'votes': 'O', 'from': 'O', 'major': 'O', 'that': 'O', 'were': 'O', 'expected': 'O', 'to': 'O', 'win': 'O', '(': 'O', 'such': 'O', 'as': 'O', 'Theodore': 'PERSON', 'Roosevelt': 'PERSON', 'in': 'O', 'the': 'O', 'election': 'O', '1912': 'DATE', 'and': 'O', 'George': 'PERSON', 'Wallace': 'PERSON', '1968': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "Despite this, there have been several examples of third parties siphoning votes from major parties that were expected to win (such as Theodore Roosevelt in the election of 1912 and George Wallace in the election of 1968).",
+        "stems": [
+            "despit",
+            "sever",
+            "exampl",
+            "third",
+            "parti",
+            "siphon",
+            "vote",
+            "major",
+            "parti",
+            "expect",
+            "win",
+            "theodor",
+            "roosevelt",
+            "elect",
+            "1912",
+            "georg",
+            "wallac",
+            "elect",
+            "1968"
+        ],
         "synonyms": [
             "contempt",
             "several",
@@ -37531,7 +38937,7 @@
             "election",
             "1968"
         ],
-        "tagged": [
+        "tags": [
             [
                 "despite",
                 "IN"
@@ -37958,6 +39364,24 @@
         "meronyms": [],
         "ner_tag": "{'As': 'O', 'third': 'ORDINAL', 'party': 'O', 'movements': 'O', 'have': 'O', 'learned': 'O', ',': 'O', 'the': 'O', 'Electoral': 'ORGANIZATION', 'College': 'ORGANIZATION', \"'s\": 'O', 'requirement': 'O', 'of': 'O', 'a': 'O', 'nationally': 'O', 'distributed': 'O', 'majority': 'O', 'makes': 'O', 'it': 'O', 'difficult': 'O', 'for': 'O', 'parties': 'O', 'to': 'O', 'succeed': 'O', '.': 'O'}",
         "sentence": "As third party movements have learned, the Electoral College's requirement of a nationally distributed majority makes it difficult for third parties to succeed.",
+        "stems": [
+            "third",
+            "parti",
+            "movement",
+            "learn",
+            "elector",
+            "colleg",
+            "'s",
+            "requir",
+            "nation",
+            "distribut",
+            "major",
+            "make",
+            "difficult",
+            "third",
+            "parti",
+            "succeed"
+        ],
         "synonyms": [
             "third_gear",
             "party",
@@ -37976,7 +39400,7 @@
             "party",
             "succeed"
         ],
-        "tagged": [
+        "tags": [
             [
                 "third",
                 "JJ"
@@ -38392,6 +39816,25 @@
         "meronyms": [],
         "ner_tag": "{'Thus': 'O', ',': 'O', 'such': 'O', 'parties': 'O', 'rarely': 'O', 'win': 'O', 'many': 'O', 'electoral': 'O', 'votes': 'O', 'although': 'O', 'their': 'O', 'popular': 'O', 'support': 'O', 'within': 'O', 'a': 'O', 'state': 'O', 'may': 'O', 'tip': 'O', 'it': 'O', 'toward': 'O', 'one': 'NUMBER', 'party': 'O', 'or': 'O', 'the': 'O', 'other': 'O', '.': 'O'}",
         "sentence": "Thus, such parties rarely win many electoral votes, although their popular support within a state may tip it toward one party or the other.",
+        "stems": [
+            "thu",
+            "parti",
+            "rare",
+            "win",
+            "mani",
+            "elector",
+            "vote",
+            "although",
+            "popular",
+            "support",
+            "within",
+            "state",
+            "may",
+            "tip",
+            "toward",
+            "one",
+            "parti"
+        ],
         "synonyms": [
             "thus",
             "party",
@@ -38411,7 +39854,7 @@
             "one",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "thus",
                 "RB"
@@ -38600,6 +40043,13 @@
         "meronyms": [],
         "ner_tag": "{'Wallace': 'PERSON', 'had': 'O', 'weak': 'O', 'support': 'O', 'outside': 'O', 'the': 'O', 'South': 'LOCATION', '.': 'O'}",
         "sentence": "Wallace had weak support outside the South.",
+        "stems": [
+            "wallac",
+            "weak",
+            "support",
+            "outsid",
+            "south"
+        ],
         "synonyms": [
             "Wallace",
             "weak",
@@ -38607,7 +40057,7 @@
             "outside",
             "south"
         ],
-        "tagged": [
+        "tags": [
             [
                 "wallace",
                 "NN"
@@ -39196,6 +40646,31 @@
         ],
         "ner_tag": "{'More': 'O', 'generally': 'O', ',': 'O', 'parties': 'O', 'with': 'O', 'a': 'O', 'broad': 'O', 'base': 'O', 'of': 'O', 'support': 'O', 'across': 'O', 'regions': 'O', 'or': 'O', 'among': 'O', 'economic': 'O', 'and': 'O', 'other': 'O', 'interest': 'O', 'groups': 'O', 'have': 'O', 'great': 'O', 'chance': 'O', 'winning': 'O', 'the': 'O', 'necessary': 'O', 'plurality': 'O', 'in': 'O', 'U.S.': 'COUNTRY', \"'s\": 'O', 'largely': 'O', 'single': 'O', '-': 'O', 'member': 'O', 'district': 'O', 'winner': 'O', 'take': 'O', 'all': 'O', 'elections': 'O', '.': 'O'}",
         "sentence": "More generally, parties with a broad base of support across regions or among economic and other interest groups, have a great chance of winning the necessary plurality in the U.S.'s largely single-member district, winner-take-all elections.",
+        "stems": [
+            "gener",
+            "parti",
+            "broad",
+            "base",
+            "support",
+            "across",
+            "region",
+            "among",
+            "econom",
+            "interest",
+            "group",
+            "great",
+            "chanc",
+            "win",
+            "necessari",
+            "plural",
+            "u.s.",
+            "'s",
+            "larg",
+            "single-memb",
+            "district",
+            "winner-take-al",
+            "elect"
+        ],
         "synonyms": [
             "by_and_large",
             "party",
@@ -39221,7 +40696,7 @@
             "winner-take-all",
             "election"
         ],
-        "tagged": [
+        "tags": [
             [
                 "generally",
                 "RB"
@@ -39607,6 +41082,20 @@
         ],
         "ner_tag": "{'The': 'O', 'tremendous': 'O', 'land': 'O', 'area': 'O', 'and': 'O', 'large': 'O', 'population': 'O', 'of': 'O', 'the': 'O', 'country': 'O', 'are': 'O', 'formidable': 'O', 'challenges': 'O', 'to': 'O', 'political': 'O', 'parties': 'O', 'with': 'O', 'a': 'O', 'narrow': 'O', 'appeal': 'O', '.': 'O'}",
         "sentence": "The tremendous land area and large population of the country are formidable challenges to political parties with a narrow appeal.",
+        "stems": [
+            "tremend",
+            "land",
+            "area",
+            "larg",
+            "popul",
+            "countri",
+            "formid",
+            "challeng",
+            "polit",
+            "parti",
+            "narrow",
+            "appeal"
+        ],
         "synonyms": [
             "frightful",
             "state",
@@ -39621,7 +41110,7 @@
             "narrow",
             "solicitation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "tremendous",
                 "JJ"
@@ -40316,6 +41805,34 @@
         ],
         "ner_tag": "{'The': 'O', 'UK': 'COUNTRY', 'political': 'O', 'system': 'O', ',': 'O', 'while': 'O', 'technically': 'O', 'a': 'O', 'multi-party': 'O', 'has': 'O', 'functioned': 'O', 'generally': 'O', 'as': 'O', 'two': 'NUMBER', '-': 'NUMBER', 'party': 'O', '(': 'O', 'sometimes': 'O', 'called': 'O', '``': 'O', 'and': 'O', 'a-half': 'NUMBER', \"''\": 'O', ')': 'O', ';': 'O', 'since': 'O', 'the': 'O', '1920s': 'DATE', 'largest': 'O', 'parties': 'O', 'have': 'O', 'been': 'O', 'Conservative': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'Labour': 'ORGANIZATION', '.': 'O'}",
         "sentence": "The UK political system, while technically a multi-party system, has functioned generally as a two-party (sometimes called a \"two-and-a-half party\") system; since the 1920s the two largest political parties have been the Conservative Party and the Labour Party.",
+        "stems": [
+            "uk",
+            "polit",
+            "system",
+            "technic",
+            "multi-parti",
+            "system",
+            "function",
+            "gener",
+            "two-parti",
+            "sometim",
+            "call",
+            "``",
+            "two-and-a-half",
+            "parti",
+            "''",
+            "system",
+            "sinc",
+            "1920",
+            "two",
+            "largest",
+            "polit",
+            "parti",
+            "conserv",
+            "parti",
+            "labour",
+            "parti"
+        ],
         "synonyms": [
             "United_Kingdom",
             "political",
@@ -40344,7 +41861,7 @@
             "tug",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "uk",
                 "JJ"
@@ -40752,6 +42269,20 @@
         "meronyms": [],
         "ner_tag": "{'Before': 'O', 'the': 'O', 'Labour': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'rose': 'O', 'in': 'O', 'British': 'NATIONALITY', 'politics': 'O', 'Liberal': 'ORGANIZATION', 'was': 'O', 'other': 'O', 'major': 'O', 'political': 'O', 'party': 'O', 'along': 'O', 'with': 'O', 'Conservatives': 'O', '.': 'O'}",
         "sentence": "Before the Labour Party rose in British politics the Liberal Party was the other major political party along with the Conservatives.",
+        "stems": [
+            "labour",
+            "parti",
+            "rose",
+            "british",
+            "polit",
+            "liber",
+            "parti",
+            "major",
+            "polit",
+            "parti",
+            "along",
+            "conserv"
+        ],
         "synonyms": [
             "tug",
             "party",
@@ -40766,7 +42297,7 @@
             "along",
             "Conservative"
         ],
-        "tagged": [
+        "tags": [
             [
                 "labour",
                 "NN"
@@ -41541,6 +43072,38 @@
         ],
         "ner_tag": "{'Though': 'O', 'coalition': 'O', 'and': 'O', 'minority': 'O', 'governments': 'O', 'have': 'O', 'been': 'O', 'an': 'O', 'occasional': 'O', 'feature': 'O', 'of': 'O', 'parliamentary': 'O', 'politics': 'O', ',': 'O', 'the': 'DATE', 'first': 'O', '-': 'O', 'past': 'DATE', 'post': 'O', 'electoral': 'O', 'system': 'O', 'used': 'O', 'for': 'O', 'general': 'TITLE', 'elections': 'O', 'tends': 'O', 'to': 'O', 'maintain': 'O', 'dominance': 'O', 'these': 'O', 'two': 'NUMBER', 'parties': 'O', 'though': 'O', 'each': 'O', 'has': 'O', 'in': 'O', 'century': 'DATE', 'relied': 'O', 'upon': 'O', 'a': 'O', 'third': 'ORDINAL', 'party': 'O', 'deliver': 'O', 'working': 'O', 'majority': 'O', 'Parliament': 'ORGANIZATION', '.': 'O'}",
         "sentence": "Though coalition and minority governments have been an occasional feature of parliamentary politics, the first-past-the-post electoral system used for general elections tends to maintain the dominance of these two parties, though each has in the past century relied upon a third party to deliver a working majority in Parliament.",
+        "stems": [
+            "though",
+            "coalit",
+            "minor",
+            "govern",
+            "occasion",
+            "featur",
+            "parliamentari",
+            "polit",
+            "first-past-the-post",
+            "elector",
+            "system",
+            "use",
+            "gener",
+            "elect",
+            "tend",
+            "maintain",
+            "domin",
+            "two",
+            "parti",
+            "though",
+            "past",
+            "centuri",
+            "reli",
+            "upon",
+            "third",
+            "parti",
+            "deliv",
+            "work",
+            "major",
+            "parliament"
+        ],
         "synonyms": [
             "though",
             "alliance",
@@ -41573,7 +43136,7 @@
             "majority",
             "parliament"
         ],
-        "tagged": [
+        "tags": [
             [
                 "though",
                 "IN"
@@ -42069,6 +43632,23 @@
         "meronyms": [],
         "ner_tag": "{'(': 'O', 'A': 'O', 'plurality': 'O', 'voting': 'O', 'system': 'O', 'usually': 'O', 'leads': 'O', 'to': 'O', 'a': 'O', 'two': 'NUMBER', '-': 'NUMBER', 'party': 'NUMBER', ',': 'O', 'relationship': 'O', 'described': 'O', 'by': 'O', 'Maurice': 'PERSON', 'Duverger': 'PERSON', 'and': 'O', 'known': 'O', 'as': 'O', \"'s\": 'O', 'Law': 'O', '.': 'O', ')': 'O'}",
         "sentence": "(A plurality voting system usually leads to a two-party system, a relationship described by Maurice Duverger and known as Duverger's Law.)",
+        "stems": [
+            "plural",
+            "vote",
+            "system",
+            "usual",
+            "lead",
+            "two-parti",
+            "system",
+            "relationship",
+            "describ",
+            "mauric",
+            "duverg",
+            "known",
+            "duverg",
+            "'s",
+            "law"
+        ],
         "synonyms": [
             "battalion",
             "vote",
@@ -42086,7 +43666,7 @@
             "'s",
             "law"
         ],
-        "tagged": [
+        "tags": [
             [
                 "plurality",
                 "NN"
@@ -42386,6 +43966,16 @@
         "meronyms": [],
         "ner_tag": "{'There': 'O', 'are': 'O', 'also': 'O', 'numerous': 'O', 'other': 'O', 'parties': 'O', 'that': 'O', 'hold': 'O', 'or': 'O', 'have': 'O', 'held': 'O', 'a': 'O', 'number': 'O', 'of': 'O', 'seats': 'O', 'in': 'O', 'Parliament': 'ORGANIZATION', '.': 'O'}",
         "sentence": "There are also numerous other parties that hold or have held a number of seats in Parliament.",
+        "stems": [
+            "also",
+            "numer",
+            "parti",
+            "hold",
+            "held",
+            "number",
+            "seat",
+            "parliament"
+        ],
         "synonyms": [
             "besides",
             "numerous",
@@ -42396,7 +43986,7 @@
             "seat",
             "parliament"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -42856,6 +44446,23 @@
         ],
         "ner_tag": "{'More': 'O', 'commonly': 'O', ',': 'O', 'in': 'O', 'cases': 'O', 'where': 'O', 'there': 'O', 'are': 'O', 'three': 'NUMBER', 'or': 'O', 'more': 'O', 'parties': 'O', 'no': 'O', 'one': 'NUMBER', 'party': 'O', 'is': 'O', 'likely': 'O', 'to': 'O', 'gain': 'O', 'power': 'O', 'alone': 'O', 'and': 'O', 'work': 'O', 'with': 'O', 'each': 'O', 'other': 'O', 'form': 'O', 'coalition': 'O', 'governments': 'O', '.': 'O'}",
         "sentence": "More commonly, in cases where there are three or more parties, no one party is likely to gain power alone, and parties work with each other to form coalition governments.",
+        "stems": [
+            "commonli",
+            "case",
+            "three",
+            "parti",
+            "one",
+            "parti",
+            "like",
+            "gain",
+            "power",
+            "alon",
+            "parti",
+            "work",
+            "form",
+            "coalit",
+            "govern"
+        ],
         "synonyms": [
             "normally",
             "subject",
@@ -42873,7 +44480,7 @@
             "alliance",
             "government"
         ],
-        "tagged": [
+        "tags": [
             [
                 "commonly",
                 "RB"
@@ -43434,6 +45041,25 @@
         ],
         "ner_tag": "{'This': 'O', 'has': 'O', 'been': 'O', 'an': 'O', 'emerging': 'O', 'trend': 'O', 'in': 'O', 'the': 'O', 'politics': 'O', 'of': 'COUNTRY', 'Republic': 'COUNTRY', 'Ireland': 'COUNTRY', 'since': 'O', '1980s': 'DATE', 'and': 'O', 'is': 'O', 'almost': 'O', 'always': 'O', 'case': 'O', 'Germany': 'COUNTRY', 'on': 'O', 'national': 'O', 'state': 'O', 'level': 'O', ',': 'O', 'most': 'O', 'constituencies': 'O', 'at': 'O', 'communal': 'O', '.': 'O'}",
         "sentence": "This has been an emerging trend in the politics of the Republic of Ireland since the 1980s and is almost always the case in Germany on national and state level, and in most constituencies at the communal level.",
+        "stems": [
+            "emerg",
+            "trend",
+            "polit",
+            "republ",
+            "ireland",
+            "sinc",
+            "1980",
+            "almost",
+            "alway",
+            "case",
+            "germani",
+            "nation",
+            "state",
+            "level",
+            "constitu",
+            "commun",
+            "level"
+        ],
         "synonyms": [
             "come_forth",
             "vogue",
@@ -43453,7 +45079,7 @@
             "communal",
             "tied"
         ],
-        "tagged": [
+        "tags": [
             [
                 "emerging",
                 "VBG"
@@ -44001,6 +45627,25 @@
         ],
         "ner_tag": "{'Furthermore': 'O', ',': 'O', 'since': 'O', 'the': 'O', 'forming': 'O', 'of': 'O', 'Republic': 'COUNTRY', 'Iceland': 'COUNTRY', 'there': 'O', 'has': 'O', 'never': 'O', 'been': 'O', 'a': 'O', 'government': 'O', 'not': 'O', 'led': 'O', 'by': 'O', 'coalition': 'O', '(': 'O', 'usually': 'O', 'Independence': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'and': 'O', 'one': 'NUMBER', 'other': 'O', 'often': 'O', 'Social': 'ORGANIZATION', 'Democratic': 'ORGANIZATION', 'Alliance': 'ORGANIZATION', ')': 'O', '.': 'O'}",
         "sentence": "Furthermore, since the forming of the Republic of Iceland there has never been a government not led by a coalition (usually of the Independence Party and one other (often the Social Democratic Alliance).",
+        "stems": [
+            "furthermor",
+            "sinc",
+            "form",
+            "republ",
+            "iceland",
+            "never",
+            "govern",
+            "led",
+            "coalit",
+            "usual",
+            "independ",
+            "parti",
+            "one",
+            "often",
+            "social",
+            "democrat",
+            "allianc"
+        ],
         "synonyms": [
             "furthermore",
             "since",
@@ -44020,7 +45665,7 @@
             "democratic",
             "alliance"
         ],
-        "tagged": [
+        "tags": [
             [
                 "furthermore",
                 "RB"
@@ -44393,6 +46038,19 @@
         ],
         "ner_tag": "{'A': 'O', 'similar': 'O', 'situation': 'O', 'exists': 'O', 'in': 'O', 'the': 'O', 'Republic': 'COUNTRY', 'of': 'COUNTRY', 'Ireland': 'COUNTRY', ';': 'O', 'since': 'O', '1989': 'DATE', ',': 'O', 'no': 'O', 'one': 'NUMBER', 'party': 'O', 'has': 'O', 'held': 'O', 'power': 'O', 'on': 'O', 'its': 'O', 'own': 'O', '.': 'O'}",
         "sentence": "A similar situation exists in the Republic of Ireland; since 1989, no one party has held power on its own.",
+        "stems": [
+            "similar",
+            "situat",
+            "exist",
+            "republ",
+            "ireland",
+            "sinc",
+            "1989",
+            "one",
+            "parti",
+            "held",
+            "power"
+        ],
         "synonyms": [
             "similar",
             "situation",
@@ -44406,7 +46064,7 @@
             "keep",
             "world_power"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similar",
                 "JJ"
@@ -44592,6 +46250,13 @@
         "meronyms": [],
         "ner_tag": "{'Since': 'O', 'then': 'O', ',': 'O', 'numerous': 'O', 'coalition': 'O', 'governments': 'O', 'have': 'O', 'been': 'O', 'formed': 'O', '.': 'O'}",
         "sentence": "Since then, numerous coalition governments have been formed.",
+        "stems": [
+            "sinc",
+            "numer",
+            "coalit",
+            "govern",
+            "form"
+        ],
         "synonyms": [
             "since",
             "numerous",
@@ -44599,7 +46264,7 @@
             "government",
             "shape"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -44825,6 +46490,17 @@
         "meronyms": [],
         "ner_tag": "{'These': 'O', 'coalitions': 'O', 'have': 'O', 'been': 'O', 'exclusively': 'O', 'led': 'O', 'by': 'O', 'one': 'NUMBER', 'of': 'O', 'either': 'O', 'Fianna': 'O', 'Fáil': 'O', 'or': 'O', 'Fine': 'IDEOLOGY', 'Gael': 'IDEOLOGY', '.': 'O'}",
         "sentence": "These coalitions have been exclusively led by one of either Fianna Fáil or Fine Gael.",
+        "stems": [
+            "coalit",
+            "exclus",
+            "led",
+            "one",
+            "either",
+            "fianna",
+            "fáil",
+            "fine",
+            "gael"
+        ],
         "synonyms": [
             "alliance",
             "entirely",
@@ -44836,7 +46512,7 @@
             "very_well",
             "Gael"
         ],
-        "tagged": [
+        "tags": [
             [
                 "coalitions",
                 "NNS"
@@ -45138,6 +46814,18 @@
         "meronyms": [],
         "ner_tag": "{'Political': 'O', 'change': 'O', 'is': 'O', 'often': 'O', 'easier': 'O', 'with': 'O', 'a': 'O', 'coalition': 'O', 'government': 'O', 'than': 'O', 'in': 'O', 'one': 'NUMBER', '-': 'NUMBER', 'party': 'NUMBER', 'or': 'O', 'two': 'NUMBER', 'dominant': 'O', 'systems': 'O', '.': 'O'}",
         "sentence": "Political change is often easier with a coalition government than in one-party or two-party dominant systems.",
+        "stems": [
+            "polit",
+            "chang",
+            "often",
+            "easier",
+            "coalit",
+            "govern",
+            "one-parti",
+            "two-parti",
+            "domin",
+            "system"
+        ],
         "synonyms": [
             "political",
             "variety",
@@ -45150,7 +46838,7 @@
             "prevailing",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "political",
                 "JJ"
@@ -45836,6 +47524,31 @@
         ],
         "ner_tag": "{'[': 'O', 'dubious': 'O', '–': 'O', 'discuss': 'O', ']': 'O', 'If': 'O', 'factions': 'O', 'in': 'O', 'a': 'O', 'two': 'NUMBER', '-': 'NUMBER', 'party': 'NUMBER', 'system': 'O', 'are': 'O', 'fundamental': 'O', 'disagreement': 'O', 'on': 'O', 'policy': 'O', 'goals': 'O', ',': 'O', 'or': 'O', 'even': 'O', 'principles': 'O', 'they': 'O', 'can': 'O', 'be': 'O', 'slow': 'O', 'to': 'O', 'make': 'O', 'changes': 'O', 'which': 'O', 'appears': 'O', 'the': 'O', 'case': 'O', 'now': 'DATE', 'U.S.': 'COUNTRY', 'with': 'O', 'power': 'O', 'split': 'O', 'between': 'O', 'Democrats': 'IDEOLOGY', 'and': 'O', 'Republicans': 'MISC', '.': 'O'}",
         "sentence": "[dubious – discuss] If factions in a two-party system are in fundamental disagreement on policy goals, or even principles, they can be slow to make policy changes, which appears to be the case now in the U.S. with power split between Democrats and Republicans.",
+        "stems": [
+            "dubiou",
+            "–",
+            "discuss",
+            "faction",
+            "two-parti",
+            "system",
+            "fundament",
+            "disagr",
+            "polici",
+            "goal",
+            "even",
+            "principl",
+            "slow",
+            "make",
+            "polici",
+            "chang",
+            "appear",
+            "case",
+            "u.s.",
+            "power",
+            "split",
+            "democrat",
+            "republican"
+        ],
         "synonyms": [
             "doubtful",
             "–",
@@ -45861,7 +47574,7 @@
             "Democrat",
             "Republican"
         ],
-        "tagged": [
+        "tags": [
             [
                 "dubious",
                 "JJ"
@@ -46340,6 +48053,27 @@
         ],
         "ner_tag": "{'Still': 'O', 'coalition': 'O', 'governments': 'O', 'struggle': 'O', ',': 'O', 'sometimes': 'O', 'for': 'O', 'years': 'DURATION', 'to': 'O', 'change': 'O', 'policy': 'O', 'and': 'O', 'often': 'O', 'fail': 'O', 'altogether': 'O', 'post': 'O', 'World': 'O', 'War': 'CAUSE_OF_DEATH', 'II': 'O', 'France': 'COUNTRY', 'Italy': 'COUNTRY', 'being': 'O', 'prime': 'O', 'examples': 'O', '.': 'O'}",
         "sentence": "Still coalition governments struggle, sometimes for years, to change policy and often fail altogether, post World War II France and Italy being prime examples.",
+        "stems": [
+            "still",
+            "coalit",
+            "govern",
+            "struggl",
+            "sometim",
+            "year",
+            "chang",
+            "polici",
+            "often",
+            "fail",
+            "altogeth",
+            "post",
+            "world",
+            "war",
+            "ii",
+            "franc",
+            "itali",
+            "prime",
+            "exampl"
+        ],
         "synonyms": [
             "still",
             "alliance",
@@ -46361,7 +48095,7 @@
             "prime",
             "model"
         ],
-        "tagged": [
+        "tags": [
             [
                 "still",
                 "RB"
@@ -46766,6 +48500,20 @@
         "meronyms": [],
         "ner_tag": "{'When': 'O', 'one': 'NUMBER', 'party': 'NUMBER', 'in': 'O', 'a': 'O', 'two': 'NUMBER', '-': 'NUMBER', 'system': 'O', 'controls': 'O', 'all': 'O', 'elective': 'O', 'branches': 'O', ',': 'O', 'however': 'O', 'policy': 'O', 'changes': 'O', 'can': 'O', 'be': 'O', 'both': 'O', 'swift': 'O', 'and': 'O', 'significant': 'O', '.': 'O'}",
         "sentence": "When one party in a two-party system controls all elective branches, however, policy changes can be both swift and significant.",
+        "stems": [
+            "one",
+            "parti",
+            "two-parti",
+            "system",
+            "control",
+            "elect",
+            "branch",
+            "howev",
+            "polici",
+            "chang",
+            "swift",
+            "signific"
+        ],
         "synonyms": [
             "one",
             "party",
@@ -46780,7 +48528,7 @@
             "swift",
             "significant"
         ],
-        "tagged": [
+        "tags": [
             [
                 "one",
                 "CD"
@@ -47221,6 +48969,26 @@
         "meronyms": [],
         "ner_tag": "{'Democrats': 'IDEOLOGY', 'Woodrow': 'PERSON', 'Wilson': 'PERSON', ',': 'O', 'Franklin': 'PERSON', 'Roosevelt': 'PERSON', 'and': 'O', 'Lyndon': 'PERSON', 'Johnson': 'PERSON', 'were': 'O', 'beneficiaries': 'O', 'of': 'O', 'such': 'O', 'fortuitous': 'O', 'circumstances': 'O', 'as': 'O', 'Republicans': 'MISC', 'far': 'O', 'removed': 'O', 'in': 'O', 'time': 'O', 'Abraham': 'PERSON', 'Lincoln': 'PERSON', 'Ronald': 'PERSON', 'Reagan': 'PERSON', '.': 'O'}",
         "sentence": "Democrats Woodrow Wilson, Franklin Roosevelt and Lyndon Johnson were beneficiaries of such fortuitous circumstances, as were Republicans as far removed in time as Abraham Lincoln and Ronald Reagan.",
+        "stems": [
+            "democrat",
+            "woodrow",
+            "wilson",
+            "franklin",
+            "roosevelt",
+            "lyndon",
+            "johnson",
+            "beneficiari",
+            "fortuit",
+            "circumst",
+            "republican",
+            "far",
+            "remov",
+            "time",
+            "abraham",
+            "lincoln",
+            "ronald",
+            "reagan"
+        ],
         "synonyms": [
             "Democrat",
             "woodrow",
@@ -47241,7 +49009,7 @@
             "ronald",
             "Reagan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "democrats",
                 "NNS"
@@ -47482,6 +49250,14 @@
         "meronyms": [],
         "ner_tag": "{'Barack': 'PERSON', 'Obama': 'PERSON', 'briefly': 'O', 'had': 'O', 'such': 'O', 'an': 'O', 'advantage': 'O', 'between': 'O', '2009': 'DATE', 'and': 'DATE', '2011': 'DATE', '.': 'O'}",
         "sentence": "Barack Obama briefly had such an advantage between 2009 and 2011.",
+        "stems": [
+            "barack",
+            "obama",
+            "briefli",
+            "advantag",
+            "2009",
+            "2011"
+        ],
         "synonyms": [
             "barack",
             "obama",
@@ -47490,7 +49266,7 @@
             "2009",
             "2011"
         ],
-        "tagged": [
+        "tags": [
             [
                 "barack",
                 "NN"
@@ -47920,6 +49696,25 @@
         "meronyms": [],
         "ner_tag": "{'Political': 'O', 'parties': 'O', ',': 'O', 'still': 'O', 'called': 'O', 'factions': 'O', 'by': 'O', 'some': 'O', 'especially': 'O', 'those': 'O', 'in': 'O', 'the': 'O', 'governmental': 'O', 'apparatus': 'O', 'are': 'O', 'lobbied': 'O', 'vigorously': 'O', 'organizations': 'O', 'businesses': 'O', 'and': 'O', 'special': 'IDEOLOGY', 'interest': 'IDEOLOGY', 'groups': 'O', 'such': 'O', 'as': 'O', 'trade': 'O', 'unions': 'O', '.': 'O'}",
         "sentence": "Political parties, still called factions by some, especially those in the governmental apparatus, are lobbied vigorously by organizations, businesses and special interest groups such as trade unions.",
+        "stems": [
+            "polit",
+            "parti",
+            "still",
+            "call",
+            "faction",
+            "especi",
+            "government",
+            "apparatu",
+            "lobbi",
+            "vigor",
+            "organ",
+            "busi",
+            "special",
+            "interest",
+            "group",
+            "trade",
+            "union"
+        ],
         "synonyms": [
             "political",
             "party",
@@ -47939,7 +49734,7 @@
             "trade",
             "union"
         ],
-        "tagged": [
+        "tags": [
             [
                 "political",
                 "JJ"
@@ -48301,6 +50096,16 @@
         ],
         "ner_tag": "{'Money': 'O', 'and': 'O', 'gifts': 'O', '-': 'O', 'in': 'O', 'kind': 'O', 'to': 'O', 'a': 'O', 'party': 'O', ',': 'O', 'or': 'O', 'its': 'O', 'leading': 'O', 'members': 'O', 'may': 'O', 'be': 'O', 'offered': 'O', 'as': 'O', 'incentives': 'O', '.': 'O'}",
         "sentence": "Money and gifts-in-kind to a party, or its leading members, may be offered as incentives.",
+        "stems": [
+            "money",
+            "gifts-in-kind",
+            "parti",
+            "lead",
+            "member",
+            "may",
+            "offer",
+            "incent"
+        ],
         "synonyms": [
             "money",
             "gifts-in-kind",
@@ -48311,7 +50116,7 @@
             "offer",
             "incentive"
         ],
-        "tagged": [
+        "tags": [
             [
                 "money",
                 "NN"
@@ -48576,6 +50381,15 @@
         "meronyms": [],
         "ner_tag": "{'Such': 'O', 'donations': 'O', 'are': 'O', 'the': 'O', 'traditional': 'O', 'source': 'O', 'of': 'O', 'funding': 'O', 'for': 'O', 'all': 'O', 'right': 'O', '-': 'O', 'centre': 'O', 'cadre': 'O', 'parties': 'O', '.': 'O'}",
         "sentence": "Such donations are the traditional source of funding for all right-of-centre cadre parties.",
+        "stems": [
+            "donat",
+            "tradit",
+            "sourc",
+            "fund",
+            "right-of-centr",
+            "cadr",
+            "parti"
+        ],
         "synonyms": [
             "contribution",
             "traditional",
@@ -48585,7 +50399,7 @@
             "cell",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "donations",
                 "NNS"
@@ -48911,6 +50725,19 @@
         ],
         "ner_tag": "{'Starting': 'O', 'in': 'O', 'the': 'O', 'late': 'DATE', '19th': 'DATE', 'century': 'DATE', 'these': 'O', 'parties': 'O', 'were': 'O', 'opposed': 'O', 'by': 'O', 'newly': 'O', 'founded': 'O', 'left': 'IDEOLOGY', '-': 'IDEOLOGY', 'of': 'IDEOLOGY', 'centre': 'IDEOLOGY', 'workers': 'O', \"'\": 'O', '.': 'O'}",
         "sentence": "Starting in the late 19th century these parties were opposed by the newly founded left-of-centre workers' parties.",
+        "stems": [
+            "start",
+            "late",
+            "19th",
+            "centuri",
+            "parti",
+            "oppos",
+            "newli",
+            "found",
+            "left-of-centr",
+            "worker",
+            "parti"
+        ],
         "synonyms": [
             "start",
             "late",
@@ -48924,7 +50751,7 @@
             "worker",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "starting",
                 "VBG"
@@ -49270,6 +51097,21 @@
         "meronyms": [],
         "ner_tag": "{'They': 'O', 'started': 'O', 'a': 'O', 'new': 'O', 'party': 'O', 'type': 'O', ',': 'O', 'the': 'O', 'mass': 'O', 'membership': 'O', 'and': 'O', 'source': 'O', 'of': 'O', 'political': 'O', 'fundraising': 'O', 'dues': 'O', '.': 'O'}",
         "sentence": "They started a new party type, the mass membership party, and a new source of political fundraising, membership dues.",
+        "stems": [
+            "start",
+            "new",
+            "parti",
+            "type",
+            "mass",
+            "membership",
+            "parti",
+            "new",
+            "sourc",
+            "polit",
+            "fundrais",
+            "membership",
+            "due"
+        ],
         "synonyms": [
             "start",
             "newfangled",
@@ -49285,7 +51127,7 @@
             "membership",
             "due"
         ],
-        "tagged": [
+        "tags": [
             [
                 "started",
                 "VBN"
@@ -49664,6 +51506,21 @@
         ],
         "ner_tag": "{'From': 'O', 'the': 'DATE', 'second': 'DATE', 'half': 'DATE', 'of': 'DATE', '20th': 'DATE', 'century': 'DATE', 'on': 'O', 'parties': 'O', 'which': 'O', 'continued': 'O', 'to': 'O', 'rely': 'O', 'donations': 'O', 'or': 'O', 'membership': 'O', 'subscriptions': 'O', 'ran': 'O', 'into': 'O', 'mounting': 'O', 'problems': 'O', '.': 'O'}",
         "sentence": "From the second half of the 20th century on parties which continued to rely on donations or membership subscriptions ran into mounting problems.",
+        "stems": [
+            "second",
+            "half",
+            "20th",
+            "centuri",
+            "parti",
+            "continu",
+            "reli",
+            "donat",
+            "membership",
+            "subscript",
+            "ran",
+            "mount",
+            "problem"
+        ],
         "synonyms": [
             "second_gear",
             "one-half",
@@ -49679,7 +51536,7 @@
             "mount",
             "trouble"
         ],
-        "tagged": [
+        "tags": [
             [
                 "second",
                 "JJ"
@@ -50116,6 +51973,21 @@
         ],
         "ner_tag": "{'Along': 'O', 'with': 'O', 'the': 'O', 'increased': 'O', 'scrutiny': 'O', 'of': 'O', 'donations': 'O', 'there': 'O', 'has': 'O', 'been': 'O', 'a': 'O', 'long': 'O', '-': 'O', 'term': 'O', 'decline': 'O', 'in': 'O', 'party': 'O', 'memberships': 'O', 'most': 'O', 'western': 'O', 'democracies': 'O', 'which': 'O', 'itself': 'O', 'places': 'O', 'more': 'O', 'strains': 'O', 'on': 'O', 'funding': 'O', '.': 'O'}",
         "sentence": "Along with the increased scrutiny of donations there has been a long-term decline in party memberships in most western democracies which itself places more strains on funding.",
+        "stems": [
+            "along",
+            "increas",
+            "scrutini",
+            "donat",
+            "long-term",
+            "declin",
+            "parti",
+            "membership",
+            "western",
+            "democraci",
+            "place",
+            "strain",
+            "fund"
+        ],
         "synonyms": [
             "along",
             "increased",
@@ -50131,7 +52003,7 @@
             "tune",
             "fund"
         ],
-        "tagged": [
+        "tags": [
             [
                 "along",
                 "IN"
@@ -50665,6 +52537,25 @@
         ],
         "ner_tag": "{'For': 'O', 'example': 'O', ',': 'O', 'in': 'O', 'the': 'O', 'United': 'COUNTRY', 'Kingdom': 'COUNTRY', 'and': 'O', 'Australia': 'COUNTRY', 'membership': 'O', 'of': 'O', 'two': 'NUMBER', 'main': 'O', 'parties': 'O', '2006': 'DATE', 'is': 'O', 'less': 'O', 'than': 'O', 'an': 'O', '1/8': 'NUMBER', 'what': 'O', 'it': 'O', 'was': 'O', '1950': 'DATE', 'despite': 'O', 'significant': 'O', 'increases': 'O', 'population': 'O', 'over': 'O', 'that': 'O', 'period': 'O', '.': 'O'}",
         "sentence": "For example, in the United Kingdom and Australia membership of the two main parties in 2006 is less than an 1/8 of what it was in 1950, despite significant increases in population over that period.",
+        "stems": [
+            "exampl",
+            "unit",
+            "kingdom",
+            "australia",
+            "membership",
+            "two",
+            "main",
+            "parti",
+            "2006",
+            "less",
+            "1/8",
+            "1950",
+            "despit",
+            "signific",
+            "increas",
+            "popul",
+            "period"
+        ],
         "synonyms": [
             "model",
             "united",
@@ -50684,7 +52575,7 @@
             "population",
             "period"
         ],
-        "tagged": [
+        "tags": [
             [
                 "example",
                 "NN"
@@ -51267,6 +53158,25 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'United': 'COUNTRY', 'Kingdom': 'COUNTRY', ',': 'O', 'it': 'O', 'has': 'O', 'been': 'O', 'alleged': 'O', 'that': 'O', 'peerages': 'O', 'have': 'O', 'awarded': 'O', 'to': 'O', 'contributors': 'O', 'party': 'O', 'funds': 'O', 'benefactors': 'O', 'becoming': 'O', 'members': 'O', 'of': 'ORGANIZATION', 'House': 'ORGANIZATION', 'Lords': 'ORGANIZATION', 'and': 'O', 'thus': 'O', 'being': 'O', 'in': 'O', 'a': 'O', 'position': 'O', 'participate': 'O', 'legislating': 'O', '.': 'O'}",
         "sentence": "In the United Kingdom, it has been alleged that peerages have been awarded to contributors to party funds, the benefactors becoming members of the House of Lords and thus being in a position to participate in legislating.",
+        "stems": [
+            "unit",
+            "kingdom",
+            "alleg",
+            "peerag",
+            "award",
+            "contributor",
+            "parti",
+            "fund",
+            "benefactor",
+            "becom",
+            "member",
+            "hous",
+            "lord",
+            "thu",
+            "posit",
+            "particip",
+            "legisl"
+        ],
         "synonyms": [
             "united",
             "kingdom",
@@ -51286,7 +53196,7 @@
             "enter",
             "legislation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "united",
                 "JJ"
@@ -51522,6 +53432,14 @@
         "meronyms": [],
         "ner_tag": "{'Famously': 'O', ',': 'O', 'Lloyd': 'PERSON', 'George': 'PERSON', 'was': 'O', 'found': 'O', 'to': 'O', 'have': 'O', 'been': 'O', 'selling': 'O', 'peerages': 'O', '.': 'O'}",
         "sentence": "Famously, Lloyd George was found to have been selling peerages.",
+        "stems": [
+            "famous",
+            "lloyd",
+            "georg",
+            "found",
+            "sell",
+            "peerag"
+        ],
         "synonyms": [
             "famously",
             "Lloyd",
@@ -51530,7 +53448,7 @@
             "sell",
             "peerage"
         ],
-        "tagged": [
+        "tags": [
             [
                 "famously",
                 "RB"
@@ -51840,6 +53758,19 @@
         "meronyms": [],
         "ner_tag": "{'To': 'O', 'prevent': 'O', 'such': 'O', 'corruption': 'O', 'in': 'O', 'the': 'O', 'future': 'DATE', ',': 'O', 'Parliament': 'ORGANIZATION', 'passed': 'O', 'Honours': 'O', '(': 'O', 'Prevention': 'O', 'of': 'O', 'Abuses': 'O', ')': 'O', 'Act': 'O', '1925': 'DATE', 'into': 'O', 'law': 'O', '.': 'O'}",
         "sentence": "To prevent such corruption in the future, Parliament passed the Honours (Prevention of Abuses) Act 1925 into law.",
+        "stems": [
+            "prevent",
+            "corrupt",
+            "futur",
+            "parliament",
+            "pass",
+            "honour",
+            "prevent",
+            "abus",
+            "act",
+            "1925",
+            "law"
+        ],
         "synonyms": [
             "prevent",
             "putrescence",
@@ -51853,7 +53784,7 @@
             "1925",
             "law"
         ],
-        "tagged": [
+        "tags": [
             [
                 "prevent",
                 "NN"
@@ -52091,6 +54022,17 @@
         "meronyms": [],
         "ner_tag": "{'Thus': 'O', 'the': 'O', 'outright': 'O', 'sale': 'O', 'of': 'O', 'peerages': 'O', 'and': 'O', 'similar': 'O', 'honours': 'O', 'became': 'O', 'a': 'O', 'criminal': 'O', 'act': 'O', '.': 'O'}",
         "sentence": "Thus the outright sale of peerages and similar honours became a criminal act.",
+        "stems": [
+            "thu",
+            "outright",
+            "sale",
+            "peerag",
+            "similar",
+            "honour",
+            "becam",
+            "crimin",
+            "act"
+        ],
         "synonyms": [
             "thus",
             "outright",
@@ -52102,7 +54044,7 @@
             "criminal",
             "act"
         ],
-        "tagged": [
+        "tags": [
             [
                 "thus",
                 "RB"
@@ -52514,6 +54456,21 @@
         "meronyms": [],
         "ner_tag": "{'However': 'O', ',': 'O', 'some': 'O', 'benefactors': 'O', 'are': 'O', 'alleged': 'O', 'to': 'O', 'have': 'O', 'attempted': 'O', 'circumvent': 'O', 'this': 'O', 'by': 'O', 'cloaking': 'O', 'their': 'O', 'contributions': 'O', 'as': 'O', 'loans': 'O', 'giving': 'O', 'rise': 'O', 'the': 'O', \"'\": 'O', 'Cash': 'ORGANIZATION', 'for': 'ORGANIZATION', 'Peerages': 'ORGANIZATION', 'scandal': 'O', '.': 'O'}",
         "sentence": "However, some benefactors are alleged to have attempted to circumvent this by cloaking their contributions as loans, giving rise to the 'Cash for Peerages' scandal.",
+        "stems": [
+            "howev",
+            "benefactor",
+            "alleg",
+            "attempt",
+            "circumv",
+            "cloak",
+            "contribut",
+            "loan",
+            "give",
+            "rise",
+            "'cash",
+            "peerag",
+            "scandal"
+        ],
         "synonyms": [
             "however",
             "benefactor",
@@ -52529,7 +54486,7 @@
             "peerage",
             "scandal"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -53077,6 +55034,28 @@
         "meronyms": [],
         "ner_tag": "{'There': 'O', 'are': 'O', 'two': 'NUMBER', 'broad': 'O', 'categories': 'O', 'of': 'O', 'public': 'O', 'funding': 'O', ',': 'O', 'direct': 'O', 'which': 'O', 'entails': 'O', 'a': 'O', 'monetary': 'O', 'transfer': 'O', 'to': 'O', 'party': 'O', 'and': 'O', 'indirect': 'O', 'includes': 'O', 'broadcasting': 'O', 'time': 'O', 'on': 'O', 'state': 'O', 'media': 'O', 'use': 'O', 'the': 'O', 'mail': 'O', 'service': 'O', 'or': 'O', 'supplies': 'O', '.': 'O'}",
         "sentence": "There are two broad categories of public funding, direct, which entails a monetary transfer to a party, and indirect, which includes broadcasting time on state media, use of the mail service or supplies.",
+        "stems": [
+            "two",
+            "broad",
+            "categori",
+            "public",
+            "fund",
+            "direct",
+            "entail",
+            "monetari",
+            "transfer",
+            "parti",
+            "indirect",
+            "includ",
+            "broadcast",
+            "time",
+            "state",
+            "media",
+            "use",
+            "mail",
+            "servic",
+            "suppli"
+        ],
         "synonyms": [
             "two",
             "wide",
@@ -53099,7 +55078,7 @@
             "service",
             "supply"
         ],
-        "tagged": [
+        "tags": [
             [
                 "two",
                 "CD"
@@ -53808,6 +55787,36 @@
         ],
         "ner_tag": "{'According': 'O', 'to': 'O', 'the': 'O', 'Comparative': 'ORGANIZATION', 'Data': 'ORGANIZATION', 'from': 'O', 'ACE': 'ORGANIZATION', 'Electoral': 'ORGANIZATION', 'Knowledge': 'ORGANIZATION', 'Network': 'ORGANIZATION', ',': 'O', 'out': 'O', 'of': 'O', 'a': 'O', 'sample': 'O', 'over': 'O', '180': 'NUMBER', 'nations': 'O', '25': 'PERCENT', '%': 'PERCENT', 'provide': 'O', 'no': 'O', 'direct': 'O', 'or': 'O', 'indirect': 'O', 'public': 'O', 'funding': 'O', '58': 'PERCENT', 'and': 'O', '60': 'PERCENT', '.': 'O'}",
         "sentence": "According to the Comparative Data from the ACE Electoral Knowledge Network, out of a sample of over 180 nations, 25% of nations provide no direct or indirect public funding, 58% provide direct public funding and 60% of nations provide indirect public funding.",
+        "stems": [
+            "accord",
+            "compar",
+            "data",
+            "ace",
+            "elector",
+            "knowledg",
+            "network",
+            "sampl",
+            "180",
+            "nation",
+            "25",
+            "nation",
+            "provid",
+            "direct",
+            "indirect",
+            "public",
+            "fund",
+            "58",
+            "provid",
+            "direct",
+            "public",
+            "fund",
+            "60",
+            "nation",
+            "provid",
+            "indirect",
+            "public",
+            "fund"
+        ],
         "synonyms": [
             "harmonize",
             "relative",
@@ -53838,7 +55847,7 @@
             "public",
             "fund"
         ],
-        "tagged": [
+        "tags": [
             [
                 "according",
                 "VBG"
@@ -54150,6 +56159,16 @@
         ],
         "ner_tag": "{'Some': 'O', 'countries': 'O', 'provide': 'O', 'both': 'O', 'direct': 'O', 'and': 'O', 'indirect': 'O', 'public': 'O', 'funding': 'O', 'to': 'O', 'political': 'O', 'parties': 'O', '.': 'O'}",
         "sentence": "Some countries provide both direct and indirect public funding to political parties.",
+        "stems": [
+            "countri",
+            "provid",
+            "direct",
+            "indirect",
+            "public",
+            "fund",
+            "polit",
+            "parti"
+        ],
         "synonyms": [
             "state",
             "provide",
@@ -54160,7 +56179,7 @@
             "political",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "countries",
                 "NNS"
@@ -54516,6 +56535,20 @@
         "meronyms": [],
         "ner_tag": "{'Funding': 'O', 'may': 'O', 'be': 'O', 'equal': 'O', 'for': 'O', 'all': 'O', 'parties': 'O', 'or': 'O', 'depend': 'O', 'on': 'O', 'the': 'O', 'results': 'O', 'of': 'O', 'previous': 'O', 'elections': 'O', 'number': 'O', 'candidates': 'O', 'participating': 'O', 'in': 'O', 'an': 'O', 'election': 'O', '.': 'O'}",
         "sentence": "Funding may be equal for all parties or depend on the results of previous elections or the number of candidates participating in an election.",
+        "stems": [
+            "fund",
+            "may",
+            "equal",
+            "parti",
+            "depend",
+            "result",
+            "previou",
+            "elect",
+            "number",
+            "candid",
+            "particip",
+            "elect"
+        ],
         "synonyms": [
             "fund",
             "whitethorn",
@@ -54530,7 +56563,7 @@
             "enter",
             "election"
         ],
-        "tagged": [
+        "tags": [
             [
                 "funding",
                 "NN"
@@ -54896,6 +56929,21 @@
         "meronyms": [],
         "ner_tag": "{'Frequently': 'O', 'parties': 'O', 'rely': 'O', 'on': 'O', 'a': 'O', 'mix': 'O', 'of': 'O', 'private': 'O', 'and': 'O', 'public': 'O', 'funding': 'O', 'are': 'O', 'required': 'O', 'to': 'O', 'disclose': 'O', 'their': 'O', 'finances': 'O', 'the': 'O', 'Election': 'O', 'management': 'O', 'body': 'O', '.': 'O'}",
         "sentence": "Frequently parties rely on a mix of private and public funding and are required to disclose their finances to the Election management body.",
+        "stems": [
+            "frequent",
+            "parti",
+            "reli",
+            "mix",
+            "privat",
+            "public",
+            "fund",
+            "requir",
+            "disclos",
+            "financ",
+            "elect",
+            "manag",
+            "bodi"
+        ],
         "synonyms": [
             "frequently",
             "party",
@@ -54911,7 +56959,7 @@
             "management",
             "soundbox"
         ],
-        "tagged": [
+        "tags": [
             [
                 "frequently",
                 "RB"
@@ -55132,6 +57180,15 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'fledgling': 'O', 'democracies': 'O', 'funding': 'O', 'can': 'O', 'also': 'O', 'be': 'O', 'provided': 'O', 'by': 'O', 'foreign': 'O', 'aid': 'O', '.': 'O'}",
         "sentence": "In fledgling democracies funding can also be provided by foreign aid.",
+        "stems": [
+            "fledgl",
+            "democraci",
+            "fund",
+            "also",
+            "provid",
+            "foreign",
+            "aid"
+        ],
         "synonyms": [
             "fledgling",
             "democracy",
@@ -55141,7 +57198,7 @@
             "foreign",
             "aid"
         ],
-        "tagged": [
+        "tags": [
             [
                 "fledgling",
                 "VBG"
@@ -55444,6 +57501,21 @@
         ],
         "ner_tag": "{'International': 'O', 'donors': 'O', 'provide': 'O', 'financing': 'O', 'to': 'O', 'political': 'O', 'parties': 'O', 'in': 'O', 'developing': 'O', 'countries': 'O', 'as': 'O', 'a': 'O', 'means': 'O', 'promote': 'O', 'democracy': 'IDEOLOGY', 'and': 'O', 'good': 'O', 'governance': 'O', '.': 'O'}",
         "sentence": "International donors provide financing to political parties in developing countries as a means to promote democracy and good governance.",
+        "stems": [
+            "intern",
+            "donor",
+            "provid",
+            "financ",
+            "polit",
+            "parti",
+            "develop",
+            "countri",
+            "mean",
+            "promot",
+            "democraci",
+            "good",
+            "govern"
+        ],
         "synonyms": [
             "International",
             "donor",
@@ -55459,7 +57531,7 @@
             "well",
             "administration"
         ],
-        "tagged": [
+        "tags": [
             [
                 "international",
                 "JJ"
@@ -55627,13 +57699,19 @@
         "meronyms": [],
         "ner_tag": "{'Support': 'O', 'can': 'O', 'be': 'O', 'purely': 'O', 'financial': 'O', 'or': 'O', 'otherwise': 'O', '.': 'O'}",
         "sentence": "Support can be purely financial or otherwise.",
+        "stems": [
+            "support",
+            "pure",
+            "financi",
+            "otherwis"
+        ],
         "synonyms": [
             "support",
             "strictly",
             "fiscal",
             "otherwise"
         ],
-        "tagged": [
+        "tags": [
             [
                 "support",
                 "NN"
@@ -55930,6 +58008,21 @@
         ],
         "ner_tag": "{'Frequently': 'O', 'it': 'O', 'is': 'O', 'provided': 'O', 'as': 'O', 'capacity': 'O', 'development': 'O', 'activities': 'O', 'including': 'O', 'the': 'O', 'of': 'O', 'party': 'O', 'manifestos': 'O', ',': 'O', 'constitutions': 'O', 'and': 'O', 'campaigning': 'O', 'skills': 'O', '.': 'O'}",
         "sentence": "Frequently it is provided as capacity development activities including the development of party manifestos, party constitutions and campaigning skills.",
+        "stems": [
+            "frequent",
+            "provid",
+            "capac",
+            "develop",
+            "activ",
+            "includ",
+            "develop",
+            "parti",
+            "manifesto",
+            "parti",
+            "constitut",
+            "campaign",
+            "skill"
+        ],
         "synonyms": [
             "frequently",
             "provide",
@@ -55945,7 +58038,7 @@
             "crusade",
             "skill"
         ],
-        "tagged": [
+        "tags": [
             [
                 "frequently",
                 "RB"
@@ -56234,6 +58327,19 @@
         "meronyms": [],
         "ner_tag": "{'Developing': 'O', 'links': 'O', 'between': 'O', 'ideologically': 'O', 'linked': 'O', 'parties': 'O', 'is': 'O', 'another': 'O', 'common': 'O', 'feature': 'O', 'of': 'O', 'international': 'O', 'support': 'O', 'for': 'O', 'a': 'O', 'party': 'O', '.': 'O'}",
         "sentence": "Developing links between ideologically linked parties is another common feature of international support for a party.",
+        "stems": [
+            "develop",
+            "link",
+            "ideolog",
+            "link",
+            "parti",
+            "anoth",
+            "common",
+            "featur",
+            "intern",
+            "support",
+            "parti"
+        ],
         "synonyms": [
             "grow",
             "yoke",
@@ -56247,7 +58353,7 @@
             "support",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "developing",
                 "VBG"
@@ -56706,6 +58812,24 @@
         "meronyms": [],
         "ner_tag": "{'Sometimes': 'O', 'this': 'O', 'can': 'O', 'be': 'O', 'perceived': 'O', 'as': 'O', 'directly': 'O', 'supporting': 'O', 'the': 'O', 'political': 'O', 'aims': 'O', 'of': 'O', 'a': 'O', 'party': 'O', ',': 'O', 'such': 'O', 'support': 'O', 'US': 'COUNTRY', 'government': 'O', 'to': 'O', 'Georgian': 'NATIONALITY', 'behind': 'O', 'Rose': 'O', 'Revolution': 'O', '.': 'O'}",
         "sentence": "Sometimes this can be perceived as directly supporting the political aims of a political party, such as the support of the US government to the Georgian party behind the Rose Revolution.",
+        "stems": [
+            "sometim",
+            "perceiv",
+            "directli",
+            "support",
+            "polit",
+            "aim",
+            "polit",
+            "parti",
+            "support",
+            "us",
+            "govern",
+            "georgian",
+            "parti",
+            "behind",
+            "rose",
+            "revolut"
+        ],
         "synonyms": [
             "sometimes",
             "sensed",
@@ -56724,7 +58848,7 @@
             "rose",
             "rotation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sometimes",
                 "RB"
@@ -57163,6 +59287,23 @@
         ],
         "ner_tag": "{'Other': 'O', 'donors': 'O', 'work': 'O', 'on': 'O', 'a': 'O', 'more': 'O', 'neutral': 'IDEOLOGY', 'basis': 'O', ',': 'O', 'where': 'O', 'multiple': 'O', 'provide': 'O', 'grants': 'O', 'in': 'O', 'countries': 'O', 'accessible': 'O', 'by': 'O', 'all': 'O', 'parties': 'O', 'for': 'O', 'various': 'O', 'aims': 'O', 'defined': 'O', 'the': 'O', 'recipients': 'O', '.': 'O'}",
         "sentence": "Other donors work on a more neutral basis, where multiple donors provide grants in countries accessible by all parties for various aims defined by the recipients.",
+        "stems": [
+            "donor",
+            "work",
+            "neutral",
+            "basi",
+            "multipl",
+            "donor",
+            "provid",
+            "grant",
+            "countri",
+            "access",
+            "parti",
+            "variou",
+            "aim",
+            "defin",
+            "recipi"
+        ],
         "synonyms": [
             "donor",
             "workplace",
@@ -57180,7 +59321,7 @@
             "define",
             "recipient"
         ],
-        "tagged": [
+        "tags": [
             [
                 "donors",
                 "NNS"
@@ -57807,6 +59948,28 @@
         ],
         "ner_tag": "{'There': 'O', 'have': 'O', 'been': 'O', 'calls': 'O', 'by': 'O', 'leading': 'O', 'development': 'O', 'think': 'O', '-': 'O', 'tanks': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'the': 'O', 'Overseas': 'ORGANIZATION', 'Development': 'ORGANIZATION', 'Institute': 'ORGANIZATION', 'to': 'O', 'increase': 'O', 'support': 'O', 'political': 'O', 'parties': 'O', 'part': 'O', 'of': 'O', 'developing': 'O', 'capacity': 'O', 'deal': 'O', 'with': 'O', 'demands': 'O', 'interest': 'O', 'driven': 'O', 'donors': 'O', 'improve': 'O', 'governance': 'O', '.': 'O'}",
         "sentence": "There have been calls by leading development think-tanks, such as the Overseas Development Institute, to increase support to political parties as part of developing the capacity to deal with the demands of interest-driven donors to improve governance.",
+        "stems": [
+            "call",
+            "lead",
+            "develop",
+            "think-tank",
+            "oversea",
+            "develop",
+            "institut",
+            "increas",
+            "support",
+            "polit",
+            "parti",
+            "part",
+            "develop",
+            "capac",
+            "deal",
+            "demand",
+            "interest-driven",
+            "donor",
+            "improv",
+            "govern"
+        ],
         "synonyms": [
             "visit",
             "run",
@@ -57829,7 +59992,7 @@
             "better",
             "administration"
         ],
-        "tagged": [
+        "tags": [
             [
                 "calls",
                 "NNS"
@@ -58183,6 +60346,20 @@
         "meronyms": [],
         "ner_tag": "{'Green': 'O', 'is': 'O', 'the': 'O', 'color': 'O', 'for': 'O', 'green': 'O', 'parties': 'O', ',': 'O', 'Islamist': 'IDEOLOGY', 'Nordic': 'MISC', 'agrarian': 'O', 'and': 'O', 'Irish': 'IDEOLOGY', 'republican': 'IDEOLOGY', '.': 'O'}",
         "sentence": "Green is the color for green parties, Islamist parties, Nordic agrarian parties and Irish republican parties.",
+        "stems": [
+            "green",
+            "color",
+            "green",
+            "parti",
+            "islamist",
+            "parti",
+            "nordic",
+            "agrarian",
+            "parti",
+            "irish",
+            "republican",
+            "parti"
+        ],
         "synonyms": [
             "park",
             "color",
@@ -58197,7 +60374,7 @@
             "Republican",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "green",
                 "JJ"
@@ -58742,6 +60919,24 @@
         ],
         "ner_tag": "{'Orange': 'CITY', 'is': 'O', 'sometimes': 'O', 'a': 'O', 'color': 'O', 'of': 'O', 'nationalism': 'RELIGION', ',': 'O', 'such': 'O', 'as': 'O', 'in': 'O', 'the': 'O', 'Netherlands': 'COUNTRY', 'Israel': 'COUNTRY', 'with': 'O', 'Camp': 'LOCATION', 'or': 'O', 'Ulster': 'ORGANIZATION', 'Loyalists': 'ORGANIZATION', 'Northern': 'LOCATION', 'Ireland': 'COUNTRY', ';': 'O', 'it': 'O', 'also': 'O', 'reform': 'O', 'Ukraine': 'COUNTRY', '.': 'O'}",
         "sentence": "Orange is sometimes a color of nationalism, such as in the Netherlands, in Israel with the Orange Camp or with Ulster Loyalists in Northern Ireland; it is also a color of reform such as in Ukraine.",
+        "stems": [
+            "orang",
+            "sometim",
+            "color",
+            "nation",
+            "netherland",
+            "israel",
+            "orang",
+            "camp",
+            "ulster",
+            "loyalist",
+            "northern",
+            "ireland",
+            "also",
+            "color",
+            "reform",
+            "ukrain"
+        ],
         "synonyms": [
             "orange",
             "sometimes",
@@ -58760,7 +60955,7 @@
             "reform",
             "Ukraine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "orange",
                 "NN"
@@ -59161,6 +61356,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'past': 'DATE', ',': 'O', 'Purple': 'O', 'was': 'O', 'considered': 'O', 'color': 'O', 'of': 'O', 'royalty': 'O', '(': 'O', 'like': 'O', 'white': 'O', ')': 'O', 'but': 'O', 'today': 'DATE', 'it': 'O', 'is': 'O', 'sometimes': 'O', 'used': 'O', 'for': 'O', 'feminist': 'IDEOLOGY', 'parties': 'O', '.': 'O'}",
         "sentence": "In the past, Purple was considered the color of royalty (like white), but today it is sometimes used for feminist parties.",
+        "stems": [
+            "past",
+            "purpl",
+            "consid",
+            "color",
+            "royalti",
+            "like",
+            "white",
+            "today",
+            "sometim",
+            "use",
+            "feminist",
+            "parti"
+        ],
         "synonyms": [
             "past",
             "purple",
@@ -59175,7 +61384,7 @@
             "feminist",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "past",
                 "JJ"
@@ -59333,13 +61542,19 @@
         "meronyms": [],
         "ner_tag": "{'White': 'O', 'also': 'O', 'is': 'O', 'associated': 'O', 'with': 'O', 'nationalism': 'RELIGION', '.': 'O'}",
         "sentence": "White also is associated with nationalism.",
+        "stems": [
+            "white",
+            "also",
+            "associ",
+            "nation"
+        ],
         "synonyms": [
             "White",
             "besides",
             "associate",
             "patriotism"
         ],
-        "tagged": [
+        "tags": [
             [
                 "white",
                 "JJ"
@@ -60138,6 +62353,42 @@
         "meronyms": [],
         "ner_tag": "{'``': 'O', 'Purple': 'O', 'Party': 'ORGANIZATION', \"''\": 'O', 'is': 'O', 'also': 'O', 'used': 'O', 'as': 'O', 'an': 'O', 'academic': 'O', 'hypothetical': 'O', 'of': 'O', 'undefined': 'O', 'party': 'O', ',': 'O', 'a': 'O', 'Centrist': 'ORGANIZATION', 'in': 'O', 'the': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', '(': 'O', 'because': 'O', 'purple': 'O', 'created': 'O', 'from': 'O', 'mixing': 'O', 'main': 'O', 'parties': 'O', \"'\": 'O', 'colors': 'O', 'red': 'O', 'and': 'O', 'blue': 'O', ')': 'O', 'highly': 'O', 'idealistic': 'O', 'peace': 'O', 'love': 'O', '—': 'O', 'similar': 'O', 'vein': 'O', 'to': 'O', 'Green': 'ORGANIZATION', 'perhaps': 'O', '.': 'O'}",
         "sentence": "\"Purple Party\" is also used as an academic hypothetical of an undefined party, as a Centrist party in the United States (because purple is created from mixing the main parties' colors of red and blue) and as a highly idealistic \"peace and love\" party—in a similar vein to a Green Party, perhaps.",
+        "stems": [
+            "``",
+            "purpl",
+            "parti",
+            "''",
+            "also",
+            "use",
+            "academ",
+            "hypothet",
+            "undefin",
+            "parti",
+            "centrist",
+            "parti",
+            "unit",
+            "state",
+            "purpl",
+            "creat",
+            "mix",
+            "main",
+            "parti",
+            "color",
+            "red",
+            "blue",
+            "highli",
+            "idealist",
+            "``",
+            "peac",
+            "love",
+            "''",
+            "party—in",
+            "similar",
+            "vein",
+            "green",
+            "parti",
+            "perhap"
+        ],
         "synonyms": [
             "``",
             "purple",
@@ -60174,7 +62425,7 @@
             "party",
             "possibly"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -60614,6 +62865,21 @@
         "meronyms": [],
         "ner_tag": "{'Black': 'O', 'is': 'O', 'generally': 'O', 'associated': 'O', 'with': 'O', 'fascist': 'O', 'parties': 'O', ',': 'O', 'going': 'O', 'back': 'O', 'to': 'O', 'Benito': 'PERSON', 'Mussolini': 'PERSON', \"'s\": 'O', 'blackshirts': 'O', 'but': 'O', 'also': 'O', 'Anarchism': 'O', '.': 'O'}",
         "sentence": "Black is generally associated with fascist parties, going back to Benito Mussolini's blackshirts, but also with Anarchism.",
+        "stems": [
+            "black",
+            "gener",
+            "associ",
+            "fascist",
+            "parti",
+            "go",
+            "back",
+            "benito",
+            "mussolini",
+            "'s",
+            "blackshirt",
+            "also",
+            "anarch"
+        ],
         "synonyms": [
             "black",
             "by_and_large",
@@ -60629,7 +62895,7 @@
             "besides",
             "anarchism"
         ],
-        "tagged": [
+        "tags": [
             [
                 "black",
                 "JJ"
@@ -60976,6 +63242,21 @@
         "meronyms": [],
         "ner_tag": "{'Similarly': 'O', ',': 'O', 'brown': 'O', 'is': 'O', 'sometimes': 'O', 'associated': 'O', 'with': 'O', 'Nazism': 'MISC', 'going': 'O', 'back': 'O', 'to': 'O', 'the': 'O', 'Nazi': 'ORGANIZATION', 'Party': 'ORGANIZATION', \"'s\": 'O', 'tan': 'O', '-': 'O', 'uniformed': 'O', 'storm': 'CAUSE_OF_DEATH', 'troopers': 'O', '.': 'O'}",
         "sentence": "Similarly, brown is sometimes associated with Nazism, going back to the Nazi Party's tan-uniformed storm troopers.",
+        "stems": [
+            "similarli",
+            "brown",
+            "sometim",
+            "associ",
+            "nazism",
+            "go",
+            "back",
+            "nazi",
+            "parti",
+            "'s",
+            "tan-uniform",
+            "storm",
+            "trooper"
+        ],
         "synonyms": [
             "similarly",
             "Brown_University",
@@ -60991,7 +63272,7 @@
             "storm",
             "trooper"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similarly",
                 "RB"
@@ -61216,6 +63497,16 @@
         ],
         "ner_tag": "{'Political': 'O', 'color': 'O', 'schemes': 'O', 'in': 'O', 'the': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', 'diverge': 'O', 'from': 'O', 'international': 'O', 'norms': 'O', '.': 'O'}",
         "sentence": "Political color schemes in the United States diverge from international norms.",
+        "stems": [
+            "polit",
+            "color",
+            "scheme",
+            "unit",
+            "state",
+            "diverg",
+            "intern",
+            "norm"
+        ],
         "synonyms": [
             "political",
             "color",
@@ -61226,7 +63517,7 @@
             "International",
             "norm"
         ],
-        "tagged": [
+        "tags": [
             [
                 "political",
                 "JJ"
@@ -61561,6 +63852,20 @@
         "meronyms": [],
         "ner_tag": "{'Since': 'O', '2000': 'DATE', ',': 'O', 'red': 'O', 'has': 'O', 'become': 'O', 'associated': 'O', 'with': 'O', 'the': 'O', 'right': 'IDEOLOGY', '-': 'IDEOLOGY', 'wing': 'IDEOLOGY', 'Republican': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'and': 'O', 'blue': 'O', 'left': 'IDEOLOGY', 'Democratic': 'ORGANIZATION', '.': 'O'}",
         "sentence": "Since 2000, red has become associated with the right-wing Republican Party and blue with the left-wing Democratic Party.",
+        "stems": [
+            "sinc",
+            "2000",
+            "red",
+            "becom",
+            "associ",
+            "right-w",
+            "republican",
+            "parti",
+            "blue",
+            "left-w",
+            "democrat",
+            "parti"
+        ],
         "synonyms": [
             "since",
             "2000",
@@ -61575,7 +63880,7 @@
             "democratic",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -62122,6 +64427,29 @@
         ],
         "ner_tag": "{'However': 'O', ',': 'O', 'unlike': 'O', 'political': 'O', 'color': 'O', 'schemes': 'O', 'of': 'O', 'other': 'O', 'countries': 'O', 'the': 'O', 'parties': 'O', 'did': 'O', 'not': 'O', 'choose': 'O', 'those': 'O', 'colors': 'O', ';': 'O', 'they': 'O', 'were': 'O', 'used': 'O', 'in': 'O', 'news': 'O', 'coverage': 'O', '2000': 'DATE', 'election': 'O', 'results': 'O', 'and': 'O', 'ensuing': 'O', 'legal': 'O', 'battle': 'O', 'caught': 'O', 'on': 'O', 'popular': 'O', 'usage': 'O', '.': 'O'}",
         "sentence": "However, unlike political color schemes of other countries, the parties did not choose those colors; they were used in news coverage of 2000 election results and ensuing legal battle and caught on in popular usage.",
+        "stems": [
+            "howev",
+            "unlik",
+            "polit",
+            "color",
+            "scheme",
+            "countri",
+            "parti",
+            "choos",
+            "color",
+            "use",
+            "news",
+            "coverag",
+            "2000",
+            "elect",
+            "result",
+            "ensu",
+            "legal",
+            "battl",
+            "caught",
+            "popular",
+            "usag"
+        ],
         "synonyms": [
             "however",
             "unlike",
@@ -62145,7 +64473,7 @@
             "popular",
             "usage"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -62495,6 +64823,20 @@
         "meronyms": [],
         "ner_tag": "{'Prior': 'O', 'to': 'O', 'the': 'O', '2000': 'DATE', 'election': 'O', 'media': 'O', 'typically': 'O', 'alternated': 'O', 'which': 'O', 'color': 'O', 'represented': 'O', 'party': 'O', 'each': 'O', 'presidential': 'O', 'cycle': 'O', '.': 'O'}",
         "sentence": "Prior to the 2000 election the media typically alternated which color represented which party each presidential election cycle.",
+        "stems": [
+            "prior",
+            "2000",
+            "elect",
+            "media",
+            "typic",
+            "altern",
+            "color",
+            "repres",
+            "parti",
+            "presidenti",
+            "elect",
+            "cycl"
+        ],
         "synonyms": [
             "prior",
             "2000",
@@ -62509,7 +64851,7 @@
             "election",
             "motorbike"
         ],
-        "tagged": [
+        "tags": [
             [
                 "prior",
                 "JJ"
@@ -62878,6 +65220,22 @@
         ],
         "ner_tag": "{'The': 'O', 'color': 'O', 'scheme': 'O', 'happened': 'O', 'to': 'O', 'get': 'O', 'inordinate': 'O', 'attention': 'O', 'that': 'O', 'year': 'DURATION', ',': 'O', 'so': 'O', 'the': 'O', 'cycle': 'O', 'was': 'O', 'stopped': 'O', 'lest': 'O', 'it': 'O', 'cause': 'O', 'confusion': 'O', 'following': 'O', 'election': 'O', '.': 'O'}",
         "sentence": "The color scheme happened to get inordinate attention that year, so the cycle was stopped lest it cause confusion the following election.",
+        "stems": [
+            "color",
+            "scheme",
+            "happen",
+            "get",
+            "inordin",
+            "attent",
+            "year",
+            "cycl",
+            "stop",
+            "lest",
+            "caus",
+            "confus",
+            "follow",
+            "elect"
+        ],
         "synonyms": [
             "color",
             "system",
@@ -62894,7 +65252,7 @@
             "take_after",
             "election"
         ],
-        "tagged": [
+        "tags": [
             [
                 "color",
                 "NN"
@@ -63239,6 +65597,22 @@
         ],
         "ner_tag": "{'During': 'O', 'the': 'O', '19th': 'DATE', 'and': 'DATE', '20th': 'DATE', 'century': 'DATE', ',': 'O', 'many': 'O', 'national': 'O', 'political': 'O', 'parties': 'O', 'organized': 'O', 'themselves': 'O', 'into': 'O', 'international': 'O', 'organizations': 'O', 'along': 'O', 'similar': 'O', 'policy': 'O', 'lines': 'O', '.': 'O'}",
         "sentence": "During the 19th and 20th century, many national political parties organized themselves into international organizations along similar policy lines.",
+        "stems": [
+            "19th",
+            "20th",
+            "centuri",
+            "mani",
+            "nation",
+            "polit",
+            "parti",
+            "organ",
+            "intern",
+            "organ",
+            "along",
+            "similar",
+            "polici",
+            "line"
+        ],
         "synonyms": [
             "nineteenth",
             "twentieth",
@@ -63255,7 +65629,7 @@
             "policy",
             "wrinkle"
         ],
-        "tagged": [
+        "tags": [
             [
                 "19th",
                 "CD"
@@ -64287,6 +66661,50 @@
         ],
         "ner_tag": "{'Notable': 'O', 'examples': 'O', 'are': 'O', 'The': 'ORGANIZATION', 'Universal': 'ORGANIZATION', 'Party': 'ORGANIZATION', ',': 'O', 'International': 'ORGANIZATION', 'Workingmen': 'ORGANIZATION', \"'s\": 'ORGANIZATION', 'Association': 'ORGANIZATION', '(': 'O', 'also': 'O', 'called': 'O', 'the': 'O', 'First': 'ORGANIZATION', ')': 'O', 'Socialist': 'ORGANIZATION', 'Second': 'DATE', 'Communist': 'IDEOLOGY', 'Third': 'ORDINAL', 'and': 'O', 'Fourth': 'ORDINAL', 'as': 'O', 'organizations': 'O', 'of': 'O', 'working': 'O', 'class': 'O', 'parties': 'O', 'or': 'O', 'Liberal': 'ORGANIZATION', 'yellow': 'O', 'Hizb': 'MISC', 'ut': 'O', '-': 'O', 'Tahrir': 'O', 'Christian': 'ORGANIZATION', 'Democratic': 'ORGANIZATION', 'Democrat': 'ORGANIZATION', 'Union': 'ORGANIZATION', 'blue': 'O', '.': 'O'}",
         "sentence": "Notable examples are The Universal Party, International Workingmen's Association (also called the First International), the Socialist International (also called the Second International), the Communist International (also called the Third International), and the Fourth International, as organizations of working class parties, or the Liberal International (yellow), Hizb ut-Tahrir, Christian Democratic International and the International Democrat Union (blue).",
+        "stems": [
+            "notabl",
+            "exampl",
+            "univers",
+            "parti",
+            "intern",
+            "workingmen",
+            "'s",
+            "associ",
+            "also",
+            "call",
+            "first",
+            "intern",
+            "socialist",
+            "intern",
+            "also",
+            "call",
+            "second",
+            "intern",
+            "communist",
+            "intern",
+            "also",
+            "call",
+            "third",
+            "intern",
+            "fourth",
+            "intern",
+            "organ",
+            "work",
+            "class",
+            "parti",
+            "liber",
+            "intern",
+            "yellow",
+            "hizb",
+            "ut-tahrir",
+            "christian",
+            "democrat",
+            "intern",
+            "intern",
+            "democrat",
+            "union",
+            "blue"
+        ],
         "synonyms": [
             "luminary",
             "model",
@@ -64331,7 +66749,7 @@
             "union",
             "blue"
         ],
-        "tagged": [
+        "tags": [
             [
                 "notable",
                 "JJ"
@@ -64823,6 +67241,21 @@
         ],
         "ner_tag": "{'Organized': 'O', 'in': 'O', 'Italy': 'COUNTRY', '1945': 'DATE', ',': 'O', 'the': 'O', 'International': 'ORGANIZATION', 'Communist': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'since': 'O', '1974': 'DATE', 'headquartered': 'O', 'Florence': 'CITY', 'has': 'O', 'sections': 'O', 'six': 'NUMBER', 'countries': 'O', '.': 'O'}",
         "sentence": "Organized in Italy in 1945, the International Communist Party, since 1974 headquartered in Florence has sections in six countries.",
+        "stems": [
+            "organ",
+            "itali",
+            "1945",
+            "intern",
+            "communist",
+            "parti",
+            "sinc",
+            "1974",
+            "headquart",
+            "florenc",
+            "section",
+            "six",
+            "countri"
+        ],
         "synonyms": [
             "unionize",
             "Italy",
@@ -64838,7 +67271,7 @@
             "six",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "organized",
                 "VBN"
@@ -65088,6 +67521,17 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Worldwide': 'O', 'green': 'O', 'parties': 'O', 'have': 'O', 'recently': 'DATE', 'established': 'O', 'the': 'O', 'Global': 'ORGANIZATION', 'Greens': 'ORGANIZATION', '.': 'O'}",
         "sentence": "[citation needed] Worldwide green parties have recently established the Global Greens.",
+        "stems": [
+            "citat",
+            "need",
+            "worldwid",
+            "green",
+            "parti",
+            "recent",
+            "establish",
+            "global",
+            "green"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -65099,7 +67543,7 @@
             "ball-shaped",
             "park"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -65431,6 +67875,19 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Universal': 'ORGANIZATION', 'Party': 'ORGANIZATION', ',': 'O', 'Socialist': 'ORGANIZATION', 'International': 'ORGANIZATION', 'the': 'O', 'Liberal': 'ORGANIZATION', 'and': 'O', 'Democrat': 'ORGANIZATION', 'Union': 'ORGANIZATION', 'are': 'O', 'all': 'O', 'based': 'O', 'in': 'O', 'London': 'CITY', '.': 'O'}",
         "sentence": "The Universal Party, The Socialist International, the Liberal International, and the International Democrat Union are all based in London.",
+        "stems": [
+            "univers",
+            "parti",
+            "socialist",
+            "intern",
+            "liber",
+            "intern",
+            "intern",
+            "democrat",
+            "union",
+            "base",
+            "london"
+        ],
         "synonyms": [
             "universal",
             "party",
@@ -65444,7 +67901,7 @@
             "establish",
             "London"
         ],
-        "tagged": [
+        "tags": [
             [
                 "universal",
                 "JJ"
@@ -65556,11 +68013,15 @@
         "meronyms": [],
         "ner_tag": "{'Some': 'O', 'administrations': 'O', '(': 'O', 'e.g': 'O', '.': 'O'}",
         "sentence": "Some administrations (e.g.",
+        "stems": [
+            "administr",
+            "e.g"
+        ],
         "synonyms": [
             "presidency",
             "e.g"
         ],
-        "tagged": [
+        "tags": [
             [
                 "administrations",
                 "NNS"
@@ -65816,6 +68277,22 @@
         "meronyms": [],
         "ner_tag": "{'Hong': 'CITY', 'Kong': 'CITY', ')': 'O', 'outlaw': 'O', 'formal': 'O', 'linkages': 'O', 'between': 'O', 'local': 'O', 'and': 'O', 'foreign': 'O', 'political': 'O', 'organizations': 'O', ',': 'O', 'effectively': 'O', 'outlawing': 'O', 'international': 'O', 'parties': 'O', '.': 'O'}",
         "sentence": "Hong Kong) outlaw formal linkages between local and foreign political organizations, effectively outlawing international political parties.",
+        "stems": [
+            "hong",
+            "kong",
+            "outlaw",
+            "formal",
+            "linkag",
+            "local",
+            "foreign",
+            "polit",
+            "organ",
+            "effect",
+            "outlaw",
+            "intern",
+            "polit",
+            "parti"
+        ],
         "synonyms": [
             "hong",
             "kong",
@@ -65832,7 +68309,7 @@
             "political",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "hong",
                 "RB"
@@ -66103,6 +68580,19 @@
         "meronyms": [],
         "ner_tag": "{'French': 'NATIONALITY', 'political': 'TITLE', 'scientist': 'TITLE', 'Maurice': 'PERSON', 'Duverger': 'PERSON', 'drew': 'O', 'a': 'O', 'distinction': 'O', 'between': 'O', 'cadre': 'O', 'parties': 'O', 'and': 'O', 'mass': 'O', '.': 'O'}",
         "sentence": "French political scientist Maurice Duverger drew a distinction between cadre parties and mass parties.",
+        "stems": [
+            "french",
+            "polit",
+            "scientist",
+            "mauric",
+            "duverg",
+            "drew",
+            "distinct",
+            "cadr",
+            "parti",
+            "mass",
+            "parti"
+        ],
         "synonyms": [
             "French",
             "political",
@@ -66116,7 +68606,7 @@
             "mass",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "french",
                 "JJ"
@@ -66525,6 +69015,22 @@
         "meronyms": [],
         "ner_tag": "{'Cadre': 'O', 'parties': 'O', 'were': 'O', 'political': 'O', 'elites': 'O', 'that': 'O', 'concerned': 'O', 'with': 'O', 'contesting': 'O', 'elections': 'O', 'and': 'O', 'restricted': 'O', 'the': 'O', 'influence': 'O', 'of': 'O', 'outsiders': 'O', ',': 'O', 'who': 'O', 'only': 'O', 'required': 'O', 'to': 'O', 'assist': 'O', 'in': 'O', 'election': 'O', 'campaigns': 'O', '.': 'O'}",
         "sentence": "Cadre parties were political elites that were concerned with contesting elections and restricted the influence of outsiders, who were only required to assist in election campaigns.",
+        "stems": [
+            "cadr",
+            "parti",
+            "polit",
+            "elit",
+            "concern",
+            "contest",
+            "elect",
+            "restrict",
+            "influenc",
+            "outsid",
+            "requir",
+            "assist",
+            "elect",
+            "campaign"
+        ],
         "synonyms": [
             "cell",
             "party",
@@ -66541,7 +69047,7 @@
             "election",
             "political_campaign"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cadre",
                 "JJ"
@@ -67276,6 +69782,39 @@
         ],
         "ner_tag": "{'Mass': 'STATE_OR_PROVINCE', 'parties': 'O', 'tried': 'O', 'to': 'O', 'recruit': 'O', 'new': 'O', 'members': 'O', 'who': 'O', 'were': 'O', 'a': 'O', 'source': 'O', 'of': 'O', 'party': 'O', 'income': 'O', 'and': 'O', 'often': 'O', 'expected': 'O', 'spread': 'O', 'ideology': 'O', 'as': 'O', 'well': 'O', 'assist': 'O', 'in': 'O', 'elections.Socialist': 'O', 'are': 'O', 'examples': 'O', 'mass': 'O', ',': 'O', 'while': 'O', 'the': 'O', 'British': 'ORGANIZATION', 'Conservative': 'ORGANIZATION', 'Party': 'ORGANIZATION', 'German': 'ORGANIZATION', 'Christian': 'ORGANIZATION', 'Democratic': 'ORGANIZATION', 'Union': 'ORGANIZATION', 'hybrid': 'O', '.': 'O'}",
         "sentence": "Mass parties tried to recruit new members who were a source of party income and were often expected to spread party ideology as well as assist in elections.Socialist parties are examples of mass parties, while the British Conservative Party and the German Christian Democratic Union are examples of hybrid parties.",
+        "stems": [
+            "mass",
+            "parti",
+            "tri",
+            "recruit",
+            "new",
+            "member",
+            "sourc",
+            "parti",
+            "incom",
+            "often",
+            "expect",
+            "spread",
+            "parti",
+            "ideolog",
+            "well",
+            "assist",
+            "elections.socialist",
+            "parti",
+            "exampl",
+            "mass",
+            "parti",
+            "british",
+            "conserv",
+            "parti",
+            "german",
+            "christian",
+            "democrat",
+            "union",
+            "exampl",
+            "hybrid",
+            "parti"
+        ],
         "synonyms": [
             "mass",
             "party",
@@ -67309,7 +69848,7 @@
             "loanblend",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mass",
                 "NN"
@@ -67946,6 +70485,25 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', ',': 'O', 'where': 'O', 'both': 'O', 'major': 'O', 'parties': 'O', 'were': 'O', 'cadre': 'O', 'introduction': 'O', 'of': 'O', 'primaries': 'O', 'and': 'O', 'other': 'O', 'reforms': 'O', 'has': 'O', 'transformed': 'O', 'them': 'O', 'so': 'O', 'that': 'O', 'power': 'O', 'is': 'O', 'held': 'O', 'by': 'O', 'activists': 'O', 'who': 'O', 'compete': 'O', 'over': 'O', 'influence': 'O', 'nomination': 'O', 'candidates': 'O', '.': 'O'}",
         "sentence": "In the United States, where both major parties were cadre parties, the introduction of primaries and other reforms has transformed them so that power is held by activists who compete over influence and nomination of candidates.",
+        "stems": [
+            "unit",
+            "state",
+            "major",
+            "parti",
+            "cadr",
+            "parti",
+            "introduct",
+            "primari",
+            "reform",
+            "transform",
+            "power",
+            "held",
+            "activist",
+            "compet",
+            "influenc",
+            "nomin",
+            "candid"
+        ],
         "synonyms": [
             "united",
             "state",
@@ -67965,7 +70523,7 @@
             "nomination",
             "campaigner"
         ],
-        "tagged": [
+        "tags": [
             [
                 "united",
                 "JJ"

@@ -227,6 +227,17 @@
         ],
         "ner_tag": "{'Immunology': 'O', 'is': 'O', 'a': 'O', 'branch': 'O', 'of': 'O', 'biomedical': 'O', 'science': 'O', 'that': 'O', 'covers': 'O', 'the': 'O', 'study': 'O', 'immune': 'O', 'systems': 'O', 'in': 'O', 'all': 'O', 'organisms': 'O', '.': 'O'}",
         "sentence": "Immunology is a branch of biomedical science that covers the study of immune systems in all organisms.",
+        "stems": [
+            "immunolog",
+            "branch",
+            "biomed",
+            "scienc",
+            "cover",
+            "studi",
+            "immun",
+            "system",
+            "organ"
+        ],
         "synonyms": [
             "immunology",
             "outgrowth",
@@ -238,7 +249,7 @@
             "system",
             "organism"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immunology",
                 "NN"
@@ -1140,6 +1151,40 @@
         ],
         "ner_tag": "{'It': 'O', 'charts': 'O', ',': 'O', 'measures': 'O', 'and': 'O', 'contextualizes': 'O', 'the': 'O', ':': 'O', 'physiological': 'O', 'functioning': 'O', 'of': 'O', 'immune': 'O', 'system': 'O', 'in': 'O', 'states': 'O', 'both': 'O', 'health': 'O', 'diseases': 'CAUSE_OF_DEATH', ';': 'O', 'malfunctions': 'O', 'immunological': 'O', 'disorders': 'O', '(': 'O', 'such': 'O', 'as': 'O', 'autoimmune': 'O', 'hypersensitivities': 'O', 'deficiency': 'O', 'transplant': 'O', 'rejection': 'O', ')': 'O', 'physical': 'O', 'chemical': 'O', 'characteristics': 'O', 'components': 'O', 'vitro': 'O', 'situ': 'O', 'vivo': 'O', '.': 'O'}",
         "sentence": "It charts, measures, and contextualizes the: physiological functioning of the immune system in states of both health and diseases; malfunctions of the immune system in immunological disorders (such as autoimmune diseases, hypersensitivities, immune deficiency, and transplant rejection); the physical, chemical and physiological characteristics of the components of the immune system in vitro, in situ, and in vivo.",
+        "stems": [
+            "chart",
+            "measur",
+            "contextu",
+            "physiolog",
+            "function",
+            "immun",
+            "system",
+            "state",
+            "health",
+            "diseas",
+            "malfunct",
+            "immun",
+            "system",
+            "immunolog",
+            "disord",
+            "autoimmun",
+            "diseas",
+            "hypersensit",
+            "immun",
+            "defici",
+            "transplant",
+            "reject",
+            "physic",
+            "chemic",
+            "physiolog",
+            "characterist",
+            "compon",
+            "immun",
+            "system",
+            "vitro",
+            "situ",
+            "vivo"
+        ],
         "synonyms": [
             "graph",
             "standard",
@@ -1174,7 +1219,7 @@
             "situ",
             "vivo"
         ],
-        "tagged": [
+        "tags": [
             [
                 "charts",
                 "NNS"
@@ -1709,6 +1754,23 @@
         ],
         "ner_tag": "{'Immunology': 'O', 'has': 'O', 'applications': 'O', 'in': 'O', 'numerous': 'O', 'disciplines': 'O', 'of': 'O', 'medicine': 'O', ',': 'O', 'particularly': 'O', 'the': 'O', 'fields': 'O', 'organ': 'O', 'transplantation': 'O', 'oncology': 'O', 'virology': 'O', 'bacteriology': 'O', 'parasitology': 'O', 'psychiatry': 'O', 'and': 'O', 'dermatology': 'O', '.': 'O'}",
         "sentence": "Immunology has applications in numerous disciplines of medicine, particularly in the fields of organ transplantation, oncology, virology, bacteriology, parasitology, psychiatry, and dermatology.",
+        "stems": [
+            "immunolog",
+            "applic",
+            "numer",
+            "disciplin",
+            "medicin",
+            "particularli",
+            "field",
+            "organ",
+            "transplant",
+            "oncolog",
+            "virolog",
+            "bacteriolog",
+            "parasitolog",
+            "psychiatri",
+            "dermatolog"
+        ],
         "synonyms": [
             "immunology",
             "lotion",
@@ -1726,7 +1788,7 @@
             "psychiatry",
             "dermatology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immunology",
                 "NN"
@@ -2258,6 +2320,29 @@
         "meronyms": [],
         "ner_tag": "{'Prior': 'O', 'to': 'O', 'the': 'O', 'designation': 'O', 'of': 'O', 'immunity': 'O', 'from': 'O', 'etymological': 'O', 'root': 'O', 'immunis': 'O', ',': 'O', 'which': 'O', 'is': 'O', 'Latin': 'O', 'for': 'O', '``': 'O', 'exempt': 'O', \"''\": 'O', ';': 'O', 'early': 'O', 'physicians': 'O', 'characterized': 'O', 'organs': 'O', 'that': 'O', 'would': 'O', 'later': 'O', 'be': 'O', 'proven': 'O', 'as': 'O', 'essential': 'O', 'components': 'O', 'immune': 'O', 'system': 'O', '.': 'O'}",
         "sentence": "Prior to the designation of immunity from the etymological root immunis, which is Latin for \"exempt\"; early physicians characterized organs that would later be proven as essential components of the immune system.",
+        "stems": [
+            "prior",
+            "design",
+            "immun",
+            "etymolog",
+            "root",
+            "immuni",
+            "latin",
+            "``",
+            "exempt",
+            "''",
+            "earli",
+            "physician",
+            "character",
+            "organ",
+            "would",
+            "later",
+            "proven",
+            "essenti",
+            "compon",
+            "immun",
+            "system"
+        ],
         "synonyms": [
             "prior",
             "appointment",
@@ -2281,7 +2366,7 @@
             "immune",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "prior",
                 "JJ"
@@ -2843,6 +2928,27 @@
         ],
         "ner_tag": "{'The': 'O', 'important': 'O', 'lymphoid': 'O', 'organs': 'O', 'of': 'O', 'the': 'O', 'immune': 'O', 'system': 'O', 'are': 'O', 'thymus': 'O', 'and': 'O', 'bone': 'O', 'marrow': 'O', ',': 'O', 'chief': 'O', 'lymphatic': 'O', 'tissues': 'O', 'such': 'O', 'as': 'O', 'spleen': 'O', 'tonsils': 'O', 'lymph': 'O', 'vessels': 'O', 'nodes': 'O', 'adenoids': 'O', 'liver': 'O', '.': 'O'}",
         "sentence": "The important lymphoid organs of the immune system are the thymus and bone marrow, and chief lymphatic tissues such as spleen, tonsils, lymph vessels, lymph nodes, adenoids, and liver.",
+        "stems": [
+            "import",
+            "lymphoid",
+            "organ",
+            "immun",
+            "system",
+            "thymu",
+            "bone",
+            "marrow",
+            "chief",
+            "lymphat",
+            "tissu",
+            "spleen",
+            "tonsil",
+            "lymph",
+            "vessel",
+            "lymph",
+            "node",
+            "adenoid",
+            "liver"
+        ],
         "synonyms": [
             "important",
             "lymphoid",
@@ -2864,7 +2970,7 @@
             "pharyngeal_tonsil",
             "liver"
         ],
-        "tagged": [
+        "tags": [
             [
                 "important",
                 "JJ"
@@ -3471,6 +3577,32 @@
         ],
         "ner_tag": "{'When': 'O', 'health': 'O', 'conditions': 'O', 'worsen': 'O', 'to': 'O', 'emergency': 'O', 'status': 'O', ',': 'O', 'portions': 'O', 'of': 'O', 'immune': 'O', 'system': 'O', 'organs': 'O', 'including': 'O', 'the': 'O', 'thymus': 'O', 'spleen': 'O', 'bone': 'O', 'marrow': 'O', 'lymph': 'O', 'nodes': 'O', 'and': 'O', 'other': 'O', 'lymphatic': 'O', 'tissues': 'O', 'can': 'O', 'be': 'O', 'surgically': 'O', 'excised': 'O', 'for': 'O', 'examination': 'O', 'while': 'O', 'patients': 'O', 'are': 'O', 'still': 'O', 'alive': 'O', '.': 'O'}",
         "sentence": "When health conditions worsen to emergency status, portions of immune system organs including the thymus, spleen, bone marrow, lymph nodes and other lymphatic tissues can be surgically excised for examination while patients are still alive.",
+        "stems": [
+            "health",
+            "condit",
+            "worsen",
+            "emerg",
+            "statu",
+            "portion",
+            "immun",
+            "system",
+            "organ",
+            "includ",
+            "thymu",
+            "spleen",
+            "bone",
+            "marrow",
+            "lymph",
+            "node",
+            "lymphat",
+            "tissu",
+            "surgic",
+            "excis",
+            "examin",
+            "patient",
+            "still",
+            "aliv"
+        ],
         "synonyms": [
             "health",
             "stipulate",
@@ -3497,7 +3629,7 @@
             "still",
             "animated"
         ],
-        "tagged": [
+        "tags": [
             [
                 "health",
                 "NN"
@@ -4026,6 +4158,26 @@
         ],
         "ner_tag": "{'Many': 'O', 'components': 'O', 'of': 'O', 'the': 'O', 'immune': 'O', 'system': 'O', 'are': 'O', 'typically': 'O', 'cellular': 'O', 'in': 'O', 'nature': 'O', 'and': 'O', 'not': 'O', 'associated': 'O', 'with': 'O', 'any': 'O', 'specific': 'O', 'organ': 'O', ';': 'O', 'but': 'O', 'rather': 'O', 'embedded': 'O', 'or': 'O', 'circulating': 'O', 'various': 'O', 'tissues': 'O', 'located': 'O', 'throughout': 'O', 'body': 'O', '.': 'O'}",
         "sentence": "Many components of the immune system are typically cellular in nature and not associated with any specific organ; but rather are embedded or circulating in various tissues located throughout the body.",
+        "stems": [
+            "mani",
+            "compon",
+            "immun",
+            "system",
+            "typic",
+            "cellular",
+            "natur",
+            "associ",
+            "specif",
+            "organ",
+            "rather",
+            "embed",
+            "circul",
+            "variou",
+            "tissu",
+            "locat",
+            "throughout",
+            "bodi"
+        ],
         "synonyms": [
             "many",
             "component",
@@ -4046,7 +4198,7 @@
             "throughout",
             "soundbox"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -4295,6 +4447,14 @@
         "meronyms": [],
         "ner_tag": "{'Classical': 'MISC', 'immunology': 'O', 'ties': 'O', 'in': 'O', 'with': 'O', 'the': 'O', 'fields': 'O', 'of': 'O', 'epidemiology': 'O', 'and': 'O', 'medicine': 'O', '.': 'O'}",
         "sentence": "Classical immunology ties in with the fields of epidemiology and medicine.",
+        "stems": [
+            "classic",
+            "immunolog",
+            "tie",
+            "field",
+            "epidemiolog",
+            "medicin"
+        ],
         "synonyms": [
             "classical_music",
             "immunology",
@@ -4303,7 +4463,7 @@
             "epidemiology",
             "medicine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "classical",
                 "JJ"
@@ -4513,6 +4673,14 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'studies': 'O', 'the': 'O', 'relationship': 'O', 'between': 'O', 'body': 'O', 'systems': 'O', ',': 'O', 'pathogens': 'O', 'and': 'O', 'immunity': 'O', '.': 'O'}",
         "sentence": "It studies the relationship between the body systems, pathogens, and immunity.",
+        "stems": [
+            "studi",
+            "relationship",
+            "bodi",
+            "system",
+            "pathogen",
+            "immun"
+        ],
         "synonyms": [
             "survey",
             "relationship",
@@ -4521,7 +4689,7 @@
             "pathogen",
             "unsusceptibility"
         ],
-        "tagged": [
+        "tags": [
             [
                 "studies",
                 "NNS"
@@ -4793,6 +4961,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'earliest': 'O', 'written': 'O', 'mention': 'O', 'of': 'O', 'immunity': 'O', 'can': 'O', 'be': 'O', 'traced': 'O', 'back': 'O', 'to': 'O', 'the': 'O', 'plague': 'CAUSE_OF_DEATH', 'Athens': 'CITY', 'in': 'O', '430': 'NUMBER', 'BCE': 'O', '.': 'O'}",
         "sentence": "The earliest written mention of immunity can be traced back to the plague of Athens in 430 BCE.",
+        "stems": [
+            "earliest",
+            "written",
+            "mention",
+            "immun",
+            "trace",
+            "back",
+            "plagu",
+            "athen",
+            "430",
+            "bce"
+        ],
         "synonyms": [
             "early",
             "write",
@@ -4805,7 +4985,7 @@
             "430",
             "BCE"
         ],
-        "tagged": [
+        "tags": [
             [
                 "earliest",
                 "JJS"
@@ -5187,6 +5367,23 @@
         ],
         "ner_tag": "{'Thucydides': 'O', 'noted': 'O', 'that': 'O', 'people': 'O', 'who': 'O', 'had': 'O', 'recovered': 'O', 'from': 'O', 'a': 'DURATION', 'previous': 'O', 'bout': 'O', 'of': 'O', 'the': 'O', 'disease': 'CAUSE_OF_DEATH', 'could': 'O', 'nurse': 'O', 'sick': 'O', 'without': 'O', 'contracting': 'O', 'illness': 'CAUSE_OF_DEATH', 'second': 'DURATION', 'time': 'O', '.': 'O'}",
         "sentence": "Thucydides noted that people who had recovered from a previous bout of the disease could nurse the sick without contracting the illness a second time.",
+        "stems": [
+            "thucydid",
+            "note",
+            "peopl",
+            "recov",
+            "previou",
+            "bout",
+            "diseas",
+            "could",
+            "nurs",
+            "sick",
+            "without",
+            "contract",
+            "ill",
+            "second",
+            "time"
+        ],
         "synonyms": [
             "Thucydides",
             "note",
@@ -5204,7 +5401,7 @@
             "second_gear",
             "time"
         ],
-        "tagged": [
+        "tags": [
             [
                 "thucydides",
                 "NNS"
@@ -5629,6 +5826,20 @@
         ],
         "ner_tag": "{'Many': 'O', 'other': 'O', 'ancient': 'O', 'societies': 'O', 'have': 'O', 'references': 'O', 'to': 'O', 'this': 'O', 'phenomenon': 'O', ',': 'O', 'but': 'O', 'it': 'O', 'was': 'O', 'not': 'O', 'until': 'O', 'the': 'O', '19th': 'DATE', 'and': 'DATE', '20th': 'DATE', 'centuries': 'DATE', 'before': 'DATE', 'concept': 'O', 'developed': 'O', 'into': 'O', 'scientific': 'O', 'theory': 'O', '.': 'O'}",
         "sentence": "Many other ancient societies have references to this phenomenon, but it was not until the 19th and 20th centuries before the concept developed into scientific theory.",
+        "stems": [
+            "mani",
+            "ancient",
+            "societi",
+            "refer",
+            "phenomenon",
+            "19th",
+            "20th",
+            "centuri",
+            "concept",
+            "develop",
+            "scientif",
+            "theori"
+        ],
         "synonyms": [
             "many",
             "ancient",
@@ -5643,7 +5854,7 @@
             "scientific",
             "theory"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -6046,6 +6257,21 @@
         ],
         "ner_tag": "{'The': 'O', 'study': 'O', 'of': 'O', 'the': 'O', 'molecular': 'O', 'and': 'O', 'cellular': 'O', 'components': 'O', 'that': 'O', 'comprise': 'O', 'immune': 'O', 'system': 'O', ',': 'O', 'including': 'O', 'their': 'O', 'function': 'O', 'interaction': 'O', 'is': 'O', 'central': 'O', 'science': 'O', 'immunology': 'O', '.': 'O'}",
         "sentence": "The study of the molecular and cellular components that comprise the immune system, including their function and interaction, is the central science of immunology.",
+        "stems": [
+            "studi",
+            "molecular",
+            "cellular",
+            "compon",
+            "compris",
+            "immun",
+            "system",
+            "includ",
+            "function",
+            "interact",
+            "central",
+            "scienc",
+            "immunolog"
+        ],
         "synonyms": [
             "survey",
             "molecular",
@@ -6061,7 +6287,7 @@
             "science",
             "immunology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "study",
                 "NN"
@@ -6435,6 +6661,20 @@
         ],
         "ner_tag": "{'The': 'O', 'immune': 'O', 'system': 'O', 'has': 'O', 'been': 'O', 'divided': 'O', 'into': 'O', 'a': 'O', 'more': 'O', 'primitive': 'O', 'innate': 'O', 'and': 'O', ',': 'O', 'in': 'O', 'vertebrates': 'O', 'an': 'O', 'acquired': 'O', 'or': 'O', 'adaptive': 'O', '.': 'O'}",
         "sentence": "The immune system has been divided into a more primitive innate immune system and, in vertebrates, an acquired or adaptive immune system.",
+        "stems": [
+            "immun",
+            "system",
+            "divid",
+            "primit",
+            "innat",
+            "immun",
+            "system",
+            "vertebr",
+            "acquir",
+            "adapt",
+            "immun",
+            "system"
+        ],
         "synonyms": [
             "immune",
             "system",
@@ -6449,7 +6689,7 @@
             "immune",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immune",
                 "NN"
@@ -6721,6 +6961,14 @@
         ],
         "ner_tag": "{'The': 'O', 'latter': 'O', 'is': 'O', 'further': 'O', 'divided': 'O', 'into': 'O', 'humoral': 'O', '(': 'O', 'or': 'O', 'antibody': 'O', ')': 'O', 'and': 'O', 'cell': 'O', '-': 'O', 'mediated': 'O', 'components': 'O', '.': 'O'}",
         "sentence": "The latter is further divided into humoral (or antibody) and cell-mediated components.",
+        "stems": [
+            "latter",
+            "divid",
+            "humor",
+            "antibodi",
+            "cell-medi",
+            "compon"
+        ],
         "synonyms": [
             "latter",
             "separate",
@@ -6729,7 +6977,7 @@
             "cell-mediated",
             "component"
         ],
-        "tagged": [
+        "tags": [
             [
                 "latter",
                 "NN"
@@ -6968,6 +7216,15 @@
         ],
         "ner_tag": "{'The': 'O', 'humoral': 'O', '(': 'O', 'antibody': 'O', ')': 'O', 'response': 'O', 'is': 'O', 'defined': 'O', 'as': 'O', 'the': 'O', 'interaction': 'O', 'between': 'O', 'antibodies': 'O', 'and': 'O', 'antigens': 'O', '.': 'O'}",
         "sentence": "The humoral (antibody) response is defined as the interaction between antibodies and antigens.",
+        "stems": [
+            "humor",
+            "antibodi",
+            "respons",
+            "defin",
+            "interact",
+            "antibodi",
+            "antigen"
+        ],
         "synonyms": [
             "humoral",
             "antibody",
@@ -6977,7 +7234,7 @@
             "antibody",
             "antigen"
         ],
-        "tagged": [
+        "tags": [
             [
                 "humoral",
                 "JJ"
@@ -7520,6 +7777,33 @@
         ],
         "ner_tag": "{'Antibodies': 'O', 'are': 'O', 'specific': 'O', 'proteins': 'O', 'released': 'O', 'from': 'O', 'a': 'O', 'certain': 'O', 'class': 'O', 'of': 'O', 'immune': 'O', 'cells': 'O', 'known': 'O', 'as': 'O', 'B': 'O', 'lymphocytes': 'O', ',': 'O', 'while': 'O', 'antigens': 'O', 'defined': 'O', 'anything': 'O', 'that': 'O', 'elicits': 'O', 'the': 'O', 'generation': 'O', 'antibodies': 'O', '(': 'O', '``': 'O', 'anti': 'O', \"''\": 'O', 'body': 'O', 'gen': 'O', 'erators': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Antibodies are specific proteins released from a certain class of immune cells known as B lymphocytes, while antigens are defined as anything that elicits the generation of antibodies (\"anti\"body \"gen\"erators).",
+        "stems": [
+            "antibodi",
+            "specif",
+            "protein",
+            "releas",
+            "certain",
+            "class",
+            "immun",
+            "cell",
+            "known",
+            "b",
+            "lymphocyt",
+            "antigen",
+            "defin",
+            "anyth",
+            "elicit",
+            "gener",
+            "antibodi",
+            "``",
+            "anti",
+            "''",
+            "bodi",
+            "``",
+            "gen",
+            "''",
+            "erat"
+        ],
         "synonyms": [
             "antibody",
             "specific",
@@ -7547,7 +7831,7 @@
             "''",
             "erators"
         ],
-        "tagged": [
+        "tags": [
             [
                 "antibodies",
                 "NNS"
@@ -7925,6 +8209,17 @@
         "meronyms": [],
         "ner_tag": "{'Immunology': 'O', 'rests': 'O', 'on': 'O', 'an': 'O', 'understanding': 'O', 'of': 'O', 'the': 'O', 'properties': 'O', 'these': 'O', 'two': 'NUMBER', 'biological': 'O', 'entities': 'O', 'and': 'O', 'cellular': 'O', 'response': 'O', 'to': 'O', 'both': 'O', '.': 'O'}",
         "sentence": "Immunology rests on an understanding of the properties of these two biological entities and the cellular response to both.",
+        "stems": [
+            "immunolog",
+            "rest",
+            "understand",
+            "properti",
+            "two",
+            "biolog",
+            "entiti",
+            "cellular",
+            "respons"
+        ],
         "synonyms": [
             "immunology",
             "stay",
@@ -7936,7 +8231,7 @@
             "cellular",
             "response"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immunology",
                 "NN"
@@ -8394,6 +8689,27 @@
         "meronyms": [],
         "ner_tag": "{'Immunological': 'O', 'research': 'O', 'continues': 'O', 'to': 'O', 'become': 'O', 'more': 'O', 'specialized': 'O', ',': 'O', 'pursuing': 'O', 'non-classical': 'O', 'models': 'O', 'of': 'O', 'immunity': 'O', 'and': 'O', 'functions': 'O', 'cells': 'O', 'organs': 'O', 'systems': 'O', 'not': 'O', 'previously': 'DATE', 'associated': 'O', 'with': 'O', 'the': 'O', 'immune': 'O', 'system': 'O', '(': 'O', 'Yemeserach': 'O', '2010': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "Immunological research continues to become more specialized, pursuing non-classical models of immunity and functions of cells, organs and systems not previously associated with the immune system (Yemeserach 2010).",
+        "stems": [
+            "immunolog",
+            "research",
+            "continu",
+            "becom",
+            "special",
+            "pursu",
+            "non-class",
+            "model",
+            "immun",
+            "function",
+            "cell",
+            "organ",
+            "system",
+            "previous",
+            "associ",
+            "immun",
+            "system",
+            "yemeserach",
+            "2010"
+        ],
         "synonyms": [
             "immunological",
             "research",
@@ -8415,7 +8731,7 @@
             "yemeserach",
             "2010"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immunological",
                 "JJ"
@@ -8911,6 +9227,24 @@
         ],
         "ner_tag": "{'Clinical': 'O', 'immunology': 'O', 'is': 'O', 'the': 'O', 'study': 'O', 'of': 'O', 'diseases': 'CAUSE_OF_DEATH', 'caused': 'O', 'by': 'O', 'disorders': 'O', 'immune': 'O', 'system': 'O', '(': 'O', 'failure': 'O', ',': 'O', 'aberrant': 'O', 'action': 'O', 'and': 'O', 'malignant': 'O', 'growth': 'O', 'cellular': 'O', 'elements': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Clinical immunology is the study of diseases caused by disorders of the immune system (failure, aberrant action, and malignant growth of the cellular elements of the system).",
+        "stems": [
+            "clinic",
+            "immunolog",
+            "studi",
+            "diseas",
+            "caus",
+            "disord",
+            "immun",
+            "system",
+            "failur",
+            "aberr",
+            "action",
+            "malign",
+            "growth",
+            "cellular",
+            "element",
+            "system"
+        ],
         "synonyms": [
             "clinical",
             "immunology",
@@ -8929,7 +9263,7 @@
             "element",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clinical",
                 "JJ"
@@ -9275,6 +9609,19 @@
         ],
         "ner_tag": "{'It': 'O', 'also': 'O', 'involves': 'O', 'diseases': 'CAUSE_OF_DEATH', 'of': 'O', 'other': 'O', 'systems': 'O', ',': 'O', 'where': 'O', 'immune': 'O', 'reactions': 'O', 'play': 'O', 'a': 'O', 'part': 'O', 'in': 'O', 'the': 'O', 'pathology': 'O', 'and': 'O', 'clinical': 'O', 'features': 'O', '.': 'O'}",
         "sentence": "It also involves diseases of other systems, where immune reactions play a part in the pathology and clinical features.",
+        "stems": [
+            "also",
+            "involv",
+            "diseas",
+            "system",
+            "immun",
+            "reaction",
+            "play",
+            "part",
+            "patholog",
+            "clinic",
+            "featur"
+        ],
         "synonyms": [
             "besides",
             "involve",
@@ -9288,7 +9635,7 @@
             "clinical",
             "have"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -9646,6 +9993,21 @@
         ],
         "ner_tag": "{'Other': 'O', 'immune': 'O', 'system': 'O', 'disorders': 'O', 'include': 'O', 'various': 'O', 'hypersensitivities': 'O', '(': 'O', 'such': 'O', 'as': 'O', 'in': 'O', 'asthma': 'CAUSE_OF_DEATH', 'and': 'O', 'other': 'O', 'allergies': 'O', ')': 'O', 'that': 'O', 'respond': 'O', 'inappropriately': 'O', 'to': 'O', 'otherwise': 'O', 'harmless': 'O', 'compounds': 'O', '.': 'O'}",
         "sentence": "Other immune system disorders include various hypersensitivities (such as in asthma and other allergies) that respond inappropriately to otherwise harmless compounds.",
+        "stems": [
+            "immun",
+            "system",
+            "disord",
+            "includ",
+            "variou",
+            "hypersensit",
+            "asthma",
+            "allergi",
+            "respond",
+            "inappropri",
+            "otherwis",
+            "harmless",
+            "compound"
+        ],
         "synonyms": [
             "immune",
             "system",
@@ -9661,7 +10023,7 @@
             "harmless",
             "compound"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immune",
                 "NN"
@@ -10277,6 +10639,29 @@
         ],
         "ner_tag": "{'The': 'O', 'most': 'O', 'well': 'O', '-': 'O', 'known': 'O', 'disease': 'CAUSE_OF_DEATH', 'that': 'O', 'affects': 'O', 'the': 'O', 'immune': 'O', 'system': 'O', 'itself': 'O', 'is': 'O', 'AIDS': 'CAUSE_OF_DEATH', ',': 'O', 'an': 'O', 'immunodeficiency': 'O', 'characterized': 'O', 'by': 'O', 'suppression': 'O', 'of': 'O', 'CD4': 'O', '+': 'O', '(': 'O', '``': 'O', 'helper': 'O', \"''\": 'O', ')': 'O', 'T': 'O', 'cells': 'O', 'dendritic': 'O', 'and': 'O', 'macrophages': 'O', 'Human': 'O', 'Immunodeficiency': 'O', 'Virus': 'O', 'HIV': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "The most well-known disease that affects the immune system itself is AIDS, an immunodeficiency characterized by the suppression of CD4+ (\"helper\") T cells, dendritic cells and macrophages by the Human Immunodeficiency Virus (HIV).",
+        "stems": [
+            "well-known",
+            "diseas",
+            "affect",
+            "immun",
+            "system",
+            "aid",
+            "immunodefici",
+            "character",
+            "suppress",
+            "cd4+",
+            "``",
+            "helper",
+            "''",
+            "cell",
+            "dendrit",
+            "cell",
+            "macrophag",
+            "human",
+            "immunodefici",
+            "viru",
+            "hiv"
+        ],
         "synonyms": [
             "well-known",
             "disease",
@@ -10300,7 +10685,7 @@
             "virus",
             "human_immunodeficiency_virus"
         ],
-        "tagged": [
+        "tags": [
             [
                 "well-known",
                 "JJ"
@@ -10782,6 +11167,24 @@
         ],
         "ner_tag": "{'The': 'O', 'body': 'O', '’': 'O', 's': 'O', 'capability': 'O', 'to': 'O', 'react': 'O', 'antigen': 'O', 'depends': 'O', 'on': 'O', 'a': 'O', 'person': 'O', \"'s\": 'O', 'age': 'O', ',': 'O', 'type': 'O', 'maternal': 'O', 'factors': 'O', 'and': 'O', 'the': 'O', 'area': 'O', 'where': 'O', 'is': 'O', 'presented': 'O', '.': 'O'}",
         "sentence": "The body’s capability to react to antigen depends on a person's age, antigen type, maternal factors and the area where the antigen is presented.",
+        "stems": [
+            "bodi",
+            "’",
+            "capabl",
+            "react",
+            "antigen",
+            "depend",
+            "person",
+            "'s",
+            "age",
+            "antigen",
+            "type",
+            "matern",
+            "factor",
+            "area",
+            "antigen",
+            "present"
+        ],
         "synonyms": [
             "soundbox",
             "’",
@@ -10800,7 +11203,7 @@
             "antigen",
             "stage"
         ],
-        "tagged": [
+        "tags": [
             [
                 "body",
                 "NN"
@@ -11173,6 +11576,19 @@
         "meronyms": [],
         "ner_tag": "{'Neonates': 'O', 'are': 'O', 'said': 'O', 'to': 'O', 'be': 'O', 'in': 'O', 'a': 'O', 'state': 'O', 'of': 'O', 'physiological': 'O', 'immunodeficiency': 'O', ',': 'O', 'because': 'O', 'both': 'O', 'their': 'O', 'innate': 'O', 'and': 'O', 'adaptive': 'O', 'immunological': 'O', 'responses': 'O', 'greatly': 'O', 'suppressed': 'O', '.': 'O'}",
         "sentence": "Neonates are said to be in a state of physiological immunodeficiency, because both their innate and adaptive immunological responses are greatly suppressed.",
+        "stems": [
+            "neonat",
+            "said",
+            "state",
+            "physiolog",
+            "immunodefici",
+            "innat",
+            "adapt",
+            "immunolog",
+            "respons",
+            "greatli",
+            "suppress"
+        ],
         "synonyms": [
             "neonate",
             "suppose",
@@ -11186,7 +11602,7 @@
             "greatly",
             "suppressed"
         ],
-        "tagged": [
+        "tags": [
             [
                 "neonates",
                 "NNS"
@@ -11521,6 +11937,20 @@
         ],
         "ner_tag": "{'Once': 'DATE', 'born': 'O', ',': 'O', 'a': 'O', 'child': 'O', '’': 'O', 's': 'O', 'immune': 'O', 'system': 'O', 'responds': 'O', 'favorably': 'O', 'to': 'O', 'protein': 'O', 'antigens': 'O', 'while': 'O', 'not': 'O', 'as': 'O', 'well': 'O', 'glycoproteins': 'O', 'and': 'O', 'polysaccharides': 'O', '.': 'O'}",
         "sentence": "Once born, a child’s immune system responds favorably to protein antigens while not as well to glycoproteins and polysaccharides.",
+        "stems": [
+            "born",
+            "child",
+            "’",
+            "immun",
+            "system",
+            "respond",
+            "favor",
+            "protein",
+            "antigen",
+            "well",
+            "glycoprotein",
+            "polysaccharid"
+        ],
         "synonyms": [
             "hold",
             "child",
@@ -11535,7 +11965,7 @@
             "glycoprotein",
             "polysaccharide"
         ],
-        "tagged": [
+        "tags": [
             [
                 "born",
                 "VBN"
@@ -11862,6 +12292,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'fact': 'O', ',': 'O', 'many': 'O', 'of': 'O', 'the': 'O', 'infections': 'CAUSE_OF_DEATH', 'acquired': 'O', 'by': 'O', 'neonates': 'O', 'are': 'O', 'caused': 'O', 'low': 'O', 'virulence': 'O', 'organisms': 'O', 'like': 'O', 'Staphylococcus': 'O', 'and': 'O', 'Pseudomonas': 'PERSON', '.': 'O'}",
         "sentence": "In fact, many of the infections acquired by neonates are caused by low virulence organisms like Staphylococcus and Pseudomonas.",
+        "stems": [
+            "fact",
+            "mani",
+            "infect",
+            "acquir",
+            "neonat",
+            "caus",
+            "low",
+            "virul",
+            "organ",
+            "like",
+            "staphylococcu",
+            "pseudomona"
+        ],
         "synonyms": [
             "fact",
             "many",
@@ -11876,7 +12320,7 @@
             "staphylococcus",
             "Pseudomonas"
         ],
-        "tagged": [
+        "tags": [
             [
                 "fact",
                 "NN"
@@ -12153,6 +12597,16 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'neonates': 'O', ',': 'O', 'opsonic': 'O', 'activity': 'O', 'and': 'O', 'the': 'O', 'ability': 'O', 'to': 'O', 'activate': 'O', 'complement': 'O', 'cascade': 'O', 'is': 'O', 'very': 'O', 'limited': 'O', '.': 'O'}",
         "sentence": "In neonates, opsonic activity and the ability to activate the complement cascade is very limited.",
+        "stems": [
+            "neonat",
+            "opson",
+            "activ",
+            "abil",
+            "activ",
+            "complement",
+            "cascad",
+            "limit"
+        ],
         "synonyms": [
             "neonate",
             "opsonic",
@@ -12163,7 +12617,7 @@
             "shower",
             "limited"
         ],
-        "tagged": [
+        "tags": [
             [
                 "neonates",
                 "NNS"
@@ -12475,6 +12929,17 @@
         ],
         "ner_tag": "{'For': 'O', 'example': 'O', ',': 'O', 'the': 'O', 'mean': 'O', 'level': 'O', 'of': 'O', 'C3': 'O', 'in': 'O', 'a': 'O', 'newborn': 'O', 'is': 'O', 'approximately': 'O', '65': 'PERCENT', '%': 'PERCENT', 'that': 'O', 'found': 'O', 'adult': 'O', '.': 'O'}",
         "sentence": "For example, the mean level of C3 in a newborn is approximately 65% of that found in the adult.",
+        "stems": [
+            "exampl",
+            "mean",
+            "level",
+            "c3",
+            "newborn",
+            "approxim",
+            "65",
+            "found",
+            "adult"
+        ],
         "synonyms": [
             "model",
             "mean",
@@ -12486,7 +12951,7 @@
             "rule",
             "adult"
         ],
-        "tagged": [
+        "tags": [
             [
                 "example",
                 "NN"
@@ -12653,6 +13118,14 @@
         "meronyms": [],
         "ner_tag": "{'Phagocytic': 'O', 'activity': 'O', 'is': 'O', 'also': 'O', 'greatly': 'O', 'impaired': 'O', 'in': 'O', 'newborns': 'O', '.': 'O'}",
         "sentence": "Phagocytic activity is also greatly impaired in newborns.",
+        "stems": [
+            "phagocyt",
+            "activ",
+            "also",
+            "greatli",
+            "impair",
+            "newborn"
+        ],
         "synonyms": [
             "phagocytic",
             "natural_process",
@@ -12661,7 +13134,7 @@
             "mar",
             "neonate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "phagocytic",
                 "JJ"
@@ -13134,6 +13607,25 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'is': 'O', 'due': 'O', 'to': 'O', 'lower': 'O', 'opsonic': 'O', 'activity': 'O', ',': 'O', 'as': 'O', 'well': 'O', 'diminished': 'O', 'up': 'O', '-': 'O', 'regulation': 'O', 'of': 'O', 'integrin': 'O', 'and': 'O', 'selectin': 'O', 'receptors': 'O', 'which': 'O', 'limit': 'O', 'the': 'O', 'ability': 'O', 'neutrophils': 'O', 'interact': 'O', 'with': 'O', 'adhesion': 'O', 'molecules': 'O', 'in': 'O', 'endothelium': 'O', '.': 'O'}",
         "sentence": "This is due to lower opsonic activity, as well as diminished up-regulation of integrin and selectin receptors, which limit the ability of neutrophils to interact with adhesion molecules in the endothelium.",
+        "stems": [
+            "due",
+            "lower",
+            "opson",
+            "activ",
+            "well",
+            "diminish",
+            "up-regul",
+            "integrin",
+            "selectin",
+            "receptor",
+            "limit",
+            "abil",
+            "neutrophil",
+            "interact",
+            "adhes",
+            "molecul",
+            "endothelium"
+        ],
         "synonyms": [
             "due",
             "lower",
@@ -13153,7 +13645,7 @@
             "atom",
             "endothelium"
         ],
-        "tagged": [
+        "tags": [
             [
                 "due",
                 "JJ"
@@ -13491,6 +13983,19 @@
         "meronyms": [],
         "ner_tag": "{'Their': 'O', 'monocytes': 'O', 'are': 'O', 'slow': 'O', 'and': 'O', 'have': 'O', 'a': 'O', 'reduced': 'O', 'ATP': 'O', 'production': 'O', ',': 'O', 'which': 'O', 'also': 'O', 'limits': 'O', 'the': 'O', 'newborn': 'O', \"'s\": 'O', 'phagocytic': 'O', 'activity': 'O', '.': 'O'}",
         "sentence": "Their monocytes are slow and have a reduced ATP production, which also limits the newborn's phagocytic activity.",
+        "stems": [
+            "monocyt",
+            "slow",
+            "reduc",
+            "atp",
+            "product",
+            "also",
+            "limit",
+            "newborn",
+            "'s",
+            "phagocyt",
+            "activ"
+        ],
         "synonyms": [
             "monocyte",
             "slow",
@@ -13504,7 +14009,7 @@
             "phagocytic",
             "natural_process"
         ],
-        "tagged": [
+        "tags": [
             [
                 "monocytes",
                 "NNS"
@@ -13850,6 +14355,20 @@
         ],
         "ner_tag": "{'Although': 'O', ',': 'O', 'the': 'O', 'number': 'O', 'of': 'O', 'total': 'O', 'lymphocytes': 'O', 'is': 'O', 'significantly': 'O', 'higher': 'O', 'than': 'O', 'in': 'O', 'adults': 'O', 'cellular': 'O', 'and': 'O', 'humoral': 'O', 'immunity': 'O', 'also': 'O', 'impaired': 'O', '.': 'O'}",
         "sentence": "Although, the number of total lymphocytes is significantly higher than in adults, the cellular and humoral immunity is also impaired.",
+        "stems": [
+            "although",
+            "number",
+            "total",
+            "lymphocyt",
+            "significantli",
+            "higher",
+            "adult",
+            "cellular",
+            "humor",
+            "immun",
+            "also",
+            "impair"
+        ],
         "synonyms": [
             "although",
             "phone_number",
@@ -13864,7 +14383,7 @@
             "besides",
             "mar"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -14116,6 +14635,15 @@
         "meronyms": [],
         "ner_tag": "{'Antigen': 'O', '-': 'O', 'presenting': 'O', 'cells': 'O', 'in': 'O', 'newborns': 'O', 'have': 'O', 'a': 'O', 'reduced': 'O', 'capability': 'O', 'to': 'O', 'activate': 'O', 'T': 'O', '.': 'O'}",
         "sentence": "Antigen-presenting cells in newborns have a reduced capability to activate T cells.",
+        "stems": [
+            "antigen-pres",
+            "cell",
+            "newborn",
+            "reduc",
+            "capabl",
+            "activ",
+            "cell"
+        ],
         "synonyms": [
             "antigen-presenting",
             "cellular_telephone",
@@ -14125,7 +14653,7 @@
             "trip",
             "cellular_telephone"
         ],
-        "tagged": [
+        "tags": [
             [
                 "antigen-presenting",
                 "JJ"
@@ -14819,6 +15347,32 @@
         "meronyms": [],
         "ner_tag": "{'Also': 'O', ',': 'O', 'T': 'O', 'cells': 'O', 'of': 'O', 'a': 'O', 'newborn': 'O', 'proliferate': 'O', 'poorly': 'O', 'and': 'O', 'produce': 'O', 'very': 'O', 'small': 'O', 'amounts': 'O', 'cytokines': 'O', 'like': 'O', 'IL': 'O', '-': 'O', '2': 'O', '4': 'O', '5': 'O', '12': 'O', 'IFN': 'O', 'g': 'O', 'which': 'O', 'limits': 'O', 'their': 'O', 'capacity': 'O', 'to': 'O', 'activate': 'O', 'the': 'O', 'humoral': 'O', 'response': 'O', 'as': 'O', 'well': 'O', 'phagocitic': 'O', 'activity': 'O', 'macrophage': 'O', '.': 'O'}",
         "sentence": "Also, T cells of a newborn proliferate poorly and produce very small amounts of cytokines like IL-2, IL-4, IL-5, IL-12, and IFN-g which limits their capacity to activate the humoral response as well as the phagocitic activity of macrophage.",
+        "stems": [
+            "also",
+            "cell",
+            "newborn",
+            "prolifer",
+            "poorli",
+            "produc",
+            "small",
+            "amount",
+            "cytokin",
+            "like",
+            "il-2",
+            "il-4",
+            "il-5",
+            "il-12",
+            "ifn-g",
+            "limit",
+            "capac",
+            "activ",
+            "humor",
+            "respons",
+            "well",
+            "phagocit",
+            "activ",
+            "macrophag"
+        ],
         "synonyms": [
             "besides",
             "cellular_telephone",
@@ -14845,7 +15399,7 @@
             "natural_process",
             "macrophage"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -15125,6 +15679,15 @@
         ],
         "ner_tag": "{'B': 'O', 'cells': 'O', 'develop': 'O', 'early': 'O', 'during': 'O', 'gestation': 'O', 'but': 'O', 'are': 'O', 'not': 'O', 'fully': 'O', 'active': 'O', '.': 'O'}",
         "sentence": "B cells develop early during gestation but are not fully active.",
+        "stems": [
+            "b",
+            "cell",
+            "develop",
+            "earli",
+            "gestat",
+            "fulli",
+            "activ"
+        ],
         "synonyms": [
             "B-complex_vitamin",
             "cellular_telephone",
@@ -15134,7 +15697,7 @@
             "in_full",
             "active"
         ],
-        "tagged": [
+        "tags": [
             [
                 "b",
                 "NN"
@@ -15341,6 +15904,17 @@
         "meronyms": [],
         "ner_tag": "{'Maternal': 'O', 'factors': 'O', 'also': 'O', 'play': 'O', 'a': 'O', 'role': 'O', 'in': 'O', 'the': 'O', 'body': 'O', '’': 'O', 's': 'O', 'immune': 'O', 'response': 'O', '.': 'O'}",
         "sentence": "Maternal factors also play a role in the body’s immune response.",
+        "stems": [
+            "matern",
+            "factor",
+            "also",
+            "play",
+            "role",
+            "bodi",
+            "’",
+            "immun",
+            "respons"
+        ],
         "synonyms": [
             "parental",
             "gene",
@@ -15352,7 +15926,7 @@
             "immune",
             "response"
         ],
-        "tagged": [
+        "tags": [
             [
                 "maternal",
                 "JJ"
@@ -15551,6 +16125,13 @@
         "meronyms": [],
         "ner_tag": "{'At': 'O', 'birth': 'O', ',': 'O', 'most': 'O', 'of': 'O', 'the': 'O', 'immunoglobulin': 'O', 'present': 'DATE', 'is': 'O', 'maternal': 'O', 'IgG': 'O', '.': 'O'}",
         "sentence": "At birth, most of the immunoglobulin present is maternal IgG.",
+        "stems": [
+            "birth",
+            "immunoglobulin",
+            "present",
+            "matern",
+            "igg"
+        ],
         "synonyms": [
             "birth",
             "immunoglobulin",
@@ -15558,7 +16139,7 @@
             "parental",
             "immunoglobulin_G"
         ],
-        "tagged": [
+        "tags": [
             [
                 "birth",
                 "NN"
@@ -15846,6 +16427,18 @@
         "meronyms": [],
         "ner_tag": "{'Because': 'O', 'IgM': 'O', ',': 'O', 'IgD': 'O', 'IgE': 'O', 'and': 'O', 'IgA': 'O', 'don': 'O', '’': 'O', 't': 'O', 'cross': 'O', 'the': 'O', 'placenta': 'O', 'they': 'O', 'are': 'O', 'almost': 'O', 'undetectable': 'O', 'at': 'O', 'birth': 'O', '.': 'O'}",
         "sentence": "Because IgM, IgD, IgE and IgA don’t cross the placenta, they are almost undetectable at birth.",
+        "stems": [
+            "igm",
+            "igd",
+            "ige",
+            "iga",
+            "’",
+            "cross",
+            "placenta",
+            "almost",
+            "undetect",
+            "birth"
+        ],
         "synonyms": [
             "immunoglobulin_M",
             "immunoglobulin_D",
@@ -15858,7 +16451,7 @@
             "undetectable",
             "birth"
         ],
-        "tagged": [
+        "tags": [
             [
                 "igm",
                 "NN"
@@ -16015,13 +16608,19 @@
         "meronyms": [],
         "ner_tag": "{'Some': 'O', 'IgA': 'O', 'is': 'O', 'provided': 'O', 'by': 'O', 'breast': 'O', 'milk': 'O', '.': 'O'}",
         "sentence": "Some IgA is provided by breast milk.",
+        "stems": [
+            "iga",
+            "provid",
+            "breast",
+            "milk"
+        ],
         "synonyms": [
             "immunoglobulin_A",
             "provide",
             "summit",
             "Milk"
         ],
-        "tagged": [
+        "tags": [
             [
                 "iga",
                 "NN"
@@ -16386,6 +16985,19 @@
         ],
         "ner_tag": "{'These': 'O', 'passively': 'O', '-': 'O', 'acquired': 'O', 'antibodies': 'O', 'can': 'O', 'protect': 'O', 'the': 'O', 'newborn': 'O', 'for': 'O', 'up': 'DURATION', 'to': 'DURATION', '18': 'DURATION', 'months': 'DURATION', ',': 'O', 'but': 'O', 'their': 'O', 'response': 'O', 'is': 'O', 'usually': 'O', 'short': 'O', 'lived': 'O', 'and': 'O', 'of': 'O', 'low': 'O', 'affinity': 'O', '.': 'O'}",
         "sentence": "These passively-acquired antibodies can protect the newborn for up to 18 months, but their response is usually short-lived and of low affinity.",
+        "stems": [
+            "passively-acquir",
+            "antibodi",
+            "protect",
+            "newborn",
+            "18",
+            "month",
+            "respons",
+            "usual",
+            "short-liv",
+            "low",
+            "affin"
+        ],
         "synonyms": [
             "passively-acquired",
             "antibody",
@@ -16399,7 +17011,7 @@
             "moo",
             "affinity"
         ],
-        "tagged": [
+        "tags": [
             [
                 "passively-acquired",
                 "JJ"
@@ -16575,6 +17187,13 @@
         ],
         "ner_tag": "{'These': 'O', 'antibodies': 'O', 'can': 'O', 'also': 'O', 'produce': 'O', 'a': 'O', 'negative': 'O', 'response': 'O', '.': 'O'}",
         "sentence": "These antibodies can also produce a negative response.",
+        "stems": [
+            "antibodi",
+            "also",
+            "produc",
+            "neg",
+            "respons"
+        ],
         "synonyms": [
             "antibody",
             "besides",
@@ -16582,7 +17201,7 @@
             "negative",
             "response"
         ],
-        "tagged": [
+        "tags": [
             [
                 "antibodies",
                 "NNS"
@@ -16957,6 +17576,19 @@
         ],
         "ner_tag": "{'If': 'O', 'a': 'O', 'child': 'O', 'is': 'O', 'exposed': 'O', 'to': 'O', 'the': 'O', 'antibody': 'O', 'for': 'O', 'particular': 'O', 'antigen': 'O', 'before': 'O', 'being': 'O', 'itself': 'O', 'then': 'O', 'will': 'O', 'produce': 'O', 'dampened': 'O', 'response': 'O', '.': 'O'}",
         "sentence": "If a child is exposed to the antibody for a particular antigen before being exposed to the antigen itself then the child will produce a dampened response.",
+        "stems": [
+            "child",
+            "expos",
+            "antibodi",
+            "particular",
+            "antigen",
+            "expos",
+            "antigen",
+            "child",
+            "produc",
+            "dampen",
+            "respons"
+        ],
         "synonyms": [
             "child",
             "unwrap",
@@ -16970,7 +17602,7 @@
             "stifle",
             "response"
         ],
-        "tagged": [
+        "tags": [
             [
                 "child",
                 "NN"
@@ -17202,6 +17834,17 @@
         ],
         "ner_tag": "{'Passively': 'O', 'acquired': 'O', 'maternal': 'O', 'antibodies': 'O', 'can': 'O', 'suppress': 'O', 'the': 'O', 'antibody': 'O', 'response': 'O', 'to': 'O', 'active': 'O', 'immunization': 'O', '.': 'O'}",
         "sentence": "Passively acquired maternal antibodies can suppress the antibody response to active immunization.",
+        "stems": [
+            "passiv",
+            "acquir",
+            "matern",
+            "antibodi",
+            "suppress",
+            "antibodi",
+            "respons",
+            "activ",
+            "immun"
+        ],
         "synonyms": [
             "passively",
             "grow",
@@ -17213,7 +17856,7 @@
             "active",
             "immunization"
         ],
-        "tagged": [
+        "tags": [
             [
                 "passively",
                 "RB"
@@ -17680,6 +18323,25 @@
         ],
         "ner_tag": "{'Similarly': 'O', 'the': 'O', 'response': 'O', 'of': 'O', 'T': 'O', '-': 'O', 'cells': 'O', 'to': 'O', 'vaccination': 'O', 'differs': 'O', 'in': 'O', 'children': 'O', 'compared': 'O', 'adults': 'O', ',': 'O', 'and': 'O', 'vaccines': 'O', 'that': 'O', 'induce': 'O', 'Th1': 'O', 'responses': 'O', 'do': 'O', 'not': 'O', 'readily': 'O', 'elicit': 'O', 'these': 'O', 'same': 'O', 'neonates': 'O', '.': 'O'}",
         "sentence": "Similarly the response of T-cells to vaccination differs in children compared to adults, and vaccines that induce Th1 responses in adults do not readily elicit these same responses in neonates.",
+        "stems": [
+            "similarli",
+            "respons",
+            "t-cell",
+            "vaccin",
+            "differ",
+            "children",
+            "compar",
+            "adult",
+            "vaccin",
+            "induc",
+            "th1",
+            "respons",
+            "adult",
+            "readili",
+            "elicit",
+            "respons",
+            "neonat"
+        ],
         "synonyms": [
             "similarly",
             "response",
@@ -17699,7 +18361,7 @@
             "response",
             "neonate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similarly",
                 "RB"
@@ -18301,6 +18963,29 @@
         ],
         "ner_tag": "{'Between': 'O', 'six': 'DURATION', 'to': 'O', 'nine': 'DURATION', 'months': 'DURATION', 'after': 'O', 'birth': 'O', ',': 'O', 'a': 'O', 'child': 'O', '’': 'O', 's': 'O', 'immune': 'O', 'system': 'O', 'begins': 'O', 'respond': 'O', 'more': 'O', 'strongly': 'O', 'glycoproteins': 'O', 'but': 'O', 'there': 'O', 'is': 'O', 'usually': 'O', 'no': 'O', 'marked': 'O', 'improvement': 'O', 'in': 'O', 'their': 'O', 'response': 'O', 'polysaccharides': 'O', 'until': 'O', 'they': 'O', 'are': 'O', 'at': 'DURATION', 'least': 'DURATION', 'one': 'DURATION', 'year': 'DURATION', 'old': 'DURATION', '.': 'O'}",
         "sentence": "Between six to nine months after birth, a child’s immune system begins to respond more strongly to glycoproteins, but there is usually no marked improvement in their response to polysaccharides until they are at least one year old.",
+        "stems": [
+            "six",
+            "nine",
+            "month",
+            "birth",
+            "child",
+            "’",
+            "immun",
+            "system",
+            "begin",
+            "respond",
+            "strongli",
+            "glycoprotein",
+            "usual",
+            "mark",
+            "improv",
+            "respons",
+            "polysaccharid",
+            "least",
+            "one",
+            "year",
+            "old"
+        ],
         "synonyms": [
             "six",
             "nine",
@@ -18324,7 +19009,7 @@
             "year",
             "Old"
         ],
-        "tagged": [
+        "tags": [
             [
                 "six",
                 "CD"
@@ -18614,6 +19299,15 @@
         ],
         "ner_tag": "{'This': 'O', 'can': 'O', 'be': 'O', 'the': 'O', 'reason': 'O', 'for': 'O', 'distinct': 'O', 'time': 'O', 'frames': 'O', 'found': 'O', 'in': 'O', 'vaccination': 'O', 'schedules': 'O', '.': 'O'}",
         "sentence": "This can be the reason for distinct time frames found in vaccination schedules.",
+        "stems": [
+            "reason",
+            "distinct",
+            "time",
+            "frame",
+            "found",
+            "vaccin",
+            "schedul"
+        ],
         "synonyms": [
             "reason",
             "discrete",
@@ -18623,7 +19317,7 @@
             "vaccination",
             "schedule"
         ],
-        "tagged": [
+        "tags": [
             [
                 "reason",
                 "NN"
@@ -19201,6 +19895,26 @@
         ],
         "ner_tag": "{'During': 'O', 'adolescence': 'O', ',': 'O', 'the': 'O', 'human': 'O', 'body': 'O', 'undergoes': 'O', 'various': 'O', 'physical': 'O', 'physiological': 'O', 'and': 'O', 'immunological': 'O', 'changes': 'O', 'triggered': 'O', 'mediated': 'O', 'by': 'O', 'hormones': 'O', 'of': 'O', 'which': 'O', 'most': 'O', 'significant': 'O', 'in': 'O', 'females': 'O', 'is': 'O', '17': 'NUMBER', '-': 'NUMBER', 'β': 'NUMBER', 'oestradiol': 'NUMBER', '(': 'O', 'an': 'O', 'oestrogen': 'O', ')': 'O', 'males': 'O', 'testosterone': 'O', '.': 'O'}",
         "sentence": "During adolescence, the human body undergoes various physical, physiological and immunological changes triggered and mediated by hormones, of which the most significant in females is 17-β-oestradiol (an oestrogen) and, in males, is testosterone.",
+        "stems": [
+            "adolesc",
+            "human",
+            "bodi",
+            "undergo",
+            "variou",
+            "physic",
+            "physiolog",
+            "immunolog",
+            "chang",
+            "trigger",
+            "mediat",
+            "hormon",
+            "signific",
+            "femal",
+            "17-β-oestradiol",
+            "oestrogen",
+            "male",
+            "testosteron"
+        ],
         "synonyms": [
             "adolescence",
             "human",
@@ -19221,7 +19935,7 @@
             "male",
             "testosterone"
         ],
-        "tagged": [
+        "tags": [
             [
                 "adolescence",
                 "NN"
@@ -19521,6 +20235,18 @@
         ],
         "ner_tag": "{'Oestradiol': 'O', 'usually': 'O', 'begins': 'O', 'to': 'O', 'act': 'O', 'around': 'O', 'the': 'O', 'age': 'O', 'of': 'O', '10': 'NUMBER', 'and': 'O', 'testosterone': 'O', 'some': 'O', 'months': 'DATE', 'later': 'DATE', '.': 'O'}",
         "sentence": "Oestradiol usually begins to act around the age of 10 and testosterone some months later.",
+        "stems": [
+            "oestradiol",
+            "usual",
+            "begin",
+            "act",
+            "around",
+            "age",
+            "10",
+            "testosteron",
+            "month",
+            "later"
+        ],
         "synonyms": [
             "estradiol",
             "normally",
@@ -19533,7 +20259,7 @@
             "month",
             "subsequently"
         ],
-        "tagged": [
+        "tags": [
             [
                 "oestradiol",
                 "NN"
@@ -20117,6 +20843,29 @@
         ],
         "ner_tag": "{'There': 'O', 'is': 'O', 'evidence': 'O', 'that': 'O', 'these': 'O', 'steroids': 'O', 'act': 'O', 'directly': 'O', 'not': 'O', 'only': 'O', 'on': 'O', 'the': 'O', 'primary': 'O', 'and': 'O', 'secondary': 'O', 'sexual': 'O', 'characteristics': 'O', 'but': 'O', 'also': 'O', 'have': 'O', 'an': 'O', 'effect': 'O', 'development': 'O', 'regulation': 'O', 'of': 'O', 'immune': 'O', 'system': 'O', ',': 'O', 'including': 'O', 'increased': 'O', 'risk': 'O', 'in': 'O', 'developing': 'O', 'pubescent': 'O', 'post-pubescent': 'O', 'autoimmunity': 'O', '.': 'O'}",
         "sentence": "There is evidence that these steroids act directly not only on the primary and secondary sexual characteristics but also have an effect on the development and regulation of the immune system, including an increased risk in developing pubescent and post-pubescent autoimmunity.",
+        "stems": [
+            "evid",
+            "steroid",
+            "act",
+            "directli",
+            "primari",
+            "secondari",
+            "sexual",
+            "characterist",
+            "also",
+            "effect",
+            "develop",
+            "regul",
+            "immun",
+            "system",
+            "includ",
+            "increas",
+            "risk",
+            "develop",
+            "pubesc",
+            "post-pubesc",
+            "autoimmun"
+        ],
         "synonyms": [
             "testify",
             "steroid",
@@ -20140,7 +20889,7 @@
             "post-pubescent",
             "autoimmunity"
         ],
-        "tagged": [
+        "tags": [
             [
                 "evidence",
                 "NN"
@@ -20530,6 +21279,21 @@
         "meronyms": [],
         "ner_tag": "{'There': 'O', 'is': 'O', 'also': 'O', 'some': 'O', 'evidence': 'O', 'that': 'O', 'cell': 'O', 'surface': 'O', 'receptors': 'O', 'on': 'O', 'B': 'O', 'cells': 'O', 'and': 'O', 'macrophages': 'O', 'may': 'O', 'detect': 'O', 'sex': 'O', 'hormones': 'O', 'in': 'O', 'the': 'O', 'system': 'O', '.': 'O'}",
         "sentence": "There is also some evidence that cell surface receptors on B cells and macrophages may detect sex hormones in the system.",
+        "stems": [
+            "also",
+            "evid",
+            "cell",
+            "surfac",
+            "receptor",
+            "b",
+            "cell",
+            "macrophag",
+            "may",
+            "detect",
+            "sex",
+            "hormon",
+            "system"
+        ],
         "synonyms": [
             "besides",
             "testify",
@@ -20545,7 +21309,7 @@
             "hormone",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -20826,6 +21590,18 @@
         "meronyms": [],
         "ner_tag": "{'Immunology': 'O', 'is': 'O', 'strongly': 'O', 'experimental': 'O', 'in': 'O', 'everyday': 'O', 'practice': 'O', 'but': 'O', 'also': 'O', 'characterized': 'O', 'by': 'O', 'an': 'O', 'ongoing': 'O', 'theoretical': 'O', 'attitude': 'O', '.': 'O'}",
         "sentence": "Immunology is strongly experimental in everyday practice but is also characterized by an ongoing theoretical attitude.",
+        "stems": [
+            "immunolog",
+            "strongli",
+            "experiment",
+            "everyday",
+            "practic",
+            "also",
+            "character",
+            "ongo",
+            "theoret",
+            "attitud"
+        ],
         "synonyms": [
             "immunology",
             "strongly",
@@ -20838,7 +21614,7 @@
             "theoretical",
             "attitude"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immunology",
                 "NN"
@@ -21147,6 +21923,17 @@
         ],
         "ner_tag": "{'Many': 'O', 'theories': 'O', 'have': 'O', 'been': 'O', 'suggested': 'O', 'in': 'O', 'immunology': 'DATE', 'from': 'DATE', 'the': 'O', 'end': 'DATE', 'of': 'DATE', 'nineteenth': 'DATE', 'century': 'DATE', 'up': 'O', 'to': 'O', 'present': 'DATE', 'time': 'O', '.': 'O'}",
         "sentence": "Many theories have been suggested in immunology from the end of the nineteenth century up to the present time.",
+        "stems": [
+            "mani",
+            "theori",
+            "suggest",
+            "immunolog",
+            "end",
+            "nineteenth",
+            "centuri",
+            "present",
+            "time"
+        ],
         "synonyms": [
             "many",
             "theory",
@@ -21158,7 +21945,7 @@
             "stage",
             "time"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -21559,6 +22346,24 @@
         ],
         "ner_tag": "{'The': 'DATE', 'end': 'DATE', 'of': 'O', 'the': 'DATE', '19th': 'DATE', 'century': 'DATE', 'and': 'O', 'beginning': 'DATE', '20th': 'DATE', 'saw': 'O', 'a': 'O', 'battle': 'O', 'between': 'O', '``': 'O', 'cellular': 'O', \"''\": 'O', 'humoral': 'O', 'theories': 'O', 'immunity': 'O', '.': 'O'}",
         "sentence": "The end of the 19th century and the beginning of the 20th century saw a battle between \"cellular\" and \"humoral\" theories of immunity.",
+        "stems": [
+            "end",
+            "19th",
+            "centuri",
+            "begin",
+            "20th",
+            "centuri",
+            "saw",
+            "battl",
+            "``",
+            "cellular",
+            "''",
+            "``",
+            "humor",
+            "''",
+            "theori",
+            "immun"
+        ],
         "synonyms": [
             "goal",
             "nineteenth",
@@ -21577,7 +22382,7 @@
             "theory",
             "unsusceptibility"
         ],
-        "tagged": [
+        "tags": [
             [
                 "end",
                 "NN"
@@ -22037,6 +22842,24 @@
         "meronyms": [],
         "ner_tag": "{'According': 'O', 'to': 'O', 'the': 'O', 'cellular': 'O', 'theory': 'O', 'of': 'O', 'immunity': 'O', ',': 'O', 'represented': 'O', 'in': 'O', 'particular': 'O', 'by': 'O', 'Elie': 'PERSON', 'Metchnikoff': 'PERSON', 'it': 'O', 'was': 'O', 'cells': 'O', '–': 'O', 'more': 'O', 'precisely': 'O', 'phagocytes': 'O', 'that': 'O', 'were': 'O', 'responsible': 'O', 'for': 'O', 'immune': 'O', 'responses': 'O', '.': 'O'}",
         "sentence": "According to the cellular theory of immunity, represented in particular by Elie Metchnikoff, it was cells – more precisely, phagocytes – that were responsible for immune responses.",
+        "stems": [
+            "accord",
+            "cellular",
+            "theori",
+            "immun",
+            "repres",
+            "particular",
+            "eli",
+            "metchnikoff",
+            "cell",
+            "–",
+            "precis",
+            "phagocyt",
+            "–",
+            "respons",
+            "immun",
+            "respons"
+        ],
         "synonyms": [
             "harmonize",
             "cellular",
@@ -22055,7 +22878,7 @@
             "immune",
             "response"
         ],
-        "tagged": [
+        "tags": [
             [
                 "according",
                 "VBG"
@@ -22700,6 +23523,35 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'contrast': 'O', ',': 'O', 'the': 'O', 'humoral': 'O', 'theory': 'O', 'of': 'O', 'immunity': 'O', 'held': 'O', 'by': 'O', 'Robert': 'PERSON', 'Koch': 'PERSON', 'and': 'O', 'Emil': 'PERSON', 'von': 'PERSON', 'Behring': 'PERSON', 'among': 'O', 'others': 'O', 'stated': 'O', 'that': 'O', 'active': 'O', 'immune': 'O', 'agents': 'O', 'were': 'O', 'soluble': 'O', 'components': 'O', '(': 'O', 'molecules': 'O', ')': 'O', 'found': 'O', 'in': 'O', 'organism': 'O', '’': 'O', 's': 'O', '“': 'O', 'humors': 'O', '”': 'O', 'rather': 'O', 'than': 'O', 'its': 'O', 'cells': 'O', '.': 'O'}",
         "sentence": "In contrast, the humoral theory of immunity, held by Robert Koch and Emil von Behring, among others, stated that the active immune agents were soluble components (molecules) found in the organism’s “humors” rather than its cells.",
+        "stems": [
+            "contrast",
+            "humor",
+            "theori",
+            "immun",
+            "held",
+            "robert",
+            "koch",
+            "emil",
+            "von",
+            "behr",
+            "among",
+            "other",
+            "state",
+            "activ",
+            "immun",
+            "agent",
+            "solubl",
+            "compon",
+            "molecul",
+            "found",
+            "organ",
+            "’",
+            "“",
+            "humor",
+            "”",
+            "rather",
+            "cell"
+        ],
         "synonyms": [
             "line",
             "humoral",
@@ -22729,7 +23581,7 @@
             "quite",
             "cellular_telephone"
         ],
-        "tagged": [
+        "tags": [
             [
                 "contrast",
                 "NN"
@@ -23198,6 +24050,22 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'mid-1950s': 'DATE', ',': 'O', 'Frank': 'PERSON', 'Burnet': 'PERSON', 'inspired': 'O', 'by': 'O', 'a': 'O', 'suggestion': 'O', 'made': 'O', 'Niels': 'PERSON', 'Jerne': 'PERSON', 'formulated': 'O', 'clonal': 'O', 'selection': 'O', 'theory': 'O', '(': 'O', 'CST': 'O', ')': 'O', 'of': 'O', 'immunity': 'O', '.': 'O'}",
         "sentence": "In the mid-1950s, Frank Burnet, inspired by a suggestion made by Niels Jerne, formulated the clonal selection theory (CST) of immunity.",
+        "stems": [
+            "mid-1950",
+            "frank",
+            "burnet",
+            "inspir",
+            "suggest",
+            "made",
+            "niel",
+            "jern",
+            "formul",
+            "clonal",
+            "select",
+            "theori",
+            "cst",
+            "immun"
+        ],
         "synonyms": [
             "mid-1950s",
             "postmark",
@@ -23214,7 +24082,7 @@
             "Central_Time",
             "unsusceptibility"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mid-1950s",
                 "JJ"
@@ -24029,6 +24897,40 @@
         "meronyms": [],
         "ner_tag": "{'On': 'O', 'the': 'O', 'basis': 'O', 'of': 'O', 'CST': 'ORGANIZATION', ',': 'O', 'Burnet': 'ORGANIZATION', 'developed': 'O', 'a': 'O', 'theory': 'O', 'how': 'O', 'an': 'O', 'immune': 'O', 'response': 'O', 'is': 'O', 'triggered': 'O', 'according': 'O', 'to': 'O', 'self': 'O', '/': 'O', 'nonself': 'O', 'distinction': 'O', ':': 'O', '``': 'O', \"''\": 'O', 'constituents': 'O', '(': 'O', 'body': 'O', ')': 'O', 'do': 'O', 'not': 'O', 'trigger': 'O', 'destructive': 'O', 'responses': 'O', 'while': 'O', 'entities': 'O', 'e.g.': 'O', 'pathogens': 'O', 'allograft': 'O', '.': 'O'}",
         "sentence": "On the basis of CST, Burnet developed a theory of how an immune response is triggered according to the self/nonself distinction: \"self\" constituents (constituents of the body) do not trigger destructive immune responses, while \"nonself\" entities (e.g., pathogens, an allograft) trigger a destructive immune response.",
+        "stems": [
+            "basi",
+            "cst",
+            "burnet",
+            "develop",
+            "theori",
+            "immun",
+            "respons",
+            "trigger",
+            "accord",
+            "self/nonself",
+            "distinct",
+            "``",
+            "self",
+            "''",
+            "constitu",
+            "constitu",
+            "bodi",
+            "trigger",
+            "destruct",
+            "immun",
+            "respons",
+            "``",
+            "nonself",
+            "''",
+            "entiti",
+            "e.g.",
+            "pathogen",
+            "allograft",
+            "trigger",
+            "destruct",
+            "immun",
+            "respons"
+        ],
         "synonyms": [
             "footing",
             "Central_Time",
@@ -24063,7 +24965,7 @@
             "immune",
             "response"
         ],
-        "tagged": [
+        "tags": [
             [
                 "basis",
                 "NN"
@@ -24524,6 +25426,22 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'theory': 'O', 'was': 'O', 'later': 'O', 'modified': 'O', 'to': 'O', 'reflect': 'O', 'new': 'O', 'discoveries': 'O', 'regarding': 'O', 'histocompatibility': 'O', 'or': 'O', 'the': 'O', 'complex': 'O', '``': 'O', 'two': 'NUMBER', '-': 'NUMBER', 'signal': 'NUMBER', \"''\": 'O', 'activation': 'O', 'of': 'O', 'T': 'O', 'cells': 'O', '.': 'O'}",
         "sentence": "The theory was later modified to reflect new discoveries regarding histocompatibility or the complex \"two-signal\" activation of T cells.",
+        "stems": [
+            "theori",
+            "later",
+            "modifi",
+            "reflect",
+            "new",
+            "discoveri",
+            "regard",
+            "histocompat",
+            "complex",
+            "``",
+            "two-sign",
+            "''",
+            "activ",
+            "cell"
+        ],
         "synonyms": [
             "theory",
             "subsequently",
@@ -24540,7 +25458,7 @@
             "activation",
             "cellular_telephone"
         ],
-        "tagged": [
+        "tags": [
             [
                 "theory",
                 "NN"
@@ -24879,6 +25797,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'self': 'O', '/': 'O', 'nonself': 'O', 'theory': 'O', 'of': 'O', 'immunity': 'O', 'and': 'O', 'the': 'O', 'vocabulary': 'O', 'have': 'O', 'been': 'O', 'criticized': 'O', ',': 'O', 'but': 'O', 'remain': 'O', 'very': 'O', 'influential': 'O', '.': 'O'}",
         "sentence": "The self/nonself theory of immunity and the self/nonself vocabulary have been criticized, but remain very influential.",
+        "stems": [
+            "self/nonself",
+            "theori",
+            "immun",
+            "self/nonself",
+            "vocabulari",
+            "critic",
+            "remain",
+            "influenti"
+        ],
         "synonyms": [
             "self/nonself",
             "theory",
@@ -24889,7 +25817,7 @@
             "stay",
             "influential"
         ],
-        "tagged": [
+        "tags": [
             [
                 "self/nonself",
                 "NN"
@@ -25193,6 +26121,18 @@
         "meronyms": [],
         "ner_tag": "{'Bioscience': 'O', 'is': 'O', 'the': 'O', 'overall': 'O', 'major': 'O', 'in': 'O', 'which': 'O', 'undergraduate': 'O', 'students': 'O', 'who': 'O', 'are': 'O', 'interested': 'O', 'general': 'TITLE', 'well': 'O', '-': 'O', 'being': 'O', 'take': 'O', 'college': 'O', '.': 'O'}",
         "sentence": "Bioscience is the overall major in which undergraduate students who are interested in general well-being take in college.",
+        "stems": [
+            "bioscienc",
+            "overal",
+            "major",
+            "undergradu",
+            "student",
+            "interest",
+            "gener",
+            "well-b",
+            "take",
+            "colleg"
+        ],
         "synonyms": [
             "life_science",
             "overall",
@@ -25205,7 +26145,7 @@
             "take",
             "college"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bioscience",
                 "NN"
@@ -25564,6 +26504,21 @@
         "meronyms": [],
         "ner_tag": "{'Immunology': 'O', 'is': 'O', 'a': 'O', 'branch': 'O', 'of': 'O', 'bioscience': 'O', 'for': 'O', 'undergraduate': 'O', 'programs': 'O', 'but': 'O', 'the': 'O', 'major': 'O', 'gets': 'O', 'specified': 'O', 'as': 'O', 'students': 'O', 'move': 'O', 'on': 'O', 'graduate': 'O', 'program': 'O', 'in': 'O', 'immunology': 'O', '.': 'O'}",
         "sentence": "Immunology is a branch of bioscience for undergraduate programs but the major gets specified as students move on for graduate program in immunology.",
+        "stems": [
+            "immunolog",
+            "branch",
+            "bioscienc",
+            "undergradu",
+            "program",
+            "major",
+            "get",
+            "specifi",
+            "student",
+            "move",
+            "graduat",
+            "program",
+            "immunolog"
+        ],
         "synonyms": [
             "immunology",
             "outgrowth",
@@ -25579,7 +26534,7 @@
             "program",
             "immunology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immunology",
                 "NN"
@@ -25956,6 +26911,20 @@
         ],
         "ner_tag": "{'The': 'O', 'aim': 'O', 'of': 'O', 'immunology': 'O', 'is': 'O', 'to': 'O', 'study': 'O', 'the': 'O', 'health': 'O', 'humans': 'O', 'and': 'O', 'animals': 'O', 'through': 'O', 'effective': 'O', 'yet': 'O', 'consistent': 'O', 'research': 'O', ',': 'O', '(': 'O', 'AAAAI': 'O', '2013': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "The aim of immunology is to study the health of humans and animals through effective yet consistent research, (AAAAI, 2013).",
+        "stems": [
+            "aim",
+            "immunolog",
+            "studi",
+            "health",
+            "human",
+            "anim",
+            "effect",
+            "yet",
+            "consist",
+            "research",
+            "aaaai",
+            "2013"
+        ],
         "synonyms": [
             "target",
             "immunology",
@@ -25970,7 +26939,7 @@
             "aaaai",
             "2013"
         ],
-        "tagged": [
+        "tags": [
             [
                 "aim",
                 "NN"
@@ -26279,6 +27248,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'most': 'O', 'important': 'O', 'thing': 'O', 'about': 'O', 'being': 'O', 'immunologists': 'O', 'is': 'O', 'the': 'O', 'research': 'O', 'because': 'O', 'it': 'O', 'biggest': 'O', 'portion': 'O', 'of': 'O', 'their': 'O', 'jobs': 'O', '.': 'O'}",
         "sentence": "The most important thing about being immunologists is the research because it is the biggest portion of their jobs.",
+        "stems": [
+            "import",
+            "thing",
+            "immunologist",
+            "research",
+            "biggest",
+            "portion",
+            "job"
+        ],
         "synonyms": [
             "important",
             "thing",
@@ -26288,7 +27266,7 @@
             "part",
             "speculate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "important",
                 "JJ"
@@ -26578,6 +27556,21 @@
         "meronyms": [],
         "ner_tag": "{'Most': 'O', 'graduate': 'O', 'immunology': 'O', 'schools': 'O', 'follow': 'O', 'the': 'O', 'AAI': 'ORGANIZATION', 'courses': 'O', 'which': 'O', 'are': 'O', 'offered': 'O', 'throughout': 'O', 'numerous': 'O', 'in': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', '.': 'O'}",
         "sentence": "Most graduate immunology schools follow the AAI courses immunology which are offered throughout numerous schools in the United States.",
+        "stems": [
+            "graduat",
+            "immunolog",
+            "school",
+            "follow",
+            "aai",
+            "cours",
+            "immunolog",
+            "offer",
+            "throughout",
+            "numer",
+            "school",
+            "unit",
+            "state"
+        ],
         "synonyms": [
             "graduate",
             "immunology",
@@ -26593,7 +27586,7 @@
             "united",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "graduate",
                 "NN"
@@ -27507,6 +28500,48 @@
         ],
         "ner_tag": "{'For': 'O', 'example': 'O', ',': 'O', 'in': 'O', 'New': 'ORGANIZATION', 'York': 'ORGANIZATION', 'State': 'LOCATION', 'there': 'O', 'are': 'O', 'several': 'O', 'universities': 'O', 'that': 'O', 'offer': 'O', 'the': 'O', 'AAI': 'ORGANIZATION', 'courses': 'O', 'immunology': 'O', ':': 'O', 'Albany': 'CITY', 'Medical': 'ORGANIZATION', 'College': 'ORGANIZATION', 'Cornell': 'ORGANIZATION', 'University': 'ORGANIZATION', 'Icahn': 'ORGANIZATION', 'School': 'ORGANIZATION', 'of': 'ORGANIZATION', 'Medicine': 'ORGANIZATION', 'at': 'ORGANIZATION', 'Mount': 'LOCATION', 'Sinai': 'LOCATION', 'Langone': 'ORGANIZATION', 'Center': 'ORGANIZATION', '(': 'O', 'SUNY': 'ORGANIZATION', ')': 'O', 'Buffalo': 'ORGANIZATION', 'Rochester': 'ORGANIZATION', 'and': 'O', 'Upstate': 'ORGANIZATION', '.': 'O'}",
         "sentence": "For example, in New York State, there are several universities that offer the AAI courses immunology: Albany Medical College, Cornell University, Icahn School of Medicine at Mount Sinai, New York University Langone Medical Center, University at Albany (SUNY), University at Buffalo (SUNY), University of Rochester Medical Center and Upstate Medical University (SUNY).",
+        "stems": [
+            "exampl",
+            "new",
+            "york",
+            "state",
+            "sever",
+            "univers",
+            "offer",
+            "aai",
+            "cours",
+            "immunolog",
+            "albani",
+            "medic",
+            "colleg",
+            "cornel",
+            "univers",
+            "icahn",
+            "school",
+            "medicin",
+            "mount",
+            "sinai",
+            "new",
+            "york",
+            "univers",
+            "langon",
+            "medic",
+            "center",
+            "univers",
+            "albani",
+            "suni",
+            "univers",
+            "buffalo",
+            "suni",
+            "univers",
+            "rochest",
+            "medic",
+            "center",
+            "upstat",
+            "medic",
+            "univers",
+            "suni"
+        ],
         "synonyms": [
             "model",
             "newfangled",
@@ -27549,7 +28584,7 @@
             "university",
             "suny"
         ],
-        "tagged": [
+        "tags": [
             [
                 "example",
                 "NN"
@@ -27922,6 +28957,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'AAI': 'ORGANIZATION', 'immunology': 'O', 'courses': 'O', 'include': 'O', 'an': 'O', 'Introductory': 'O', 'Course': 'O', 'and': 'O', 'Advance': 'O', '.': 'O'}",
         "sentence": "The AAI immunology courses include an Introductory Course and an Advance Course.",
+        "stems": [
+            "aai",
+            "immunolog",
+            "cours",
+            "includ",
+            "introductori",
+            "cours",
+            "advanc",
+            "cours"
+        ],
         "synonyms": [
             "aai",
             "immunology",
@@ -27932,7 +28977,7 @@
             "promote",
             "path"
         ],
-        "tagged": [
+        "tags": [
             [
                 "aai",
                 "JJ"
@@ -28189,6 +29234,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Introductory': 'O', 'Course': 'O', 'is': 'O', 'a': 'O', 'course': 'O', 'that': 'O', 'gives': 'O', 'students': 'O', 'an': 'O', 'overview': 'O', 'of': 'O', 'the': 'O', 'basics': 'O', 'immunology': 'O', '.': 'O'}",
         "sentence": "The Introductory Course is a course that gives students an overview of the basics of immunology.",
+        "stems": [
+            "introductori",
+            "cours",
+            "cours",
+            "give",
+            "student",
+            "overview",
+            "basic",
+            "immunolog"
+        ],
         "synonyms": [
             "basic",
             "path",
@@ -28199,7 +29254,7 @@
             "basics",
             "immunology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "introductory",
                 "JJ"
@@ -28478,6 +29533,19 @@
         ],
         "ner_tag": "{'In': 'O', 'addition': 'O', ',': 'O', 'this': 'O', 'Introductory': 'O', 'Course': 'O', 'gives': 'O', 'students': 'O', 'more': 'O', 'information': 'O', 'to': 'O', 'complement': 'O', 'general': 'TITLE', 'biology': 'O', 'or': 'O', 'science': 'O', 'training': 'O', '.': 'O'}",
         "sentence": "In addition, this Introductory Course gives students more information to complement general biology or science training.",
+        "stems": [
+            "addit",
+            "introductori",
+            "cours",
+            "give",
+            "student",
+            "inform",
+            "complement",
+            "gener",
+            "biolog",
+            "scienc",
+            "train"
+        ],
         "synonyms": [
             "addition",
             "basic",
@@ -28491,7 +29559,7 @@
             "science",
             "train"
         ],
-        "tagged": [
+        "tags": [
             [
                 "addition",
                 "NN"
@@ -28910,6 +29978,22 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'also': 'O', 'has': 'O', 'two': 'NUMBER', 'different': 'O', 'parts': 'O', ':': 'O', 'Part': 'O', 'I': 'O', 'is': 'O', 'an': 'O', 'introduction': 'O', 'to': 'O', 'the': 'O', 'basic': 'O', 'principles': 'O', 'of': 'O', 'immunology': 'O', 'and': 'O', 'II': 'NUMBER', 'a': 'O', 'clinically': 'O', '-': 'O', 'oriented': 'O', 'lecture': 'O', 'series': 'O', '.': 'O'}",
         "sentence": "It also has two different parts: Part I is an introduction to the basic principles of immunology and Part II is a clinically-oriented lecture series.",
+        "stems": [
+            "also",
+            "two",
+            "differ",
+            "part",
+            "part",
+            "introduct",
+            "basic",
+            "principl",
+            "immunolog",
+            "part",
+            "ii",
+            "clinically-ori",
+            "lectur",
+            "seri"
+        ],
         "synonyms": [
             "besides",
             "two",
@@ -28926,7 +30010,7 @@
             "lecture",
             "series"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -29308,6 +30392,18 @@
         "meronyms": [],
         "ner_tag": "{'On': 'O', 'the': 'O', 'other': 'O', 'hand': 'O', ',': 'O', 'Advanced': 'O', 'Course': 'O', 'is': 'O', 'another': 'O', 'course': 'O', 'for': 'O', 'those': 'O', 'who': 'O', 'are': 'O', 'willing': 'O', 'to': 'O', 'expand': 'O', 'or': 'O', 'update': 'O', 'their': 'O', 'understanding': 'O', 'of': 'O', 'immunology': 'O', '.': 'O'}",
         "sentence": "On the other hand, the Advanced Course is another course for those who are willing to expand or update their understanding of immunology.",
+        "stems": [
+            "hand",
+            "advanc",
+            "cours",
+            "anoth",
+            "cours",
+            "will",
+            "expand",
+            "updat",
+            "understand",
+            "immunolog"
+        ],
         "synonyms": [
             "hired_hand",
             "promote",
@@ -29320,7 +30416,7 @@
             "understand",
             "immunology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "hand",
                 "NN"
@@ -29650,6 +30746,17 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'is': 'O', 'advised': 'O', 'for': 'O', 'students': 'O', 'who': 'O', 'want': 'O', 'to': 'O', 'attend': 'O', 'the': 'O', 'Advanced': 'O', 'Course': 'O', 'have': 'O', 'a': 'O', 'background': 'O', 'of': 'O', 'principles': 'O', 'immunology': 'O', '.': 'O'}",
         "sentence": "It is advised for students who want to attend the Advanced Course to have a background of the principles of immunology.",
+        "stems": [
+            "advis",
+            "student",
+            "want",
+            "attend",
+            "advanc",
+            "cours",
+            "background",
+            "principl",
+            "immunolog"
+        ],
         "synonyms": [
             "propose",
             "student",
@@ -29661,7 +30768,7 @@
             "principle",
             "immunology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "advised",
                 "JJ"
@@ -29885,6 +30992,15 @@
         "meronyms": [],
         "ner_tag": "{'Most': 'O', 'schools': 'O', 'require': 'O', 'students': 'O', 'to': 'O', 'take': 'O', 'electives': 'O', 'in': 'O', 'other': 'O', 'complete': 'O', 'their': 'O', 'degrees': 'O', '.': 'O'}",
         "sentence": "Most schools require students to take electives in other to complete their degrees.",
+        "stems": [
+            "school",
+            "requir",
+            "student",
+            "take",
+            "elect",
+            "complet",
+            "degre"
+        ],
         "synonyms": [
             "school",
             "want",
@@ -29894,7 +31010,7 @@
             "complete",
             "degree"
         ],
-        "tagged": [
+        "tags": [
             [
                 "schools",
                 "NNS"
@@ -30167,6 +31283,20 @@
         ],
         "ner_tag": "{'A': 'O', 'Master': 'O', '’': 'O', 's': 'O', 'degree': 'O', 'requires': 'O', 'two': 'DURATION', 'years': 'DURATION', 'of': 'O', 'study': 'O', 'following': 'O', 'the': 'O', 'attainment': 'O', 'a': 'O', 'bachelor': 'TITLE', \"'s\": 'O', '.': 'O'}",
         "sentence": "A Master’s degree requires two years of study following the attainment of a bachelor's degree.",
+        "stems": [
+            "master",
+            "’",
+            "degre",
+            "requir",
+            "two",
+            "year",
+            "studi",
+            "follow",
+            "attain",
+            "bachelor",
+            "'s",
+            "degre"
+        ],
         "synonyms": [
             "victor",
             "’",
@@ -30181,7 +31311,7 @@
             "'s",
             "degree"
         ],
-        "tagged": [
+        "tags": [
             [
                 "master",
                 "NN"
@@ -30437,6 +31567,16 @@
         ],
         "ner_tag": "{'For': 'O', 'a': 'O', 'doctoral': 'O', 'programme': 'O', 'it': 'O', 'is': 'O', 'required': 'O', 'to': 'O', 'take': 'O', 'two': 'NUMBER', 'additional': 'O', 'years': 'DURATION', 'of': 'O', 'study': 'O', '.': 'O'}",
         "sentence": "For a doctoral programme it is required to take two additional years of study.",
+        "stems": [
+            "doctor",
+            "programm",
+            "requir",
+            "take",
+            "two",
+            "addit",
+            "year",
+            "studi"
+        ],
         "synonyms": [
             "doctoral",
             "program",
@@ -30447,7 +31587,7 @@
             "year",
             "survey"
         ],
-        "tagged": [
+        "tags": [
             [
                 "doctoral",
                 "JJ"

@@ -927,6 +927,43 @@
         ],
         "ner_tag": "{'Marvel': 'O', 'counts': 'O', 'among': 'O', 'its': 'O', 'characters': 'O', 'such': 'O', 'well': 'O', '-': 'PERSON', 'known': 'O', 'superheroes': 'O', 'as': 'O', 'Spider': 'O', 'Man': 'PERSON', ',': 'O', 'Iron': 'MISC', 'Captain': 'TITLE', 'America': 'COUNTRY', 'Wolverine': 'PERSON', 'Thor': 'PERSON', 'Hulk': 'O', 'Ant': 'PERSON', 'teams': 'O', 'the': 'O', 'Avengers': 'ORGANIZATION', 'Guardians': 'MISC', 'of': 'MISC', 'Galaxy': 'MISC', 'Fantastic': 'MISC', 'Four': 'NUMBER', 'Inhumans': 'MISC', 'and': 'O', 'X-Men': 'O', 'antagonists': 'O', 'Doctor': 'TITLE', 'Doom': 'O', 'The': 'O', 'Enchantress': 'O', 'Green': 'ORGANIZATION', 'Goblin': 'ORGANIZATION', 'Ultron': 'PERSON', 'Octopus': 'O', 'Thanos': 'PERSON', 'Magneto': 'PERSON', 'Loki': 'PERSON', '.': 'O'}",
         "sentence": "Marvel counts among its characters such well-known superheroes as Spider-Man, Iron Man, Captain America, Wolverine, Thor, Hulk, Ant-Man, such teams as the Avengers, the Guardians of the Galaxy, the Fantastic Four, the Inhumans and the X-Men, and antagonists such as Doctor Doom, The Enchantress, Green Goblin, Ultron, Doctor Octopus, Thanos, Magneto and Loki.",
+        "stems": [
+            "marvel",
+            "count",
+            "among",
+            "charact",
+            "well-known",
+            "superhero",
+            "spider-man",
+            "iron",
+            "man",
+            "captain",
+            "america",
+            "wolverin",
+            "thor",
+            "hulk",
+            "ant-man",
+            "team",
+            "aveng",
+            "guardian",
+            "galaxi",
+            "fantast",
+            "four",
+            "inhuman",
+            "x-men",
+            "antagonist",
+            "doctor",
+            "doom",
+            "enchantress",
+            "green",
+            "goblin",
+            "ultron",
+            "doctor",
+            "octopu",
+            "thano",
+            "magneto",
+            "loki"
+        ],
         "synonyms": [
             "wonder",
             "count",
@@ -964,7 +1001,7 @@
             "magneto",
             "Loki"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -1468,6 +1505,22 @@
         ],
         "ner_tag": "{'Most': 'O', 'of': 'O', 'Marvel': 'O', \"'s\": 'O', 'fictional': 'O', 'characters': 'O', 'operate': 'O', 'in': 'O', 'a': 'O', 'single': 'O', 'reality': 'O', 'known': 'O', 'as': 'O', 'the': 'O', 'Universe': 'O', ',': 'O', 'with': 'O', 'locations': 'O', 'that': 'O', 'mirror': 'O', 'real': 'O', '-': 'O', 'life': 'O', 'cities': 'O', '.': 'O'}",
         "sentence": "Most of Marvel's fictional characters operate in a single reality known as the Marvel Universe, with locations that mirror real-life cities.",
+        "stems": [
+            "marvel",
+            "'s",
+            "fiction",
+            "charact",
+            "oper",
+            "singl",
+            "realiti",
+            "known",
+            "marvel",
+            "univers",
+            "locat",
+            "mirror",
+            "real-lif",
+            "citi"
+        ],
         "synonyms": [
             "wonder",
             "'s",
@@ -1484,7 +1537,7 @@
             "real-life",
             "city"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -2184,6 +2237,35 @@
         ],
         "ner_tag": "{'Characters': 'O', 'such': 'O', 'as': 'O', 'Spider': 'O', '-': 'O', 'Man': 'O', ',': 'O', 'the': 'O', 'Fantastic': 'MISC', 'Four': 'NUMBER', 'Avengers': 'ORGANIZATION', 'Daredevil': 'O', 'and': 'O', 'Doctor': 'TITLE', 'Strange': 'O', 'are': 'O', 'based': 'O', 'in': 'O', 'New': 'STATE_OR_PROVINCE', 'York': 'STATE_OR_PROVINCE', 'City': 'CITY', 'whereas': 'O', 'X-Men': 'O', 'have': 'O', 'historically': 'O', 'been': 'O', 'Salem': 'CITY', 'Center': 'LOCATION', 'Hulk': 'PERSON', \"'s\": 'O', 'stories': 'O', 'often': 'O', 'set': 'O', 'American': 'NATIONALITY', 'Southwest': 'LOCATION', '.': 'O'}",
         "sentence": "Characters such as Spider-Man, the Fantastic Four, the Avengers, Daredevil and Doctor Strange are based in New York City, whereas the X-Men have historically been based in Salem Center, New York and Hulk's stories often have been set in the American Southwest.",
+        "stems": [
+            "charact",
+            "spider-man",
+            "fantast",
+            "four",
+            "aveng",
+            "daredevil",
+            "doctor",
+            "strang",
+            "base",
+            "new",
+            "york",
+            "citi",
+            "wherea",
+            "x-men",
+            "histor",
+            "base",
+            "salem",
+            "center",
+            "new",
+            "york",
+            "hulk",
+            "'s",
+            "stori",
+            "often",
+            "set",
+            "american",
+            "southwest"
+        ],
         "synonyms": [
             "character",
             "spider-man",
@@ -2213,7 +2295,7 @@
             "American",
             "southwest"
         ],
-        "tagged": [
+        "tags": [
             [
                 "characters",
                 "NNS"
@@ -2582,6 +2664,20 @@
         ],
         "ner_tag": "{'Martin': 'PERSON', 'Goodman': 'PERSON', 'founded': 'O', 'the': 'O', 'company': 'O', 'later': 'O', 'known': 'O', 'as': 'O', 'Marvel': 'ORGANIZATION', 'Comics': 'ORGANIZATION', 'under': 'O', 'name': 'O', 'Timely': 'O', 'Publications': 'O', 'in': 'O', '1939': 'DATE', '.': 'O'}",
         "sentence": "Martin Goodman founded the company later known as Marvel Comics under the name Timely Publications in 1939.",
+        "stems": [
+            "martin",
+            "goodman",
+            "found",
+            "compani",
+            "later",
+            "known",
+            "marvel",
+            "comic",
+            "name",
+            "time",
+            "public",
+            "1939"
+        ],
         "synonyms": [
             "Martin",
             "Goodman",
@@ -2596,7 +2692,7 @@
             "publication",
             "1939"
         ],
-        "tagged": [
+        "tags": [
             [
                 "martin",
                 "NN"
@@ -3093,6 +3189,25 @@
         "meronyms": [],
         "ner_tag": "{'Martin': 'PERSON', 'Goodman': 'PERSON', ',': 'O', 'a': 'O', 'pulp': 'O', 'magazine': 'O', 'publisher': 'TITLE', 'who': 'O', 'had': 'O', 'started': 'O', 'with': 'O', 'Western': 'MISC', 'in': 'O', '1933': 'DATE', 'was': 'O', 'expanding': 'O', 'into': 'O', 'the': 'O', 'emerging': 'O', '—': 'O', 'and': 'O', 'by': 'O', 'then': 'O', 'already': 'O', 'highly': 'O', 'popular': 'O', 'new': 'O', 'medium': 'O', 'of': 'O', 'comic': 'O', 'books': 'O', '.': 'O'}",
         "sentence": "Martin Goodman, a pulp magazine publisher who had started with a Western pulp in 1933, was expanding into the emerging—and by then already highly popular—new medium of comic books.",
+        "stems": [
+            "martin",
+            "goodman",
+            "pulp",
+            "magazin",
+            "publish",
+            "start",
+            "western",
+            "pulp",
+            "1933",
+            "expand",
+            "emerging—and",
+            "alreadi",
+            "highli",
+            "popular—new",
+            "medium",
+            "comic",
+            "book"
+        ],
         "synonyms": [
             "Martin",
             "Goodman",
@@ -3112,7 +3227,7 @@
             "comedian",
             "script"
         ],
-        "tagged": [
+        "tags": [
             [
                 "martin",
                 "NN"
@@ -3732,6 +3847,35 @@
         "meronyms": [],
         "ner_tag": "{'Launching': 'O', 'his': 'O', 'new': 'O', 'line': 'O', 'from': 'O', 'existing': 'O', 'company': 'O', \"'s\": 'O', 'offices': 'O', 'at': 'O', '330': 'NUMBER', 'West': 'LOCATION', '42nd': 'LOCATION', 'Street': 'LOCATION', ',': 'O', 'New': 'CITY', 'York': 'CITY', 'City': 'CITY', 'he': 'O', 'officially': 'O', 'held': 'O', 'the': 'O', 'titles': 'O', 'of': 'O', 'editor': 'TITLE', 'managing': 'TITLE', 'and': 'O', 'business': 'O', 'manager': 'TITLE', 'with': 'O', 'Abraham': 'PERSON', 'Goodman': 'PERSON', 'listed': 'O', 'as': 'O', 'publisher': 'TITLE', '.': 'O'}",
         "sentence": "Launching his new line from his existing company's offices at 330 West 42nd Street, New York City, he officially held the titles of editor, managing editor, and business manager, with Abraham Goodman officially listed as publisher.",
+        "stems": [
+            "launch",
+            "new",
+            "line",
+            "exist",
+            "compani",
+            "'s",
+            "offic",
+            "330",
+            "west",
+            "42nd",
+            "street",
+            "new",
+            "york",
+            "citi",
+            "offici",
+            "held",
+            "titl",
+            "editor",
+            "manag",
+            "editor",
+            "busi",
+            "manag",
+            "abraham",
+            "goodman",
+            "offici",
+            "list",
+            "publish"
+        ],
         "synonyms": [
             "launching",
             "newfangled",
@@ -3761,7 +3905,7 @@
             "listed",
             "publisher"
         ],
-        "tagged": [
+        "tags": [
             [
                 "launching",
                 "VBG"
@@ -4481,6 +4625,38 @@
         ],
         "ner_tag": "{'Timely': 'O', \"'s\": 'O', 'first': 'ORDINAL', 'publication': 'O', ',': 'O', 'Marvel': 'ORGANIZATION', 'Comics': 'ORGANIZATION', '#': 'MONEY', '1': 'MONEY', '(': 'O', 'cover': 'O', 'dated': 'O', 'Oct.': 'DATE', '1939': 'DATE', ')': 'O', 'included': 'O', 'the': 'O', 'appearance': 'O', 'of': 'O', 'Carl': 'PERSON', 'Burgos': 'PERSON', \"'\": 'O', 'android': 'O', 'superhero': 'O', 'Human': 'MISC', 'Torch': 'MISC', 'and': 'O', 'appearances': 'O', 'Bill': 'PERSON', 'Everett': 'PERSON', 'anti-hero': 'O', 'Namor': 'MISC', 'Sub-Mariner': 'O', 'among': 'O', 'other': 'O', 'features': 'O', '.': 'O'}",
         "sentence": "Timely's first publication, Marvel Comics #1 (cover dated Oct. 1939), included the first appearance of Carl Burgos' android superhero the Human Torch, and the first appearances of Bill Everett's anti-hero Namor the Sub-Mariner, among other features.",
+        "stems": [
+            "time",
+            "'s",
+            "first",
+            "public",
+            "marvel",
+            "comic",
+            "1",
+            "cover",
+            "date",
+            "oct.",
+            "1939",
+            "includ",
+            "first",
+            "appear",
+            "carl",
+            "burgo",
+            "android",
+            "superhero",
+            "human",
+            "torch",
+            "first",
+            "appear",
+            "bill",
+            "everett",
+            "'s",
+            "anti-hero",
+            "namor",
+            "sub-marin",
+            "among",
+            "featur"
+        ],
         "synonyms": [
             "timely",
             "'s",
@@ -4513,7 +4689,7 @@
             "among",
             "have"
         ],
-        "tagged": [
+        "tags": [
             [
                 "timely",
                 "RB"
@@ -4970,6 +5146,20 @@
         ],
         "ner_tag": "{'The': 'O', 'issue': 'O', 'was': 'O', 'a': 'DURATION', 'great': 'O', 'success': 'O', ',': 'O', 'with': 'O', 'it': 'O', 'and': 'O', 'second': 'DURATION', 'printing': 'O', 'the': 'DATE', 'following': 'DATE', 'month': 'DATE', 'selling': 'O', 'combined': 'O', 'nearly': 'O', '900,000': 'NUMBER', 'copies': 'O', '.': 'O'}",
         "sentence": "The issue was a great success, with it and a second printing the following month selling, combined, nearly 900,000 copies.",
+        "stems": [
+            "issu",
+            "great",
+            "success",
+            "second",
+            "print",
+            "follow",
+            "month",
+            "sell",
+            "combin",
+            "nearli",
+            "900,000",
+            "copi"
+        ],
         "synonyms": [
             "offspring",
             "great",
@@ -4984,7 +5174,7 @@
             "900,000",
             "transcript"
         ],
-        "tagged": [
+        "tags": [
             [
                 "issue",
                 "NN"
@@ -5354,6 +5544,19 @@
         ],
         "ner_tag": "{'While': 'O', 'its': 'O', 'contents': 'O', 'came': 'O', 'from': 'O', 'an': 'O', 'outside': 'O', 'packager': 'O', ',': 'O', 'Funnies': 'ORGANIZATION', 'Inc.': 'ORGANIZATION', 'Timely': 'O', 'had': 'O', 'own': 'O', 'staff': 'O', 'in': 'O', 'place': 'O', 'by': 'O', 'the': 'DATE', 'following': 'DATE', 'year': 'DATE', '.': 'O'}",
         "sentence": "While its contents came from an outside packager, Funnies, Inc., Timely had its own staff in place by the following year.",
+        "stems": [
+            "content",
+            "came",
+            "outsid",
+            "packag",
+            "funni",
+            "inc.",
+            "time",
+            "staff",
+            "place",
+            "follow",
+            "year"
+        ],
         "synonyms": [
             "message",
             "hail",
@@ -5367,7 +5570,7 @@
             "take_after",
             "year"
         ],
-        "tagged": [
+        "tags": [
             [
                 "contents",
                 "NNS"
@@ -5999,6 +6202,37 @@
         ],
         "ner_tag": "{'The': 'O', 'company': 'O', \"'s\": 'O', 'first': 'ORDINAL', 'true': 'O', 'editor': 'TITLE', ',': 'O', 'writer': 'O', '-': 'O', 'artist': 'TITLE', 'Joe': 'PERSON', 'Simon': 'PERSON', 'teamed': 'O', 'with': 'O', 'and': 'O', 'emerging': 'O', 'industry': 'O', 'notable': 'O', 'Jack': 'PERSON', 'Kirby': 'PERSON', 'to': 'O', 'create': 'O', 'one': 'NUMBER', 'of': 'O', 'the': 'O', 'patriotically': 'O', 'themed': 'O', 'superheroes': 'O', 'Captain': 'ORGANIZATION', 'America': 'ORGANIZATION', 'in': 'O', 'Comics': 'ORGANIZATION', '#': 'MONEY', '1': 'MONEY', '(': 'O', 'March': 'DATE', '1941': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "The company's first true editor, writer-artist Joe Simon, teamed with artist and emerging industry notable Jack Kirby to create one of the first patriotically themed superheroes, Captain America, in Captain America Comics #1 (March 1941).",
+        "stems": [
+            "compani",
+            "'s",
+            "first",
+            "true",
+            "editor",
+            "writer-artist",
+            "joe",
+            "simon",
+            "team",
+            "artist",
+            "emerg",
+            "industri",
+            "notabl",
+            "jack",
+            "kirbi",
+            "creat",
+            "one",
+            "first",
+            "patriot",
+            "theme",
+            "superhero",
+            "captain",
+            "america",
+            "captain",
+            "america",
+            "comic",
+            "1",
+            "march",
+            "1941"
+        ],
         "synonyms": [
             "ship's_company",
             "'s",
@@ -6030,7 +6264,7 @@
             "Master_of_Architecture",
             "1941"
         ],
-        "tagged": [
+        "tags": [
             [
                 "company",
                 "NN"
@@ -6362,6 +6596,14 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', ',': 'O', 'too': 'O', 'proved': 'O', 'a': 'O', 'hit': 'O', 'with': 'O', 'sales': 'O', 'of': 'O', 'nearly': 'O', 'one': 'NUMBER', 'million': 'NUMBER', '.': 'O'}",
         "sentence": "It, too, proved a hit, with sales of nearly one million.",
+        "stems": [
+            "prove",
+            "hit",
+            "sale",
+            "nearli",
+            "one",
+            "million"
+        ],
         "synonyms": [
             "raise",
             "strike",
@@ -6370,7 +6612,7 @@
             "one",
             "million"
         ],
-        "tagged": [
+        "tags": [
             [
                 "proved",
                 "VBD"
@@ -6646,6 +6888,20 @@
         ],
         "ner_tag": "{'Goodman': 'PERSON', 'formed': 'O', 'Timely': 'ORGANIZATION', 'Comics': 'ORGANIZATION', ',': 'O', 'Inc.': 'ORGANIZATION', 'beginning': 'O', 'with': 'O', 'comics': 'O', 'cover': 'O', '-': 'O', 'dated': 'O', 'April': 'DATE', '1941': 'DATE', 'or': 'O', 'Spring': 'DATE', '.': 'O'}",
         "sentence": "Goodman formed Timely Comics, Inc., beginning with comics cover-dated April 1941 or Spring 1941.",
+        "stems": [
+            "goodman",
+            "form",
+            "time",
+            "comic",
+            "inc.",
+            "begin",
+            "comic",
+            "cover-d",
+            "april",
+            "1941",
+            "spring",
+            "1941"
+        ],
         "synonyms": [
             "Goodman",
             "shape",
@@ -6660,7 +6916,7 @@
             "spring",
             "1941"
         ],
-        "tagged": [
+        "tags": [
             [
                 "goodman",
                 "NN"
@@ -7363,6 +7619,32 @@
         ],
         "ner_tag": "{'While': 'O', 'no': 'O', 'other': 'O', 'Timely': 'O', 'character': 'O', 'would': 'O', 'achieve': 'O', 'the': 'O', 'success': 'O', 'of': 'O', 'these': 'O', '``': 'O', 'big': 'O', 'three': 'NUMBER', \"''\": 'O', ',': 'O', 'some': 'O', 'notable': 'O', 'heroes': 'O', '—': 'O', 'many': 'O', 'which': 'O', 'continue': 'O', 'to': 'O', 'appear': 'O', 'in': 'O', 'modern': 'O', '-': 'O', 'day': 'O', 'retcon': 'O', 'appearances': 'O', 'and': 'O', 'flashbacks': 'O', 'include': 'O', 'Whizzer': 'TITLE', 'Miss': 'STATE_OR_PROVINCE', 'America': 'COUNTRY', 'Destroyer': 'O', 'original': 'O', 'Vision': 'O', 'Angel': 'O', '.': 'O'}",
         "sentence": "While no other Timely character would achieve the success of these \"big three\", some notable heroes—many of which continue to appear in modern-day retcon appearances and flashbacks—include the Whizzer, Miss America, the Destroyer, the original Vision, and the Angel.",
+        "stems": [
+            "time",
+            "charact",
+            "would",
+            "achiev",
+            "success",
+            "``",
+            "big",
+            "three",
+            "''",
+            "notabl",
+            "heroes—mani",
+            "continu",
+            "appear",
+            "modern-day",
+            "retcon",
+            "appear",
+            "flashbacks—includ",
+            "whizzer",
+            "miss",
+            "america",
+            "destroy",
+            "origin",
+            "vision",
+            "angel"
+        ],
         "synonyms": [
             "timely",
             "character",
@@ -7389,7 +7671,7 @@
             "vision",
             "angel"
         ],
-        "tagged": [
+        "tags": [
             [
                 "timely",
                 "RB"
@@ -8099,6 +8381,40 @@
         ],
         "ner_tag": "{'Timely': 'O', 'also': 'O', 'published': 'O', 'one': 'NUMBER', 'of': 'O', 'humor': 'O', 'cartoonist': 'TITLE', 'Basil': 'PERSON', 'Wolverton': 'PERSON', \"'s\": 'O', 'best': 'O', '-': 'O', 'known': 'O', 'features': 'O', ',': 'O', '``': 'O', 'Powerhouse': 'O', 'Pepper': 'O', \"''\": 'O', 'as': 'O', 'well': 'O', 'a': 'O', 'line': 'O', 'children': 'O', 'funny': 'O', 'animal': 'O', 'comics': 'O', 'featuring': 'O', 'popular': 'O', 'characters': 'O', 'like': 'O', 'Super': 'O', 'Rabbit': 'O', 'and': 'O', 'the': 'O', 'duo': 'O', 'Ziggy': 'PERSON', 'Pig': 'PERSON', 'Silly': 'O', 'Seal': 'O', '.': 'O'}",
         "sentence": "Timely also published one of humor cartoonist Basil Wolverton's best-known features, \"Powerhouse Pepper\", as well as a line of children's funny-animal comics featuring popular characters like Super Rabbit and the duo Ziggy Pig and Silly Seal.",
+        "stems": [
+            "time",
+            "also",
+            "publish",
+            "one",
+            "humor",
+            "cartoonist",
+            "basil",
+            "wolverton",
+            "'s",
+            "best-known",
+            "featur",
+            "``",
+            "powerhous",
+            "pepper",
+            "''",
+            "well",
+            "line",
+            "children",
+            "'s",
+            "funny-anim",
+            "comic",
+            "featur",
+            "popular",
+            "charact",
+            "like",
+            "super",
+            "rabbit",
+            "duo",
+            "ziggi",
+            "pig",
+            "silli",
+            "seal"
+        ],
         "synonyms": [
             "timely",
             "besides",
@@ -8133,7 +8449,7 @@
             "silly",
             "sealing_wax"
         ],
-        "tagged": [
+        "tags": [
             [
                 "timely",
                 "RB"
@@ -8674,6 +8990,23 @@
         "meronyms": [],
         "ner_tag": "{'Goodman': 'PERSON', \"'s\": 'O', 'business': 'O', 'strategy': 'O', 'involved': 'O', 'having': 'O', 'his': 'O', 'various': 'O', 'magazines': 'O', 'and': 'O', 'comic': 'O', 'books': 'O', 'published': 'O', 'by': 'O', 'a': 'O', 'number': 'O', 'of': 'O', 'corporations': 'O', 'all': 'O', 'operating': 'O', 'out': 'O', 'the': 'O', 'same': 'O', 'office': 'O', 'with': 'O', 'staff': 'O', '.': 'O'}",
         "sentence": "Goodman's business strategy involved having his various magazines and comic books published by a number of corporations all operating out of the same office and with the same staff.",
+        "stems": [
+            "goodman",
+            "'s",
+            "busi",
+            "strategi",
+            "involv",
+            "variou",
+            "magazin",
+            "comic",
+            "book",
+            "publish",
+            "number",
+            "corpor",
+            "oper",
+            "offic",
+            "staff"
+        ],
         "synonyms": [
             "Goodman",
             "'s",
@@ -8691,7 +9024,7 @@
             "position",
             "staff"
         ],
-        "tagged": [
+        "tags": [
             [
                 "goodman",
                 "NN"
@@ -9122,6 +9455,24 @@
         ],
         "ner_tag": "{'One': 'NUMBER', 'of': 'O', 'these': 'O', 'shell': 'O', 'companies': 'O', 'through': 'O', 'which': 'O', 'Timely': 'ORGANIZATION', 'Comics': 'ORGANIZATION', 'was': 'O', 'published': 'O', 'named': 'O', 'Marvel': 'ORGANIZATION', 'by': 'O', 'at': 'O', 'least': 'O', 'Mystery': 'ORGANIZATION', '#': 'MONEY', '55': 'MONEY', '(': 'O', 'May': 'DATE', '1944': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "One of these shell companies through which Timely Comics was published was named Marvel Comics by at least Marvel Mystery Comics #55 (May 1944).",
+        "stems": [
+            "one",
+            "shell",
+            "compani",
+            "time",
+            "comic",
+            "publish",
+            "name",
+            "marvel",
+            "comic",
+            "least",
+            "marvel",
+            "mysteri",
+            "comic",
+            "55",
+            "may",
+            "1944"
+        ],
         "synonyms": [
             "one",
             "shell",
@@ -9140,7 +9491,7 @@
             "whitethorn",
             "1944"
         ],
-        "tagged": [
+        "tags": [
             [
                 "one",
                 "CD"
@@ -9727,6 +10078,29 @@
         ],
         "ner_tag": "{'As': 'O', 'well': 'O', ',': 'O', 'some': 'O', 'comics': 'O', \"'\": 'O', 'covers': 'O', 'such': 'O', 'as': 'O', 'All': 'O', 'Surprise': 'O', 'Comics': 'O', '#': 'MONEY', '12': 'MONEY', '(': 'O', 'Winter': 'DATE', '1946': 'DATE', '–': 'O', '47': 'NUMBER', ')': 'O', 'were': 'O', 'labeled': 'O', '``': 'O', 'A': 'O', 'Marvel': 'O', 'Magazine': 'O', \"''\": 'O', 'many': 'O', 'years': 'DURATION', 'before': 'O', 'Goodman': 'PERSON', 'would': 'O', 'formally': 'O', 'adopt': 'O', 'the': 'O', 'name': 'O', 'in': 'O', '1961': 'DATE', '.': 'O'}",
         "sentence": "As well, some comics' covers, such as All Surprise Comics #12 (Winter 1946–47), were labeled \"A Marvel Magazine\" many years before Goodman would formally adopt the name in 1961.",
+        "stems": [
+            "well",
+            "comic",
+            "cover",
+            "surpris",
+            "comic",
+            "12",
+            "winter",
+            "1946–47",
+            "label",
+            "``",
+            "marvel",
+            "magazin",
+            "''",
+            "mani",
+            "year",
+            "goodman",
+            "would",
+            "formal",
+            "adopt",
+            "name",
+            "1961"
+        ],
         "synonyms": [
             "well",
             "comic_strip",
@@ -9750,7 +10124,7 @@
             "name",
             "1961"
         ],
-        "tagged": [
+        "tags": [
             [
                 "well",
                 "RB"
@@ -10454,6 +10828,35 @@
         ],
         "ner_tag": "{'Atlas': 'O', ',': 'O', 'rather': 'O', 'than': 'O', 'innovate': 'O', 'took': 'O', 'a': 'O', 'proven': 'O', 'route': 'O', 'of': 'O', 'following': 'O', 'popular': 'O', 'trends': 'O', 'in': 'O', 'television': 'O', 'and': 'O', 'movies': 'O', '—': 'O', 'Westerns': 'MISC', 'war': 'CAUSE_OF_DEATH', 'dramas': 'O', 'prevailing': 'O', 'for': 'O', 'time': 'O', 'drive': 'O', '-': 'O', 'movie': 'O', 'monsters': 'O', 'another': 'O', 'even': 'O', 'other': 'O', 'comic': 'O', 'books': 'O', 'particularly': 'O', 'the': 'O', 'EC': 'ORGANIZATION', 'horror': 'O', 'line': 'O', '.': 'O'}",
         "sentence": "Atlas, rather than innovate, took a proven route of following popular trends in television and movies—Westerns and war dramas prevailing for a time, drive-in movie monsters another time—and even other comic books, particularly the EC horror line.",
+        "stems": [
+            "atla",
+            "rather",
+            "innov",
+            "took",
+            "proven",
+            "rout",
+            "follow",
+            "popular",
+            "trend",
+            "televis",
+            "movies—western",
+            "war",
+            "drama",
+            "prevail",
+            "time",
+            "drive-in",
+            "movi",
+            "monster",
+            "anoth",
+            "time—and",
+            "even",
+            "comic",
+            "book",
+            "particularli",
+            "ec",
+            "horror",
+            "line"
+        ],
         "synonyms": [
             "atlas",
             "quite",
@@ -10483,7 +10886,7 @@
             "repugnance",
             "wrinkle"
         ],
-        "tagged": [
+        "tags": [
             [
                 "atlas",
                 "NNS"
@@ -11106,6 +11509,35 @@
         ],
         "ner_tag": "{'Atlas': 'O', 'also': 'O', 'published': 'O', 'a': 'O', 'plethora': 'O', 'of': 'O', 'children': 'O', \"'s\": 'O', 'and': 'O', 'teen': 'O', 'humor': 'O', 'titles': 'O', ',': 'O', 'including': 'O', 'Dan': 'PERSON', 'DeCarlo': 'PERSON', 'Homer': 'PERSON', 'the': 'O', 'Happy': 'O', 'Ghost': 'O', '(': 'O', 'à': 'O', 'la': 'O', 'Casper': 'O', 'Friendly': 'O', ')': 'O', 'Hooper': 'PERSON', 'Archie': 'PERSON', 'Andrews': 'PERSON', '.': 'O'}",
         "sentence": "Atlas also published a plethora of children's and teen humor titles, including Dan DeCarlo's Homer the Happy Ghost (à la Casper the Friendly Ghost) and Homer Hooper (à la Archie Andrews).",
+        "stems": [
+            "atla",
+            "also",
+            "publish",
+            "plethora",
+            "children",
+            "'s",
+            "teen",
+            "humor",
+            "titl",
+            "includ",
+            "dan",
+            "decarlo",
+            "'s",
+            "homer",
+            "happi",
+            "ghost",
+            "à",
+            "la",
+            "casper",
+            "friendli",
+            "ghost",
+            "homer",
+            "hooper",
+            "à",
+            "la",
+            "archi",
+            "andrew"
+        ],
         "synonyms": [
             "atlas",
             "besides",
@@ -11135,7 +11567,7 @@
             "archie",
             "Andrews"
         ],
-        "tagged": [
+        "tags": [
             [
                 "atlas",
                 "NNS"
@@ -11947,6 +12379,39 @@
         ],
         "ner_tag": "{'Atlas': 'O', 'unsuccessfully': 'O', 'attempted': 'O', 'to': 'O', 'revive': 'O', 'superheroes': 'O', 'from': 'O', 'late': 'DATE', '1953': 'DATE', 'mid-1954': 'O', ',': 'O', 'with': 'O', 'the': 'O', 'Human': 'O', 'Torch': 'O', '(': 'O', 'art': 'O', 'by': 'O', 'Syd': 'PERSON', 'Shores': 'PERSON', 'and': 'O', 'Dick': 'PERSON', 'Ayers': 'PERSON', 'variously': 'O', ')': 'O', 'Sub-Mariner': 'O', 'drawn': 'O', 'most': 'O', 'stories': 'O', 'written': 'O', 'Bill': 'PERSON', 'Everett': 'PERSON', 'Captain': 'PERSON', 'America': 'PERSON', 'writer': 'TITLE', 'Stan': 'PERSON', 'Lee': 'PERSON', 'artist': 'TITLE', 'John': 'PERSON', 'Romita': 'PERSON', 'Sr.': 'PERSON', '.': 'O'}",
         "sentence": "Atlas unsuccessfully attempted to revive superheroes from late 1953 to mid-1954, with the Human Torch (art by Syd Shores and Dick Ayers, variously), the Sub-Mariner (drawn and most stories written by Bill Everett), and Captain America (writer Stan Lee, artist John Romita Sr.).",
+        "stems": [
+            "atla",
+            "unsuccess",
+            "attempt",
+            "reviv",
+            "superhero",
+            "late",
+            "1953",
+            "mid-1954",
+            "human",
+            "torch",
+            "art",
+            "syd",
+            "shore",
+            "dick",
+            "ayer",
+            "various",
+            "sub-marin",
+            "drawn",
+            "stori",
+            "written",
+            "bill",
+            "everett",
+            "captain",
+            "america",
+            "writer",
+            "stan",
+            "lee",
+            "artist",
+            "john",
+            "romita",
+            "sr."
+        ],
         "synonyms": [
             "atlas",
             "unsuccessfully",
@@ -11980,7 +12445,7 @@
             "romita",
             "elder"
         ],
-        "tagged": [
+        "tags": [
             [
                 "atlas",
                 "NNS"
@@ -12521,6 +12986,24 @@
         ],
         "ner_tag": "{'Atlas': 'O', 'did': 'O', 'not': 'O', 'achieve': 'O', 'any': 'O', 'breakout': 'O', 'hits': 'O', 'and': 'O', ',': 'O', 'according': 'O', 'to': 'O', 'Stan': 'PERSON', 'Lee': 'PERSON', 'survived': 'O', 'chiefly': 'O', 'because': 'O', 'it': 'O', 'produced': 'O', 'work': 'O', 'quickly': 'O', 'cheaply': 'O', 'at': 'O', 'a': 'O', 'passable': 'O', 'quality': 'O', '.': 'O'}",
         "sentence": "Atlas did not achieve any breakout hits and, according to Stan Lee, Atlas survived chiefly because it produced work quickly, cheaply, and at a passable quality.",
+        "stems": [
+            "atla",
+            "achiev",
+            "breakout",
+            "hit",
+            "accord",
+            "stan",
+            "lee",
+            "atla",
+            "surviv",
+            "chiefli",
+            "produc",
+            "work",
+            "quickli",
+            "cheapli",
+            "passabl",
+            "qualiti"
+        ],
         "synonyms": [
             "atlas",
             "achieve",
@@ -12539,7 +13022,7 @@
             "passable",
             "timbre"
         ],
-        "tagged": [
+        "tags": [
             [
                 "atlas",
                 "NNS"
@@ -13015,6 +13498,25 @@
         ],
         "ner_tag": "{'In': 'O', '1961': 'DATE', ',': 'O', 'writer': 'O', '-': 'O', 'editor': 'O', 'Stan': 'PERSON', 'Lee': 'PERSON', 'revolutionized': 'O', 'superhero': 'O', 'comics': 'O', 'by': 'O', 'introducing': 'O', 'superheroes': 'O', 'designed': 'O', 'to': 'O', 'appeal': 'O', 'more': 'O', 'all': 'O', 'ages': 'O', 'readers': 'O', 'than': 'O', 'the': 'O', 'predominantly': 'O', 'child': 'O', 'audiences': 'O', 'of': 'O', 'medium': 'O', '.': 'O'}",
         "sentence": "In 1961, writer-editor Stan Lee revolutionized superhero comics by introducing superheroes designed to appeal to more all-ages readers than the predominantly child audiences of the medium.",
+        "stems": [
+            "1961",
+            "writer-editor",
+            "stan",
+            "lee",
+            "revolution",
+            "superhero",
+            "comic",
+            "introduc",
+            "superhero",
+            "design",
+            "appeal",
+            "all-ag",
+            "reader",
+            "predominantli",
+            "child",
+            "audienc",
+            "medium"
+        ],
         "synonyms": [
             "1961",
             "writer-editor",
@@ -13034,7 +13536,7 @@
             "consultation",
             "medium"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1961",
                 "CD"
@@ -13776,6 +14278,39 @@
         "meronyms": [],
         "ner_tag": "{'Modern': 'O', 'Marvel': 'O', \"'s\": 'O', 'first': 'ORDINAL', 'superhero': 'O', 'team': 'O', ',': 'O', 'the': 'O', 'titular': 'O', 'stars': 'O', 'of': 'O', 'The': 'O', 'Fantastic': 'O', 'Four': 'NUMBER', '#': 'MONEY', '1': 'MONEY', '(': 'O', 'Nov.': 'DATE', '1961': 'DATE', ')': 'O', 'broke': 'O', 'convention': 'O', 'with': 'O', 'other': 'O', 'comic': 'O', 'book': 'O', 'archetypes': 'O', 'time': 'O', 'by': 'O', 'squabbling': 'O', 'holding': 'O', 'grudges': 'O', 'both': 'O', 'deep': 'O', 'and': 'O', 'petty': 'O', 'eschewing': 'O', 'anonymity': 'O', 'or': 'O', 'secret': 'O', 'identities': 'O', 'in': 'O', 'favor': 'O', 'celebrity': 'O', 'status': 'O', '.': 'O'}",
         "sentence": "Modern Marvel's first superhero team, the titular stars of The Fantastic Four #1 (Nov. 1961), broke convention with other comic book archetypes of the time by squabbling, holding grudges both deep and petty, and eschewing anonymity or secret identities in favor of celebrity status.",
+        "stems": [
+            "modern",
+            "marvel",
+            "'s",
+            "first",
+            "superhero",
+            "team",
+            "titular",
+            "star",
+            "fantast",
+            "four",
+            "1",
+            "nov.",
+            "1961",
+            "broke",
+            "convent",
+            "comic",
+            "book",
+            "archetyp",
+            "time",
+            "squabbl",
+            "hold",
+            "grudg",
+            "deep",
+            "petti",
+            "eschew",
+            "anonym",
+            "secret",
+            "ident",
+            "favor",
+            "celebr",
+            "statu"
+        ],
         "synonyms": [
             "Modern",
             "wonder",
@@ -13809,7 +14344,7 @@
             "celebrity",
             "status"
         ],
-        "tagged": [
+        "tags": [
             [
                 "modern",
                 "JJ"
@@ -14419,6 +14954,27 @@
         ],
         "ner_tag": "{'Subsequently': 'O', ',': 'O', 'Marvel': 'O', 'comics': 'O', 'developed': 'O', 'a': 'O', 'reputation': 'O', 'for': 'O', 'focusing': 'O', 'on': 'O', 'characterization': 'O', 'and': 'O', 'adult': 'O', 'issues': 'O', 'to': 'O', 'greater': 'O', 'extent': 'O', 'than': 'O', 'most': 'O', 'superhero': 'O', 'before': 'O', 'them': 'O', 'quality': 'O', 'which': 'O', 'the': 'O', 'new': 'O', 'generation': 'O', 'of': 'O', 'older': 'O', 'readers': 'O', 'appreciated': 'O', '.': 'O'}",
         "sentence": "Subsequently, Marvel comics developed a reputation for focusing on characterization and adult issues to a greater extent than most superhero comics before them, a quality which the new generation of older readers appreciated.",
+        "stems": [
+            "subsequ",
+            "marvel",
+            "comic",
+            "develop",
+            "reput",
+            "focus",
+            "character",
+            "adult",
+            "issu",
+            "greater",
+            "extent",
+            "superhero",
+            "comic",
+            "qualiti",
+            "new",
+            "gener",
+            "older",
+            "reader",
+            "appreci"
+        ],
         "synonyms": [
             "subsequently",
             "wonder",
@@ -14440,7 +14996,7 @@
             "subscriber",
             "prize"
         ],
-        "tagged": [
+        "tags": [
             [
                 "subsequently",
                 "RB"
@@ -14818,6 +15374,18 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'applied': 'O', 'to': 'O', 'The': 'O', 'Amazing': 'MISC', 'Spider': 'MISC', '-': 'MISC', 'Man': 'MISC', 'title': 'O', 'in': 'O', 'particular': 'O', ',': 'O', 'which': 'O', 'turned': 'O', 'out': 'O', 'be': 'O', 'Marvel': 'O', \"'s\": 'O', 'most': 'O', 'successful': 'O', 'book': 'O', '.': 'O'}",
         "sentence": "This applied to The Amazing Spider-Man title in particular, which turned out to be Marvel's most successful book.",
+        "stems": [
+            "appli",
+            "amaz",
+            "spider-man",
+            "titl",
+            "particular",
+            "turn",
+            "marvel",
+            "'s",
+            "success",
+            "book"
+        ],
         "synonyms": [
             "use",
             "perplex",
@@ -14830,7 +15398,7 @@
             "successful",
             "script"
         ],
-        "tagged": [
+        "tags": [
             [
                 "applied",
                 "VBN"
@@ -15157,6 +15725,20 @@
         "meronyms": [],
         "ner_tag": "{'Its': 'O', 'young': 'O', 'hero': 'O', 'suffered': 'O', 'from': 'O', 'self': 'O', '-': 'O', 'doubt': 'O', 'and': 'O', 'mundane': 'O', 'problems': 'O', 'like': 'O', 'any': 'O', 'other': 'O', 'teenager': 'O', ',': 'O', 'something': 'O', 'readers': 'O', 'could': 'O', 'identify': 'O', 'with': 'O', '.': 'O'}",
         "sentence": "Its young hero suffered from self-doubt and mundane problems like any other teenager, something readers could identify with.",
+        "stems": [
+            "young",
+            "hero",
+            "suffer",
+            "self-doubt",
+            "mundan",
+            "problem",
+            "like",
+            "teenag",
+            "someth",
+            "reader",
+            "could",
+            "identifi"
+        ],
         "synonyms": [
             "Young",
             "hero",
@@ -15171,7 +15753,7 @@
             "could",
             "name"
         ],
-        "tagged": [
+        "tags": [
             [
                 "young",
                 "JJ"
@@ -15735,6 +16317,34 @@
         ],
         "ner_tag": "{'Lee': 'PERSON', 'and': 'O', 'freelance': 'O', 'artist': 'TITLE', 'eventual': 'O', 'co-plotter': 'O', 'Jack': 'PERSON', 'Kirby': 'PERSON', \"'s\": 'O', 'Fantastic': 'MISC', 'Four': 'NUMBER', 'originated': 'O', 'in': 'O', 'a': 'O', 'Cold': 'MISC', 'War': 'CAUSE_OF_DEATH', 'culture': 'O', 'that': 'O', 'led': 'O', 'their': 'O', 'creators': 'O', 'to': 'O', 'revise': 'O', 'the': 'O', 'superhero': 'O', 'conventions': 'O', 'of': 'O', 'previous': 'O', 'eras': 'O', 'better': 'O', 'reflect': 'O', 'psychological': 'O', 'spirit': 'O', 'age': 'O', '.': 'O'}",
         "sentence": "Lee and freelance artist and eventual co-plotter Jack Kirby's Fantastic Four originated in a Cold War culture that led their creators to revise the superhero conventions of previous eras to better reflect the psychological spirit of their age.",
+        "stems": [
+            "lee",
+            "freelanc",
+            "artist",
+            "eventu",
+            "co-plott",
+            "jack",
+            "kirbi",
+            "'s",
+            "fantast",
+            "four",
+            "origin",
+            "cold",
+            "war",
+            "cultur",
+            "led",
+            "creator",
+            "revis",
+            "superhero",
+            "convent",
+            "previou",
+            "era",
+            "better",
+            "reflect",
+            "psycholog",
+            "spirit",
+            "age"
+        ],
         "synonyms": [
             "lee",
             "mercenary",
@@ -15763,7 +16373,7 @@
             "spirit",
             "old_age"
         ],
-        "tagged": [
+        "tags": [
             [
                 "lee",
                 "JJ"
@@ -16614,6 +17224,36 @@
         ],
         "ner_tag": "{'Eschewing': 'O', 'such': 'O', 'comic': 'O', '-': 'O', 'book': 'O', 'tropes': 'O', 'as': 'O', 'secret': 'O', 'identities': 'O', 'and': 'O', 'even': 'O', 'costumes': 'O', 'at': 'O', 'first': 'ORDINAL', ',': 'O', 'having': 'O', 'a': 'O', 'monster': 'O', 'one': 'NUMBER', 'of': 'O', 'the': 'O', 'heroes': 'O', 'its': 'O', 'characters': 'O', 'bicker': 'O', 'complain': 'O', 'in': 'O', 'what': 'O', 'was': 'O', 'later': 'O', 'called': 'O', '``': 'O', 'superheroes': 'O', 'real': 'O', 'world': 'O', \"''\": 'O', 'approach': 'O', 'series': 'O', 'represented': 'O', 'change': 'O', 'that': 'O', 'proved': 'O', 'to': 'O', 'be': 'O', 'great': 'O', 'success': 'O', '.': 'O'}",
         "sentence": "Eschewing such comic-book tropes as secret identities and even costumes at first, having a monster as one of the heroes, and having its characters bicker and complain in what was later called a \"superheroes in the real world\" approach, the series represented a change that proved to be a great success.",
+        "stems": [
+            "eschew",
+            "comic-book",
+            "trope",
+            "secret",
+            "ident",
+            "even",
+            "costum",
+            "first",
+            "monster",
+            "one",
+            "hero",
+            "charact",
+            "bicker",
+            "complain",
+            "later",
+            "call",
+            "``",
+            "superhero",
+            "real",
+            "world",
+            "''",
+            "approach",
+            "seri",
+            "repres",
+            "chang",
+            "prove",
+            "great",
+            "success"
+        ],
         "synonyms": [
             "shun",
             "comic-book",
@@ -16644,7 +17284,7 @@
             "great",
             "success"
         ],
-        "tagged": [
+        "tags": [
             [
                 "eschewing",
                 "VBG"
@@ -17149,6 +17789,19 @@
         ],
         "ner_tag": "{'All': 'O', 'of': 'O', 'these': 'O', 'elements': 'O', 'struck': 'O', 'a': 'O', 'chord': 'O', 'with': 'O', 'the': 'O', 'older': 'O', 'readers': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'college': 'O', '-': 'O', 'aged': 'O', 'adults': 'O', 'and': 'O', 'they': 'O', 'successfully': 'O', 'gained': 'O', 'in': 'O', 'way': 'O', 'not': 'O', 'seen': 'O', 'before': 'O', '.': 'O'}",
         "sentence": "All of these elements struck a chord with the older readers, such as college-aged adults, and they successfully gained in a way not seen before.",
+        "stems": [
+            "element",
+            "struck",
+            "chord",
+            "older",
+            "reader",
+            "college-ag",
+            "adult",
+            "success",
+            "gain",
+            "way",
+            "seen"
+        ],
         "synonyms": [
             "element",
             "strike",
@@ -17162,7 +17815,7 @@
             "way",
             "visit"
         ],
-        "tagged": [
+        "tags": [
             [
                 "elements",
                 "NNS"
@@ -17601,6 +18254,26 @@
         ],
         "ner_tag": "{'In': 'O', '1965': 'DATE', ',': 'O', 'Spider': 'O', '-': 'O', 'Man': 'O', 'and': 'O', 'the': 'O', 'Hulk': 'O', 'were': 'O', 'both': 'O', 'featured': 'O', 'in': 'O', 'Esquire': 'ORGANIZATION', 'magazine': 'O', \"'s\": 'O', 'list': 'O', 'of': 'O', '28': 'NUMBER', 'college': 'O', 'campus': 'O', 'heroes': 'O', 'alongside': 'O', 'John': 'PERSON', 'F.': 'PERSON', 'Kennedy': 'PERSON', 'Bob': 'PERSON', 'Dylan': 'PERSON', '.': 'O'}",
         "sentence": "In 1965, Spider-Man and the Hulk were both featured in Esquire magazine's list of 28 college campus heroes, alongside John F. Kennedy and Bob Dylan.",
+        "stems": [
+            "1965",
+            "spider-man",
+            "hulk",
+            "featur",
+            "esquir",
+            "magazin",
+            "'s",
+            "list",
+            "28",
+            "colleg",
+            "campu",
+            "hero",
+            "alongsid",
+            "john",
+            "f.",
+            "kennedi",
+            "bob",
+            "dylan"
+        ],
         "synonyms": [
             "1965",
             "spider-man",
@@ -17621,7 +18294,7 @@
             "bobsled",
             "Dylan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1965",
                 "CD"
@@ -18105,6 +18778,30 @@
         ],
         "ner_tag": "{'In': 'O', '2009': 'DATE', 'writer': 'TITLE', 'Geoff': 'PERSON', 'Boucher': 'PERSON', 'reflected': 'O', 'that': 'O', ',': 'O', '``': 'O', 'Superman': 'O', 'and': 'O', 'DC': 'STATE_OR_PROVINCE', 'Comics': 'O', 'instantly': 'O', 'seemed': 'O', 'like': 'O', 'boring': 'O', 'old': 'O', 'Pat': 'PERSON', 'Boone': 'PERSON', ';': 'O', 'Marvel': 'O', 'felt': 'O', 'The': 'O', 'Beatles': 'O', 'the': 'O', 'British': 'NATIONALITY', 'Invasion': 'O', '.': 'O'}",
         "sentence": "In 2009 writer Geoff Boucher reflected that, \"Superman and DC Comics instantly seemed like boring old Pat Boone; Marvel felt like The Beatles and the British Invasion.",
+        "stems": [
+            "2009",
+            "writer",
+            "geoff",
+            "boucher",
+            "reflect",
+            "``",
+            "superman",
+            "dc",
+            "comic",
+            "instantli",
+            "seem",
+            "like",
+            "bore",
+            "old",
+            "pat",
+            "boon",
+            "marvel",
+            "felt",
+            "like",
+            "beatl",
+            "british",
+            "invas"
+        ],
         "synonyms": [
             "2009",
             "writer",
@@ -18129,7 +18826,7 @@
             "British",
             "invasion"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2009",
                 "CD"
@@ -18709,6 +19406,25 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'was': 'O', 'Kirby': 'PERSON', \"'s\": 'O', 'artwork': 'O', 'with': 'O', 'its': 'O', 'tension': 'O', 'and': 'O', 'psychedelia': 'O', 'that': 'O', 'made': 'O', 'it': 'O', 'perfect': 'O', 'for': 'O', 'the': 'O', 'times': 'O', '—': 'O', 'or': 'O', 'Lee': 'PERSON', 'bravado': 'O', 'melodrama': 'O', ',': 'O', 'which': 'O', 'somehow': 'O', 'insecure': 'O', 'brash': 'O', 'at': 'O', 'same': 'O', 'time': 'O', '?': 'O', \"''\": 'O'}",
         "sentence": "It was Kirby's artwork with its tension and psychedelia that made it perfect for the times—or was it Lee's bravado and melodrama, which was somehow insecure and brash at the same time?\"",
+        "stems": [
+            "kirbi",
+            "'s",
+            "artwork",
+            "tension",
+            "psychedelia",
+            "made",
+            "perfect",
+            "times—or",
+            "lee",
+            "'s",
+            "bravado",
+            "melodrama",
+            "somehow",
+            "insecur",
+            "brash",
+            "time",
+            "''"
+        ],
         "synonyms": [
             "kirby",
             "'s",
@@ -18728,7 +19444,7 @@
             "time",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "kirby",
                 "NN"
@@ -20117,6 +20833,62 @@
         ],
         "ner_tag": "{'In': 'O', 'addition': 'O', 'to': 'O', 'Spider': 'O', '-': 'O', 'Man': 'MISC', 'and': 'O', 'the': 'O', 'Fantastic': 'MISC', 'Four': 'NUMBER', ',': 'O', 'Marvel': 'O', 'began': 'O', 'publishing': 'O', 'further': 'O', 'superhero': 'O', 'titles': 'O', 'featuring': 'O', 'such': 'O', 'heroes': 'O', 'antiheroes': 'O', 'as': 'O', 'Hulk': 'O', 'Thor': 'PERSON', 'Ant': 'PERSON', 'Iron': 'MISC', 'X-Men': 'O', 'Daredevil': 'O', 'Inhumans': 'MISC', 'Black': 'O', 'Panther': 'O', 'Doctor': 'TITLE', 'Strange': 'O', 'Captain': 'TITLE', 'Silver': 'MISC', 'Surfer': 'MISC', 'memorable': 'O', 'antagonists': 'O', 'Doom': 'O', 'Magneto': 'PERSON', 'Galactus': 'O', 'Loki': 'PERSON', 'Green': 'CITY', 'Goblin': 'LOCATION', 'Octopus': 'O', 'all': 'O', 'existing': 'O', 'in': 'O', 'a': 'O', 'shared': 'O', 'reality': 'O', 'known': 'O', 'Universe': 'O', 'with': 'O', 'locations': 'O', 'that': 'O', 'mirror': 'O', 'real': 'O', 'life': 'O', 'cities': 'O', 'New': 'STATE_OR_PROVINCE', 'York': 'STATE_OR_PROVINCE', 'Los': 'CITY', 'Angeles': 'CITY', 'Chicago': 'CITY', '.': 'O'}",
         "sentence": "In addition to Spider-Man and the Fantastic Four, Marvel began publishing further superhero titles featuring such heroes and antiheroes as the Hulk, Thor, Ant-Man, Iron Man, the X-Men, Daredevil, the Inhumans, Black Panther, Doctor Strange, Captain Marvel and the Silver Surfer, and such memorable antagonists as Doctor Doom, Magneto, Galactus, Loki, the Green Goblin, and Doctor Octopus, all existing in a shared reality known as the Marvel Universe, with locations that mirror real-life cities such as New York, Los Angeles and Chicago.",
+        "stems": [
+            "addit",
+            "spider-man",
+            "fantast",
+            "four",
+            "marvel",
+            "began",
+            "publish",
+            "superhero",
+            "titl",
+            "featur",
+            "hero",
+            "antihero",
+            "hulk",
+            "thor",
+            "ant-man",
+            "iron",
+            "man",
+            "x-men",
+            "daredevil",
+            "inhuman",
+            "black",
+            "panther",
+            "doctor",
+            "strang",
+            "captain",
+            "marvel",
+            "silver",
+            "surfer",
+            "memor",
+            "antagonist",
+            "doctor",
+            "doom",
+            "magneto",
+            "galactu",
+            "loki",
+            "green",
+            "goblin",
+            "doctor",
+            "octopu",
+            "exist",
+            "share",
+            "realiti",
+            "known",
+            "marvel",
+            "univers",
+            "locat",
+            "mirror",
+            "real-lif",
+            "citi",
+            "new",
+            "york",
+            "lo",
+            "angel",
+            "chicago"
+        ],
         "synonyms": [
             "addition",
             "spider-man",
@@ -20173,7 +20945,7 @@
             "angeles",
             "Michigan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "addition",
                 "NN"
@@ -21009,6 +21781,34 @@
         ],
         "ner_tag": "{'In': 'O', '1968': 'DATE', ',': 'O', 'while': 'O', 'selling': 'O', '50': 'NUMBER', 'million': 'NUMBER', 'comic': 'O', 'books': 'O', 'a': 'DURATION', 'year': 'DURATION', 'company': 'O', 'founder': 'TITLE', 'Goodman': 'PERSON', 'revised': 'O', 'the': 'O', 'constraining': 'O', 'distribution': 'O', 'arrangement': 'O', 'with': 'O', 'Independent': 'ORGANIZATION', 'News': 'ORGANIZATION', 'he': 'O', 'had': 'O', 'reached': 'O', 'under': 'O', 'duress': 'O', 'during': 'O', 'Atlas': 'O', 'years': 'DURATION', 'allowing': 'O', 'him': 'O', 'now': 'DATE', 'to': 'O', 'release': 'O', 'as': 'O', 'many': 'O', 'titles': 'O', 'demand': 'O', 'warranted': 'O', '.': 'O'}",
         "sentence": "In 1968, while selling 50 million comic books a year, company founder Goodman revised the constraining distribution arrangement with Independent News he had reached under duress during the Atlas years, allowing him now to release as many titles as demand warranted.",
+        "stems": [
+            "1968",
+            "sell",
+            "50",
+            "million",
+            "comic",
+            "book",
+            "year",
+            "compani",
+            "founder",
+            "goodman",
+            "revis",
+            "constrain",
+            "distribut",
+            "arrang",
+            "independ",
+            "news",
+            "reach",
+            "duress",
+            "atla",
+            "year",
+            "allow",
+            "releas",
+            "mani",
+            "titl",
+            "demand",
+            "warrant"
+        ],
         "synonyms": [
             "1968",
             "sell",
@@ -21037,7 +21837,7 @@
             "need",
             "justify"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1968",
                 "CD"
@@ -21648,6 +22448,28 @@
         ],
         "ner_tag": "{'Late': 'O', 'that': 'O', 'year': 'DURATION', 'he': 'O', 'sold': 'O', 'Marvel': 'ORGANIZATION', 'Comics': 'ORGANIZATION', 'and': 'O', 'his': 'O', 'other': 'O', 'publishing': 'O', 'businesses': 'O', 'to': 'O', 'the': 'O', 'Perfect': 'O', 'Film': 'O', 'Chemical': 'ORGANIZATION', 'Corporation': 'ORGANIZATION', ',': 'O', 'which': 'O', 'continued': 'O', 'group': 'O', 'them': 'O', 'as': 'O', 'subsidiary': 'O', 'Magazine': 'ORGANIZATION', 'Management': 'ORGANIZATION', 'Company': 'ORGANIZATION', 'with': 'O', 'Goodman': 'PERSON', 'remaining': 'O', 'publisher': 'TITLE', '.': 'O'}",
         "sentence": "Late that year he sold Marvel Comics and his other publishing businesses to the Perfect Film and Chemical Corporation, which continued to group them as the subsidiary Magazine Management Company, with Goodman remaining as publisher.",
+        "stems": [
+            "late",
+            "year",
+            "sold",
+            "marvel",
+            "comic",
+            "publish",
+            "busi",
+            "perfect",
+            "film",
+            "chemic",
+            "corpor",
+            "continu",
+            "group",
+            "subsidiari",
+            "magazin",
+            "manag",
+            "compani",
+            "goodman",
+            "remain",
+            "publish"
+        ],
         "synonyms": [
             "late",
             "year",
@@ -21670,7 +22492,7 @@
             "stay",
             "publisher"
         ],
-        "tagged": [
+        "tags": [
             [
                 "late",
                 "JJ"
@@ -22003,6 +22825,19 @@
         ],
         "ner_tag": "{'In': 'O', '1969': 'DATE', ',': 'O', 'Goodman': 'PERSON', 'finally': 'O', 'ended': 'O', 'his': 'O', 'distribution': 'O', 'deal': 'O', 'with': 'O', 'Independent': 'RELIGION', 'by': 'O', 'signing': 'O', 'Curtis': 'ORGANIZATION', 'Circulation': 'ORGANIZATION', 'Company': 'ORGANIZATION', '.': 'O'}",
         "sentence": "In 1969, Goodman finally ended his distribution deal with Independent by signing with Curtis Circulation Company.",
+        "stems": [
+            "1969",
+            "goodman",
+            "final",
+            "end",
+            "distribut",
+            "deal",
+            "independ",
+            "sign",
+            "curti",
+            "circul",
+            "compani"
+        ],
         "synonyms": [
             "1969",
             "Goodman",
@@ -22016,7 +22851,7 @@
             "circulation",
             "ship's_company"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1969",
                 "CD"
@@ -22501,6 +23336,26 @@
         ],
         "ner_tag": "{'In': 'O', '1971': 'DATE', ',': 'O', 'the': 'O', 'United': 'ORGANIZATION', 'States': 'ORGANIZATION', 'Department': 'ORGANIZATION', 'of': 'ORGANIZATION', 'Health': 'ORGANIZATION', 'Education': 'ORGANIZATION', 'and': 'O', 'Welfare': 'O', 'approached': 'O', 'Marvel': 'ORGANIZATION', 'Comics': 'ORGANIZATION', 'editor': 'TITLE', '-': 'TITLE', 'in': 'TITLE', 'chief': 'TITLE', 'Stan': 'PERSON', 'Lee': 'PERSON', 'to': 'O', 'do': 'O', 'a': 'O', 'comic': 'O', 'book': 'O', 'story': 'O', 'about': 'O', 'drug': 'O', 'abuse': 'O', '.': 'O'}",
         "sentence": "In 1971, the United States Department of Health, Education, and Welfare approached Marvel Comics editor-in-chief Stan Lee to do a comic book story about drug abuse.",
+        "stems": [
+            "1971",
+            "unit",
+            "state",
+            "depart",
+            "health",
+            "educ",
+            "welfar",
+            "approach",
+            "marvel",
+            "comic",
+            "editor-in-chief",
+            "stan",
+            "lee",
+            "comic",
+            "book",
+            "stori",
+            "drug",
+            "abus"
+        ],
         "synonyms": [
             "1971",
             "united",
@@ -22521,7 +23376,7 @@
             "drug",
             "abuse"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1971",
                 "CD"
@@ -22866,6 +23721,19 @@
         ],
         "ner_tag": "{'Lee': 'PERSON', 'agreed': 'O', 'and': 'O', 'wrote': 'O', 'a': 'O', 'three': 'NUMBER', '-': 'MISC', 'part': 'NUMBER', 'Spider': 'MISC', 'Man': 'MISC', 'story': 'O', 'portraying': 'O', 'drug': 'O', 'use': 'O', 'as': 'O', 'dangerous': 'O', 'unglamorous': 'O', '.': 'O'}",
         "sentence": "Lee agreed and wrote a three-part Spider-Man story portraying drug use as dangerous and unglamorous.",
+        "stems": [
+            "lee",
+            "agre",
+            "wrote",
+            "three-part",
+            "spider-man",
+            "stori",
+            "portray",
+            "drug",
+            "use",
+            "danger",
+            "unglamor"
+        ],
         "synonyms": [
             "lee",
             "agree",
@@ -22879,7 +23747,7 @@
             "dangerous",
             "commonplace"
         ],
-        "tagged": [
+        "tags": [
             [
                 "lee",
                 "NNS"
@@ -23375,6 +24243,25 @@
         ],
         "ner_tag": "{'However': 'O', ',': 'O', 'the': 'O', 'industry': 'O', \"'s\": 'O', 'self': 'O', '-': 'O', 'censorship': 'O', 'board': 'O', 'Comics': 'ORGANIZATION', 'Code': 'ORGANIZATION', 'Authority': 'ORGANIZATION', 'refused': 'O', 'to': 'O', 'approve': 'O', 'story': 'O', 'because': 'O', 'of': 'O', 'presence': 'O', 'narcotics': 'O', 'deeming': 'O', 'context': 'O', 'irrelevant': 'O', '.': 'O'}",
         "sentence": "However, the industry's self-censorship board, the Comics Code Authority, refused to approve the story because of the presence of narcotics, deeming the context of the story irrelevant.",
+        "stems": [
+            "howev",
+            "industri",
+            "'s",
+            "self-censorship",
+            "board",
+            "comic",
+            "code",
+            "author",
+            "refus",
+            "approv",
+            "stori",
+            "presenc",
+            "narcot",
+            "deem",
+            "context",
+            "stori",
+            "irrelev"
+        ],
         "synonyms": [
             "however",
             "industry",
@@ -23394,7 +24281,7 @@
             "story",
             "irrelevant"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -23895,6 +24782,24 @@
         ],
         "ner_tag": "{'Lee': 'PERSON', ',': 'O', 'with': 'O', 'Goodman': 'PERSON', \"'s\": 'O', 'approval': 'O', 'published': 'O', 'the': 'O', 'story': 'O', 'regardless': 'O', 'in': 'O', 'The': 'O', 'Amazing': 'O', 'Spider': 'O', '-': 'O', 'Man': 'O', '#': 'MONEY', '96': 'MONEY', '–': 'O', '98': 'NUMBER', '(': 'O', 'May': 'DATE', 'July': 'DATE', '1971': 'DATE', ')': 'O', 'without': 'O', 'Comics': 'MISC', 'Code': 'MISC', 'seal': 'O', '.': 'O'}",
         "sentence": "Lee, with Goodman's approval, published the story regardless in The Amazing Spider-Man #96–98 (May–July 1971), without the Comics Code seal.",
+        "stems": [
+            "lee",
+            "goodman",
+            "'s",
+            "approv",
+            "publish",
+            "stori",
+            "regardless",
+            "amaz",
+            "spider-man",
+            "96–98",
+            "may–juli",
+            "1971",
+            "without",
+            "comic",
+            "code",
+            "seal"
+        ],
         "synonyms": [
             "lee",
             "Goodman",
@@ -23913,7 +24818,7 @@
             "code",
             "sealing_wax"
         ],
-        "tagged": [
+        "tags": [
             [
                 "lee",
                 "JJ"
@@ -24232,6 +25137,17 @@
         ],
         "ner_tag": "{'The': 'O', 'market': 'O', 'reacted': 'O', 'well': 'O', 'to': 'O', 'the': 'DATE', 'storyline': 'O', ',': 'O', 'and': 'O', 'CCA': 'ORGANIZATION', 'subsequently': 'O', 'revised': 'O', 'Code': 'O', 'same': 'DATE', 'year': 'DATE', '.': 'O'}",
         "sentence": "The market reacted well to the storyline, and the CCA subsequently revised the Code the same year.",
+        "stems": [
+            "market",
+            "react",
+            "well",
+            "storylin",
+            "cca",
+            "subsequ",
+            "revis",
+            "code",
+            "year"
+        ],
         "synonyms": [
             "marketplace",
             "react",
@@ -24243,7 +25159,7 @@
             "code",
             "year"
         ],
-        "tagged": [
+        "tags": [
             [
                 "market",
                 "NN"
@@ -24536,6 +25452,17 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'series': 'O', 'of': 'O', 'new': 'O', 'editors': 'O', '-': 'O', 'in': 'O', 'chief': 'O', 'oversaw': 'O', 'the': 'O', 'company': 'O', 'during': 'O', 'another': 'O', 'slow': 'O', 'time': 'O', 'for': 'O', 'industry': 'O', '.': 'O'}",
         "sentence": "A series of new editors-in-chief oversaw the company during another slow time for the industry.",
+        "stems": [
+            "seri",
+            "new",
+            "editors-in-chief",
+            "oversaw",
+            "compani",
+            "anoth",
+            "slow",
+            "time",
+            "industri"
+        ],
         "synonyms": [
             "series",
             "newfangled",
@@ -24547,7 +25474,7 @@
             "time",
             "industry"
         ],
-        "tagged": [
+        "tags": [
             [
                 "series",
                 "NN"
@@ -25870,6 +26797,57 @@
         ],
         "ner_tag": "{'Once': 'DATE', 'again': 'O', ',': 'O', 'Marvel': 'O', 'attempted': 'O', 'to': 'O', 'diversify': 'O', 'and': 'O', 'with': 'O', 'the': 'O', 'updating': 'O', 'of': 'O', 'Comics': 'O', 'Code': 'O', 'achieved': 'O', 'moderate': 'O', 'strong': 'O', 'success': 'O', 'titles': 'O', 'themed': 'O', 'horror': 'O', '(': 'O', 'The': 'O', 'Tomb': 'O', 'Dracula': 'O', ')': 'O', 'martial': 'O', 'arts': 'O', 'Shang': 'O', '-': 'O', 'Chi': 'O', ':': 'O', 'Master': 'O', 'Kung': 'O', 'Fu': 'O', 'sword': 'O', 'sorcery': 'O', 'Conan': 'PERSON', 'Barbarian': 'PERSON', 'Red': 'ORGANIZATION', 'Sonja': 'ORGANIZATION', 'satire': 'O', 'Howard': 'PERSON', 'Duck': 'PERSON', 'science': 'O', 'fiction': 'O', '2001': 'DATE', 'A': 'O', 'Space': 'O', 'Odyssey': 'O', '``': 'O', 'Killraven': 'O', \"''\": 'O', 'in': 'DATE', 'Amazing': 'O', 'Adventures': 'O', 'Battlestar': 'O', 'Galactica': 'O', 'Star': 'O', 'Trek': 'ORGANIZATION', 'late': 'DATE', 'decade': 'DATE', 'long': 'O', 'running': 'O', 'Wars': 'O', 'series': 'O', '.': 'O'}",
         "sentence": "Once again, Marvel attempted to diversify, and with the updating of the Comics Code achieved moderate to strong success with titles themed to horror (The Tomb of Dracula), martial arts, (Shang-Chi: Master of Kung Fu), sword-and-sorcery (Conan the Barbarian, Red Sonja), satire (Howard the Duck) and science fiction (2001: A Space Odyssey, \"Killraven\" in Amazing Adventures, Battlestar Galactica, Star Trek, and, late in the decade, the long-running Star Wars series).",
+        "stems": [
+            "marvel",
+            "attempt",
+            "diversifi",
+            "updat",
+            "comic",
+            "code",
+            "achiev",
+            "moder",
+            "strong",
+            "success",
+            "titl",
+            "theme",
+            "horror",
+            "tomb",
+            "dracula",
+            "martial",
+            "art",
+            "shang-chi",
+            "master",
+            "kung",
+            "fu",
+            "sword-and-sorceri",
+            "conan",
+            "barbarian",
+            "red",
+            "sonja",
+            "satir",
+            "howard",
+            "duck",
+            "scienc",
+            "fiction",
+            "2001",
+            "space",
+            "odyssey",
+            "``",
+            "killraven",
+            "''",
+            "amaz",
+            "adventur",
+            "battlestar",
+            "galactica",
+            "star",
+            "trek",
+            "late",
+            "decad",
+            "long-run",
+            "star",
+            "war",
+            "seri"
+        ],
         "synonyms": [
             "wonder",
             "undertake",
@@ -25921,7 +26899,7 @@
             "war",
             "series"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -26411,6 +27389,16 @@
         "meronyms": [],
         "ner_tag": "{'Some': 'O', 'of': 'O', 'these': 'O', 'were': 'O', 'published': 'O', 'in': 'O', 'larger': 'O', '-': 'O', 'format': 'O', 'black': 'O', 'and': 'O', 'white': 'O', 'magazines': 'O', ',': 'O', 'under': 'O', 'its': 'O', 'Curtis': 'O', 'Magazines': 'O', 'imprint': 'O', '.': 'O'}",
         "sentence": "Some of these were published in larger-format black and white magazines, under its Curtis Magazines imprint.",
+        "stems": [
+            "publish",
+            "larger-format",
+            "black",
+            "white",
+            "magazin",
+            "curti",
+            "magazin",
+            "imprint"
+        ],
         "synonyms": [
             "published",
             "larger-format",
@@ -26421,7 +27409,7 @@
             "magazine",
             "imprint"
         ],
-        "tagged": [
+        "tags": [
             [
                 "published",
                 "VBN"
@@ -26811,6 +27799,24 @@
         ],
         "ner_tag": "{'Marvel': 'O', 'was': 'O', 'able': 'O', 'to': 'O', 'capitalize': 'O', 'on': 'O', 'its': 'O', 'successful': 'O', 'superhero': 'O', 'comics': 'O', 'of': 'O', 'the': 'DATE', 'previous': 'DATE', 'decade': 'DATE', 'by': 'O', 'acquiring': 'O', 'a': 'O', 'new': 'O', 'newsstand': 'O', 'distributor': 'O', 'and': 'O', 'greatly': 'O', 'expanding': 'O', 'line': 'O', '.': 'O'}",
         "sentence": "Marvel was able to capitalize on its successful superhero comics of the previous decade by acquiring a new newsstand distributor and greatly expanding its comics line.",
+        "stems": [
+            "marvel",
+            "abl",
+            "capit",
+            "success",
+            "superhero",
+            "comic",
+            "previou",
+            "decad",
+            "acquir",
+            "new",
+            "newsstand",
+            "distributor",
+            "greatli",
+            "expand",
+            "comic",
+            "line"
+        ],
         "synonyms": [
             "wonder",
             "able",
@@ -26829,7 +27835,7 @@
             "comic_strip",
             "wrinkle"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -27252,6 +28258,22 @@
         ],
         "ner_tag": "{'Marvel': 'O', 'pulled': 'O', 'ahead': 'O', 'of': 'O', 'rival': 'O', 'DC': 'STATE_OR_PROVINCE', 'Comics': 'O', 'in': 'O', '1972': 'DATE', ',': 'O', 'during': 'O', 'a': 'O', 'time': 'O', 'when': 'O', 'the': 'O', 'price': 'O', 'and': 'O', 'format': 'O', 'standard': 'O', 'newsstand': 'O', 'comic': 'O', 'were': 'O', 'flux': 'O', '.': 'O'}",
         "sentence": "Marvel pulled ahead of rival DC Comics in 1972, during a time when the price and format of the standard newsstand comic were in flux.",
+        "stems": [
+            "marvel",
+            "pull",
+            "ahead",
+            "rival",
+            "dc",
+            "comic",
+            "1972",
+            "time",
+            "price",
+            "format",
+            "standard",
+            "newsstand",
+            "comic",
+            "flux"
+        ],
         "synonyms": [
             "wonder",
             "pull",
@@ -27268,7 +28290,7 @@
             "comedian",
             "magnetic_field"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -27707,6 +28729,27 @@
         ],
         "ner_tag": "{'Goodman': 'PERSON', 'increased': 'O', 'the': 'O', 'price': 'O', 'and': 'O', 'size': 'O', 'of': 'O', 'Marvel': 'O', \"'s\": 'O', 'November': 'DATE', '1971': 'DATE', 'cover': 'O', '-': 'O', 'dated': 'O', 'comics': 'O', 'from': 'O', '15': 'MONEY', 'cents': 'MONEY', 'for': 'O', '36': 'NUMBER', 'pages': 'O', 'total': 'O', 'to': 'O', '25': 'MONEY', '52': 'NUMBER', '.': 'O'}",
         "sentence": "Goodman increased the price and size of Marvel's November 1971 cover-dated comics from 15 cents for 36 pages total to 25 cents for 52 pages.",
+        "stems": [
+            "goodman",
+            "increas",
+            "price",
+            "size",
+            "marvel",
+            "'s",
+            "novemb",
+            "1971",
+            "cover-d",
+            "comic",
+            "15",
+            "cent",
+            "36",
+            "page",
+            "total",
+            "25",
+            "cent",
+            "52",
+            "page"
+        ],
         "synonyms": [
             "Goodman",
             "increased",
@@ -27728,7 +28771,7 @@
             "fifty-two",
             "page"
         ],
-        "tagged": [
+        "tags": [
             [
                 "goodman",
                 "NN"
@@ -28222,6 +29265,26 @@
         ],
         "ner_tag": "{'DC': 'STATE_OR_PROVINCE', 'followed': 'O', 'suit': 'O', ',': 'O', 'but': 'O', 'Marvel': 'O', 'the': 'DATE', 'following': 'DATE', 'month': 'DATE', 'dropped': 'O', 'its': 'O', 'comics': 'O', 'to': 'O', '20': 'MONEY', 'cents': 'MONEY', 'for': 'O', '36': 'NUMBER', 'pages': 'O', 'offering': 'O', 'a': 'O', 'lower': 'O', '-': 'O', 'priced': 'O', 'product': 'O', 'with': 'O', 'higher': 'O', 'distributor': 'O', 'discount': 'O', '.': 'O'}",
         "sentence": "DC followed suit, but Marvel the following month dropped its comics to 20 cents for 36 pages, offering a lower-priced product with a higher distributor discount.",
+        "stems": [
+            "dc",
+            "follow",
+            "suit",
+            "marvel",
+            "follow",
+            "month",
+            "drop",
+            "comic",
+            "20",
+            "cent",
+            "36",
+            "page",
+            "offer",
+            "lower-pr",
+            "product",
+            "higher",
+            "distributor",
+            "discount"
+        ],
         "synonyms": [
             "District_of_Columbia",
             "take_after",
@@ -28242,7 +29305,7 @@
             "distributor",
             "rebate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "dc",
                 "NN"
@@ -28850,6 +29913,31 @@
         ],
         "ner_tag": "{'Goodman': 'PERSON', ',': 'O', 'now': 'DATE', 'disconnected': 'O', 'from': 'O', 'Marvel': 'ORGANIZATION', 'set': 'O', 'up': 'O', 'a': 'O', 'new': 'O', 'company': 'O', 'called': 'O', 'Seaboard': 'O', 'Periodicals': 'O', 'in': 'O', '1974': 'DATE', 'reviving': 'O', \"'s\": 'O', 'old': 'O', 'Atlas': 'ORGANIZATION', 'name': 'O', 'for': 'O', 'Comics': 'ORGANIZATION', 'line': 'O', 'but': 'O', 'this': 'O', 'lasted': 'O', 'only': 'O', 'year': 'DURATION', 'and': 'O', 'half': 'O', '.': 'O'}",
         "sentence": "Goodman, now disconnected from Marvel, set up a new company called Seaboard Periodicals in 1974, reviving Marvel's old Atlas name for a new Atlas Comics line, but this lasted only a year and a half.",
+        "stems": [
+            "goodman",
+            "disconnect",
+            "marvel",
+            "set",
+            "new",
+            "compani",
+            "call",
+            "seaboard",
+            "period",
+            "1974",
+            "reviv",
+            "marvel",
+            "'s",
+            "old",
+            "atla",
+            "name",
+            "new",
+            "atla",
+            "comic",
+            "line",
+            "last",
+            "year",
+            "half"
+        ],
         "synonyms": [
             "Goodman",
             "disconnected",
@@ -28875,7 +29963,7 @@
             "year",
             "one-half"
         ],
-        "tagged": [
+        "tags": [
             [
                 "goodman",
                 "NN"
@@ -29159,6 +30247,15 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'mid-1970s': 'DATE', 'a': 'O', 'decline': 'O', 'of': 'O', 'newsstand': 'O', 'distribution': 'O', 'network': 'O', 'affected': 'O', 'Marvel': 'O', '.': 'O'}",
         "sentence": "In the mid-1970s a decline of the newsstand distribution network affected Marvel.",
+        "stems": [
+            "mid-1970",
+            "declin",
+            "newsstand",
+            "distribut",
+            "network",
+            "affect",
+            "marvel"
+        ],
         "synonyms": [
             "mid-1970s",
             "descent",
@@ -29168,7 +30265,7 @@
             "moved",
             "wonder"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mid-1970s",
                 "JJ"
@@ -29662,6 +30759,29 @@
         "meronyms": [],
         "ner_tag": "{'Cult': 'RELIGION', 'hits': 'O', 'such': 'O', 'as': 'O', 'Howard': 'PERSON', 'the': 'O', 'Duck': 'O', 'fell': 'O', 'victim': 'O', 'to': 'O', 'distribution': 'O', 'problems': 'O', ',': 'O', 'with': 'O', 'some': 'O', 'titles': 'O', 'reporting': 'O', 'low': 'O', 'sales': 'O', 'when': 'O', 'in': 'O', 'fact': 'O', 'first': 'ORDINAL', 'specialty': 'O', 'comic': 'O', 'book': 'O', 'stores': 'O', 'resold': 'O', 'them': 'O', 'at': 'O', 'a': 'O', 'later': 'O', 'date': 'O', '.': 'O'}",
         "sentence": "Cult hits such as Howard the Duck fell victim to the distribution problems, with some titles reporting low sales when in fact the first specialty comic book stores resold them at a later date.",
+        "stems": [
+            "cult",
+            "hit",
+            "howard",
+            "duck",
+            "fell",
+            "victim",
+            "distribut",
+            "problem",
+            "titl",
+            "report",
+            "low",
+            "sale",
+            "fact",
+            "first",
+            "specialti",
+            "comic",
+            "book",
+            "store",
+            "resold",
+            "later",
+            "date"
+        ],
         "synonyms": [
             "cult",
             "strike",
@@ -29685,7 +30805,7 @@
             "subsequently",
             "go_steady"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cult",
                 "NN"
@@ -30272,6 +31392,25 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'But': 'O', 'by': 'O', 'the': 'O', 'end': 'DATE', 'of': 'O', 'decade': 'DATE', ',': 'O', 'Marvel': 'O', \"'s\": 'O', 'fortunes': 'O', 'were': 'O', 'reviving': 'O', 'thanks': 'O', 'to': 'O', 'rise': 'O', 'direct': 'O', 'market': 'O', 'distribution': 'O', '—': 'O', 'selling': 'O', 'through': 'O', 'those': 'O', 'same': 'O', 'comics': 'O', '-': 'O', 'specialty': 'O', 'stores': 'O', 'instead': 'O', 'newsstands': 'O', '.': 'O'}",
         "sentence": "[citation needed] But by the end of the decade, Marvel's fortunes were reviving, thanks to the rise of direct market distribution—selling through those same comics-specialty stores instead of newsstands.",
+        "stems": [
+            "citat",
+            "need",
+            "end",
+            "decad",
+            "marvel",
+            "'s",
+            "fortun",
+            "reviv",
+            "thank",
+            "rise",
+            "direct",
+            "market",
+            "distribution—sel",
+            "comics-specialti",
+            "store",
+            "instead",
+            "newsstand"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -30291,7 +31430,7 @@
             "rather",
             "newsstand"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -30663,6 +31802,20 @@
         "meronyms": [],
         "ner_tag": "{'Marvel': 'O', 'held': 'O', 'its': 'O', 'own': 'O', 'comic': 'O', 'book': 'O', 'convention': 'O', ',': 'O', 'Marvelcon': 'O', \"'75\": 'DATE', 'in': 'O', 'spring': 'DATE', '1975': 'DATE', 'and': 'O', 'promised': 'O', 'a': 'O', \"'76\": 'DATE', '.': 'O'}",
         "sentence": "Marvel held its own comic book convention, Marvelcon '75, in spring 1975, and promised a Marvelcon '76.",
+        "stems": [
+            "marvel",
+            "held",
+            "comic",
+            "book",
+            "convent",
+            "marvelcon",
+            "'75",
+            "spring",
+            "1975",
+            "promis",
+            "marvelcon",
+            "'76"
+        ],
         "synonyms": [
             "wonder",
             "keep",
@@ -30677,7 +31830,7 @@
             "marvelcon",
             "'76"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -31314,6 +32467,34 @@
         ],
         "ner_tag": "{'At': 'O', 'the': 'O', '1975': 'DATE', 'event': 'O', ',': 'O', 'Stan': 'PERSON', 'Lee': 'PERSON', 'used': 'O', 'a': 'O', 'Fantastic': 'MISC', 'Four': 'NUMBER', 'panel': 'O', 'discussion': 'O', 'to': 'O', 'announce': 'O', 'that': 'O', 'Jack': 'PERSON', 'Kirby': 'PERSON', 'artist': 'TITLE', 'co-creator': 'O', 'of': 'O', 'most': 'O', 'Marvel': 'ORGANIZATION', \"'s\": 'O', 'signature': 'O', 'characters': 'O', 'was': 'O', 'returning': 'O', 'after': 'O', 'having': 'O', 'left': 'O', 'in': 'O', '1970': 'DATE', 'work': 'O', 'for': 'O', 'rival': 'O', 'DC': 'ORGANIZATION', 'Comics': 'ORGANIZATION', '.': 'O'}",
         "sentence": "At the 1975 event, Stan Lee used a Fantastic Four panel discussion to announce that Jack Kirby, the artist co-creator of most of Marvel's signature characters, was returning to Marvel after having left in 1970 to work for rival DC Comics.",
+        "stems": [
+            "1975",
+            "event",
+            "stan",
+            "lee",
+            "use",
+            "fantast",
+            "four",
+            "panel",
+            "discuss",
+            "announc",
+            "jack",
+            "kirbi",
+            "artist",
+            "co-creat",
+            "marvel",
+            "'s",
+            "signatur",
+            "charact",
+            "return",
+            "marvel",
+            "left",
+            "1970",
+            "work",
+            "rival",
+            "dc",
+            "comic"
+        ],
         "synonyms": [
             "1975",
             "event",
@@ -31342,7 +32523,7 @@
             "District_of_Columbia",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1975",
                 "CD"
@@ -31815,6 +32996,23 @@
         ],
         "ner_tag": "{'In': 'O', 'October': 'DATE', '1976': 'DATE', ',': 'O', 'Marvel': 'O', 'which': 'O', 'already': 'O', 'licensed': 'O', 'reprints': 'O', 'in': 'O', 'different': 'O', 'countries': 'O', 'including': 'O', 'the': 'O', 'UK': 'COUNTRY', 'created': 'O', 'a': 'O', 'superhero': 'O', 'specifically': 'O', 'for': 'O', 'British': 'NATIONALITY', 'market': 'O', '.': 'O'}",
         "sentence": "In October 1976, Marvel, which already licensed reprints in different countries, including the UK, created a superhero specifically for the British market.",
+        "stems": [
+            "octob",
+            "1976",
+            "marvel",
+            "alreadi",
+            "licens",
+            "reprint",
+            "differ",
+            "countri",
+            "includ",
+            "uk",
+            "creat",
+            "superhero",
+            "specif",
+            "british",
+            "market"
+        ],
         "synonyms": [
             "October",
             "1976",
@@ -31832,7 +33030,7 @@
             "British",
             "marketplace"
         ],
-        "tagged": [
+        "tags": [
             [
                 "october",
                 "NN"
@@ -32109,6 +33307,17 @@
         ],
         "ner_tag": "{'Captain': 'TITLE', 'Britain': 'COUNTRY', 'debuted': 'O', 'exclusively': 'O', 'in': 'O', 'the': 'O', 'UK': 'COUNTRY', ',': 'O', 'and': 'O', 'later': 'O', 'appeared': 'O', 'American': 'NATIONALITY', 'comics': 'O', '.': 'O'}",
         "sentence": "Captain Britain debuted exclusively in the UK, and later appeared in American comics.",
+        "stems": [
+            "captain",
+            "britain",
+            "debut",
+            "exclus",
+            "uk",
+            "later",
+            "appear",
+            "american",
+            "comic"
+        ],
         "synonyms": [
             "master",
             "United_Kingdom",
@@ -32120,7 +33329,7 @@
             "American",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "captain",
                 "NN"
@@ -32341,6 +33550,15 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '1978': 'DATE', ',': 'O', 'Jim': 'PERSON', 'Shooter': 'PERSON', 'became': 'O', 'Marvel': 'O', \"'s\": 'O', 'editor': 'TITLE', '-': 'TITLE', 'in': 'TITLE', 'chief': 'TITLE', '.': 'O'}",
         "sentence": "In 1978, Jim Shooter became Marvel's editor-in-chief.",
+        "stems": [
+            "1978",
+            "jim",
+            "shooter",
+            "becam",
+            "marvel",
+            "'s",
+            "editor-in-chief"
+        ],
         "synonyms": [
             "1978",
             "jim",
@@ -32350,7 +33568,7 @@
             "'s",
             "editor-in-chief"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1978",
                 "CD"
@@ -32638,6 +33856,21 @@
         "meronyms": [],
         "ner_tag": "{'Although': 'O', 'a': 'O', 'controversial': 'O', 'personality': 'O', ',': 'O', 'Shooter': 'TITLE', 'cured': 'O', 'many': 'O', 'of': 'O', 'the': 'O', 'procedural': 'O', 'ills': 'O', 'at': 'O', 'Marvel': 'O', 'including': 'O', 'repeatedly': 'O', 'missed': 'O', 'deadlines': 'O', '.': 'O'}",
         "sentence": "Although a controversial personality, Shooter cured many of the procedural ills at Marvel, including repeatedly missed deadlines.",
+        "stems": [
+            "although",
+            "controversi",
+            "person",
+            "shooter",
+            "cure",
+            "mani",
+            "procedur",
+            "ill",
+            "marvel",
+            "includ",
+            "repeatedli",
+            "miss",
+            "deadlin"
+        ],
         "synonyms": [
             "although",
             "controversial",
@@ -32653,7 +33886,7 @@
             "neglect",
             "deadline"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -33186,6 +34419,30 @@
         "meronyms": [],
         "ner_tag": "{'During': 'O', 'Shooter': 'TITLE', \"'s\": 'O', 'nine': 'DURATION', '-': 'TITLE', 'year': 'DURATION', 'tenure': 'O', 'as': 'O', 'editor': 'TITLE', 'in': 'TITLE', 'chief': 'TITLE', ',': 'O', 'Chris': 'PERSON', 'Claremont': 'PERSON', 'and': 'O', 'John': 'PERSON', 'Byrne': 'PERSON', 'run': 'O', 'on': 'O', 'the': 'O', 'Uncanny': 'O', 'X-Men': 'O', 'Frank': 'PERSON', 'Miller': 'PERSON', 'Daredevil': 'O', 'became': 'O', 'critical': 'O', 'commercial': 'O', 'successes': 'O', '.': 'O'}",
         "sentence": "During Shooter's nine-year tenure as editor-in-chief, Chris Claremont and John Byrne's run on the Uncanny X-Men and Frank Miller's run on Daredevil became critical and commercial successes.",
+        "stems": [
+            "shooter",
+            "'s",
+            "nine-year",
+            "tenur",
+            "editor-in-chief",
+            "chri",
+            "claremont",
+            "john",
+            "byrn",
+            "'s",
+            "run",
+            "uncanni",
+            "x-men",
+            "frank",
+            "miller",
+            "'s",
+            "run",
+            "daredevil",
+            "becam",
+            "critic",
+            "commerci",
+            "success"
+        ],
         "synonyms": [
             "taw",
             "'s",
@@ -33210,7 +34467,7 @@
             "commercial",
             "success"
         ],
-        "tagged": [
+        "tags": [
             [
                 "shooter",
                 "NN"
@@ -34127,6 +35384,47 @@
         ],
         "ner_tag": "{'Shooter': 'TITLE', 'brought': 'O', 'Marvel': 'O', 'into': 'O', 'the': 'O', 'rapidly': 'O', 'evolving': 'O', 'direct': 'O', 'market': 'O', ',': 'O', 'institutionalized': 'O', 'creator': 'TITLE', 'royalties': 'O', 'starting': 'O', 'with': 'O', 'Epic': 'ORGANIZATION', 'Comics': 'O', 'imprint': 'O', 'for': 'O', '-': 'O', 'owned': 'O', 'material': 'O', 'in': 'O', '1982': 'DATE', ';': 'O', 'introduced': 'O', 'company': 'O', 'wide': 'O', 'crossover': 'O', 'story': 'O', 'arcs': 'O', 'Contest': 'MISC', 'of': 'O', 'Champions': 'MISC', 'and': 'O', 'Secret': 'O', 'Wars': 'O', '1986': 'DATE', 'launched': 'O', 'ultimately': 'O', 'unsuccessful': 'O', 'New': 'MISC', 'Universe': 'MISC', 'line': 'O', 'to': 'O', 'commemorate': 'O', '25th': 'ORDINAL', 'anniversary': 'O', '.': 'O'}",
         "sentence": "Shooter brought Marvel into the rapidly evolving direct market, institutionalized creator royalties, starting with the Epic Comics imprint for creator-owned material in 1982; introduced company-wide crossover story arcs with Contest of Champions and Secret Wars; and in 1986 launched the ultimately unsuccessful New Universe line to commemorate the 25th anniversary of the Marvel Comics imprint.",
+        "stems": [
+            "shooter",
+            "brought",
+            "marvel",
+            "rapidli",
+            "evolv",
+            "direct",
+            "market",
+            "institution",
+            "creator",
+            "royalti",
+            "start",
+            "epic",
+            "comic",
+            "imprint",
+            "creator-own",
+            "materi",
+            "1982",
+            "introduc",
+            "company-wid",
+            "crossov",
+            "stori",
+            "arc",
+            "contest",
+            "champion",
+            "secret",
+            "war",
+            "1986",
+            "launch",
+            "ultim",
+            "unsuccess",
+            "new",
+            "univers",
+            "line",
+            "commemor",
+            "25th",
+            "anniversari",
+            "marvel",
+            "comic",
+            "imprint"
+        ],
         "synonyms": [
             "taw",
             "lend",
@@ -34168,7 +35466,7 @@
             "comic_strip",
             "imprint"
         ],
-        "tagged": [
+        "tags": [
             [
                 "shooter",
                 "NN"
@@ -34641,6 +35939,19 @@
         ],
         "ner_tag": "{'Star': 'ORGANIZATION', 'Comics': 'ORGANIZATION', ',': 'O', 'a': 'O', 'children': 'O', '-': 'O', 'oriented': 'O', 'line': 'O', 'differing': 'O', 'from': 'O', 'the': 'O', 'regular': 'O', 'Marvel': 'O', 'titles': 'O', 'was': 'O', 'briefly': 'O', 'successful': 'O', 'during': 'O', 'this': 'O', 'period': 'O', '.': 'O'}",
         "sentence": "Star Comics, a children-oriented line differing from the regular Marvel titles, was briefly successful during this period.",
+        "stems": [
+            "star",
+            "comic",
+            "children-ori",
+            "line",
+            "differ",
+            "regular",
+            "marvel",
+            "titl",
+            "briefli",
+            "success",
+            "period"
+        ],
         "synonyms": [
             "star_topology",
             "comic_strip",
@@ -34654,7 +35965,7 @@
             "successful",
             "period"
         ],
-        "tagged": [
+        "tags": [
             [
                 "star",
                 "NN"
@@ -35188,6 +36499,29 @@
         ],
         "ner_tag": "{'Marvel': 'O', 'earned': 'O', 'a': 'O', 'great': 'O', 'deal': 'O', 'of': 'O', 'money': 'O', 'and': 'O', 'recognition': 'O', 'during': 'O', 'the': 'DATE', 'comic': 'O', 'book': 'O', 'boom': 'O', 'early': 'O', '1990s': 'DATE', ',': 'O', 'launching': 'O', 'successful': 'O', '2099': 'DATE', 'line': 'O', 'comics': 'O', 'set': 'O', 'in': 'O', 'future': 'DATE', '(': 'O', 'Spider': 'O', '-': 'O', 'Man': 'O', 'etc': 'O', '.': 'O', ')': 'O'}",
         "sentence": "Marvel earned a great deal of money and recognition during the comic book boom of the early 1990s, launching the successful 2099 line of comics set in the future (Spider-Man 2099, etc.)",
+        "stems": [
+            "marvel",
+            "earn",
+            "great",
+            "deal",
+            "money",
+            "recognit",
+            "comic",
+            "book",
+            "boom",
+            "earli",
+            "1990",
+            "launch",
+            "success",
+            "2099",
+            "line",
+            "comic",
+            "set",
+            "futur",
+            "spider-man",
+            "2099",
+            "etc"
+        ],
         "synonyms": [
             "wonder",
             "earned",
@@ -35211,7 +36545,7 @@
             "2099",
             "etc"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -35574,6 +36908,22 @@
         ],
         "ner_tag": "{'and': 'O', 'the': 'O', 'creatively': 'O', 'daring': 'O', 'though': 'O', 'commercially': 'O', 'unsuccessful': 'O', 'Razorline': 'O', 'imprint': 'O', 'of': 'O', 'superhero': 'O', 'comics': 'O', 'created': 'O', 'by': 'O', 'novelist': 'TITLE', 'filmmaker': 'TITLE', 'Clive': 'PERSON', 'Barker': 'PERSON', '.': 'O'}",
         "sentence": "and the creatively daring though commercially unsuccessful Razorline imprint of superhero comics created by novelist and filmmaker Clive Barker.",
+        "stems": [
+            "creativ",
+            "dare",
+            "though",
+            "commerci",
+            "unsuccess",
+            "razorlin",
+            "imprint",
+            "superhero",
+            "comic",
+            "creat",
+            "novelist",
+            "filmmak",
+            "clive",
+            "barker"
+        ],
         "synonyms": [
             "creatively",
             "dare",
@@ -35590,7 +36940,7 @@
             "Clive",
             "barker"
         ],
-        "tagged": [
+        "tags": [
             [
                 "creatively",
                 "RB"
@@ -35871,6 +37221,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '1990': 'DATE', ',': 'O', 'Marvel': 'ORGANIZATION', 'began': 'O', 'selling': 'O', 'Universe': 'ORGANIZATION', 'Cards': 'ORGANIZATION', 'with': 'O', 'trading': 'O', 'card': 'O', 'maker': 'O', 'SkyBox': 'ORGANIZATION', 'International': 'ORGANIZATION', '.': 'O'}",
         "sentence": "In 1990, Marvel began selling Marvel Universe Cards with trading card maker SkyBox International.",
+        "stems": [
+            "1990",
+            "marvel",
+            "began",
+            "sell",
+            "marvel",
+            "univers",
+            "card",
+            "trade",
+            "card",
+            "maker",
+            "skybox",
+            "intern"
+        ],
         "synonyms": [
             "1990",
             "wonder",
@@ -35885,7 +37249,7 @@
             "skybox",
             "International"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1990",
                 "CD"
@@ -36149,6 +37513,16 @@
         "meronyms": [],
         "ner_tag": "{'These': 'O', 'were': 'O', 'collectible': 'O', 'trading': 'O', 'cards': 'O', 'that': 'O', 'featured': 'O', 'the': 'O', 'characters': 'O', 'and': 'O', 'events': 'O', 'of': 'O', 'Marvel': 'O', 'Universe': 'O', '.': 'O'}",
         "sentence": "These were collectible trading cards that featured the characters and events of the Marvel Universe.",
+        "stems": [
+            "collect",
+            "trade",
+            "card",
+            "featur",
+            "charact",
+            "event",
+            "marvel",
+            "univers"
+        ],
         "synonyms": [
             "collectible",
             "trade",
@@ -36159,7 +37533,7 @@
             "wonder",
             "universe"
         ],
-        "tagged": [
+        "tags": [
             [
                 "collectible",
                 "JJ"
@@ -37312,6 +38686,56 @@
         ],
         "ner_tag": "{'The': 'DATE', '1990s': 'DATE', 'saw': 'O', 'the': 'O', 'rise': 'O', 'of': 'O', 'variant': 'O', 'covers': 'O', ',': 'O', 'cover': 'O', 'enhancements': 'O', 'swimsuit': 'O', 'issues': 'O', 'and': 'O', 'company': 'O', '-': 'O', 'wide': 'O', 'crossovers': 'O', 'that': 'O', 'affected': 'O', 'overall': 'O', 'continuity': 'O', 'fictional': 'O', 'Marvel': 'O', 'Universe': 'O', 'In': 'O', '1996': 'DATE', 'had': 'O', 'some': 'O', 'its': 'O', 'titles': 'O', 'participate': 'O', 'in': 'O', '``': 'O', 'Heroes': 'O', 'Reborn': 'O', \"''\": 'O', 'a': 'O', 'crossover': 'O', 'allowed': 'O', 'to': 'O', 'relaunch': 'O', 'flagship': 'O', 'characters': 'O', 'such': 'O', 'as': 'O', 'Avengers': 'ORGANIZATION', 'Fantastic': 'MISC', 'Four': 'NUMBER', 'outsource': 'O', 'them': 'O', 'studios': 'O', 'two': 'NUMBER', 'former': 'O', 'artists': 'O', 'turned': 'O', 'Image': 'ORGANIZATION', 'Comics': 'ORGANIZATION', 'founders': 'O', 'Jim': 'PERSON', 'Lee': 'PERSON', 'Rob': 'PERSON', 'Liefeld': 'PERSON', '.': 'O'}",
         "sentence": "The 1990s saw the rise of variant covers, cover enhancements, swimsuit issues, and company-wide crossovers that affected the overall continuity of the fictional Marvel Universe In 1996, Marvel had some of its titles participate in \"Heroes Reborn\", a crossover that allowed Marvel to relaunch some of its flagship characters such as the Avengers and the Fantastic Four, and outsource them to the studios of two of the former Marvel artists turned Image Comics founders, Jim Lee and Rob Liefeld.",
+        "stems": [
+            "1990",
+            "saw",
+            "rise",
+            "variant",
+            "cover",
+            "cover",
+            "enhanc",
+            "swimsuit",
+            "issu",
+            "company-wid",
+            "crossov",
+            "affect",
+            "overal",
+            "continu",
+            "fiction",
+            "marvel",
+            "univers",
+            "1996",
+            "marvel",
+            "titl",
+            "particip",
+            "``",
+            "hero",
+            "reborn",
+            "''",
+            "crossov",
+            "allow",
+            "marvel",
+            "relaunch",
+            "flagship",
+            "charact",
+            "aveng",
+            "fantast",
+            "four",
+            "outsourc",
+            "studio",
+            "two",
+            "former",
+            "marvel",
+            "artist",
+            "turn",
+            "imag",
+            "comic",
+            "founder",
+            "jim",
+            "lee",
+            "rob",
+            "liefeld"
+        ],
         "synonyms": [
             "nineties",
             "visit",
@@ -37362,7 +38786,7 @@
             "rob",
             "liefeld"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1990s",
                 "CD"
@@ -38269,6 +39693,36 @@
         ],
         "ner_tag": "{'The': 'O', 'relaunched': 'O', 'titles': 'O', ',': 'O', 'which': 'O', 'saw': 'O', 'the': 'O', 'characters': 'O', 'transported': 'O', 'to': 'O', 'a': 'O', 'parallel': 'O', 'universe': 'O', 'with': 'O', 'history': 'O', 'distinct': 'O', 'from': 'O', 'mainstream': 'MISC', 'Marvel': 'O', 'Universe': 'O', 'were': 'O', 'solid': 'O', 'success': 'O', 'amidst': 'O', 'generally': 'O', 'struggling': 'O', 'industry': 'O', 'but': 'O', 'discontinued': 'O', 'experiment': 'O', 'after': 'O', 'one': 'DURATION', '-': 'DURATION', 'year': 'DURATION', 'run': 'O', 'and': 'O', 'returned': 'O', 'proper': 'O', '.': 'O'}",
         "sentence": "The relaunched titles, which saw the characters transported to a parallel universe with a history distinct from the mainstream Marvel Universe, were a solid success amidst a generally struggling industry, but Marvel discontinued the experiment after a one-year run and returned the characters to the Marvel Universe proper.",
+        "stems": [
+            "relaunch",
+            "titl",
+            "saw",
+            "charact",
+            "transport",
+            "parallel",
+            "univers",
+            "histori",
+            "distinct",
+            "mainstream",
+            "marvel",
+            "univers",
+            "solid",
+            "success",
+            "amidst",
+            "gener",
+            "struggl",
+            "industri",
+            "marvel",
+            "discontinu",
+            "experi",
+            "one-year",
+            "run",
+            "return",
+            "charact",
+            "marvel",
+            "univers",
+            "proper"
+        ],
         "synonyms": [
             "relaunched",
             "title",
@@ -38299,7 +39753,7 @@
             "universe",
             "proper"
         ],
-        "tagged": [
+        "tags": [
             [
                 "relaunched",
                 "VBN"
@@ -39052,6 +40506,34 @@
         ],
         "ner_tag": "{'In': 'O', '1998': 'DATE', ',': 'O', 'the': 'O', 'company': 'O', 'launched': 'O', 'imprint': 'O', 'Marvel': 'O', 'Knights': 'ORGANIZATION', 'taking': 'O', 'place': 'O', 'within': 'O', 'continuity': 'O', ';': 'O', 'helmed': 'O', 'by': 'O', 'soon': 'O', '-': 'TITLE', 'to': 'O', 'become': 'O', 'editor': 'TITLE', 'in': 'TITLE', 'chief': 'TITLE', 'Joe': 'PERSON', 'Quesada': 'PERSON', 'it': 'O', 'featured': 'O', 'tough': 'O', 'gritty': 'O', 'stories': 'O', 'showcasing': 'O', 'such': 'O', 'characters': 'O', 'as': 'O', 'Inhumans': 'MISC', 'Black': 'PERSON', 'Panther': 'PERSON', 'and': 'O', 'Daredevil': 'O', '.': 'O'}",
         "sentence": "In 1998, the company launched the imprint Marvel Knights, taking place within Marvel continuity; helmed by soon-to-become editor-in-chief Joe Quesada, it featured tough, gritty stories showcasing such characters as the Inhumans, Black Panther and Daredevil.",
+        "stems": [
+            "1998",
+            "compani",
+            "launch",
+            "imprint",
+            "marvel",
+            "knight",
+            "take",
+            "place",
+            "within",
+            "marvel",
+            "continu",
+            "helm",
+            "soon-to-becom",
+            "editor-in-chief",
+            "joe",
+            "quesada",
+            "featur",
+            "tough",
+            "gritti",
+            "stori",
+            "showcas",
+            "charact",
+            "inhuman",
+            "black",
+            "panther",
+            "daredevil"
+        ],
         "synonyms": [
             "1998",
             "ship's_company",
@@ -39080,7 +40562,7 @@
             "panther",
             "daredevil"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1998",
                 "CD"
@@ -39486,6 +40968,21 @@
         ],
         "ner_tag": "{'In': 'O', 'late': 'DATE', '1994': 'DATE', ',': 'O', 'Marvel': 'O', 'acquired': 'O', 'the': 'O', 'comic': 'O', 'book': 'O', 'distributor': 'O', 'Heroes': 'O', 'World': 'O', 'Distribution': 'O', 'to': 'O', 'use': 'O', 'as': 'O', 'its': 'O', 'own': 'O', 'exclusive': 'O', '.': 'O'}",
         "sentence": "In late 1994, Marvel acquired the comic book distributor Heroes World Distribution to use as its own exclusive distributor.",
+        "stems": [
+            "late",
+            "1994",
+            "marvel",
+            "acquir",
+            "comic",
+            "book",
+            "distributor",
+            "hero",
+            "world",
+            "distribut",
+            "use",
+            "exclus",
+            "distributor"
+        ],
         "synonyms": [
             "late",
             "1994",
@@ -39501,7 +40998,7 @@
             "exclusive",
             "distributor"
         ],
-        "tagged": [
+        "tags": [
             [
                 "late",
                 "JJ"
@@ -40039,6 +41536,30 @@
         ],
         "ner_tag": "{'As': 'O', 'the': 'O', 'industry': 'O', \"'s\": 'O', 'other': 'O', 'major': 'O', 'publishers': 'O', 'made': 'O', 'exclusive': 'O', 'distribution': 'O', 'deals': 'O', 'with': 'O', 'companies': 'O', ',': 'O', 'ripple': 'O', 'effect': 'O', 'resulted': 'O', 'in': 'O', 'survival': 'O', 'of': 'O', 'only': 'O', 'one': 'NUMBER', 'distributor': 'O', 'North': 'LOCATION', 'America': 'COUNTRY', 'Diamond': 'ORGANIZATION', 'Comic': 'ORGANIZATION', 'Distributors': 'ORGANIZATION', 'Inc': 'ORGANIZATION', '.': 'O'}",
         "sentence": "As the industry's other major publishers made exclusive distribution deals with other companies, the ripple effect resulted in the survival of only one other major distributor in North America, Diamond Comic Distributors Inc.",
+        "stems": [
+            "industri",
+            "'s",
+            "major",
+            "publish",
+            "made",
+            "exclus",
+            "distribut",
+            "deal",
+            "compani",
+            "rippl",
+            "effect",
+            "result",
+            "surviv",
+            "one",
+            "major",
+            "distributor",
+            "north",
+            "america",
+            "diamond",
+            "comic",
+            "distributor",
+            "inc"
+        ],
         "synonyms": [
             "industry",
             "'s",
@@ -40063,7 +41584,7 @@
             "distributor",
             "Iraqi_National_Congress"
         ],
-        "tagged": [
+        "tags": [
             [
                 "industry",
                 "NN"
@@ -40588,6 +42109,27 @@
         ],
         "ner_tag": "{'In': 'O', 'early': 'DATE', '1997': 'DATE', ',': 'O', 'when': 'O', 'Marvel': 'O', \"'s\": 'O', 'Heroes': 'MISC', 'World': 'MISC', 'endeavor': 'MISC', 'failed': 'O', 'Diamond': 'O', 'also': 'O', 'forged': 'O', 'an': 'O', 'exclusive': 'O', 'deal': 'O', 'with': 'O', '—': 'O', 'giving': 'O', 'the': 'O', 'company': 'O', 'its': 'O', 'own': 'O', 'section': 'O', 'of': 'O', 'comics': 'O', 'catalog': 'O', 'Previews': 'O', '.': 'O'}",
         "sentence": "In early 1997, when Marvel's Heroes World endeavor failed, Diamond also forged an exclusive deal with Marvel—giving the company its own section of its comics catalog Previews.",
+        "stems": [
+            "earli",
+            "1997",
+            "marvel",
+            "'s",
+            "hero",
+            "world",
+            "endeavor",
+            "fail",
+            "diamond",
+            "also",
+            "forg",
+            "exclus",
+            "deal",
+            "marvel—giv",
+            "compani",
+            "section",
+            "comic",
+            "catalog",
+            "preview"
+        ],
         "synonyms": [
             "early",
             "1997",
@@ -40609,7 +42151,7 @@
             "catalogue",
             "preview"
         ],
-        "tagged": [
+        "tags": [
             [
                 "early",
                 "JJ"
@@ -40924,6 +42466,17 @@
         ],
         "ner_tag": "{'With': 'O', 'the': 'DATE', 'new': 'DATE', 'millennium': 'DATE', ',': 'O', 'Marvel': 'ORGANIZATION', 'Comics': 'ORGANIZATION', 'emerged': 'O', 'from': 'O', 'bankruptcy': 'O', 'and': 'O', 'again': 'O', 'began': 'O', 'diversifying': 'O', 'its': 'O', 'offerings': 'O', '.': 'O'}",
         "sentence": "With the new millennium, Marvel Comics emerged from bankruptcy and again began diversifying its offerings.",
+        "stems": [
+            "new",
+            "millennium",
+            "marvel",
+            "comic",
+            "emerg",
+            "bankruptci",
+            "began",
+            "diversifi",
+            "offer"
+        ],
         "synonyms": [
             "newfangled",
             "millennium",
@@ -40935,7 +42488,7 @@
             "diversify",
             "offering"
         ],
-        "tagged": [
+        "tags": [
             [
                 "new",
                 "JJ"
@@ -41237,6 +42790,19 @@
         ],
         "ner_tag": "{'In': 'O', '2001': 'DATE', ',': 'O', 'Marvel': 'O', 'withdrew': 'O', 'from': 'O', 'the': 'O', 'Comics': 'ORGANIZATION', 'Code': 'ORGANIZATION', 'Authority': 'ORGANIZATION', 'and': 'O', 'established': 'O', 'its': 'O', 'own': 'O', 'Rating': 'O', 'System': 'O', 'for': 'O', 'comics': 'O', '.': 'O'}",
         "sentence": "In 2001, Marvel withdrew from the Comics Code Authority and established its own Marvel Rating System for comics.",
+        "stems": [
+            "2001",
+            "marvel",
+            "withdrew",
+            "comic",
+            "code",
+            "author",
+            "establish",
+            "marvel",
+            "rate",
+            "system",
+            "comic"
+        ],
         "synonyms": [
             "2001",
             "wonder",
@@ -41250,7 +42816,7 @@
             "system",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2001",
                 "CD"
@@ -41555,6 +43121,16 @@
         ],
         "ner_tag": "{'The': 'O', 'first': 'ORDINAL', 'title': 'O', 'from': 'O', 'this': 'O', 'era': 'O', 'to': 'O', 'not': 'O', 'have': 'O', 'the': 'O', 'code': 'O', 'was': 'O', 'X-Force': 'O', '#': 'MONEY', '119': 'MONEY', '(': 'O', 'October': 'DATE', '2001': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "The first title from this era to not have the code was X-Force #119 (October 2001).",
+        "stems": [
+            "first",
+            "titl",
+            "era",
+            "code",
+            "x-forc",
+            "119",
+            "octob",
+            "2001"
+        ],
         "synonyms": [
             "first_gear",
             "title",
@@ -41565,7 +43141,7 @@
             "October",
             "2001"
         ],
-        "tagged": [
+        "tags": [
             [
                 "first",
                 "RB"
@@ -41931,6 +43507,21 @@
         "meronyms": [],
         "ner_tag": "{'Marvel': 'O', 'also': 'O', 'created': 'O', 'new': 'O', 'imprints': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'MAX': 'O', '(': 'O', 'an': 'O', 'explicit': 'O', '-': 'O', 'content': 'O', 'line': 'O', ')': 'O', 'and': 'O', 'Adventures': 'O', 'developed': 'O', 'for': 'O', 'child': 'O', 'audiences': 'O', '.': 'O'}",
         "sentence": "Marvel also created new imprints, such as MAX (an explicit-content line) and Marvel Adventures (developed for child audiences).",
+        "stems": [
+            "marvel",
+            "also",
+            "creat",
+            "new",
+            "imprint",
+            "max",
+            "explicit-cont",
+            "line",
+            "marvel",
+            "adventur",
+            "develop",
+            "child",
+            "audienc"
+        ],
         "synonyms": [
             "wonder",
             "besides",
@@ -41946,7 +43537,7 @@
             "child",
             "consultation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -42458,6 +44049,27 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'addition': 'O', ',': 'O', 'the': 'O', 'company': 'O', 'created': 'O', 'an': 'O', 'alternate': 'O', 'universe': 'O', 'imprint': 'O', 'Ultimate': 'O', 'Marvel': 'O', 'that': 'O', 'allowed': 'O', 'to': 'O', 'reboot': 'O', 'its': 'O', 'major': 'O', 'titles': 'O', 'by': 'O', 'revising': 'O', 'and': 'O', 'updating': 'O', 'characters': 'O', 'introduce': 'O', 'a': 'O', 'new': 'O', 'generation': 'O', '.': 'O'}",
         "sentence": "In addition, the company created an alternate universe imprint, Ultimate Marvel, that allowed the company to reboot its major titles by revising and updating its characters to introduce to a new generation.",
+        "stems": [
+            "addit",
+            "compani",
+            "creat",
+            "altern",
+            "univers",
+            "imprint",
+            "ultim",
+            "marvel",
+            "allow",
+            "compani",
+            "reboot",
+            "major",
+            "titl",
+            "revis",
+            "updat",
+            "charact",
+            "introduc",
+            "new",
+            "gener"
+        ],
         "synonyms": [
             "addition",
             "ship's_company",
@@ -42479,7 +44091,7 @@
             "newfangled",
             "genesis"
         ],
-        "tagged": [
+        "tags": [
             [
                 "addition",
                 "NN"
@@ -43216,6 +44828,36 @@
         ],
         "ner_tag": "{'On': 'O', 'August': 'DATE', '31': 'DATE', ',': 'O', '2009': 'DATE', 'The': 'ORGANIZATION', 'Walt': 'ORGANIZATION', 'Disney': 'ORGANIZATION', 'Company': 'ORGANIZATION', 'announced': 'O', 'a': 'O', 'deal': 'O', 'to': 'O', 'acquire': 'O', 'Marvel': 'O', 'Comics': 'ORGANIZATION', \"'\": 'O', 'parent': 'O', 'corporation': 'O', 'Entertainment': 'ORGANIZATION', 'for': 'O', '$': 'MONEY', '4': 'MONEY', 'billion': 'MONEY', 'or': 'O', '4.2': 'MONEY', 'with': 'O', 'shareholders': 'O', 'receive': 'O', '30': 'MONEY', 'and': 'O', '0.745': 'NUMBER', 'shares': 'O', 'each': 'O', 'share': 'O', 'of': 'O', 'they': 'O', 'own': 'O', '.': 'O'}",
         "sentence": "On August 31, 2009, The Walt Disney Company announced a deal to acquire Marvel Comics' parent corporation, Marvel Entertainment, for $4 billion or $4.2 billion, with Marvel shareholders to receive $30 and 0.745 Disney shares for each share of Marvel they own.",
+        "stems": [
+            "august",
+            "31",
+            "2009",
+            "walt",
+            "disney",
+            "compani",
+            "announc",
+            "deal",
+            "acquir",
+            "marvel",
+            "comic",
+            "parent",
+            "corpor",
+            "marvel",
+            "entertain",
+            "4",
+            "billion",
+            "4.2",
+            "billion",
+            "marvel",
+            "sharehold",
+            "receiv",
+            "30",
+            "0.745",
+            "disney",
+            "share",
+            "share",
+            "marvel"
+        ],
         "synonyms": [
             "august",
             "thirty-one",
@@ -43246,7 +44888,7 @@
             "share",
             "wonder"
         ],
-        "tagged": [
+        "tags": [
             [
                 "august",
                 "RB"
@@ -43701,6 +45343,20 @@
         ],
         "ner_tag": "{'As': 'O', 'of': 'O', '2008': 'DATE', ',': 'O', 'Marvel': 'O', 'and': 'O', 'its': 'O', 'major': 'O', 'longtime': 'O', 'competitor': 'O', 'DC': 'ORGANIZATION', 'Comics': 'ORGANIZATION', 'shared': 'O', 'over': 'O', '80': 'PERCENT', '%': 'PERCENT', 'the': 'O', 'American': 'NATIONALITY', 'comic': 'O', '-': 'O', 'book': 'O', 'market': 'O', '.': 'O'}",
         "sentence": "As of 2008, Marvel and its major, longtime competitor DC Comics shared over 80% of the American comic-book market.",
+        "stems": [
+            "2008",
+            "marvel",
+            "major",
+            "longtim",
+            "competitor",
+            "dc",
+            "comic",
+            "share",
+            "80",
+            "american",
+            "comic-book",
+            "market"
+        ],
         "synonyms": [
             "2008",
             "wonder",
@@ -43715,7 +45371,7 @@
             "comic-book",
             "marketplace"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2008",
                 "CD"
@@ -44039,6 +45695,21 @@
         ],
         "ner_tag": "{'As': 'O', 'of': 'O', 'September': 'DATE', '2010': 'DATE', ',': 'O', 'Marvel': 'O', 'switched': 'O', 'its': 'O', 'bookstores': 'O', 'distribution': 'O', 'company': 'O', 'from': 'O', 'Diamond': 'ORGANIZATION', 'Book': 'ORGANIZATION', 'Distributors': 'ORGANIZATION', 'to': 'O', 'Hachette': 'ORGANIZATION', 'Distribution': 'ORGANIZATION', 'Services': 'ORGANIZATION', '.': 'O'}",
         "sentence": "As of September 2010, Marvel switched its bookstores distribution company from Diamond Book Distributors to Hachette Distribution Services.",
+        "stems": [
+            "septemb",
+            "2010",
+            "marvel",
+            "switch",
+            "bookstor",
+            "distribut",
+            "compani",
+            "diamond",
+            "book",
+            "distributor",
+            "hachett",
+            "distribut",
+            "servic"
+        ],
         "synonyms": [
             "September",
             "2010",
@@ -44054,7 +45725,7 @@
             "distribution",
             "service"
         ],
-        "tagged": [
+        "tags": [
             [
                 "september",
                 "NN"
@@ -44469,6 +46140,24 @@
         ],
         "ner_tag": "{'Marvel': 'O', 'discontinued': 'O', 'its': 'O', 'Adventures': 'O', 'imprint': 'O', 'in': 'O', 'March': 'DATE', '2012': 'DATE', ',': 'O', 'and': 'O', 'replaced': 'O', 'them': 'O', 'with': 'O', 'a': 'O', 'line': 'O', 'of': 'O', 'two': 'NUMBER', 'titles': 'O', 'connected': 'O', 'to': 'O', 'the': 'O', 'Universe': 'O', 'TV': 'O', 'block': 'O', '.': 'O'}",
         "sentence": "Marvel discontinued its Marvel Adventures imprint in March 2012, and replaced them with a line of two titles connected to the Marvel Universe TV block.",
+        "stems": [
+            "marvel",
+            "discontinu",
+            "marvel",
+            "adventur",
+            "imprint",
+            "march",
+            "2012",
+            "replac",
+            "line",
+            "two",
+            "titl",
+            "connect",
+            "marvel",
+            "univers",
+            "tv",
+            "block"
+        ],
         "synonyms": [
             "wonder",
             "discontinue",
@@ -44487,7 +46176,7 @@
             "television_receiver",
             "pulley"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -45248,6 +46937,39 @@
         ],
         "ner_tag": "{'Also': 'O', 'in': 'O', 'March': 'DATE', ',': 'O', 'Marvel': 'O', 'announced': 'O', 'its': 'O', 'ReEvolution': 'O', 'initiative': 'O', 'that': 'O', 'included': 'O', 'Infinite': 'ORGANIZATION', 'Comics': 'ORGANIZATION', 'a': 'O', 'line': 'O', 'of': 'O', 'digital': 'O', 'comics': 'O', 'AR': 'STATE_OR_PROVINCE', 'an': 'O', 'application': 'O', 'software': 'O', 'provides': 'O', 'augmented': 'O', 'reality': 'O', 'experience': 'O', 'to': 'O', 'readers': 'O', 'and': 'O', 'NOW': 'DATE', '!': 'O', 'relaunch': 'O', 'most': 'O', 'the': 'O', 'company': 'O', \"'s\": 'O', 'major': 'O', 'titles': 'O', 'with': 'O', 'different': 'O', 'creative': 'O', 'teams': 'O', '.': 'O'}",
         "sentence": "Also in March, Marvel announced its Marvel ReEvolution initiative that included Infinite Comics, a line of digital comics, Marvel AR, an application software that provides an augmented reality experience to readers and Marvel NOW!, a relaunch of most of the company's major titles with different creative teams.",
+        "stems": [
+            "also",
+            "march",
+            "marvel",
+            "announc",
+            "marvel",
+            "reevolut",
+            "initi",
+            "includ",
+            "infinit",
+            "comic",
+            "line",
+            "digit",
+            "comic",
+            "marvel",
+            "ar",
+            "applic",
+            "softwar",
+            "provid",
+            "augment",
+            "realiti",
+            "experi",
+            "reader",
+            "marvel",
+            "relaunch",
+            "compani",
+            "'s",
+            "major",
+            "titl",
+            "differ",
+            "creativ",
+            "team"
+        ],
         "synonyms": [
             "besides",
             "Master_of_Architecture",
@@ -45281,7 +47003,7 @@
             "creative",
             "team"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -45481,10 +47203,13 @@
         "meronyms": [],
         "ner_tag": "{'Marvel': 'O', 'NOW': 'DATE', '!': 'O'}",
         "sentence": "Marvel NOW!",
+        "stems": [
+            "marvel"
+        ],
         "synonyms": [
             "wonder"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -45705,6 +47430,19 @@
         "meronyms": [],
         "ner_tag": "{'also': 'O', 'saw': 'O', 'the': 'O', 'debut': 'O', 'of': 'O', 'new': 'O', 'flagship': 'O', 'titles': 'O', 'including': 'O', 'Uncanny': 'O', 'Avengers': 'O', 'and': 'O', 'All': 'O', '-': 'O', 'New': 'O', 'X-Men': 'O', '.': 'O'}",
         "sentence": "also saw the debut of new flagship titles including Uncanny Avengers and All-New X-Men.",
+        "stems": [
+            "also",
+            "saw",
+            "debut",
+            "new",
+            "flagship",
+            "titl",
+            "includ",
+            "uncanni",
+            "aveng",
+            "all-new",
+            "x-men"
+        ],
         "synonyms": [
             "besides",
             "visit",
@@ -45718,7 +47456,7 @@
             "all-new",
             "x-men"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -45972,6 +47710,18 @@
         ],
         "ner_tag": "{'In': 'O', 'April': 'DATE', '2013': 'DATE', ',': 'O', 'Marvel': 'O', 'and': 'O', 'other': 'O', 'Disney': 'ORGANIZATION', 'conglomerate': 'O', 'components': 'O', 'began': 'O', 'announcing': 'O', 'joint': 'O', 'projects': 'O', '.': 'O'}",
         "sentence": "In April 2013, Marvel and other Disney conglomerate components began announcing joint projects.",
+        "stems": [
+            "april",
+            "2013",
+            "marvel",
+            "disney",
+            "conglomer",
+            "compon",
+            "began",
+            "announc",
+            "joint",
+            "project"
+        ],
         "synonyms": [
             "April",
             "2013",
@@ -45984,7 +47734,7 @@
             "roast",
             "project"
         ],
-        "tagged": [
+        "tags": [
             [
                 "april",
                 "NN"
@@ -46252,6 +48002,16 @@
         ],
         "ner_tag": "{'With': 'O', 'ABC': 'ORGANIZATION', ',': 'O', 'a': 'MISC', 'Once': 'DATE', 'Upon': 'MISC', 'Time': 'MISC', 'graphic': 'O', 'novel': 'O', 'was': 'O', 'announced': 'O', 'for': 'O', 'publication': 'O', 'in': 'O', 'September': 'DATE', '.': 'O'}",
         "sentence": "With ABC, a Once Upon a Time graphic novel was announced for publication in September.",
+        "stems": [
+            "abc",
+            "upon",
+            "time",
+            "graphic",
+            "novel",
+            "announc",
+            "public",
+            "septemb"
+        ],
         "synonyms": [
             "rudiment",
             "upon",
@@ -46262,7 +48022,7 @@
             "publication",
             "September"
         ],
-        "tagged": [
+        "tags": [
             [
                 "abc",
                 "RB"
@@ -46786,6 +48546,31 @@
         ],
         "ner_tag": "{'With': 'O', 'Disney': 'ORGANIZATION', ',': 'O', 'Marvel': 'O', 'announced': 'O', 'in': 'O', 'October': 'DATE', '2013': 'DATE', 'that': 'O', 'January': 'DATE', '2014': 'DATE', 'it': 'O', 'would': 'O', 'release': 'O', 'its': 'O', 'first': 'ORDINAL', 'title': 'O', 'under': 'O', 'their': 'O', 'joint': 'O', '``': 'O', 'Kingdoms': 'ORGANIZATION', \"''\": 'O', 'imprint': 'O', 'Seekers': 'O', 'of': 'O', 'the': 'O', 'Weird': 'O', 'a': 'O', 'five': 'NUMBER', '-': 'NUMBER', 'issue': 'NUMBER', 'miniseries': 'O', '.': 'O'}",
         "sentence": "With Disney, Marvel announced in October 2013 that in January 2014 it would release its first title under their joint \"Disney Kingdoms\" imprint \"Seekers of the Weird\", a five-issue miniseries.",
+        "stems": [
+            "disney",
+            "marvel",
+            "announc",
+            "octob",
+            "2013",
+            "januari",
+            "2014",
+            "would",
+            "releas",
+            "first",
+            "titl",
+            "joint",
+            "``",
+            "disney",
+            "kingdom",
+            "''",
+            "imprint",
+            "``",
+            "seeker",
+            "weird",
+            "''",
+            "five-issu",
+            "miniseri"
+        ],
         "synonyms": [
             "Disney",
             "wonder",
@@ -46811,7 +48596,7 @@
             "five-issue",
             "miniseries"
         ],
-        "tagged": [
+        "tags": [
             [
                 "disney",
                 "NN"
@@ -47299,6 +49084,25 @@
         ],
         "ner_tag": "{'On': 'O', 'January': 'DATE', '3': 'DATE', ',': 'O', '2014': 'DATE', 'fellow': 'O', 'Disney': 'ORGANIZATION', 'subsidiary': 'O', 'Lucasfilm': 'ORGANIZATION', 'Limited': 'ORGANIZATION', 'LLC': 'ORGANIZATION', 'announced': 'O', 'that': 'O', 'as': 'O', 'of': 'O', '2015': 'DATE', 'Star': 'O', 'Wars': 'O', 'comics': 'O', 'would': 'O', 'once': 'DATE', 'again': 'O', 'be': 'O', 'published': 'O', 'by': 'O', 'Marvel': 'O', '.': 'O'}",
         "sentence": "On January 3, 2014, fellow Disney subsidiary Lucasfilm Limited, LLC announced that as of 2015, Star Wars comics would once again be published by Marvel.",
+        "stems": [
+            "januari",
+            "3",
+            "2014",
+            "fellow",
+            "disney",
+            "subsidiari",
+            "lucasfilm",
+            "limit",
+            "llc",
+            "announc",
+            "2015",
+            "star",
+            "war",
+            "comic",
+            "would",
+            "publish",
+            "marvel"
+        ],
         "synonyms": [
             "January",
             "three",
@@ -47318,7 +49122,7 @@
             "published",
             "wonder"
         ],
-        "tagged": [
+        "tags": [
             [
                 "january",
                 "JJ"
@@ -47898,6 +49702,32 @@
         ],
         "ner_tag": "{'Marvel': 'O', 'first': 'ORDINAL', 'licensed': 'O', 'two': 'NUMBER', 'prose': 'O', 'novels': 'O', 'to': 'O', 'Bantam': 'ORGANIZATION', 'Books': 'ORGANIZATION', ',': 'O', 'who': 'O', 'printed': 'O', 'The': 'O', 'Avengers': 'O', 'Battle': 'O', 'the': 'O', 'Earth': 'O', 'Wrecker': 'O', 'by': 'O', 'Otto': 'PERSON', 'Binder': 'PERSON', '(': 'O', '1967': 'DATE', ')': 'O', 'and': 'O', 'Captain': 'TITLE', 'America': 'COUNTRY', ':': 'O', 'Great': 'O', 'Gold': 'O', 'Steal': 'O', 'Ted': 'PERSON', 'White': 'PERSON', '1968': 'DATE', '.': 'O'}",
         "sentence": "Marvel first licensed two prose novels to Bantam Books, who printed The Avengers Battle the Earth Wrecker by Otto Binder (1967) and Captain America: The Great Gold Steal by Ted White (1968).",
+        "stems": [
+            "marvel",
+            "first",
+            "licens",
+            "two",
+            "prose",
+            "novel",
+            "bantam",
+            "book",
+            "print",
+            "aveng",
+            "battl",
+            "earth",
+            "wrecker",
+            "otto",
+            "binder",
+            "1967",
+            "captain",
+            "america",
+            "great",
+            "gold",
+            "steal",
+            "ted",
+            "white",
+            "1968"
+        ],
         "synonyms": [
             "wonder",
             "first_gear",
@@ -47924,7 +49754,7 @@
             "White",
             "1968"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marvel",
                 "NN"
@@ -48186,6 +50016,14 @@
         "meronyms": [],
         "ner_tag": "{'Various': 'O', 'publishers': 'O', 'took': 'O', 'up': 'O', 'the': 'O', 'licenses': 'O', 'from': 'O', '1978': 'DATE', 'to': 'DATE', '2002': 'DATE', '.': 'O'}",
         "sentence": "Various publishers took up the licenses from 1978 to 2002.",
+        "stems": [
+            "variou",
+            "publish",
+            "took",
+            "licens",
+            "1978",
+            "2002"
+        ],
         "synonyms": [
             "versatile",
             "publisher",
@@ -48194,7 +50032,7 @@
             "1978",
             "2002"
         ],
-        "tagged": [
+        "tags": [
             [
                 "various",
                 "JJ"
@@ -48484,6 +50322,20 @@
         ],
         "ner_tag": "{'Also': 'O', ',': 'O', 'with': 'O', 'the': 'O', 'various': 'O', 'licensed': 'O', 'films': 'O', 'being': 'O', 'released': 'O', 'beginning': 'DATE', 'in': 'DATE', '1997': 'DATE', 'publishers': 'O', 'put': 'O', 'out': 'O', 'movie': 'O', 'novelizations': 'O', '.': 'O'}",
         "sentence": "Also, with the various licensed films being released beginning in 1997, various publishers put out movie novelizations.",
+        "stems": [
+            "also",
+            "variou",
+            "licens",
+            "film",
+            "releas",
+            "begin",
+            "1997",
+            "variou",
+            "publish",
+            "put",
+            "movi",
+            "novel"
+        ],
         "synonyms": [
             "besides",
             "versatile",
@@ -48498,7 +50350,7 @@
             "movie",
             "novelization"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -49007,6 +50859,30 @@
         ],
         "ner_tag": "{'In': 'O', '2003': 'DATE', ',': 'O', 'following': 'O', 'publication': 'O', 'of': 'O', 'the': 'O', 'prose': 'O', 'young': 'O', 'adult': 'O', 'novel': 'O', 'Mary': 'PERSON', 'Jane': 'PERSON', 'starring': 'O', 'Watson': 'PERSON', 'from': 'O', 'Spider': 'MISC', '-': 'MISC', 'Man': 'MISC', 'mythos': 'MISC', 'Marvel': 'ORGANIZATION', 'announced': 'O', 'formation': 'O', 'publishing': 'O', 'imprint': 'O', 'Press': 'ORGANIZATION', '.': 'O'}",
         "sentence": "In 2003, following publication of the prose young adult novel Mary Jane, starring Mary Jane Watson from the Spider-Man mythos, Marvel announced the formation of the publishing imprint Marvel Press.",
+        "stems": [
+            "2003",
+            "follow",
+            "public",
+            "prose",
+            "young",
+            "adult",
+            "novel",
+            "mari",
+            "jane",
+            "star",
+            "mari",
+            "jane",
+            "watson",
+            "spider-man",
+            "mytho",
+            "marvel",
+            "announc",
+            "format",
+            "publish",
+            "imprint",
+            "marvel",
+            "press"
+        ],
         "synonyms": [
             "2003",
             "take_after",
@@ -49031,7 +50907,7 @@
             "wonder",
             "weigh"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2003",
                 "CD"
@@ -49337,6 +51213,17 @@
         "meronyms": [],
         "ner_tag": "{'However': 'O', ',': 'O', 'Marvel': 'O', 'moved': 'O', 'back': 'O', 'to': 'DATE', 'licensing': 'O', 'with': 'O', 'Pocket': 'O', 'Books': 'O', 'from': 'O', '2005': 'DATE', '2008': 'DATE', '.': 'O'}",
         "sentence": "However, Marvel moved back to licensing with Pocket Books from 2005 to 2008.",
+        "stems": [
+            "howev",
+            "marvel",
+            "move",
+            "back",
+            "licens",
+            "pocket",
+            "book",
+            "2005",
+            "2008"
+        ],
         "synonyms": [
             "however",
             "wonder",
@@ -49348,7 +51235,7 @@
             "2005",
             "2008"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -49714,6 +51601,23 @@
         "meronyms": [],
         "ner_tag": "{'With': 'O', 'few': 'O', 'books': 'O', 'issued': 'O', 'under': 'O', 'the': 'O', 'imprint': 'O', ',': 'O', 'Marvel': 'ORGANIZATION', 'and': 'O', 'Disney': 'ORGANIZATION', 'Books': 'ORGANIZATION', 'Group': 'ORGANIZATION', 'relaunched': 'O', 'Press': 'ORGANIZATION', 'in': 'O', '2011': 'DATE', 'with': 'O', 'Origin': 'ORGANIZATION', 'Storybooks': 'ORGANIZATION', 'line': 'O', '.': 'O'}",
         "sentence": "With few books issued under the imprint, Marvel and Disney Books Group relaunched Marvel Press in 2011 with the Marvel Origin Storybooks line.",
+        "stems": [
+            "book",
+            "issu",
+            "imprint",
+            "marvel",
+            "disney",
+            "book",
+            "group",
+            "relaunch",
+            "marvel",
+            "press",
+            "2011",
+            "marvel",
+            "origin",
+            "storybook",
+            "line"
+        ],
         "synonyms": [
             "script",
             "issue",
@@ -49731,7 +51635,7 @@
             "storybook",
             "wrinkle"
         ],
-        "tagged": [
+        "tags": [
             [
                 "books",
                 "NNS"
@@ -50215,6 +52119,30 @@
         "meronyms": [],
         "ner_tag": "{'Walt': 'ORGANIZATION', 'Disney': 'O', 'Parks': 'ORGANIZATION', 'and': 'ORGANIZATION', 'Resorts': 'ORGANIZATION', 'plans': 'O', 'on': 'O', 'creating': 'O', 'original': 'O', 'Marvel': 'O', 'attractions': 'O', 'at': 'O', 'their': 'O', 'theme': 'O', 'parks': 'O', ',': 'O', 'with': 'O', 'Hong': 'CITY', 'Kong': 'CITY', 'Disneyland': 'LOCATION', 'becoming': 'O', 'the': 'O', 'first': 'ORDINAL', 'park': 'O', 'to': 'O', 'feature': 'O', 'a': 'O', 'attraction': 'O', '.': 'O'}",
         "sentence": "Walt Disney Parks and Resorts plans on creating original Marvel attractions at their theme parks, with Hong Kong Disneyland becoming the first Disney theme park to feature a Marvel attraction.",
+        "stems": [
+            "walt",
+            "disney",
+            "park",
+            "resort",
+            "plan",
+            "creat",
+            "origin",
+            "marvel",
+            "attract",
+            "theme",
+            "park",
+            "hong",
+            "kong",
+            "disneyland",
+            "becom",
+            "first",
+            "disney",
+            "theme",
+            "park",
+            "featur",
+            "marvel",
+            "attract"
+        ],
         "synonyms": [
             "walt",
             "Disney",
@@ -50239,7 +52167,7 @@
             "wonder",
             "attraction"
         ],
-        "tagged": [
+        "tags": [
             [
                 "walt",
                 "NN"
@@ -50769,6 +52697,28 @@
         "meronyms": [],
         "ner_tag": "{'Due': 'O', 'to': 'O', 'the': 'O', 'licensing': 'O', 'agreement': 'O', 'with': 'O', 'Universal': 'ORGANIZATION', 'Studios': 'ORGANIZATION', ',': 'O', 'signed': 'O', 'prior': 'O', 'Disney': 'LOCATION', \"'s\": 'O', 'purchase': 'O', 'of': 'O', 'Marvel': 'O', 'Walt': 'LOCATION', 'World': 'LOCATION', 'and': 'O', 'Tokyo': 'CITY', 'are': 'O', 'barred': 'O', 'from': 'O', 'having': 'O', 'characters': 'O', 'in': 'O', 'their': 'O', 'parks': 'O', '.': 'O'}",
         "sentence": "Due to the licensing agreement with Universal Studios, signed prior to Disney's purchase of Marvel, Walt Disney World and Tokyo Disney are barred from having Marvel characters in their parks.",
+        "stems": [
+            "due",
+            "licens",
+            "agreement",
+            "univers",
+            "studio",
+            "sign",
+            "prior",
+            "disney",
+            "'s",
+            "purchas",
+            "marvel",
+            "walt",
+            "disney",
+            "world",
+            "tokyo",
+            "disney",
+            "bar",
+            "marvel",
+            "charact",
+            "park"
+        ],
         "synonyms": [
             "due",
             "license",
@@ -50791,7 +52741,7 @@
             "quality",
             "Parks"
         ],
-        "tagged": [
+        "tags": [
             [
                 "due",
                 "JJ"
@@ -51241,6 +53191,23 @@
         ],
         "ner_tag": "{'However': 'O', ',': 'O', 'this': 'O', 'only': 'O', 'includes': 'O', 'characters': 'O', 'Universal': 'O', 'is': 'O', 'currently': 'DATE', 'using': 'O', 'other': 'O', 'in': 'O', 'their': 'O', '``': 'O', 'families': 'O', \"''\": 'O', '(': 'O', 'X-Men': 'O', 'Avengers': 'O', 'Fantastic': 'MISC', 'Four': 'NUMBER', 'etc': 'O', '.': 'O'}",
         "sentence": "However, this only includes characters Universal is currently using, other characters in their \"families\" (X-Men, Avengers, Fantastic Four, etc.",
+        "stems": [
+            "howev",
+            "includ",
+            "charact",
+            "univers",
+            "current",
+            "use",
+            "charact",
+            "``",
+            "famili",
+            "''",
+            "x-men",
+            "aveng",
+            "fantast",
+            "four",
+            "etc"
+        ],
         "synonyms": [
             "however",
             "include",
@@ -51258,7 +53225,7 @@
             "four-spot",
             "etc"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -51464,13 +53431,19 @@
         "meronyms": [],
         "ner_tag": "{')': 'O', ',': 'O', 'and': 'O', 'the': 'O', 'villains': 'O', 'associated': 'O', 'with': 'O', 'said': 'O', 'characters': 'O', '.': 'O'}",
         "sentence": "), and the villains associated with said characters.",
+        "stems": [
+            "villain",
+            "associ",
+            "said",
+            "charact"
+        ],
         "synonyms": [
             "villain",
             "associate",
             "suppose",
             "quality"
         ],
-        "tagged": [
+        "tags": [
             [
                 "villains",
                 "NNS"
@@ -52163,6 +54136,33 @@
         ],
         "ner_tag": "{'This': 'O', 'clause': 'O', 'has': 'O', 'allowed': 'O', 'Walt': 'LOCATION', 'Disney': 'LOCATION', 'World': 'LOCATION', 'to': 'O', 'have': 'O', 'meet': 'O', 'and': 'O', 'greets': 'O', ',': 'O', 'merchandise': 'O', 'attractions': 'O', 'more': 'O', 'with': 'O', 'other': 'O', 'Marvel': 'O', 'characters': 'O', 'not': 'O', 'associated': 'O', 'the': 'O', 'at': 'O', 'Islands': 'O', 'of': 'O', 'Adventures': 'O', 'such': 'O', 'as': 'O', 'Star': 'O', '-': 'O', 'Lord': 'O', 'Gamora': 'PERSON', 'from': 'O', 'Guardians': 'MISC', 'Galaxy': 'O', 'well': 'O', 'Baymax': 'PERSON', 'Hiro': 'PERSON', 'Big': 'O', 'Hero': 'O', '6': 'NUMBER', '.': 'O'}",
         "sentence": "This clause has allowed Walt Disney World to have meet and greets, merchandise, attractions and more with other Marvel characters not associated with the characters at Islands of Adventures, such as Star-Lord and Gamora from Guardians of the Galaxy as well as Baymax and Hiro from Big Hero 6.",
+        "stems": [
+            "claus",
+            "allow",
+            "walt",
+            "disney",
+            "world",
+            "meet",
+            "greet",
+            "merchandis",
+            "attract",
+            "marvel",
+            "charact",
+            "associ",
+            "charact",
+            "island",
+            "adventur",
+            "star-lord",
+            "gamora",
+            "guardian",
+            "galaxi",
+            "well",
+            "baymax",
+            "hiro",
+            "big",
+            "hero",
+            "6"
+        ],
         "synonyms": [
             "clause",
             "let",
@@ -52190,7 +54190,7 @@
             "hero",
             "six"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clause",
                 "NN"

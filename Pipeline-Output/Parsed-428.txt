@@ -292,6 +292,19 @@
         "meronyms": [],
         "ner_tag": "{'Brasília': 'LOCATION', '(': 'O', 'Portuguese': 'NATIONALITY', 'pronunciation': 'O', ':': 'O', '[': 'O', 'bɾaˈziljɐ': 'O', ']': 'O', ')': 'O', 'is': 'O', 'the': 'O', 'federal': 'O', 'capital': 'O', 'of': 'O', 'Brazil': 'COUNTRY', 'and': 'O', 'seat': 'O', 'government': 'O', 'Federal': 'LOCATION', 'District': 'LOCATION', '.': 'O'}",
         "sentence": "Brasília (Portuguese pronunciation: [bɾaˈziljɐ]) is the federal capital of Brazil and seat of government of the Federal District.",
+        "stems": [
+            "brasília",
+            "portugues",
+            "pronunci",
+            "bɾaˈziljɐ",
+            "feder",
+            "capit",
+            "brazil",
+            "seat",
+            "govern",
+            "feder",
+            "district"
+        ],
         "synonyms": [
             "brasília",
             "Portuguese",
@@ -305,7 +318,7 @@
             "Federal",
             "district"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "IN"
@@ -579,6 +592,17 @@
         ],
         "ner_tag": "{'The': 'O', 'city': 'O', 'is': 'O', 'located': 'O', 'atop': 'O', 'the': 'O', 'Brazilian': 'NATIONALITY', 'highlands': 'O', 'in': 'O', 'country': 'O', \"'s\": 'O', 'center': 'O', '-': 'O', 'western': 'O', 'region': 'O', '.': 'O'}",
         "sentence": "The city is located atop the Brazilian highlands in the country's center-western region.",
+        "stems": [
+            "citi",
+            "locat",
+            "atop",
+            "brazilian",
+            "highland",
+            "countri",
+            "'s",
+            "center-western",
+            "region"
+        ],
         "synonyms": [
             "city",
             "situate",
@@ -590,7 +614,7 @@
             "center-western",
             "region"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -850,6 +874,16 @@
         ],
         "ner_tag": "{'It': 'O', 'was': 'O', 'founded': 'O', 'on': 'O', 'April': 'DATE', '21': 'DATE', ',': 'O', '1960': 'DATE', 'to': 'O', 'serve': 'O', 'as': 'O', 'the': 'O', 'new': 'O', 'national': 'O', 'capital': 'O', '.': 'O'}",
         "sentence": "It was founded on April 21, 1960, to serve as the new national capital.",
+        "stems": [
+            "found",
+            "april",
+            "21",
+            "1960",
+            "serv",
+            "new",
+            "nation",
+            "capit"
+        ],
         "synonyms": [
             "establish",
             "April",
@@ -860,7 +894,7 @@
             "national",
             "Das_Kapital"
         ],
-        "tagged": [
+        "tags": [
             [
                 "founded",
                 "VBN"
@@ -1276,6 +1310,22 @@
         "meronyms": [],
         "ner_tag": "{'Brasília': 'LOCATION', 'and': 'O', 'its': 'O', 'metro': 'O', '(': 'O', 'encompassing': 'O', 'the': 'O', 'whole': 'O', 'of': 'O', 'Federal': 'LOCATION', 'District': 'LOCATION', ')': 'O', 'had': 'O', 'a': 'O', 'population': 'O', '2,556,149': 'NUMBER', 'in': 'O', '2011': 'DATE', ',': 'O', 'making': 'O', 'it': 'O', '4th': 'ORDINAL', 'most': 'O', 'populous': 'O', 'city': 'O', 'Brazil': 'COUNTRY', '.': 'O'}",
         "sentence": "Brasília and its metro (encompassing the whole of the Federal District) had a population of 2,556,149 in 2011, making it the 4th most populous city in Brazil.",
+        "stems": [
+            "brasília",
+            "metro",
+            "encompass",
+            "whole",
+            "feder",
+            "district",
+            "popul",
+            "2,556,149",
+            "2011",
+            "make",
+            "4th",
+            "popul",
+            "citi",
+            "brazil"
+        ],
         "synonyms": [
             "brasília",
             "metro",
@@ -1292,7 +1342,7 @@
             "city",
             "brazil_nut"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "NNS"
@@ -1628,6 +1678,22 @@
         "meronyms": [],
         "ner_tag": "{'Among': 'O', 'major': 'O', 'Latin': 'MISC', 'American': 'NATIONALITY', 'cities': 'O', ',': 'O', 'Brasília': 'LOCATION', 'has': 'O', 'the': 'O', 'highest': 'O', 'GDP': 'O', 'per': 'O', 'capita': 'O', 'at': 'O', 'R': 'O', '$': 'MONEY', '61,915': 'MONEY', '(': 'O', 'US': 'COUNTRY', '36,175': 'MONEY', ')': 'O', '.': 'O'}",
         "sentence": "Among major Latin American cities, Brasília has the highest GDP per capita at R$61,915 (US$36,175).",
+        "stems": [
+            "among",
+            "major",
+            "latin",
+            "american",
+            "citi",
+            "brasília",
+            "highest",
+            "gdp",
+            "per",
+            "capita",
+            "r",
+            "61,915",
+            "us",
+            "36,175"
+        ],
         "synonyms": [
             "among",
             "major",
@@ -1644,7 +1710,7 @@
             "uranium",
             "36,175"
         ],
-        "tagged": [
+        "tags": [
             [
                 "among",
                 "IN"
@@ -2038,6 +2104,20 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'city': 'O', 'has': 'O', 'a': 'O', 'unique': 'O', 'status': 'O', 'in': 'O', 'Brazil': 'COUNTRY', ',': 'O', 'as': 'O', 'it': 'O', 'is': 'O', 'an': 'O', 'administrative': 'O', 'division': 'O', 'rather': 'O', 'than': 'O', 'legal': 'O', 'municipality': 'O', 'like': 'O', 'other': 'O', 'cities': 'O', '.': 'O'}",
         "sentence": "The city has a unique status in Brazil, as it is an administrative division rather than a legal municipality like other cities in Brazil.",
+        "stems": [
+            "citi",
+            "uniqu",
+            "statu",
+            "brazil",
+            "administr",
+            "divis",
+            "rather",
+            "legal",
+            "municip",
+            "like",
+            "citi",
+            "brazil"
+        ],
         "synonyms": [
             "city",
             "unique",
@@ -2052,7 +2132,7 @@
             "city",
             "brazil_nut"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -3098,6 +3178,46 @@
         ],
         "ner_tag": "{'The': 'O', 'name': 'O', \"'\": 'O', 'Brasília': 'LOCATION', 'is': 'O', 'commonly': 'O', 'used': 'O', 'as': 'O', 'a': 'O', 'synonym': 'O', 'for': 'O', 'the': 'O', 'Federal': 'LOCATION', 'District': 'LOCATION', 'through': 'O', 'synecdoche': 'O', ';': 'O', 'However': 'O', ',': 'O', 'composed': 'O', 'of': 'O', '31': 'NUMBER', 'administrative': 'O', 'regions': 'O', 'only': 'O', 'one': 'NUMBER', 'which': 'O', 'proper': 'O', 'with': 'O', 'population': 'O', '209,926': 'NUMBER', 'in': 'O', '2011': 'DATE', 'survey': 'O', 'Demographic': 'MISC', 'publications': 'O', 'generally': 'O', 'do': 'O', 'not': 'O', 'make': 'O', 'this': 'O', 'distinction': 'O', 'and': 'O', 'list': 'O', 'synonymous': 'O', 'considering': 'O', 'whole': 'O', 'it': 'O', 'its': 'O', 'metropolitan': 'O', 'area': 'O', '.': 'O'}",
         "sentence": "The name 'Brasília' is commonly used as a synonym for the Federal District through synecdoche; However, the Federal District is composed of 31 administrative regions, only one of which is Brasília proper, with a population of 209,926 in a 2011 survey; Demographic publications generally do not make this distinction and list the population of Brasília as synonymous with the population of the Federal District, considering the whole of it as its metropolitan area.",
+        "stems": [
+            "name",
+            "'brasília",
+            "commonli",
+            "use",
+            "synonym",
+            "feder",
+            "district",
+            "synecdoch",
+            "howev",
+            "feder",
+            "district",
+            "compos",
+            "31",
+            "administr",
+            "region",
+            "one",
+            "brasília",
+            "proper",
+            "popul",
+            "209,926",
+            "2011",
+            "survey",
+            "demograph",
+            "public",
+            "gener",
+            "make",
+            "distinct",
+            "list",
+            "popul",
+            "brasília",
+            "synonym",
+            "popul",
+            "feder",
+            "district",
+            "consid",
+            "whole",
+            "metropolitan",
+            "area"
+        ],
         "synonyms": [
             "name",
             "'brasília",
@@ -3138,7 +3258,7 @@
             "metropolitan",
             "sphere"
         ],
-        "tagged": [
+        "tags": [
             [
                 "name",
                 "NN"
@@ -3534,6 +3654,17 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'city': 'O', 'was': 'O', 'one': 'NUMBER', 'of': 'O', 'the': 'O', 'main': 'O', 'host': 'TITLE', 'cities': 'O', '2014': 'DATE', 'FIFA': 'MISC', 'World': 'MISC', 'Cup': 'MISC', '.': 'O'}",
         "sentence": "The city was one of the main host cities of the 2014 FIFA World Cup.",
+        "stems": [
+            "citi",
+            "one",
+            "main",
+            "host",
+            "citi",
+            "2014",
+            "fifa",
+            "world",
+            "cup"
+        ],
         "synonyms": [
             "city",
             "one",
@@ -3545,7 +3676,7 @@
             "world",
             "cup"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -3723,6 +3854,15 @@
         "meronyms": [],
         "ner_tag": "{'Additionally': 'O', ',': 'O', 'Brasília': 'LOCATION', 'hosted': 'O', 'the': 'O', '2013': 'DATE', 'FIFA': 'ORGANIZATION', 'Confederations': 'O', 'Cup': 'O', '.': 'O'}",
         "sentence": "Additionally, Brasília hosted the 2013 FIFA Confederations Cup.",
+        "stems": [
+            "addit",
+            "brasília",
+            "host",
+            "2013",
+            "fifa",
+            "confeder",
+            "cup"
+        ],
         "synonyms": [
             "additionally",
             "brasília",
@@ -3732,7 +3872,7 @@
             "confederation",
             "cup"
         ],
-        "tagged": [
+        "tags": [
             [
                 "additionally",
                 "RB"
@@ -4142,6 +4282,23 @@
         ],
         "ner_tag": "{'Juscelino': 'PERSON', 'Kubitschek': 'PERSON', ',': 'O', 'President': 'TITLE', 'of': 'O', 'Brazil': 'COUNTRY', 'from': 'O', '1956': 'DATE', 'to': 'DATE', '1961': 'DATE', 'ordered': 'O', 'the': 'O', 'construction': 'O', 'Brasília': 'LOCATION', 'fulfilling': 'O', 'promise': 'O', 'Constitution': 'O', 'and': 'O', 'his': 'O', 'own': 'O', 'political': 'O', 'campaign': 'O', '.': 'O'}",
         "sentence": "Juscelino Kubitschek, President of Brazil from 1956 to 1961, ordered the construction of Brasília, fulfilling the promise of the Constitution and his own political campaign promise.",
+        "stems": [
+            "juscelino",
+            "kubitschek",
+            "presid",
+            "brazil",
+            "1956",
+            "1961",
+            "order",
+            "construct",
+            "brasília",
+            "fulfil",
+            "promis",
+            "constitut",
+            "polit",
+            "campaign",
+            "promis"
+        ],
         "synonyms": [
             "juscelino",
             "kubitschek",
@@ -4159,7 +4316,7 @@
             "political_campaign",
             "promise"
         ],
-        "tagged": [
+        "tags": [
             [
                 "juscelino",
                 "NN"
@@ -4457,6 +4614,20 @@
         ],
         "ner_tag": "{'Building': 'O', 'Brasília': 'LOCATION', 'was': 'O', 'part': 'O', 'of': 'O', 'Juscelino': 'PERSON', \"'s\": 'O', '``': 'O', 'fifty': 'DURATION', 'years': 'DURATION', 'prosperity': 'O', 'in': 'O', 'five': 'NUMBER', \"''\": 'O', 'plan': 'O', '.': 'O'}",
         "sentence": "Building Brasília was part of Juscelino's \"fifty years of prosperity in five\" plan.",
+        "stems": [
+            "build",
+            "brasília",
+            "part",
+            "juscelino",
+            "'s",
+            "``",
+            "fifti",
+            "year",
+            "prosper",
+            "five",
+            "''",
+            "plan"
+        ],
         "synonyms": [
             "building",
             "brasília",
@@ -4471,7 +4642,7 @@
             "''",
             "plan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "building",
                 "NN"
@@ -4771,6 +4942,18 @@
         "meronyms": [],
         "ner_tag": "{'Lúcio': 'ORGANIZATION', 'Costa': 'ORGANIZATION', 'won': 'O', 'a': 'O', 'contest': 'O', 'and': 'O', 'was': 'O', 'the': 'O', 'main': 'O', 'urban': 'TITLE', 'planner': 'TITLE', 'in': 'O', '1957': 'DATE', ',': 'O', 'with': 'O', '5550': 'NUMBER', 'people': 'O', 'competing': 'O', '.': 'O'}",
         "sentence": "Lúcio Costa won a contest and was the main urban planner in 1957, with 5550 people competing.",
+        "stems": [
+            "lúcio",
+            "costa",
+            "contest",
+            "main",
+            "urban",
+            "planner",
+            "1957",
+            "5550",
+            "peopl",
+            "compet"
+        ],
         "synonyms": [
             "lúcio",
             "costa",
@@ -4783,7 +4966,7 @@
             "people",
             "compete"
         ],
-        "tagged": [
+        "tags": [
             [
                 "lúcio",
                 "NN"
@@ -5135,6 +5318,21 @@
         "meronyms": [],
         "ner_tag": "{'Oscar': 'PERSON', 'Niemeyer': 'PERSON', ',': 'O', 'a': 'O', 'close': 'O', 'friend': 'O', 'was': 'O', 'the': 'O', 'chief': 'O', 'architect': 'TITLE', 'of': 'O', 'most': 'O', 'public': 'O', 'buildings': 'O', 'and': 'O', 'Roberto': 'PERSON', 'Burle': 'PERSON', 'Marx': 'PERSON', 'landscape': 'O', 'designer': 'TITLE', '.': 'O'}",
         "sentence": "Oscar Niemeyer, a close friend, was the chief architect of most public buildings and Roberto Burle Marx was the landscape designer.",
+        "stems": [
+            "oscar",
+            "niemey",
+            "close",
+            "friend",
+            "chief",
+            "architect",
+            "public",
+            "build",
+            "roberto",
+            "burl",
+            "marx",
+            "landscap",
+            "design"
+        ],
         "synonyms": [
             "Academy_Award",
             "niemeyer",
@@ -5150,7 +5348,7 @@
             "landscape",
             "interior_designer"
         ],
-        "tagged": [
+        "tags": [
             [
                 "oscar",
                 "NN"
@@ -5477,6 +5675,18 @@
         ],
         "ner_tag": "{'Brasília': 'LOCATION', 'was': 'O', 'built': 'O', 'in': 'O', '41': 'DURATION', 'months': 'DURATION', ',': 'O', 'from': 'O', '1956': 'DATE', 'to': 'DATE', 'April': 'DATE', '21': 'DATE', '1960': 'DATE', 'when': 'O', 'it': 'O', 'officially': 'O', 'inaugurated': 'O', '.': 'O'}",
         "sentence": "Brasília was built in 41 months, from 1956 to April 21, 1960, when it was officially inaugurated.",
+        "stems": [
+            "brasília",
+            "built",
+            "41",
+            "month",
+            "1956",
+            "april",
+            "21",
+            "1960",
+            "offici",
+            "inaugur"
+        ],
         "synonyms": [
             "brasília",
             "built",
@@ -5489,7 +5699,7 @@
             "officially",
             "inaugurate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "NN"
@@ -5910,6 +6120,21 @@
         ],
         "ner_tag": "{'Until': 'O', 'the': 'O', '1980s': 'DATE', ',': 'O', 'governor': 'TITLE', 'of': 'O', 'Federal': 'ORGANIZATION', 'District': 'LOCATION', 'was': 'O', 'appointed': 'O', 'by': 'O', 'Government': 'ORGANIZATION', 'and': 'O', 'laws': 'O', 'Brasília': 'LOCATION', 'were': 'O', 'issued': 'O', 'Brazilian': 'ORGANIZATION', 'Senate': 'ORGANIZATION', '.': 'O'}",
         "sentence": "Until the 1980s, the governor of the Federal District was appointed by the Federal Government, and the laws of Brasília were issued by the Brazilian Federal Senate.",
+        "stems": [
+            "1980",
+            "governor",
+            "feder",
+            "district",
+            "appoint",
+            "feder",
+            "govern",
+            "law",
+            "brasília",
+            "issu",
+            "brazilian",
+            "feder",
+            "senat"
+        ],
         "synonyms": [
             "eighties",
             "governor",
@@ -5925,7 +6150,7 @@
             "Federal",
             "United_States_Senate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1980s",
                 "CD"
@@ -6350,6 +6575,23 @@
         "meronyms": [],
         "ner_tag": "{'With': 'O', 'the': 'O', 'Constitution': 'O', 'of': 'O', '1988': 'DATE', 'Brasília': 'LOCATION', 'gained': 'O', 'right': 'O', 'to': 'O', 'elect': 'O', 'its': 'O', 'Governor': 'TITLE', ',': 'O', 'and': 'O', 'a': 'O', 'District': 'ORGANIZATION', 'Assembly': 'ORGANIZATION', '(': 'O', 'Câmara': 'O', 'Legislativa': 'O', ')': 'O', 'was': 'O', 'elected': 'O', 'exercise': 'O', 'legislative': 'O', 'power': 'O', '.': 'O'}",
         "sentence": "With the Constitution of 1988 Brasília gained the right to elect its Governor, and a District Assembly (Câmara Legislativa) was elected to exercise legislative power.",
+        "stems": [
+            "constitut",
+            "1988",
+            "brasília",
+            "gain",
+            "right",
+            "elect",
+            "governor",
+            "district",
+            "assembl",
+            "câmara",
+            "legislativa",
+            "elect",
+            "exercis",
+            "legisl",
+            "power"
+        ],
         "synonyms": [
             "fundamental_law",
             "1988",
@@ -6367,7 +6609,7 @@
             "legislative",
             "world_power"
         ],
-        "tagged": [
+        "tags": [
             [
                 "constitution",
                 "NN"
@@ -6605,13 +6847,19 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Federal': 'O', 'District': 'O', 'does': 'O', 'not': 'O', 'have': 'O', 'a': 'O', 'Judicial': 'ORGANIZATION', 'Power': 'ORGANIZATION', 'of': 'O', 'its': 'O', 'own': 'O', '.': 'O'}",
         "sentence": "The Federal District does not have a Judicial Power of its own.",
+        "stems": [
+            "feder",
+            "district",
+            "judici",
+            "power"
+        ],
         "synonyms": [
             "Federal",
             "district",
             "judicial",
             "world_power"
         ],
-        "tagged": [
+        "tags": [
             [
                 "federal",
                 "JJ"
@@ -6803,6 +7051,17 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Judicial': 'ORGANIZATION', 'Power': 'ORGANIZATION', 'which': 'O', 'serves': 'O', 'the': 'O', 'Federal': 'LOCATION', 'District': 'LOCATION', 'also': 'O', 'federal': 'O', 'territories': 'O', '.': 'O'}",
         "sentence": "The Judicial Power which serves the Federal District also serves federal territories.",
+        "stems": [
+            "judici",
+            "power",
+            "serv",
+            "feder",
+            "district",
+            "also",
+            "serv",
+            "feder",
+            "territori"
+        ],
         "synonyms": [
             "judicial",
             "world_power",
@@ -6814,7 +7073,7 @@
             "Federal",
             "territory"
         ],
-        "tagged": [
+        "tags": [
             [
                 "judicial",
                 "JJ"
@@ -7143,6 +7402,17 @@
         "meronyms": [],
         "ner_tag": "{'Currently': 'DATE', ',': 'O', 'Brazil': 'COUNTRY', 'does': 'O', 'not': 'O', 'have': 'O', 'any': 'O', 'territories': 'O', 'therefore': 'O', 'for': 'O', 'now': 'DATE', 'the': 'O', 'courts': 'O', 'serve': 'O', 'only': 'O', 'cases': 'O', 'from': 'O', 'Federal': 'LOCATION', 'District': 'LOCATION', '.': 'O'}",
         "sentence": "Currently, Brazil does not have any territories, therefore, for now the courts serve only cases from the Federal District.",
+        "stems": [
+            "current",
+            "brazil",
+            "territori",
+            "therefor",
+            "court",
+            "serv",
+            "case",
+            "feder",
+            "district"
+        ],
         "synonyms": [
             "presently",
             "brazil_nut",
@@ -7154,7 +7424,7 @@
             "Federal",
             "district"
         ],
-        "tagged": [
+        "tags": [
             [
                 "currently",
                 "RB"
@@ -7683,6 +7953,27 @@
         ],
         "ner_tag": "{'Brasília': 'LOCATION', 'has': 'O', 'a': 'O', 'tropical': 'O', 'savanna': 'O', 'climate': 'O', '(': 'O', 'Aw': 'O', ')': 'O', 'according': 'O', 'to': 'DATE', 'the': 'O', 'Köppen': 'MISC', 'system': 'O', ',': 'O', 'with': 'O', 'two': 'NUMBER', 'distinct': 'O', 'seasons': 'O', ':': 'O', 'rainy': 'O', 'season': 'O', 'from': 'O', 'October': 'DATE', 'April': 'DATE', 'and': 'O', 'dry': 'O', 'May': 'DATE', 'September': 'DATE', '.': 'O'}",
         "sentence": "Brasília has a tropical savanna climate (Aw) according to the Köppen system, with two distinct seasons: the rainy season, from October to April, and a dry season, from May to September.",
+        "stems": [
+            "brasília",
+            "tropic",
+            "savanna",
+            "climat",
+            "aw",
+            "accord",
+            "köppen",
+            "system",
+            "two",
+            "distinct",
+            "season",
+            "raini",
+            "season",
+            "octob",
+            "april",
+            "dri",
+            "season",
+            "may",
+            "septemb"
+        ],
         "synonyms": [
             "brasília",
             "tropical",
@@ -7704,7 +7995,7 @@
             "whitethorn",
             "September"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "RB"
@@ -7939,6 +8230,14 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'average': 'O', 'temperature': 'O', 'is': 'O', '20.6': 'NUMBER', '°C': 'O', '(': 'O', '69.1': 'NUMBER', '°F': 'O', ')': 'O', '.': 'O'}",
         "sentence": "The average temperature is 20.6 °C (69.1 °F).",
+        "stems": [
+            "averag",
+            "temperatur",
+            "20.6",
+            "°c",
+            "69.1",
+            "°f"
+        ],
         "synonyms": [
             "modal",
             "temperature",
@@ -7947,7 +8246,7 @@
             "69.1",
             "°f"
         ],
-        "tagged": [
+        "tags": [
             [
                 "average",
                 "JJ"
@@ -8584,6 +8883,35 @@
         ],
         "ner_tag": "{'September': 'DATE', ',': 'O', 'at': 'O', 'the': 'O', 'end': 'O', 'of': 'O', 'dry': 'O', 'season': 'O', 'has': 'O', 'highest': 'O', 'average': 'O', 'maximum': 'O', 'temperature': 'O', '28.3': 'NUMBER', '°C': 'O', '(': 'O', '82.9': 'NUMBER', '°F': 'O', ')': 'O', 'major': 'O', 'and': 'O', 'minor': 'O', 'lower': 'O', '25.1': 'NUMBER', '77.2': 'NUMBER', '12.9': 'NUMBER', '55.2': 'NUMBER', 'respectively': 'O', '.': 'O'}",
         "sentence": "September, at the end of the dry season, has the highest average maximum temperature, 28.3 °C (82.9 °F), has major and minor lower maximum average temperature, of 25.1 °C (77.2 °F) and 12.9 °C (55.2 °F), respectively.",
+        "stems": [
+            "septemb",
+            "end",
+            "dri",
+            "season",
+            "highest",
+            "averag",
+            "maximum",
+            "temperatur",
+            "28.3",
+            "°c",
+            "82.9",
+            "°f",
+            "major",
+            "minor",
+            "lower",
+            "maximum",
+            "averag",
+            "temperatur",
+            "25.1",
+            "°c",
+            "77.2",
+            "°f",
+            "12.9",
+            "°c",
+            "55.2",
+            "°f",
+            "respect"
+        ],
         "synonyms": [
             "September",
             "goal",
@@ -8613,7 +8941,7 @@
             "°f",
             "respectively"
         ],
-        "tagged": [
+        "tags": [
             [
                 "september",
                 "JJ"
@@ -8952,6 +9280,17 @@
         ],
         "ner_tag": "{'Average': 'O', 'temperatures': 'O', 'from': 'O', 'September': 'DATE', 'through': 'O', 'March': 'DATE', 'are': 'O', 'a': 'O', 'consistent': 'O', '22': 'NUMBER', '°C': 'O', '(': 'O', '72': 'NUMBER', '°F': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Average temperatures from September through March are a consistent 22 °C (72 °F).",
+        "stems": [
+            "averag",
+            "temperatur",
+            "septemb",
+            "march",
+            "consist",
+            "22",
+            "°c",
+            "72",
+            "°f"
+        ],
         "synonyms": [
             "modal",
             "temperature",
@@ -8963,7 +9302,7 @@
             "seventy-two",
             "°f"
         ],
-        "tagged": [
+        "tags": [
             [
                 "average",
                 "JJ"
@@ -9441,6 +9780,21 @@
         ],
         "ner_tag": "{'With': 'O', '247.4': 'NUMBER', 'mm': 'O', '(': 'O', '9.7': 'NUMBER', 'in': 'O', ')': 'O', ',': 'O', 'January': 'DATE', 'is': 'O', 'the': 'O', 'month': 'DATE', 'with': 'O', 'highest': 'O', 'rainfall': 'O', 'of': 'O', 'year': 'DATE', 'while': 'O', 'June': 'DATE', 'lowest': 'O', 'only': 'O', '8.7': 'NUMBER', '0.3': 'NUMBER', '.': 'O'}",
         "sentence": "With 247.4 mm (9.7 in), January is the month with the highest rainfall of the year, while June is the lowest, with only 8.7 mm (0.3 in).",
+        "stems": [
+            "247.4",
+            "mm",
+            "9.7",
+            "januari",
+            "month",
+            "highest",
+            "rainfal",
+            "year",
+            "june",
+            "lowest",
+            "8.7",
+            "mm",
+            "0.3"
+        ],
         "synonyms": [
             "247.4",
             "millimeter",
@@ -9456,7 +9810,7 @@
             "millimeter",
             "0.3"
         ],
-        "tagged": [
+        "tags": [
             [
                 "247.4",
                 "CD"
@@ -9731,6 +10085,17 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Portuguese': 'NATIONALITY', 'language': 'O', 'is': 'O', 'the': 'O', 'official': 'O', 'national': 'O', 'and': 'O', 'primary': 'O', 'taught': 'O', 'in': 'O', 'schools': 'O', '.': 'O'}",
         "sentence": "The Portuguese language is the official national language and the primary language taught in schools.",
+        "stems": [
+            "portugues",
+            "languag",
+            "offici",
+            "nation",
+            "languag",
+            "primari",
+            "languag",
+            "taught",
+            "school"
+        ],
         "synonyms": [
             "Portuguese",
             "terminology",
@@ -9742,7 +10107,7 @@
             "teach",
             "school"
         ],
-        "tagged": [
+        "tags": [
             [
                 "portuguese",
                 "JJ"
@@ -9933,6 +10298,14 @@
         ],
         "ner_tag": "{'English': 'NATIONALITY', 'and': 'O', 'Spanish': 'NATIONALITY', 'are': 'O', 'also': 'O', 'part': 'O', 'of': 'O', 'the': 'O', 'official': 'O', 'curriculum': 'O', '.': 'O'}",
         "sentence": "English and Spanish are also part of the official curriculum.",
+        "stems": [
+            "english",
+            "spanish",
+            "also",
+            "part",
+            "offici",
+            "curriculum"
+        ],
         "synonyms": [
             "English",
             "Spanish",
@@ -9941,7 +10314,7 @@
             "official",
             "course_of_study"
         ],
-        "tagged": [
+        "tags": [
             [
                 "english",
                 "JJ"
@@ -10513,6 +10886,34 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'city': 'O', 'has': 'O', 'six': 'NUMBER', 'international': 'O', 'schools': 'O', ':': 'O', 'American': 'ORGANIZATION', 'School': 'ORGANIZATION', 'of': 'ORGANIZATION', 'Brasília': 'ORGANIZATION', ',': 'O', 'International': 'O', '(': 'O', 'BIS': 'O', ')': 'O', 'Escola': 'PERSON', 'das': 'PERSON', 'Nações': 'PERSON', 'Swiss': 'NATIONALITY', 'SIS': 'O', 'Lycée': 'O', 'français': 'O', 'François': 'O', '-': 'O', 'Mitterrand': 'O', 'LfFM': 'O', 'and': 'O', 'Maple': 'ORGANIZATION', 'Bear': 'ORGANIZATION', 'Canadian': 'ORGANIZATION', '.': 'O'}",
         "sentence": "The city has six international schools: American School of Brasília, Brasília International School (BIS), Escola das Nações, Swiss International School (SIS), Lycée français François-Mitterrand (LfFM) and Maple Bear Canadian School.",
+        "stems": [
+            "citi",
+            "six",
+            "intern",
+            "school",
+            "american",
+            "school",
+            "brasília",
+            "brasília",
+            "intern",
+            "school",
+            "bi",
+            "escola",
+            "da",
+            "naçõ",
+            "swiss",
+            "intern",
+            "school",
+            "si",
+            "lycé",
+            "françai",
+            "françois-mitterrand",
+            "lffm",
+            "mapl",
+            "bear",
+            "canadian",
+            "school"
+        ],
         "synonyms": [
             "city",
             "six",
@@ -10541,7 +10942,7 @@
             "Canadian",
             "school"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -10900,6 +11301,18 @@
         "meronyms": [],
         "ner_tag": "{'August': 'DATE', '2016': 'DATE', 'will': 'O', 'see': 'O', 'the': 'O', 'opening': 'O', 'of': 'ORGANIZATION', 'a': 'O', 'new': 'O', 'international': 'O', 'school': 'O', '-': 'O', 'The': 'O', 'British': 'ORGANIZATION', 'School': 'ORGANIZATION', 'Brasilia': 'ORGANIZATION', '.': 'O'}",
         "sentence": "August 2016 will see the opening of a new international school - The British School of Brasilia.",
+        "stems": [
+            "august",
+            "2016",
+            "see",
+            "open",
+            "new",
+            "intern",
+            "school",
+            "british",
+            "school",
+            "brasilia"
+        ],
         "synonyms": [
             "august",
             "2016",
@@ -10912,7 +11325,7 @@
             "school",
             "Brasilia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "august",
                 "JJ"
@@ -11147,6 +11560,17 @@
         ],
         "ner_tag": "{'Brasília': 'LOCATION', 'has': 'O', 'two': 'NUMBER', 'universities': 'O', ',': 'O', 'three': 'NUMBER', 'university': 'O', 'centers': 'O', 'and': 'O', 'many': 'O', 'private': 'O', 'colleges': 'O', '.': 'O'}",
         "sentence": "Brasília has two universities, three university centers, and many private colleges.",
+        "stems": [
+            "brasília",
+            "two",
+            "univers",
+            "three",
+            "univers",
+            "center",
+            "mani",
+            "privat",
+            "colleg"
+        ],
         "synonyms": [
             "brasília",
             "two",
@@ -11158,7 +11582,7 @@
             "secret",
             "college"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "RB"
@@ -11487,6 +11911,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Cathedral': 'O', 'of': 'O', 'Brasília': 'LOCATION', 'in': 'O', 'the': 'O', 'capital': 'O', 'Federative': 'COUNTRY', 'Republic': 'COUNTRY', 'Brazil': 'COUNTRY', ',': 'O', 'is': 'O', 'an': 'O', 'expression': 'O', 'architect': 'TITLE', 'Oscar': 'PERSON', 'Niemeyer': 'PERSON', '.': 'O'}",
         "sentence": "The Cathedral of Brasília in the capital of the Federative Republic of Brazil, is an expression of the architect Oscar Niemeyer.",
+        "stems": [
+            "cathedr",
+            "brasília",
+            "capit",
+            "feder",
+            "republ",
+            "brazil",
+            "express",
+            "architect",
+            "oscar",
+            "niemey"
+        ],
         "synonyms": [
             "cathedral",
             "brasília",
@@ -11499,7 +11935,7 @@
             "Academy_Award",
             "niemeyer"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cathedral",
                 "JJ"
@@ -11813,6 +12249,17 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'concrete': 'O', '-': 'O', 'framed': 'O', 'hyperboloid': 'O', 'structure': 'O', ',': 'O', 'seems': 'O', 'with': 'O', 'its': 'O', 'glass': 'O', 'roof': 'O', 'reaching': 'O', 'up': 'O', 'open': 'O', 'to': 'O', 'the': 'O', 'heavens': 'O', '.': 'O'}",
         "sentence": "This concrete-framed hyperboloid structure, seems with its glass roof reaching up, open, to the heavens.",
+        "stems": [
+            "concrete-fram",
+            "hyperboloid",
+            "structur",
+            "seem",
+            "glass",
+            "roof",
+            "reach",
+            "open",
+            "heaven"
+        ],
         "synonyms": [
             "concrete-framed",
             "hyperboloid",
@@ -11824,7 +12271,7 @@
             "unfold",
             "Heaven"
         ],
-        "tagged": [
+        "tags": [
             [
                 "concrete-framed",
                 "JJ"
@@ -12225,6 +12672,22 @@
         ],
         "ner_tag": "{'On': 'O', '31': 'DATE', 'May': 'DATE', '1970': 'DATE', ',': 'O', 'the': 'O', 'Cathedral': 'O', '’': 'O', 's': 'O', 'structure': 'O', 'was': 'O', 'finished': 'O', 'and': 'O', 'only': 'O', '70': 'NUMBER', 'm': 'O', '(': 'O', '229.66': 'NUMBER', 'ft': 'O', ')': 'O', 'diameter': 'O', 'of': 'O', 'circular': 'O', 'area': 'O', 'were': 'O', 'visible': 'O', '.': 'O'}",
         "sentence": "On 31 May 1970, the Cathedral’s structure was finished, and only the 70 m (229.66 ft) diameter of the circular area were visible.",
+        "stems": [
+            "31",
+            "may",
+            "1970",
+            "cathedr",
+            "’",
+            "structur",
+            "finish",
+            "70",
+            "229.66",
+            "ft",
+            "diamet",
+            "circular",
+            "area",
+            "visibl"
+        ],
         "synonyms": [
             "thirty-one",
             "whitethorn",
@@ -12241,7 +12704,7 @@
             "sphere",
             "visible"
         ],
-        "tagged": [
+        "tags": [
             [
                 "31",
                 "CD"
@@ -12550,6 +13013,18 @@
         "meronyms": [],
         "ner_tag": "{'Niemeyer': 'PERSON', \"'s\": 'O', 'project': 'O', 'of': 'O', 'Cathedral': 'O', 'Brasília': 'LOCATION', 'is': 'O', 'based': 'O', 'in': 'O', 'the': 'O', 'hyperboloid': 'O', 'revolution': 'O', 'which': 'O', 'sections': 'O', 'are': 'O', 'asymmetric': 'O', '.': 'O'}",
         "sentence": "Niemeyer's project of Cathedral of Brasília is based in the hyperboloid of revolution which sections are asymmetric.",
+        "stems": [
+            "niemey",
+            "'s",
+            "project",
+            "cathedr",
+            "brasília",
+            "base",
+            "hyperboloid",
+            "revolut",
+            "section",
+            "asymmetr"
+        ],
         "synonyms": [
             "niemeyer",
             "'s",
@@ -12562,7 +13037,7 @@
             "section",
             "asymmetrical"
         ],
-        "tagged": [
+        "tags": [
             [
                 "niemeyer",
                 "NN"
@@ -12794,6 +13269,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'hyperboloid': 'O', 'structure': 'O', 'itself': 'O', 'is': 'O', 'a': 'O', 'result': 'O', 'of': 'O', '16': 'NUMBER', 'identical': 'O', 'assembled': 'O', 'concrete': 'O', 'columns': 'O', '.': 'O'}",
         "sentence": "The hyperboloid structure itself is a result of 16 identical assembled concrete columns.",
+        "stems": [
+            "hyperboloid",
+            "structur",
+            "result",
+            "16",
+            "ident",
+            "assembl",
+            "concret",
+            "column"
+        ],
         "synonyms": [
             "hyperboloid",
             "structure",
@@ -12804,7 +13289,7 @@
             "concrete",
             "column"
         ],
-        "tagged": [
+        "tags": [
             [
                 "hyperboloid",
                 "NN"
@@ -13088,6 +13573,19 @@
         "meronyms": [],
         "ner_tag": "{'These': 'O', 'columns': 'O', ',': 'O', 'having': 'O', 'hyperbolic': 'O', 'section': 'O', 'and': 'O', 'weighing': 'O', '90': 'NUMBER', 't': 'O', 'represent': 'O', 'two': 'NUMBER', 'hands': 'O', 'moving': 'O', 'upwards': 'O', 'to': 'O', 'heaven': 'O', '.': 'O'}",
         "sentence": "These columns, having hyperbolic section and weighing 90 t, represent two hands moving upwards to heaven.",
+        "stems": [
+            "column",
+            "hyperbol",
+            "section",
+            "weigh",
+            "90",
+            "repres",
+            "two",
+            "hand",
+            "move",
+            "upward",
+            "heaven"
+        ],
         "synonyms": [
             "column",
             "hyperbolic",
@@ -13101,7 +13599,7 @@
             "up",
             "Heaven"
         ],
-        "tagged": [
+        "tags": [
             [
                 "columns",
                 "NNS"
@@ -13275,6 +13773,13 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Cathedral': 'O', 'was': 'O', 'dedicated': 'O', 'on': 'O', '31': 'DATE', 'May': 'DATE', '1970': 'DATE', '.': 'O'}",
         "sentence": "The Cathedral was dedicated on 31 May 1970.",
+        "stems": [
+            "cathedr",
+            "dedic",
+            "31",
+            "may",
+            "1970"
+        ],
         "synonyms": [
             "cathedral",
             "give",
@@ -13282,7 +13787,7 @@
             "whitethorn",
             "1970"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cathedral",
                 "JJ"
@@ -13503,6 +14008,15 @@
         ],
         "ner_tag": "{'A': 'O', 'series': 'O', 'of': 'O', 'low': 'O', '-': 'O', 'lying': 'O', 'annexes': 'O', '(': 'O', 'largely': 'O', 'hidden': 'O', ')': 'O', 'flank': 'O', 'both': 'O', 'ends': 'O', '.': 'O'}",
         "sentence": "A series of low-lying annexes (largely hidden) flank both ends.",
+        "stems": [
+            "seri",
+            "low-li",
+            "annex",
+            "larg",
+            "hidden",
+            "flank",
+            "end"
+        ],
         "synonyms": [
             "series",
             "low-lying",
@@ -13512,7 +14026,7 @@
             "flank",
             "goal"
         ],
-        "tagged": [
+        "tags": [
             [
                 "series",
                 "NN"
@@ -13843,6 +14357,19 @@
         "meronyms": [],
         "ner_tag": "{'Also': 'O', 'in': 'O', 'the': 'ORGANIZATION', 'square': 'O', 'are': 'O', 'glass': 'O', '-': 'O', 'faced': 'O', 'Planalto': 'ORGANIZATION', 'Palace': 'ORGANIZATION', 'housing': 'O', 'presidential': 'O', 'offices': 'O', ',': 'O', 'and': 'O', 'of': 'ORGANIZATION', 'Supreme': 'ORGANIZATION', 'Court': 'ORGANIZATION', '.': 'O'}",
         "sentence": "Also in the square are the glass-faced Planalto Palace housing the presidential offices, and the Palace of the Supreme Court.",
+        "stems": [
+            "also",
+            "squar",
+            "glass-fac",
+            "planalto",
+            "palac",
+            "hous",
+            "presidenti",
+            "offic",
+            "palac",
+            "suprem",
+            "court"
+        ],
         "synonyms": [
             "besides",
             "squarely",
@@ -13856,7 +14383,7 @@
             "supreme",
             "motor_hotel"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -14266,6 +14793,21 @@
         ],
         "ner_tag": "{'Farther': 'O', 'east': 'O', ',': 'O', 'on': 'O', 'a': 'O', 'triangle': 'O', 'of': 'O', 'land': 'O', 'jutting': 'O', 'into': 'O', 'the': 'O', 'lake': 'O', 'is': 'O', 'Palace': 'O', 'Dawn': 'O', '(': 'O', 'Palácio': 'O', 'da': 'O', 'Alvorada': 'CITY', ';': 'O', 'presidential': 'O', 'residence': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Farther east, on a triangle of land jutting into the lake, is the Palace of the Dawn (Palácio da Alvorada; the presidential residence).",
+        "stems": [
+            "farther",
+            "east",
+            "triangl",
+            "land",
+            "jut",
+            "lake",
+            "palac",
+            "dawn",
+            "palácio",
+            "da",
+            "alvorada",
+            "presidenti",
+            "resid"
+        ],
         "synonyms": [
             "further",
             "east",
@@ -14281,7 +14823,7 @@
             "presidential",
             "residency"
         ],
-        "tagged": [
+        "tags": [
             [
                 "farther",
                 "RB"
@@ -14749,6 +15291,25 @@
         "meronyms": [],
         "ner_tag": "{'Between': 'O', 'the': 'O', 'federal': 'O', 'and': 'O', 'civic': 'O', 'buildings': 'O', 'on': 'O', 'Monumental': 'MISC', 'Axis': 'MISC', 'is': 'O', 'city': 'O', \"'s\": 'O', 'cathedral': 'O', ',': 'O', 'considered': 'O', 'by': 'O', 'many': 'O', 'to': 'O', 'be': 'O', 'Niemeyer': 'PERSON', 'finest': 'O', 'achievement': 'O', '(': 'O', 'see': 'O', 'photographs': 'O', 'of': 'O', 'interior': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Between the federal and civic buildings on the Monumental Axis is the city's cathedral, considered by many to be Niemeyer's finest achievement (see photographs of the interior).",
+        "stems": [
+            "feder",
+            "civic",
+            "build",
+            "monument",
+            "axi",
+            "citi",
+            "'s",
+            "cathedr",
+            "consid",
+            "mani",
+            "niemey",
+            "'s",
+            "finest",
+            "achiev",
+            "see",
+            "photograph",
+            "interior"
+        ],
         "synonyms": [
             "Federal",
             "civic",
@@ -14768,7 +15329,7 @@
             "photograph",
             "interior"
         ],
-        "tagged": [
+        "tags": [
             [
                 "federal",
                 "JJ"
@@ -15372,6 +15933,30 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'parabolically': 'O', 'shaped': 'O', 'structure': 'O', 'is': 'O', 'characterized': 'O', 'by': 'O', 'its': 'O', '16': 'NUMBER', 'gracefully': 'O', 'curving': 'O', 'supports': 'O', ',': 'O', 'which': 'O', 'join': 'O', 'in': 'O', 'a': 'O', 'circle': 'O', '115': 'NUMBER', 'feet': 'O', '(': 'O', '35': 'NUMBER', 'meters': 'O', ')': 'O', 'above': 'O', 'the': 'O', 'floor': 'O', 'of': 'O', 'nave': 'O', ';': 'O', 'stretched': 'O', 'between': 'O', 'are': 'O', 'translucent': 'O', 'walls': 'O', 'tinted': 'O', 'glass': 'O', '.': 'O'}",
         "sentence": "The parabolically shaped structure is characterized by its 16 gracefully curving supports, which join in a circle 115 feet (35 meters) above the floor of the nave; stretched between the supports are translucent walls of tinted glass.",
+        "stems": [
+            "parabol",
+            "shape",
+            "structur",
+            "character",
+            "16",
+            "grace",
+            "curv",
+            "support",
+            "join",
+            "circl",
+            "115",
+            "feet",
+            "35",
+            "meter",
+            "floor",
+            "nave",
+            "stretch",
+            "support",
+            "transluc",
+            "wall",
+            "tint",
+            "glass"
+        ],
         "synonyms": [
             "parabolically",
             "shaped",
@@ -15396,7 +15981,7 @@
             "tint",
             "methamphetamine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "parabolically",
                 "RB"
@@ -15679,6 +16264,16 @@
         ],
         "ner_tag": "{'The': 'O', 'nave': 'O', 'is': 'O', 'entered': 'O', 'via': 'O', 'a': 'O', 'subterranean': 'O', 'passage': 'O', 'rather': 'O', 'than': 'O', 'conventional': 'O', 'doorways': 'O', '.': 'O'}",
         "sentence": "The nave is entered via a subterranean passage rather than conventional doorways.",
+        "stems": [
+            "nave",
+            "enter",
+            "via",
+            "subterranean",
+            "passag",
+            "rather",
+            "convent",
+            "doorway"
+        ],
         "synonyms": [
             "nave",
             "record",
@@ -15689,7 +16284,7 @@
             "conventional",
             "doorway"
         ],
-        "tagged": [
+        "tags": [
             [
                 "nave",
                 "RB"
@@ -16073,6 +16668,24 @@
         ],
         "ner_tag": "{'Other': 'O', 'notable': 'O', 'buildings': 'O', 'are': 'O', 'Buriti': 'CITY', 'Palace': 'LOCATION', ',': 'O', 'Itamaraty': 'LOCATION', 'the': 'O', 'National': 'ORGANIZATION', 'Theater': 'ORGANIZATION', 'and': 'O', 'several': 'O', 'foreign': 'O', 'embassies': 'O', 'that': 'O', 'creatively': 'O', 'embody': 'O', 'features': 'O', 'of': 'O', 'their': 'O', 'national': 'O', 'architecture': 'O', '.': 'O'}",
         "sentence": "Other notable buildings are Buriti Palace, Itamaraty Palace, the National Theater, and several foreign embassies that creatively embody features of their national architecture.",
+        "stems": [
+            "notabl",
+            "build",
+            "buriti",
+            "palac",
+            "itamarati",
+            "palac",
+            "nation",
+            "theater",
+            "sever",
+            "foreign",
+            "embassi",
+            "creativ",
+            "embodi",
+            "featur",
+            "nation",
+            "architectur"
+        ],
         "synonyms": [
             "luminary",
             "building",
@@ -16091,7 +16704,7 @@
             "national",
             "computer_architecture"
         ],
-        "tagged": [
+        "tags": [
             [
                 "notable",
                 "JJ"
@@ -16408,6 +17021,20 @@
         ],
         "ner_tag": "{'The': 'O', 'Brazilian': 'NATIONALITY', 'landscape': 'TITLE', 'architect': 'TITLE', 'Roberto': 'PERSON', 'Burle': 'PERSON', 'Marx': 'PERSON', 'designed': 'O', 'landmark': 'O', 'modernist': 'O', 'gardens': 'O', 'for': 'O', 'some': 'O', 'of': 'O', 'the': 'O', 'principal': 'TITLE', 'buildings': 'O', '.': 'O'}",
         "sentence": "The Brazilian landscape architect Roberto Burle Marx designed landmark modernist gardens for some of the principal buildings.",
+        "stems": [
+            "brazilian",
+            "landscap",
+            "architect",
+            "roberto",
+            "burl",
+            "marx",
+            "design",
+            "landmark",
+            "modernist",
+            "garden",
+            "princip",
+            "build"
+        ],
         "synonyms": [
             "Brazilian",
             "landscape",
@@ -16422,7 +17049,7 @@
             "star",
             "building"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brazilian",
                 "JJ"
@@ -16679,6 +17306,14 @@
         "meronyms": [],
         "ner_tag": "{'Both': 'O', 'low': 'O', '-': 'O', 'cost': 'O', 'and': 'O', 'luxury': 'O', 'housing': 'O', 'were': 'O', 'built': 'O', 'by': 'O', 'the': 'O', 'government': 'O', 'in': 'O', 'Brasília': 'LOCATION', '.': 'O'}",
         "sentence": "Both low-cost and luxury housing were built by the government in the Brasília.",
+        "stems": [
+            "low-cost",
+            "luxuri",
+            "hous",
+            "built",
+            "govern",
+            "brasília"
+        ],
         "synonyms": [
             "low-cost",
             "luxury",
@@ -16687,7 +17322,7 @@
             "government",
             "brasília"
         ],
-        "tagged": [
+        "tags": [
             [
                 "low-cost",
                 "JJ"
@@ -17190,6 +17825,29 @@
         ],
         "ner_tag": "{'The': 'O', 'residential': 'O', 'zones': 'O', 'of': 'O', 'the': 'O', 'inner': 'O', 'city': 'O', 'are': 'O', 'arranged': 'O', 'into': 'O', 'superquadras': 'O', '(': 'O', '``': 'O', 'superblocks': 'O', \"''\": 'O', ')': 'O', ':': 'O', 'groups': 'O', 'apartment': 'O', 'buildings': 'O', 'along': 'O', 'with': 'O', 'a': 'O', 'prescribed': 'O', 'number': 'O', 'and': 'O', 'type': 'O', 'schools': 'O', ',': 'O', 'retail': 'O', 'stores': 'O', 'open': 'O', 'spaces': 'O', '.': 'O'}",
         "sentence": "The residential zones of the inner city are arranged into superquadras (\"superblocks\"): groups of apartment buildings along with a prescribed number and type of schools, retail stores, and open spaces.",
+        "stems": [
+            "residenti",
+            "zone",
+            "inner",
+            "citi",
+            "arrang",
+            "superquadra",
+            "``",
+            "superblock",
+            "''",
+            "group",
+            "apart",
+            "build",
+            "along",
+            "prescrib",
+            "number",
+            "type",
+            "school",
+            "retail",
+            "store",
+            "open",
+            "space"
+        ],
         "synonyms": [
             "residential",
             "zone",
@@ -17213,7 +17871,7 @@
             "unfold",
             "space"
         ],
-        "tagged": [
+        "tags": [
             [
                 "residential",
                 "JJ"
@@ -17710,6 +18368,24 @@
         "meronyms": [],
         "ner_tag": "{'At': 'O', 'the': 'O', 'northern': 'O', 'end': 'O', 'of': 'O', 'Lake': 'LOCATION', 'Paranoá': 'LOCATION', ',': 'O', 'separated': 'O', 'from': 'O', 'inner': 'O', 'city': 'O', 'is': 'O', 'a': 'O', 'peninsula': 'O', 'with': 'O', 'many': 'O', 'fashionable': 'O', 'homes': 'O', 'and': 'O', 'similar': 'O', 'exists': 'O', 'on': 'O', 'southern': 'O', 'lakeshore': 'O', '.': 'O'}",
         "sentence": "At the northern end of Lake Paranoá, separated from the inner city, is a peninsula with many fashionable homes, and a similar city exists on the southern lakeshore.",
+        "stems": [
+            "northern",
+            "end",
+            "lake",
+            "paranoá",
+            "separ",
+            "inner",
+            "citi",
+            "peninsula",
+            "mani",
+            "fashion",
+            "home",
+            "similar",
+            "citi",
+            "exist",
+            "southern",
+            "lakeshor"
+        ],
         "synonyms": [
             "Northern",
             "goal",
@@ -17728,7 +18404,7 @@
             "southern",
             "lakeside"
         ],
-        "tagged": [
+        "tags": [
             [
                 "northern",
                 "JJ"
@@ -18265,6 +18941,31 @@
         ],
         "ner_tag": "{'Originally': 'O', 'the': 'O', 'city': 'O', 'planners': 'O', 'envisioned': 'O', 'extensive': 'O', 'public': 'O', 'areas': 'O', 'along': 'O', 'shores': 'O', 'of': 'O', 'artificial': 'O', 'lake': 'O', ',': 'O', 'but': 'O', 'during': 'O', 'early': 'O', 'development': 'O', 'private': 'O', 'clubs': 'O', 'hotels': 'O', 'and': 'O', 'upscale': 'O', 'residences': 'O', 'restaurants': 'O', 'gained': 'O', 'footholds': 'O', 'around': 'O', 'water': 'O', '.': 'O'}",
         "sentence": "Originally the city planners envisioned extensive public areas along the shores of the artificial lake, but during early development private clubs, hotels, and upscale residences and restaurants gained footholds around the water.",
+        "stems": [
+            "origin",
+            "citi",
+            "planner",
+            "envis",
+            "extens",
+            "public",
+            "area",
+            "along",
+            "shore",
+            "artifici",
+            "lake",
+            "earli",
+            "develop",
+            "privat",
+            "club",
+            "hotel",
+            "upscal",
+            "resid",
+            "restaur",
+            "gain",
+            "foothold",
+            "around",
+            "water"
+        ],
         "synonyms": [
             "primitively",
             "city",
@@ -18290,7 +18991,7 @@
             "around",
             "water_system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "originally",
                 "RB"
@@ -18714,6 +19415,22 @@
         ],
         "ner_tag": "{'Set': 'O', 'well': 'O', 'apart': 'O', 'from': 'O', 'the': 'O', 'city': 'O', 'are': 'O', 'satellite': 'O', 'cities': 'O', ',': 'O', 'including': 'O', 'Gama': 'PERSON', 'Ceilândia': 'LOCATION', 'Taguatinga': 'PERSON', 'Núcleo': 'PERSON', 'Bandeirante': 'PERSON', 'Sobradinho': 'O', 'and': 'O', 'Planaltina': 'CITY', '.': 'O'}",
         "sentence": "Set well apart from the city are satellite cities, including Gama, Ceilândia, Taguatinga, Núcleo Bandeirante, Sobradinho, and Planaltina.",
+        "stems": [
+            "set",
+            "well",
+            "apart",
+            "citi",
+            "satellit",
+            "citi",
+            "includ",
+            "gama",
+            "ceilândia",
+            "taguatinga",
+            "núcleo",
+            "bandeirant",
+            "sobradinho",
+            "planaltina"
+        ],
         "synonyms": [
             "stage_set",
             "well",
@@ -18730,7 +19447,7 @@
             "sobradinho",
             "planaltina"
         ],
-        "tagged": [
+        "tags": [
             [
                 "set",
                 "VBN"
@@ -18971,6 +19688,13 @@
         "meronyms": [],
         "ner_tag": "{'These': 'O', 'cities': 'O', ',': 'O', 'with': 'O', 'the': 'O', 'exception': 'O', 'of': 'O', 'Gama': 'PERSON', 'and': 'O', 'Sobradinho': 'O', 'were': 'O', 'not': 'O', 'planned': 'O', '.': 'O'}",
         "sentence": "These cities, with the exception of Gama and Sobradinho were not planned.",
+        "stems": [
+            "citi",
+            "except",
+            "gama",
+            "sobradinho",
+            "plan"
+        ],
         "synonyms": [
             "city",
             "exception",
@@ -18978,7 +19702,7 @@
             "sobradinho",
             "planned"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cities",
                 "NNS"
@@ -19583,6 +20307,33 @@
         ],
         "ner_tag": "{'After': 'O', 'a': 'O', 'visit': 'O', 'to': 'O', 'Brasília': 'LOCATION', ',': 'O', 'the': 'O', 'French': 'NATIONALITY', 'writer': 'TITLE', 'Simone': 'PERSON', 'de': 'PERSON', 'Beauvoir': 'PERSON', 'complained': 'O', 'that': 'O', 'all': 'O', 'of': 'O', 'its': 'O', 'superquadras': 'O', 'exuded': 'O', '``': 'O', 'same': 'O', 'air': 'O', 'elegant': 'O', 'monotony': 'O', \"''\": 'O', 'and': 'O', 'other': 'O', 'observers': 'O', 'have': 'O', 'equated': 'O', 'city': 'O', \"'s\": 'O', 'large': 'O', 'open': 'O', 'lawns': 'O', 'plazas': 'O', 'fields': 'O', 'wastelands': 'O', '.': 'O'}",
         "sentence": "After a visit to Brasília, the French writer Simone de Beauvoir complained that all of its superquadras exuded \"the same air of elegant monotony,\" and other observers have equated the city's large open lawns, plazas, and fields to wastelands.",
+        "stems": [
+            "visit",
+            "brasília",
+            "french",
+            "writer",
+            "simon",
+            "de",
+            "beauvoir",
+            "complain",
+            "superquadra",
+            "exud",
+            "``",
+            "air",
+            "eleg",
+            "monotoni",
+            "''",
+            "observ",
+            "equat",
+            "citi",
+            "'s",
+            "larg",
+            "open",
+            "lawn",
+            "plaza",
+            "field",
+            "wasteland"
+        ],
         "synonyms": [
             "visit",
             "brasília",
@@ -19610,7 +20361,7 @@
             "sphere",
             "barren"
         ],
-        "tagged": [
+        "tags": [
             [
                 "visit",
                 "NN"
@@ -20125,6 +20876,22 @@
         "meronyms": [],
         "ner_tag": "{'As': 'O', 'the': 'O', 'city': 'O', 'has': 'O', 'matured': 'O', ',': 'O', 'some': 'O', 'of': 'O', 'these': 'O', 'have': 'O', 'gained': 'O', 'adornments': 'O', 'and': 'O', 'many': 'O', 'been': 'O', 'improved': 'O', 'by': 'O', 'landscaping': 'O', 'giving': 'O', 'observers': 'O', 'a': 'O', 'sense': 'O', '``': 'O', 'humanized': 'O', \"''\": 'O', 'spaciousness': 'O', '.': 'O'}",
         "sentence": "As the city has matured, some of these have gained adornments, and many have been improved by landscaping, giving some observers a sense of \"humanized\" spaciousness.",
+        "stems": [
+            "citi",
+            "matur",
+            "gain",
+            "adorn",
+            "mani",
+            "improv",
+            "landscap",
+            "give",
+            "observ",
+            "sens",
+            "``",
+            "human",
+            "''",
+            "spacious"
+        ],
         "synonyms": [
             "city",
             "suppurate",
@@ -20141,7 +20908,7 @@
             "''",
             "capaciousness"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -20952,6 +21719,40 @@
         ],
         "ner_tag": "{'Although': 'O', 'not': 'O', 'fully': 'O', 'accomplished': 'O', ',': 'O', 'the': 'O', '``': 'O', 'Brasília': 'LOCATION', 'utopia': 'O', \"''\": 'O', 'has': 'O', 'produced': 'O', 'a': 'O', 'city': 'O', 'of': 'O', 'relatively': 'O', 'high': 'O', 'quality': 'O', 'life': 'O', 'in': 'O', 'which': 'O', 'citizens': 'O', 'live': 'O', 'forested': 'O', 'areas': 'O', 'with': 'O', 'sporting': 'O', 'and': 'O', 'leisure': 'O', 'structure': 'O', '(': 'O', 'superquadras': 'O', ')': 'O', 'flanked': 'O', 'by': 'O', 'small': 'O', 'commercial': 'O', 'bookstores': 'O', 'cafes': 'O', ';': 'O', 'is': 'O', 'famous': 'O', 'for': 'O', 'its': 'O', 'cuisine': 'O', 'efficiency': 'O', 'transit': 'O', '.': 'O'}",
         "sentence": "Although not fully accomplished, the \"Brasília utopia\" has produced a city of relatively high quality of life, in which the citizens live in forested areas with sporting and leisure structure (the superquadras) flanked by small commercial areas, bookstores and cafes; the city is famous for its cuisine and efficiency of transit.",
+        "stems": [
+            "although",
+            "fulli",
+            "accomplish",
+            "``",
+            "brasília",
+            "utopia",
+            "''",
+            "produc",
+            "citi",
+            "rel",
+            "high",
+            "qualiti",
+            "life",
+            "citizen",
+            "live",
+            "forest",
+            "area",
+            "sport",
+            "leisur",
+            "structur",
+            "superquadra",
+            "flank",
+            "small",
+            "commerci",
+            "area",
+            "bookstor",
+            "cafe",
+            "citi",
+            "famou",
+            "cuisin",
+            "effici",
+            "transit"
+        ],
         "synonyms": [
             "although",
             "in_full",
@@ -20986,7 +21787,7 @@
             "efficiency",
             "transportation_system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -21694,6 +22495,32 @@
         ],
         "ner_tag": "{'The': 'O', 'major': 'O', 'roles': 'O', 'of': 'O', 'construction': 'O', 'and': 'O', 'services': 'O', '(': 'O', 'government': 'O', ',': 'O', 'communications': 'O', 'banking': 'O', 'finance': 'O', 'food': 'O', 'production': 'O', 'entertainment': 'O', 'legal': 'O', ')': 'O', 'in': 'O', 'Brasília': 'LOCATION', \"'s\": 'O', 'economy': 'O', 'reflect': 'O', 'the': 'O', 'city': 'O', 'status': 'O', 'as': 'O', 'a': 'O', 'governmental': 'O', 'rather': 'O', 'than': 'O', 'an': 'O', 'industrial': 'O', 'center': 'O', '.': 'O'}",
         "sentence": "The major roles of construction and of services (government, communications, banking and finance, food production, entertainment, and legal services) in Brasília's economy reflect the city's status as a governmental rather than an industrial center.",
+        "stems": [
+            "major",
+            "role",
+            "construct",
+            "servic",
+            "govern",
+            "commun",
+            "bank",
+            "financ",
+            "food",
+            "product",
+            "entertain",
+            "legal",
+            "servic",
+            "brasília",
+            "'s",
+            "economi",
+            "reflect",
+            "citi",
+            "'s",
+            "statu",
+            "government",
+            "rather",
+            "industri",
+            "center"
+        ],
         "synonyms": [
             "major",
             "role",
@@ -21720,7 +22547,7 @@
             "industrial",
             "plaza"
         ],
-        "tagged": [
+        "tags": [
             [
                 "major",
                 "JJ"
@@ -22173,6 +23000,20 @@
         ],
         "ner_tag": "{'Industries': 'O', 'connected': 'O', 'with': 'O', 'construction': 'O', ',': 'O', 'food': 'O', 'processing': 'O', 'and': 'O', 'furnishings': 'O', 'are': 'O', 'important': 'O', 'as': 'O', 'those': 'O', 'associated': 'O', 'publishing': 'O', 'printing': 'O', 'computer': 'O', 'software': 'O', '.': 'O'}",
         "sentence": "Industries connected with construction, food processing, and furnishings are important, as are those associated with publishing, printing, and computer software.",
+        "stems": [
+            "industri",
+            "connect",
+            "construct",
+            "food",
+            "process",
+            "furnish",
+            "import",
+            "associ",
+            "publish",
+            "print",
+            "comput",
+            "softwar"
+        ],
         "synonyms": [
             "industry",
             "machine-accessible",
@@ -22187,7 +23028,7 @@
             "computer",
             "software"
         ],
-        "tagged": [
+        "tags": [
             [
                 "industries",
                 "NNS"
@@ -22556,6 +23397,21 @@
         ],
         "ner_tag": "{'GDP': 'O', 'is': 'O', 'divided': 'O', 'in': 'O', 'Public': 'O', 'Administration': 'O', '54.8': 'PERCENT', '%': 'PERCENT', ',': 'O', 'Services': 'O', '28.7': 'PERCENT', 'Industry': 'O', '10.2': 'PERCENT', 'Commerce': 'O', '6.1': 'PERCENT', 'Agribusiness': 'O', '0.2': 'PERCENT', '.': 'O'}",
         "sentence": "GDP is divided in Public Administration 54.8%, Services 28.7%, Industry 10.2%, Commerce 6.1%, Agribusiness 0.2%.",
+        "stems": [
+            "gdp",
+            "divid",
+            "public",
+            "administr",
+            "54.8",
+            "servic",
+            "28.7",
+            "industri",
+            "10.2",
+            "commerc",
+            "6.1",
+            "agribusi",
+            "0.2"
+        ],
         "synonyms": [
             "gross_domestic_product",
             "separate",
@@ -22571,7 +23427,7 @@
             "agribusiness",
             "0.2"
         ],
-        "tagged": [
+        "tags": [
             [
                 "gdp",
                 "NNS"
@@ -22801,6 +23657,15 @@
         ],
         "ner_tag": "{'Besides': 'O', 'being': 'O', 'the': 'O', 'political': 'O', 'center': 'O', ',': 'O', 'Brasília': 'LOCATION', 'is': 'O', 'an': 'O', 'important': 'O', 'economic': 'O', '.': 'O'}",
         "sentence": "Besides being the political center, Brasília is an important economic center.",
+        "stems": [
+            "besid",
+            "polit",
+            "center",
+            "brasília",
+            "import",
+            "econom",
+            "center"
+        ],
         "synonyms": [
             "besides",
             "political",
@@ -22810,7 +23675,7 @@
             "economic",
             "plaza"
         ],
-        "tagged": [
+        "tags": [
             [
                 "besides",
                 "IN"
@@ -23147,6 +24012,23 @@
         "meronyms": [],
         "ner_tag": "{'Brasília': 'LOCATION', 'has': 'O', 'the': 'O', 'highest': 'O', 'city': 'O', 'gross': 'O', 'domestic': 'O', 'product': 'O', '(': 'O', 'GDP': 'O', ')': 'O', 'of': 'O', '99.5': 'NUMBER', 'billion': 'NUMBER', 'reais': 'O', 'representing': 'O', '3.76': 'PERCENT', '%': 'PERCENT', 'total': 'O', 'Brazilian': 'NATIONALITY', '.': 'O'}",
         "sentence": "Brasília has the highest city gross domestic product (GDP) of 99.5 billion reais representing 3.76% of the total Brazilian GDP.",
+        "stems": [
+            "brasília",
+            "highest",
+            "citi",
+            "gross",
+            "domest",
+            "product",
+            "gdp",
+            "99.5",
+            "billion",
+            "reai",
+            "repres",
+            "3.76",
+            "total",
+            "brazilian",
+            "gdp"
+        ],
         "synonyms": [
             "brasília",
             "high",
@@ -23164,7 +24046,7 @@
             "Brazilian",
             "gross_domestic_product"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "JJ"
@@ -23423,6 +24305,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'main': 'O', 'economic': 'O', 'activity': 'O', 'of': 'O', 'the': 'O', 'federal': 'O', 'capital': 'O', 'results': 'O', 'from': 'O', 'its': 'O', 'administrative': 'O', 'function': 'O', '.': 'O'}",
         "sentence": "The main economic activity of the federal capital results from its administrative function.",
+        "stems": [
+            "main",
+            "econom",
+            "activ",
+            "feder",
+            "capit",
+            "result",
+            "administr",
+            "function"
+        ],
         "synonyms": [
             "main",
             "economic",
@@ -23433,7 +24325,7 @@
             "administrative",
             "serve"
         ],
-        "tagged": [
+        "tags": [
             [
                 "main",
                 "JJ"
@@ -23652,6 +24544,15 @@
         "meronyms": [],
         "ner_tag": "{'Its': 'O', 'industrial': 'O', 'planning': 'O', 'is': 'O', 'studied': 'O', 'carefully': 'O', 'by': 'O', 'the': 'O', 'Government': 'O', 'of': 'O', 'Federal': 'LOCATION', 'District': 'LOCATION', '.': 'O'}",
         "sentence": "Its industrial planning is studied carefully by the Government of the Federal District.",
+        "stems": [
+            "industri",
+            "plan",
+            "studi",
+            "care",
+            "govern",
+            "feder",
+            "district"
+        ],
         "synonyms": [
             "industrial",
             "planning",
@@ -23661,7 +24562,7 @@
             "Federal",
             "district"
         ],
-        "tagged": [
+        "tags": [
             [
                 "industrial",
                 "JJ"
@@ -24292,6 +25193,33 @@
         ],
         "ner_tag": "{'Being': 'O', 'a': 'O', 'city': 'O', 'registered': 'O', 'by': 'O', 'UNESCO': 'ORGANIZATION', ',': 'O', 'the': 'O', 'government': 'O', 'in': 'O', 'Brasília': 'LOCATION', 'has': 'O', 'opted': 'O', 'to': 'O', 'encourage': 'O', 'development': 'O', 'of': 'O', 'non-polluting': 'O', 'industries': 'O', 'such': 'O', 'as': 'O', 'software': 'O', 'film': 'O', 'video': 'O', 'and': 'O', 'gemology': 'O', 'among': 'O', 'others': 'O', 'with': 'O', 'emphasis': 'O', 'on': 'O', 'environmental': 'O', 'preservation': 'O', 'maintaining': 'O', 'ecological': 'O', 'balance': 'O', 'preserving': 'O', 'property': 'O', '.': 'O'}",
         "sentence": "Being a city registered by UNESCO, the government in Brasília has opted to encourage the development of non-polluting industries such as software, film, video, and gemology among others, with emphasis on environmental preservation and maintaining ecological balance, preserving the city property.",
+        "stems": [
+            "citi",
+            "regist",
+            "unesco",
+            "govern",
+            "brasília",
+            "opt",
+            "encourag",
+            "develop",
+            "non-pollut",
+            "industri",
+            "softwar",
+            "film",
+            "video",
+            "gemolog",
+            "among",
+            "other",
+            "emphasi",
+            "environment",
+            "preserv",
+            "maintain",
+            "ecolog",
+            "balanc",
+            "preserv",
+            "citi",
+            "properti"
+        ],
         "synonyms": [
             "city",
             "registered",
@@ -24319,7 +25247,7 @@
             "city",
             "property"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -24718,6 +25646,23 @@
         ],
         "ner_tag": "{'The': 'O', 'city': 'O', \"'s\": 'O', 'planned': 'O', 'design': 'O', 'included': 'O', 'specific': 'O', 'areas': 'O', 'for': 'O', 'almost': 'O', 'everything': 'O', ',': 'O', 'including': 'O', 'accommodation': 'O', 'Hotels': 'O', 'Sectors': 'O', 'North': 'O', 'and': 'O', 'South': 'LOCATION', '.': 'O'}",
         "sentence": "The city's planned design included specific areas for almost everything, including accommodation, Hotels Sectors North and South.",
+        "stems": [
+            "citi",
+            "'s",
+            "plan",
+            "design",
+            "includ",
+            "specif",
+            "area",
+            "almost",
+            "everyth",
+            "includ",
+            "accommod",
+            "hotel",
+            "sector",
+            "north",
+            "south"
+        ],
         "synonyms": [
             "city",
             "'s",
@@ -24735,7 +25680,7 @@
             "north",
             "south"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -25128,6 +26073,21 @@
         ],
         "ner_tag": "{'New': 'O', 'hotel': 'O', 'facilities': 'O', 'are': 'O', 'being': 'O', 'developed': 'O', 'elsewhere': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'the': 'O', 'hotels': 'O', 'and': 'O', 'tourism': 'O', 'Sector': 'O', 'North': 'O', 'located': 'O', 'on': 'O', 'shores': 'O', 'of': 'O', 'Lake': 'LOCATION', 'Paranoá': 'LOCATION', '.': 'O'}",
         "sentence": "New hotel facilities are being developed elsewhere, such as the hotels and tourism Sector North, located on the shores of Lake Paranoá.",
+        "stems": [
+            "new",
+            "hotel",
+            "facil",
+            "develop",
+            "elsewher",
+            "hotel",
+            "tourism",
+            "sector",
+            "north",
+            "locat",
+            "shore",
+            "lake",
+            "paranoá"
+        ],
         "synonyms": [
             "newfangled",
             "hotel",
@@ -25143,7 +26103,7 @@
             "lake",
             "paranoá"
         ],
-        "tagged": [
+        "tags": [
             [
                 "new",
                 "JJ"
@@ -25458,6 +26418,19 @@
         ],
         "ner_tag": "{'Brasília': 'LOCATION', 'has': 'O', 'a': 'O', 'range': 'O', 'of': 'O', 'tourist': 'O', 'accommodation': 'O', 'from': 'O', 'inns': 'O', ',': 'O', 'pensions': 'O', 'and': 'O', 'hostels': 'O', 'to': 'O', 'larger': 'O', 'international': 'O', 'chain': 'O', 'hotels': 'O', '.': 'O'}",
         "sentence": "Brasília has a range of tourist accommodation from inns, pensions and hostels to larger international chain hotels.",
+        "stems": [
+            "brasília",
+            "rang",
+            "tourist",
+            "accommod",
+            "inn",
+            "pension",
+            "hostel",
+            "larger",
+            "intern",
+            "chain",
+            "hotel"
+        ],
         "synonyms": [
             "brasília",
             "stove",
@@ -25471,7 +26444,7 @@
             "range",
             "hotel"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "NN"
@@ -25802,6 +26775,21 @@
         ],
         "ner_tag": "{'The': 'O', 'city': 'O', \"'s\": 'O', 'restaurants': 'O', 'cater': 'O', 'to': 'O', 'a': 'O', 'wide': 'O', 'range': 'O', 'of': 'O', 'foods': 'O', 'from': 'O', 'local': 'O', 'and': 'O', 'regional': 'O', 'Brazilian': 'NATIONALITY', 'dishes': 'O', 'international': 'O', 'cuisine': 'O', '.': 'O'}",
         "sentence": "The city's restaurants cater to a wide range of foods from local and regional Brazilian dishes to international cuisine.",
+        "stems": [
+            "citi",
+            "'s",
+            "restaur",
+            "cater",
+            "wide",
+            "rang",
+            "food",
+            "local",
+            "region",
+            "brazilian",
+            "dish",
+            "intern",
+            "cuisin"
+        ],
         "synonyms": [
             "city",
             "'s",
@@ -25817,7 +26805,7 @@
             "International",
             "cuisine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -26033,6 +27021,13 @@
         "meronyms": [],
         "ner_tag": "{'Brasília': 'LOCATION', 'has': 'O', 'also': 'O', 'been': 'O', 'the': 'O', 'focus': 'O', 'of': 'O', 'modern': 'O', '-': 'O', 'day': 'O', 'literature': 'O', '.': 'O'}",
         "sentence": "Brasília has also been the focus of modern-day literature.",
+        "stems": [
+            "brasília",
+            "also",
+            "focu",
+            "modern-day",
+            "literatur"
+        ],
         "synonyms": [
             "brasília",
             "besides",
@@ -26040,7 +27035,7 @@
             "contemporary",
             "literature"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "NNS"
@@ -26575,6 +27570,32 @@
         ],
         "ner_tag": "{'Published': 'O', 'in': 'O', '2008': 'DATE', ',': 'O', 'The': 'O', 'World': 'O', 'In': 'O', 'Grey': 'LOCATION', ':': 'O', 'Dom': 'PERSON', 'Bosco': 'PERSON', \"'s\": 'O', 'Prophecy': 'O', 'by': 'O', 'author': 'TITLE', 'Ryan': 'PERSON', 'J.': 'PERSON', 'Lucero': 'PERSON', 'tells': 'O', 'an': 'O', 'apocalypticle': 'O', 'story': 'O', 'based': 'O', 'on': 'O', 'the': 'O', 'famous': 'O', 'prophecy': 'O', 'from': 'O', 'late': 'DATE', '19th': 'DATE', 'century': 'DATE', 'Italian': 'NATIONALITY', 'saint': 'TITLE', 'Don': 'PERSON', '.': 'O'}",
         "sentence": "Published in 2008, The World In Grey: Dom Bosco's Prophecy, by author Ryan J. Lucero, tells an apocalypticle story based on the famous prophecy from the late 19th century by the Italian saint Don Bosco.",
+        "stems": [
+            "publish",
+            "2008",
+            "world",
+            "grey",
+            "dom",
+            "bosco",
+            "'s",
+            "propheci",
+            "author",
+            "ryan",
+            "j.",
+            "lucero",
+            "tell",
+            "apocalypticl",
+            "stori",
+            "base",
+            "famou",
+            "propheci",
+            "late",
+            "19th",
+            "centuri",
+            "italian",
+            "saint",
+            "bosco"
+        ],
         "synonyms": [
             "published",
             "2008",
@@ -26601,7 +27622,7 @@
             "saint",
             "bosco"
         ],
-        "tagged": [
+        "tags": [
             [
                 "published",
                 "VBN"
@@ -27176,6 +28197,26 @@
         ],
         "ner_tag": "{'According': 'O', 'to': 'O', 'Don': 'PERSON', 'Bosco': 'PERSON', \"'s\": 'O', 'prophecy': 'O', ':': 'O', '``': 'O', 'Between': 'O', 'parallels': 'O', '15': 'NUMBER', 'and': 'O', '20': 'NUMBER', ',': 'O', 'around': 'O', 'a': 'O', 'lake': 'O', 'which': 'O', 'shall': 'O', 'be': 'O', 'formed': 'O', ';': 'O', 'A': 'O', 'great': 'O', 'civilization': 'O', 'will': 'O', 'thrive': 'O', 'that': 'O', 'the': 'O', 'Promised': 'O', 'Land': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "According to Don Bosco's prophecy: \"Between parallels 15 and 20, around a lake which shall be formed; A great civilization will thrive, and that will be the Promised Land.\"",
+        "stems": [
+            "accord",
+            "bosco",
+            "'s",
+            "propheci",
+            "``",
+            "parallel",
+            "15",
+            "20",
+            "around",
+            "lake",
+            "shall",
+            "form",
+            "great",
+            "civil",
+            "thrive",
+            "promis",
+            "land",
+            "''"
+        ],
         "synonyms": [
             "harmonize",
             "bosco",
@@ -27196,7 +28237,7 @@
             "state",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "according",
                 "VBG"
@@ -27578,6 +28619,18 @@
         "meronyms": [],
         "ner_tag": "{'Brasília': 'LOCATION', 'lies': 'O', 'between': 'O', 'the': 'O', 'parallels': 'O', '15': 'NUMBER', '°': 'O', 'S': 'O', 'and': 'O', '20': 'NUMBER', ',': 'O', 'where': 'O', 'an': 'O', 'artificial': 'O', 'lake': 'O', '(': 'O', 'Paranoá': 'LOCATION', 'Lake': 'LOCATION', ')': 'O', 'was': 'O', 'formed': 'O', '.': 'O'}",
         "sentence": "Brasília lies between the parallels 15° S and 20° S, where an artificial lake (Paranoá Lake) was formed.",
+        "stems": [
+            "brasília",
+            "lie",
+            "parallel",
+            "15°",
+            "20°",
+            "artifici",
+            "lake",
+            "paranoá",
+            "lake",
+            "form"
+        ],
         "synonyms": [
             "brasília",
             "lie_down",
@@ -27590,7 +28643,7 @@
             "lake",
             "shape"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "NN"
@@ -27748,6 +28801,13 @@
         "meronyms": [],
         "ner_tag": "{'Don': 'PERSON', 'Bosco': 'PERSON', 'is': 'O', 'Brasília': 'LOCATION', \"'s\": 'O', 'patron': 'O', 'saint': 'TITLE', '.': 'O'}",
         "sentence": "Don Bosco is Brasília's patron saint.",
+        "stems": [
+            "bosco",
+            "brasília",
+            "'s",
+            "patron",
+            "saint"
+        ],
         "synonyms": [
             "bosco",
             "brasília",
@@ -27755,7 +28815,7 @@
             "patron",
             "saint"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bosco",
                 "NN"
@@ -28019,6 +29079,18 @@
         ],
         "ner_tag": "{'Praça': 'ORGANIZATION', 'dos': 'ORGANIZATION', 'Três': 'ORGANIZATION', 'Poderes': 'ORGANIZATION', '(': 'O', 'Portuguese': 'NATIONALITY', 'for': 'O', 'Square': 'O', 'of': 'O', 'the': 'O', 'Three': 'NUMBER', 'Powers': 'O', ')': 'O', 'is': 'O', 'a': 'O', 'plaza': 'O', 'in': 'O', 'Brasília': 'LOCATION', '.': 'O'}",
         "sentence": "Praça dos Três Poderes (Portuguese for Square of the Three Powers) is a plaza in Brasília.",
+        "stems": [
+            "praça",
+            "do",
+            "trê",
+            "poder",
+            "portugues",
+            "squar",
+            "three",
+            "power",
+            "plaza",
+            "brasília"
+        ],
         "synonyms": [
             "praça",
             "serve",
@@ -28031,7 +29103,7 @@
             "plaza",
             "brasília"
         ],
-        "tagged": [
+        "tags": [
             [
                 "praça",
                 "NN"
@@ -28815,6 +29887,37 @@
         ],
         "ner_tag": "{'The': 'O', 'name': 'O', 'is': 'O', 'derived': 'O', 'from': 'O', 'the': 'O', 'encounter': 'O', 'of': 'O', 'three': 'NUMBER', 'federal': 'O', 'branches': 'O', 'around': 'O', 'plaza': 'O', ':': 'O', 'Executive': 'TITLE', ',': 'O', 'represented': 'O', 'by': 'O', 'Palácio': 'O', 'do': 'O', 'Planalto': 'O', '(': 'O', 'presidential': 'O', 'office': 'O', ')': 'O', ';': 'O', 'Legislative': 'O', 'National': 'ORGANIZATION', 'Congress': 'ORGANIZATION', 'Congresso': 'ORGANIZATION', 'Nacional': 'ORGANIZATION', 'and': 'O', 'Judicial': 'MISC', 'branch': 'O', 'Supreme': 'ORGANIZATION', 'Federal': 'ORGANIZATION', 'Court': 'ORGANIZATION', 'Supremo': 'ORGANIZATION', 'Tribunal': 'ORGANIZATION', '.': 'O'}",
         "sentence": "The name is derived from the encounter of the three federal branches around the plaza: the Executive, represented by the Palácio do Planalto (presidential office); the Legislative, represented by the National Congress (Congresso Nacional); and the Judicial branch, represented by the Supreme Federal Court (Supremo Tribunal Federal).",
+        "stems": [
+            "name",
+            "deriv",
+            "encount",
+            "three",
+            "feder",
+            "branch",
+            "around",
+            "plaza",
+            "execut",
+            "repres",
+            "palácio",
+            "planalto",
+            "presidenti",
+            "offic",
+            "legisl",
+            "repres",
+            "nation",
+            "congress",
+            "congresso",
+            "nacion",
+            "judici",
+            "branch",
+            "repres",
+            "suprem",
+            "feder",
+            "court",
+            "supremo",
+            "tribun",
+            "feder"
+        ],
         "synonyms": [
             "name",
             "derive",
@@ -28846,7 +29949,7 @@
             "court",
             "Federal"
         ],
-        "tagged": [
+        "tags": [
             [
                 "name",
                 "NN"
@@ -29315,6 +30418,22 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'is': 'O', 'a': 'O', 'tourist': 'O', 'attraction': 'O', 'in': 'O', 'Brasília': 'LOCATION', ',': 'O', 'designed': 'O', 'by': 'O', 'Lúcio': 'PERSON', 'Costa': 'PERSON', 'and': 'O', 'Oscar': 'PERSON', 'Niemeyer': 'PERSON', 'as': 'O', 'place': 'O', 'where': 'O', 'the': 'O', 'three': 'NUMBER', 'branches': 'O', 'would': 'O', 'meet': 'O', 'harmoniously': 'O', '.': 'O'}",
         "sentence": "It is a tourist attraction in Brasília, designed by Lúcio Costa and Oscar Niemeyer as a place where the three branches would meet harmoniously.",
+        "stems": [
+            "tourist",
+            "attract",
+            "brasília",
+            "design",
+            "lúcio",
+            "costa",
+            "oscar",
+            "niemey",
+            "place",
+            "three",
+            "branch",
+            "would",
+            "meet",
+            "harmoni"
+        ],
         "synonyms": [
             "tourist",
             "attraction",
@@ -29331,7 +30450,7 @@
             "meet",
             "harmoniously"
         ],
-        "tagged": [
+        "tags": [
             [
                 "tourist",
                 "NN"
@@ -29580,6 +30699,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Palácio': 'MISC', 'da': 'MISC', 'Alvorada': 'MISC', 'is': 'O', 'the': 'O', 'official': 'O', 'residence': 'O', 'of': 'O', 'President': 'TITLE', 'Brazil': 'COUNTRY', '.': 'O'}",
         "sentence": "The Palácio da Alvorada is the official residence of the President of Brazil.",
+        "stems": [
+            "palácio",
+            "da",
+            "alvorada",
+            "offici",
+            "resid",
+            "presid",
+            "brazil"
+        ],
         "synonyms": [
             "palácio",
             "district_attorney",
@@ -29589,7 +30717,7 @@
             "president",
             "brazil_nut"
         ],
-        "tagged": [
+        "tags": [
             [
                 "palácio",
                 "NN"
@@ -29907,6 +31035,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'palace': 'O', 'was': 'O', 'designed': 'O', ',': 'O', 'along': 'O', 'with': 'O', 'the': 'O', 'rest': 'O', 'of': 'O', 'city': 'O', 'Brasília': 'LOCATION', 'by': 'O', 'Oscar': 'PERSON', 'Niemeyer': 'PERSON', 'and': 'O', 'inaugurated': 'O', 'in': 'O', '1958': 'DATE', '.': 'O'}",
         "sentence": "The palace was designed, along with the rest of the city of Brasília, by Oscar Niemeyer and inaugurated in 1958.",
+        "stems": [
+            "palac",
+            "design",
+            "along",
+            "rest",
+            "citi",
+            "brasília",
+            "oscar",
+            "niemey",
+            "inaugur",
+            "1958"
+        ],
         "synonyms": [
             "palace",
             "plan",
@@ -29919,7 +31059,7 @@
             "inaugurate",
             "1958"
         ],
-        "tagged": [
+        "tags": [
             [
                 "palace",
                 "NN"
@@ -30329,6 +31469,25 @@
         "meronyms": [],
         "ner_tag": "{'One': 'NUMBER', 'of': 'O', 'the': 'O', 'first': 'ORDINAL', 'structures': 'O', 'built': 'O', 'in': 'O', 'republic': 'O', \"'s\": 'O', 'new': 'O', 'capital': 'O', 'city': 'O', ',': 'O', '``': 'O', 'Alvorada': 'O', \"''\": 'O', 'lies': 'O', 'on': 'O', 'a': 'O', 'peninsula': 'O', 'at': 'O', 'margins': 'O', 'Lake': 'LOCATION', 'Paranoá': 'LOCATION', '.': 'O'}",
         "sentence": "One of the first structures built in the republic's new capital city, the \"Alvorada\" lies on a peninsula at the margins of Lake Paranoá.",
+        "stems": [
+            "one",
+            "first",
+            "structur",
+            "built",
+            "republ",
+            "'s",
+            "new",
+            "capit",
+            "citi",
+            "``",
+            "alvorada",
+            "''",
+            "lie",
+            "peninsula",
+            "margin",
+            "lake",
+            "paranoá"
+        ],
         "synonyms": [
             "one",
             "first_gear",
@@ -30348,7 +31507,7 @@
             "lake",
             "paranoá"
         ],
-        "tagged": [
+        "tags": [
             [
                 "one",
                 "CD"
@@ -30695,6 +31854,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'principles': 'O', 'of': 'O', 'simplicity': 'O', 'and': 'O', 'modernity': 'O', ',': 'O', 'that': 'O', 'in': 'O', 'the': 'O', 'past': 'DATE', 'characterized': 'O', 'great': 'O', 'works': 'O', 'architecture': 'O', 'motivated': 'O', 'Niemeyer': 'PERSON', '.': 'O'}",
         "sentence": "The principles of simplicity and modernity, that in the past characterized the great works of architecture, motivated Niemeyer.",
+        "stems": [
+            "principl",
+            "simplic",
+            "modern",
+            "past",
+            "character",
+            "great",
+            "work",
+            "architectur",
+            "motiv",
+            "niemey"
+        ],
         "synonyms": [
             "principle",
             "simplicity",
@@ -30707,7 +31878,7 @@
             "motivated",
             "niemeyer"
         ],
-        "tagged": [
+        "tags": [
             [
                 "principles",
                 "NNS"
@@ -31068,6 +32239,20 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'viewer': 'O', 'has': 'O', 'an': 'O', 'impression': 'O', 'of': 'O', 'looking': 'O', 'at': 'O', 'a': 'O', 'glass': 'O', 'box': 'O', ',': 'O', 'softly': 'O', 'landed': 'O', 'on': 'O', 'the': 'O', 'ground': 'O', 'with': 'O', 'support': 'O', 'thin': 'O', 'external': 'O', 'columns': 'O', '.': 'O'}",
         "sentence": "The viewer has an impression of looking at a glass box, softly landed on the ground with the support of thin external columns.",
+        "stems": [
+            "viewer",
+            "impress",
+            "look",
+            "glass",
+            "box",
+            "softli",
+            "land",
+            "ground",
+            "support",
+            "thin",
+            "extern",
+            "column"
+        ],
         "synonyms": [
             "spectator",
             "stamp",
@@ -31082,7 +32267,7 @@
             "external",
             "column"
         ],
-        "tagged": [
+        "tags": [
             [
                 "viewer",
                 "NN"
@@ -31423,6 +32608,19 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'building': 'O', 'has': 'O', 'an': 'O', 'area': 'O', 'of': 'O', '7,000': 'NUMBER', 'm2': 'O', 'with': 'O', 'three': 'NUMBER', 'floors': 'O', 'consisting': 'O', 'the': 'O', 'basement': 'O', ',': 'O', 'landing': 'O', 'and': 'O', 'second': 'ORDINAL', 'floor': 'O', '.': 'O'}",
         "sentence": "The building has an area of 7,000 m2 with three floors consisting of the basement, landing, and second floor.",
+        "stems": [
+            "build",
+            "area",
+            "7,000",
+            "m2",
+            "three",
+            "floor",
+            "consist",
+            "basement",
+            "land",
+            "second",
+            "floor"
+        ],
         "synonyms": [
             "building",
             "sphere",
@@ -31436,7 +32634,7 @@
             "second_gear",
             "floor"
         ],
-        "tagged": [
+        "tags": [
             [
                 "building",
                 "VBG"
@@ -31727,6 +32925,17 @@
         ],
         "ner_tag": "{'The': 'O', 'auditorium': 'O', ',': 'O', 'kitchen': 'O', 'laundry': 'O', 'medical': 'O', 'center': 'O', 'and': 'O', 'administration': 'O', 'offices': 'O', 'are': 'O', 'at': 'O', 'basement': 'O', 'level': 'O', '.': 'O'}",
         "sentence": "The auditorium, kitchen, laundry, medical center, and administration offices are at basement level.",
+        "stems": [
+            "auditorium",
+            "kitchen",
+            "laundri",
+            "medic",
+            "center",
+            "administr",
+            "offic",
+            "basement",
+            "level"
+        ],
         "synonyms": [
             "auditorium",
             "kitchen",
@@ -31738,7 +32947,7 @@
             "basement",
             "tied"
         ],
-        "tagged": [
+        "tags": [
             [
                 "auditorium",
                 "NN"
@@ -31960,6 +33169,14 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'rooms': 'O', 'used': 'O', 'by': 'O', 'the': 'O', 'presidency': 'O', 'for': 'O', 'official': 'O', 'receptions': 'O', 'are': 'O', 'on': 'O', 'landing': 'O', '.': 'O'}",
         "sentence": "The rooms used by the presidency for official receptions are on the landing.",
+        "stems": [
+            "room",
+            "use",
+            "presid",
+            "offici",
+            "recept",
+            "land"
+        ],
         "synonyms": [
             "suite",
             "use",
@@ -31968,7 +33185,7 @@
             "reception",
             "landing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "rooms",
                 "NNS"
@@ -32307,6 +33524,21 @@
         ],
         "ner_tag": "{'The': 'O', 'second': 'ORDINAL', 'floor': 'O', 'has': 'O', 'four': 'NUMBER', 'suites': 'O', ',': 'O', 'two': 'NUMBER', 'apartments': 'O', 'and': 'O', 'various': 'O', 'private': 'O', 'rooms': 'O', 'which': 'O', 'make': 'O', 'up': 'O', 'the': 'O', 'residential': 'O', 'part': 'O', 'of': 'O', 'palace': 'O', '.': 'O'}",
         "sentence": "The second floor has four suites, two apartments, and various private rooms which make up the residential part of the palace.",
+        "stems": [
+            "second",
+            "floor",
+            "four",
+            "suit",
+            "two",
+            "apart",
+            "variou",
+            "privat",
+            "room",
+            "make",
+            "residenti",
+            "part",
+            "palac"
+        ],
         "synonyms": [
             "second_gear",
             "floor",
@@ -32322,7 +33554,7 @@
             "part",
             "palace"
         ],
-        "tagged": [
+        "tags": [
             [
                 "second",
                 "JJ"
@@ -32724,6 +33956,23 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'building': 'O', 'also': 'O', 'has': 'O', 'a': 'O', 'library': 'O', ',': 'O', 'heated': 'O', 'Olympic': 'MISC', '-': 'MISC', 'sized': 'MISC', 'swimming': 'O', 'pool': 'O', 'music': 'O', 'room': 'O', 'two': 'NUMBER', 'dining': 'O', 'rooms': 'O', 'and': 'O', 'various': 'O', 'meeting': 'O', '.': 'O'}",
         "sentence": "The building also has a library, a heated Olympic-sized swimming pool, a music room, two dining rooms and various meeting rooms.",
+        "stems": [
+            "build",
+            "also",
+            "librari",
+            "heat",
+            "olympic-s",
+            "swim",
+            "pool",
+            "music",
+            "room",
+            "two",
+            "dine",
+            "room",
+            "variou",
+            "meet",
+            "room"
+        ],
         "synonyms": [
             "building",
             "besides",
@@ -32741,7 +33990,7 @@
             "meeting",
             "suite"
         ],
-        "tagged": [
+        "tags": [
             [
                 "building",
                 "NN"
@@ -32932,13 +34181,19 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'chapel': 'O', 'and': 'O', 'heliport': 'O', 'are': 'O', 'in': 'O', 'adjacent': 'O', 'buildings': 'O', '.': 'O'}",
         "sentence": "A chapel and heliport are in adjacent buildings.",
+        "stems": [
+            "chapel",
+            "heliport",
+            "adjac",
+            "build"
+        ],
         "synonyms": [
             "chapel_service",
             "heliport",
             "adjacent",
             "building"
         ],
-        "tagged": [
+        "tags": [
             [
                 "chapel",
                 "NN"
@@ -33137,6 +34392,14 @@
         ],
         "ner_tag": "{'The': 'O', 'Palácio': 'MISC', 'do': 'MISC', 'Planalto': 'MISC', 'is': 'O', 'the': 'O', 'official': 'O', 'workplace': 'O', 'of': 'O', 'President': 'TITLE', 'Brazil': 'COUNTRY', '.': 'O'}",
         "sentence": "The Palácio do Planalto is the official workplace of the President of Brazil.",
+        "stems": [
+            "palácio",
+            "planalto",
+            "offici",
+            "workplac",
+            "presid",
+            "brazil"
+        ],
         "synonyms": [
             "palácio",
             "planalto",
@@ -33145,7 +34408,7 @@
             "president",
             "brazil_nut"
         ],
-        "tagged": [
+        "tags": [
             [
                 "palácio",
                 "NN"
@@ -33328,6 +34591,14 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'is': 'O', 'located': 'O', 'at': 'O', 'the': 'O', 'Praça': 'LOCATION', 'dos': 'LOCATION', 'Três': 'LOCATION', 'Poderes': 'LOCATION', 'in': 'O', 'Brasília': 'LOCATION', '.': 'O'}",
         "sentence": "It is located at the Praça dos Três Poderes in Brasília.",
+        "stems": [
+            "locat",
+            "praça",
+            "do",
+            "trê",
+            "poder",
+            "brasília"
+        ],
         "synonyms": [
             "situate",
             "praça",
@@ -33336,7 +34607,7 @@
             "poderes",
             "brasília"
         ],
-        "tagged": [
+        "tags": [
             [
                 "located",
                 "VBN"
@@ -33662,6 +34933,20 @@
         "meronyms": [],
         "ner_tag": "{'As': 'O', 'the': 'O', 'seat': 'O', 'of': 'O', 'government': 'O', ',': 'O', 'term': 'O', '``': 'O', 'Planalto': 'O', \"''\": 'O', 'is': 'O', 'often': 'O', 'used': 'O', 'as': 'O', 'a': 'O', 'metonym': 'O', 'for': 'O', 'executive': 'TITLE', 'branch': 'O', '.': 'O'}",
         "sentence": "As the seat of government, the term \"Planalto\" is often used as a metonym for the executive branch of government.",
+        "stems": [
+            "seat",
+            "govern",
+            "term",
+            "``",
+            "planalto",
+            "''",
+            "often",
+            "use",
+            "metonym",
+            "execut",
+            "branch",
+            "govern"
+        ],
         "synonyms": [
             "seat",
             "government",
@@ -33676,7 +34961,7 @@
             "outgrowth",
             "government"
         ],
-        "tagged": [
+        "tags": [
             [
                 "seat",
                 "JJ"
@@ -33949,6 +35234,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'main': 'O', 'working': 'O', 'office': 'O', 'of': 'O', 'the': 'O', 'President': 'TITLE', 'Republic': 'LOCATION', 'is': 'O', 'in': 'O', 'Palácio': 'LOCATION', 'do': 'O', 'Planalto': 'LOCATION', '.': 'O'}",
         "sentence": "The main working office of the President of the Republic is in the Palácio do Planalto.",
+        "stems": [
+            "main",
+            "work",
+            "offic",
+            "presid",
+            "republ",
+            "palácio",
+            "planalto"
+        ],
         "synonyms": [
             "main",
             "working",
@@ -33958,7 +35252,7 @@
             "palácio",
             "planalto"
         ],
-        "tagged": [
+        "tags": [
             [
                 "main",
                 "JJ"
@@ -34283,6 +35577,17 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'President': 'TITLE', 'and': 'O', 'his': 'O', 'or': 'O', 'her': 'O', 'family': 'O', 'do': 'O', 'not': 'O', 'live': 'O', 'in': 'O', 'it': 'O', ',': 'O', 'rather': 'O', 'the': 'O', 'official': 'O', 'residence': 'O', 'Palácio': 'LOCATION', 'da': 'O', 'Alvorada': 'O', '.': 'O'}",
         "sentence": "The President and his or her family do not live in it, rather in the official residence, the Palácio da Alvorada.",
+        "stems": [
+            "presid",
+            "famili",
+            "live",
+            "rather",
+            "offici",
+            "resid",
+            "palácio",
+            "da",
+            "alvorada"
+        ],
         "synonyms": [
             "president",
             "syndicate",
@@ -34294,7 +35599,7 @@
             "district_attorney",
             "alvorada"
         ],
-        "tagged": [
+        "tags": [
             [
                 "president",
                 "NN"
@@ -34665,6 +35970,22 @@
         "meronyms": [],
         "ner_tag": "{'Besides': 'O', 'the': 'O', 'President': 'TITLE', ',': 'O', 'senior': 'O', 'advisors': 'O', 'also': 'O', 'have': 'O', 'offices': 'O', 'in': 'O', '``': 'O', 'Planalto': 'O', \"''\": 'O', 'including': 'O', 'Vice-President': 'TITLE', 'of': 'TITLE', 'Brazil': 'COUNTRY', 'and': 'O', 'Chief': 'TITLE', 'Staff': 'TITLE', '.': 'O'}",
         "sentence": "Besides the President, senior advisors also have offices in the \"Planalto,\" including the Vice-President of Brazil and the Chief of Staff.",
+        "stems": [
+            "besid",
+            "presid",
+            "senior",
+            "advisor",
+            "also",
+            "offic",
+            "``",
+            "planalto",
+            "''",
+            "includ",
+            "vice-presid",
+            "brazil",
+            "chief",
+            "staff"
+        ],
         "synonyms": [
             "besides",
             "president",
@@ -34681,7 +36002,7 @@
             "headman",
             "staff"
         ],
-        "tagged": [
+        "tags": [
             [
                 "besides",
                 "IN"
@@ -34880,6 +36201,13 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'other': 'O', 'Ministries': 'O', 'are': 'O', 'along': 'O', 'the': 'O', 'Esplanada': 'O', 'dos': 'O', 'Ministérios': 'O', '.': 'O'}",
         "sentence": "The other Ministries are along the Esplanada dos Ministérios.",
+        "stems": [
+            "ministri",
+            "along",
+            "esplanada",
+            "do",
+            "ministério"
+        ],
         "synonyms": [
             "ministry",
             "along",
@@ -34887,7 +36215,7 @@
             "serve",
             "ministérios"
         ],
-        "tagged": [
+        "tags": [
             [
                 "ministries",
                 "NNS"
@@ -35169,6 +36497,17 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'architect': 'TITLE', 'of': 'O', 'the': 'O', 'Palácio': 'O', 'do': 'O', 'Planalto': 'LOCATION', 'was': 'O', 'Oscar': 'PERSON', 'Niemeyer': 'PERSON', ',': 'O', 'creator': 'TITLE', 'most': 'O', 'important': 'O', 'buildings': 'O', 'in': 'O', 'Brasília': 'LOCATION', '.': 'O'}",
         "sentence": "The architect of the Palácio do Planalto was Oscar Niemeyer, creator of most of the important buildings in Brasília.",
+        "stems": [
+            "architect",
+            "palácio",
+            "planalto",
+            "oscar",
+            "niemey",
+            "creator",
+            "import",
+            "build",
+            "brasília"
+        ],
         "synonyms": [
             "architect",
             "palácio",
@@ -35180,7 +36519,7 @@
             "building",
             "brasília"
         ],
-        "tagged": [
+        "tags": [
             [
                 "architect",
                 "NN"
@@ -35531,6 +36870,21 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'idea': 'O', 'was': 'O', 'to': 'O', 'project': 'O', 'an': 'O', 'image': 'O', 'of': 'O', 'simplicity': 'O', 'and': 'O', 'modernity': 'O', 'using': 'O', 'fine': 'O', 'lines': 'O', 'waves': 'O', 'compose': 'O', 'the': 'O', 'columns': 'O', 'exterior': 'O', 'structures': 'O', '.': 'O'}",
         "sentence": "The idea was to project an image of simplicity and modernity using fine lines and waves to compose the columns and exterior structures.",
+        "stems": [
+            "idea",
+            "project",
+            "imag",
+            "simplic",
+            "modern",
+            "use",
+            "fine",
+            "line",
+            "wave",
+            "compos",
+            "column",
+            "exterior",
+            "structur"
+        ],
         "synonyms": [
             "theme",
             "project",
@@ -35546,7 +36900,7 @@
             "exterior",
             "structure"
         ],
-        "tagged": [
+        "tags": [
             [
                 "idea",
                 "NN"
@@ -35805,6 +37159,15 @@
         ],
         "ner_tag": "{'The': 'O', 'Palace': 'O', 'is': 'O', 'four': 'NUMBER', 'stories': 'O', 'high': 'O', ',': 'O', 'and': 'O', 'has': 'O', 'an': 'O', 'area': 'O', 'of': 'O', '36,000': 'NUMBER', 'm2': 'O', '.': 'O'}",
         "sentence": "The Palace is four stories high, and has an area of 36,000 m2.",
+        "stems": [
+            "palac",
+            "four",
+            "stori",
+            "high",
+            "area",
+            "36,000",
+            "m2"
+        ],
         "synonyms": [
             "palace",
             "four-spot",
@@ -35814,7 +37177,7 @@
             "36,000",
             "M2"
         ],
-        "tagged": [
+        "tags": [
             [
                 "palace",
                 "NN"
@@ -35993,6 +37356,14 @@
         "meronyms": [],
         "ner_tag": "{'Four': 'NUMBER', 'other': 'O', 'adjacent': 'O', 'buildings': 'O', 'are': 'O', 'also': 'O', 'part': 'O', 'of': 'O', 'the': 'O', 'complex': 'O', '.': 'O'}",
         "sentence": "Four other adjacent buildings are also part of the complex.",
+        "stems": [
+            "four",
+            "adjac",
+            "build",
+            "also",
+            "part",
+            "complex"
+        ],
         "synonyms": [
             "four-spot",
             "adjacent",
@@ -36001,7 +37372,7 @@
             "part",
             "complex"
         ],
-        "tagged": [
+        "tags": [
             [
                 "four",
                 "CD"
@@ -36363,6 +37734,19 @@
         ],
         "ner_tag": "{'This': 'O', 'makes': 'O', 'for': 'O', 'a': 'O', 'large': 'O', 'number': 'O', 'of': 'O', 'takeoffs': 'O', 'and': 'O', 'landings': 'O', 'it': 'O', 'is': 'O', 'not': 'O', 'unusual': 'O', 'flights': 'O', 'to': 'O', 'be': 'O', 'delayed': 'O', 'in': 'O', 'the': 'O', 'holding': 'O', 'pattern': 'O', 'before': 'O', 'landing': 'O', '.': 'O'}",
         "sentence": "This makes for a large number of takeoffs and landings and it is not unusual for flights to be delayed in the holding pattern before landing.",
+        "stems": [
+            "make",
+            "larg",
+            "number",
+            "takeoff",
+            "land",
+            "unusu",
+            "flight",
+            "delay",
+            "hold",
+            "pattern",
+            "land"
+        ],
         "synonyms": [
             "take",
             "large",
@@ -36376,7 +37760,7 @@
             "radiation_pattern",
             "landing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "makes",
                 "VBZ"
@@ -36677,6 +38061,19 @@
         ],
         "ner_tag": "{'Following': 'O', 'the': 'O', 'airport': 'O', \"'s\": 'O', 'master': 'O', 'plan': 'O', ',': 'O', 'Infraero': 'ORGANIZATION', 'built': 'O', 'a': 'DURATION', 'second': 'DURATION', 'runway': 'O', 'which': 'O', 'was': 'O', 'finished': 'O', 'in': 'O', '2006': 'DATE', '.': 'O'}",
         "sentence": "Following the airport's master plan, Infraero built a second runway, which was finished in 2006.",
+        "stems": [
+            "follow",
+            "airport",
+            "'s",
+            "master",
+            "plan",
+            "infraero",
+            "built",
+            "second",
+            "runway",
+            "finish",
+            "2006"
+        ],
         "synonyms": [
             "take_after",
             "airport",
@@ -36690,7 +38087,7 @@
             "finished",
             "2006"
         ],
-        "tagged": [
+        "tags": [
             [
                 "following",
                 "VBG"
@@ -36868,6 +38265,13 @@
         ],
         "ner_tag": "{'In': 'O', '2007': 'DATE', ',': 'O', 'the': 'O', 'airport': 'O', 'handled': 'O', '11,119,872': 'NUMBER', 'passengers': 'O', '.': 'O'}",
         "sentence": "In 2007, the airport handled 11,119,872 passengers.",
+        "stems": [
+            "2007",
+            "airport",
+            "handl",
+            "11,119,872",
+            "passeng"
+        ],
         "synonyms": [
             "2007",
             "airport",
@@ -36875,7 +38279,7 @@
             "11,119,872",
             "passenger"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2007",
                 "CD"
@@ -37397,6 +38801,31 @@
         ],
         "ner_tag": "{'The': 'O', 'main': 'O', 'building': 'O', \"'s\": 'O', 'third': 'ORDINAL', 'floor': 'O', ',': 'O', 'with': 'O', '12': 'NUMBER', 'thousand': 'NUMBER', 'square': 'O', 'meters': 'O', 'has': 'O', 'a': 'O', 'panoramic': 'O', 'deck': 'O', 'food': 'O', 'court': 'O', 'shops': 'O', 'four': 'NUMBER', 'movie': 'O', 'theatres': 'O', 'total': 'O', 'capacity': 'O', 'of': 'O', '500': 'NUMBER', 'people': 'O', 'and': 'O', 'space': 'O', 'for': 'O', 'exhibitions': 'O', '.': 'O'}",
         "sentence": "The main building's third floor, with 12 thousand square meters, has a panoramic deck, a food court, shops, four movie theatres with total capacity of 500 people, and space for exhibitions.",
+        "stems": [
+            "main",
+            "build",
+            "'s",
+            "third",
+            "floor",
+            "12",
+            "thousand",
+            "squar",
+            "meter",
+            "panoram",
+            "deck",
+            "food",
+            "court",
+            "shop",
+            "four",
+            "movi",
+            "theatr",
+            "total",
+            "capac",
+            "500",
+            "peopl",
+            "space",
+            "exhibit"
+        ],
         "synonyms": [
             "main",
             "building",
@@ -37422,7 +38851,7 @@
             "space",
             "exhibition"
         ],
-        "tagged": [
+        "tags": [
             [
                 "main",
                 "JJ"
@@ -37639,6 +39068,13 @@
         ],
         "ner_tag": "{'Brasília': 'LOCATION', 'Airport': 'LOCATION', 'has': 'O', '136': 'NUMBER', 'vendor': 'TITLE', 'spaces': 'O', '.': 'O'}",
         "sentence": "Brasília Airport has 136 vendor spaces.",
+        "stems": [
+            "brasília",
+            "airport",
+            "136",
+            "vendor",
+            "space"
+        ],
         "synonyms": [
             "brasília",
             "airport",
@@ -37646,7 +39082,7 @@
             "seller",
             "space"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "NNS"
@@ -37965,6 +39401,20 @@
         ],
         "ner_tag": "{'The': 'O', 'airport': 'O', 'is': 'O', 'located': 'O', 'about': 'O', '11': 'NUMBER', 'km': 'O', '(': 'O', '6.8': 'NUMBER', 'mi': 'O', ')': 'O', 'from': 'O', 'the': 'O', 'central': 'O', 'area': 'O', 'of': 'O', 'Brasília': 'LOCATION', ',': 'O', 'outside': 'O', 'metro': 'O', 'system': 'O', '.': 'O'}",
         "sentence": "The airport is located about 11 km (6.8 mi) from the central area of Brasília, outside the metro system.",
+        "stems": [
+            "airport",
+            "locat",
+            "11",
+            "km",
+            "6.8",
+            "mi",
+            "central",
+            "area",
+            "brasília",
+            "outsid",
+            "metro",
+            "system"
+        ],
         "synonyms": [
             "airport",
             "situate",
@@ -37979,7 +39429,7 @@
             "metro",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "airport",
                 "NN"
@@ -38418,6 +39868,27 @@
         ],
         "ner_tag": "{'The': 'O', 'area': 'O', 'outside': 'O', 'the': 'O', 'airport': 'O', \"'s\": 'O', 'main': 'O', 'gate': 'O', 'is': 'O', 'lined': 'O', 'with': 'O', 'taxis': 'O', 'as': 'O', 'well': 'O', 'several': 'O', 'bus': 'O', 'line': 'O', 'services': 'O', 'which': 'O', 'connect': 'O', 'to': 'O', 'Brasília': 'LOCATION', 'central': 'O', 'district': 'O', '.': 'O'}",
         "sentence": "The area outside the airport's main gate is lined with taxis as well as several bus line services which connect the airport to Brasília's central district.",
+        "stems": [
+            "area",
+            "outsid",
+            "airport",
+            "'s",
+            "main",
+            "gate",
+            "line",
+            "taxi",
+            "well",
+            "sever",
+            "bu",
+            "line",
+            "servic",
+            "connect",
+            "airport",
+            "brasília",
+            "'s",
+            "central",
+            "district"
+        ],
         "synonyms": [
             "sphere",
             "outside",
@@ -38439,7 +39910,7 @@
             "central",
             "district"
         ],
-        "tagged": [
+        "tags": [
             [
                 "area",
                 "NN"
@@ -38635,6 +40106,13 @@
         ],
         "ner_tag": "{'The': 'O', 'parking': 'O', 'lot': 'O', 'accommodates': 'O', '1,200': 'NUMBER', 'cars': 'O', '.': 'O'}",
         "sentence": "The parking lot accommodates 1,200 cars.",
+        "stems": [
+            "park",
+            "lot",
+            "accommod",
+            "1,200",
+            "car"
+        ],
         "synonyms": [
             "parking",
             "lot",
@@ -38642,7 +40120,7 @@
             "1,200",
             "car"
         ],
-        "tagged": [
+        "tags": [
             [
                 "parking",
                 "NN"
@@ -39058,6 +40536,23 @@
         ],
         "ner_tag": "{'The': 'O', 'airport': 'O', 'is': 'O', 'serviced': 'O', 'by': 'O', 'domestic': 'O', 'and': 'O', 'regional': 'O', 'airlines': 'O', '(': 'O', 'TAM': 'O', ',': 'O', 'GOL': 'ORGANIZATION', 'Azul': 'PERSON', 'WebJET': 'O', 'Trip': 'O', 'Avianca': 'ORGANIZATION', ')': 'O', 'in': 'O', 'addition': 'O', 'to': 'O', 'a': 'O', 'number': 'O', 'of': 'O', 'international': 'O', 'carriers': 'O', '.': 'O'}",
         "sentence": "The airport is serviced by domestic and regional airlines (TAM, GOL, Azul, WebJET, Trip and Avianca), in addition to a number of international carriers.",
+        "stems": [
+            "airport",
+            "servic",
+            "domest",
+            "region",
+            "airlin",
+            "tam",
+            "gol",
+            "azul",
+            "webjet",
+            "trip",
+            "avianca",
+            "addit",
+            "number",
+            "intern",
+            "carrier"
+        ],
         "synonyms": [
             "airport",
             "service",
@@ -39075,7 +40570,7 @@
             "International",
             "mailman"
         ],
-        "tagged": [
+        "tags": [
             [
                 "airport",
                 "NN"
@@ -39596,6 +41091,27 @@
         ],
         "ner_tag": "{'In': 'O', '2012': 'DATE', ',': 'O', 'Brasília': 'LOCATION', \"'s\": 'O', 'International': 'O', 'Airport': 'O', 'was': 'O', 'won': 'O', 'by': 'O', 'the': 'O', 'InfrAmerica': 'O', 'consortium': 'O', 'formed': 'O', 'Brazilian': 'NATIONALITY', 'engineering': 'O', 'company': 'O', 'ENGEVIX': 'ORGANIZATION', 'and': 'O', 'Argentine': 'ORGANIZATION', 'Corporacion': 'ORGANIZATION', 'America': 'ORGANIZATION', 'holding': 'O', 'with': 'O', 'a': 'O', '50': 'PERCENT', '%': 'PERCENT', 'stake': 'O', 'each': 'O', '.': 'O'}",
         "sentence": "In 2012, Brasília's International Airport was won by the InfrAmerica consortium, formed by the Brazilian engineering company ENGEVIX and the Argentine Corporacion America holding company, with a 50% stake each.",
+        "stems": [
+            "2012",
+            "brasília",
+            "'s",
+            "intern",
+            "airport",
+            "inframerica",
+            "consortium",
+            "form",
+            "brazilian",
+            "engin",
+            "compani",
+            "engevix",
+            "argentin",
+            "corporacion",
+            "america",
+            "hold",
+            "compani",
+            "50",
+            "stake"
+        ],
         "synonyms": [
             "2012",
             "brasília",
@@ -39617,7 +41133,7 @@
             "fifty",
             "stake"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2012",
                 "CD"
@@ -39977,6 +41493,17 @@
         ],
         "ner_tag": "{'During': 'O', 'the': 'O', '25': 'DURATION', '-': 'DURATION', 'year': 'DURATION', 'concession': 'O', ',': 'O', 'airport': 'O', 'may': 'O', 'be': 'O', 'expanded': 'O', 'to': 'O', 'up': 'O', '40': 'NUMBER', 'million': 'NUMBER', 'passengers': 'O', 'a': 'DURATION', '.': 'O'}",
         "sentence": "During the 25-year concession, the airport may be expanded to up to 40 million passengers a year.",
+        "stems": [
+            "25-year",
+            "concess",
+            "airport",
+            "may",
+            "expand",
+            "40",
+            "million",
+            "passeng",
+            "year"
+        ],
         "synonyms": [
             "25-year",
             "concession",
@@ -39988,7 +41515,7 @@
             "passenger",
             "year"
         ],
-        "tagged": [
+        "tags": [
             [
                 "25-year",
                 "JJ"
@@ -40238,6 +41765,17 @@
         ],
         "ner_tag": "{'In': 'O', '2014': 'DATE', ',': 'O', 'the': 'O', 'airport': 'O', 'received': 'O', '15': 'NUMBER', 'new': 'O', 'boarding': 'O', 'bridges': 'O', 'totalling': 'O', '28': 'NUMBER', 'in': 'O', 'all': 'O', '.': 'O'}",
         "sentence": "In 2014, the airport received 15 new boarding bridges, totalling 28 in all.",
+        "stems": [
+            "2014",
+            "airport",
+            "receiv",
+            "15",
+            "new",
+            "board",
+            "bridg",
+            "total",
+            "28"
+        ],
         "synonyms": [
             "2014",
             "airport",
@@ -40249,7 +41787,7 @@
             "total",
             "twenty-eight"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2014",
                 "CD"
@@ -40620,6 +42158,19 @@
         ],
         "ner_tag": "{'This': 'O', 'was': 'O', 'the': 'O', 'main': 'O', 'requirement': 'O', 'made': 'O', 'by': 'O', 'federal': 'O', 'government': 'O', ',': 'O', 'which': 'O', 'transferred': 'O', 'operation': 'O', 'of': 'O', 'terminal': 'O', 'to': 'O', 'Inframerica': 'ORGANIZATION', 'Group': 'ORGANIZATION', 'after': 'O', 'an': 'O', 'auction': 'O', '.': 'O'}",
         "sentence": "This was the main requirement made by the federal government, which transferred the operation of the terminal to the Inframerica Group after an auction.",
+        "stems": [
+            "main",
+            "requir",
+            "made",
+            "feder",
+            "govern",
+            "transfer",
+            "oper",
+            "termin",
+            "inframerica",
+            "group",
+            "auction"
+        ],
         "synonyms": [
             "main",
             "requirement",
@@ -40633,7 +42184,7 @@
             "group",
             "auction"
         ],
-        "tagged": [
+        "tags": [
             [
                 "main",
                 "JJ"
@@ -40821,6 +42372,14 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'group': 'O', 'invested': 'O', 'R': 'O', '$': 'MONEY', '750': 'MONEY', 'million': 'MONEY', 'in': 'O', 'the': 'O', 'project': 'O', '.': 'O'}",
         "sentence": "The group invested R$750 million in the project.",
+        "stems": [
+            "group",
+            "invest",
+            "r",
+            "750",
+            "million",
+            "project"
+        ],
         "synonyms": [
             "group",
             "invest",
@@ -40829,7 +42388,7 @@
             "million",
             "visualize"
         ],
-        "tagged": [
+        "tags": [
             [
                 "group",
                 "NN"
@@ -41066,6 +42625,16 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'same': 'DATE', 'year': 'DATE', ',': 'O', 'number': 'O', 'of': 'O', 'parking': 'O', 'spaces': 'O', 'doubled': 'O', 'reaching': 'O', 'three': 'NUMBER', 'thousand': 'NUMBER', '.': 'O'}",
         "sentence": "In the same year, the number of parking spaces doubled, reaching three thousand.",
+        "stems": [
+            "year",
+            "number",
+            "park",
+            "space",
+            "doubl",
+            "reach",
+            "three",
+            "thousand"
+        ],
         "synonyms": [
             "year",
             "phone_number",
@@ -41076,7 +42645,7 @@
             "trey",
             "thousand"
         ],
-        "tagged": [
+        "tags": [
             [
                 "year",
                 "NN"
@@ -41313,6 +42882,17 @@
         ],
         "ner_tag": "{'The': 'O', 'airport': 'O', \"'s\": 'O', 'entrance': 'O', 'have': 'O', 'a': 'O', 'new': 'O', 'rooftop': 'O', 'cover': 'O', 'and': 'O', 'access': 'O', 'road': 'O', '.': 'O'}",
         "sentence": "The airport's entrance have a new rooftop cover and a new access road.",
+        "stems": [
+            "airport",
+            "'s",
+            "entranc",
+            "new",
+            "rooftop",
+            "cover",
+            "new",
+            "access",
+            "road"
+        ],
         "synonyms": [
             "airport",
             "'s",
@@ -41324,7 +42904,7 @@
             "access",
             "road"
         ],
-        "tagged": [
+        "tags": [
             [
                 "airport",
                 "NN"
@@ -41555,6 +43135,17 @@
         ],
         "ner_tag": "{'Furthermore': 'O', ',': 'O', 'a': 'O', 'VIP': 'O', 'room': 'O', 'was': 'O', 'created': 'O', 'on': 'O', 'Terminal': 'O', '1': 'NUMBER', \"'s\": 'O', 'third': 'ORDINAL', 'floor': 'O', '.': 'O'}",
         "sentence": "Furthermore, a VIP room was created on Terminal 1's third floor.",
+        "stems": [
+            "furthermor",
+            "vip",
+            "room",
+            "creat",
+            "termin",
+            "1",
+            "'s",
+            "third",
+            "floor"
+        ],
         "synonyms": [
             "furthermore",
             "very_important_person",
@@ -41566,7 +43157,7 @@
             "third_gear",
             "floor"
         ],
-        "tagged": [
+        "tags": [
             [
                 "furthermore",
                 "RB"
@@ -41917,6 +43508,24 @@
         ],
         "ner_tag": "{'The': 'O', 'investments': 'O', 'resulted': 'O', 'an': 'O', 'increase': 'O', 'the': 'O', 'capacity': 'O', 'of': 'O', 'Brasília': 'LOCATION', \"'s\": 'O', 'airport': 'O', 'from': 'O', 'approximately': 'O', '15': 'NUMBER', 'million': 'NUMBER', 'passengers': 'O', 'per': 'O', 'year': 'DURATION', 'to': 'O', '21': 'NUMBER', 'by': 'O', '2014': 'DATE', '.': 'O'}",
         "sentence": "The investments resulted an increase the capacity of Brasília's airport from approximately 15 million passengers per year to 21 million by 2014.",
+        "stems": [
+            "invest",
+            "result",
+            "increas",
+            "capac",
+            "brasília",
+            "'s",
+            "airport",
+            "approxim",
+            "15",
+            "million",
+            "passeng",
+            "per",
+            "year",
+            "21",
+            "million",
+            "2014"
+        ],
         "synonyms": [
             "investment",
             "result",
@@ -41935,7 +43544,7 @@
             "million",
             "2014"
         ],
-        "tagged": [
+        "tags": [
             [
                 "investments",
                 "NNS"
@@ -42382,6 +43991,24 @@
         ],
         "ner_tag": "{'Brasília': 'LOCATION', 'has': 'O', 'direct': 'O', 'flights': 'O', 'to': 'O', 'all': 'O', 'states': 'O', 'of': 'O', 'Brazil': 'COUNTRY', 'and': 'O', 'international': 'O', 'Atlanta': 'CITY', ',': 'O', 'Buenos': 'CITY', 'Aires': 'CITY', 'Lisbon': 'CITY', 'Miami': 'CITY', 'Panama': 'CITY', 'City': 'CITY', 'Paris': 'CITY', '.': 'O'}",
         "sentence": "Brasília has direct flights to all states of Brazil and direct international flights to Atlanta, Buenos Aires, Lisbon, Miami, Panama City, and Paris.",
+        "stems": [
+            "brasília",
+            "direct",
+            "flight",
+            "state",
+            "brazil",
+            "direct",
+            "intern",
+            "flight",
+            "atlanta",
+            "bueno",
+            "air",
+            "lisbon",
+            "miami",
+            "panama",
+            "citi",
+            "pari"
+        ],
         "synonyms": [
             "brasília",
             "target",
@@ -42400,7 +44027,7 @@
             "city",
             "Paris"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "NNS"
@@ -42808,6 +44435,22 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Juscelino': 'PERSON', 'Kubitschek': 'PERSON', 'bridge': 'O', ',': 'O', 'also': 'O', 'known': 'O', 'as': 'O', 'the': 'O', \"'\": 'O', 'President': 'TITLE', 'JK': 'MISC', 'Bridge': 'MISC', 'or': 'O', 'crosses': 'O', 'Lake': 'LOCATION', 'Paranoá': 'LOCATION', 'in': 'O', 'Brasília': 'LOCATION', '.': 'O'}",
         "sentence": "The Juscelino Kubitschek bridge, also known as the 'President JK Bridge' or the 'JK Bridge', crosses Lake Paranoá in Brasília.",
+        "stems": [
+            "juscelino",
+            "kubitschek",
+            "bridg",
+            "also",
+            "known",
+            "'presid",
+            "jk",
+            "bridg",
+            "'jk",
+            "bridg",
+            "cross",
+            "lake",
+            "paranoá",
+            "brasília"
+        ],
         "synonyms": [
             "juscelino",
             "kubitschek",
@@ -42824,7 +44467,7 @@
             "paranoá",
             "brasília"
         ],
-        "tagged": [
+        "tags": [
             [
                 "juscelino",
                 "NN"
@@ -43076,6 +44719,16 @@
         ],
         "ner_tag": "{'It': 'O', 'is': 'O', 'named': 'O', 'after': 'O', 'Juscelino': 'PERSON', 'Kubitschek': 'PERSON', 'de': 'PERSON', 'Oliveira': 'PERSON', ',': 'O', 'former': 'O', 'president': 'TITLE', 'of': 'O', 'Brazil': 'COUNTRY', '.': 'O'}",
         "sentence": "It is named after Juscelino Kubitschek de Oliveira, former president of Brazil.",
+        "stems": [
+            "name",
+            "juscelino",
+            "kubitschek",
+            "de",
+            "oliveira",
+            "former",
+            "presid",
+            "brazil"
+        ],
         "synonyms": [
             "name",
             "juscelino",
@@ -43086,7 +44739,7 @@
             "president",
             "brazil_nut"
         ],
-        "tagged": [
+        "tags": [
             [
                 "named",
                 "VBN"
@@ -43307,6 +44960,17 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'was': 'O', 'designed': 'O', 'by': 'O', 'architect': 'TITLE', 'Alexandre': 'PERSON', 'Chan': 'PERSON', 'and': 'O', 'structural': 'TITLE', 'engineer': 'TITLE', 'Mário': 'PERSON', 'Vila': 'PERSON', 'Verde': 'PERSON', '.': 'O'}",
         "sentence": "It was designed by architect Alexandre Chan and structural engineer Mário Vila Verde.",
+        "stems": [
+            "design",
+            "architect",
+            "alexandr",
+            "chan",
+            "structur",
+            "engin",
+            "mário",
+            "vila",
+            "verd"
+        ],
         "synonyms": [
             "plan",
             "architect",
@@ -43318,7 +44982,7 @@
             "Port_Vila",
             "verde"
         ],
-        "tagged": [
+        "tags": [
             [
                 "designed",
                 "VBN"
@@ -43832,6 +45496,32 @@
         ],
         "ner_tag": "{'Chan': 'PERSON', 'won': 'O', 'the': 'O', 'Gustav': 'PERSON', 'Lindenthal': 'PERSON', 'Medal': 'PERSON', 'for': 'O', 'this': 'O', 'project': 'O', 'at': 'O', '2003': 'DATE', 'International': 'ORGANIZATION', 'Bridge': 'ORGANIZATION', 'Conference': 'ORGANIZATION', 'in': 'O', 'Pittsburgh': 'CITY', 'due': 'O', 'to': 'O', '``': 'O', '...': 'O', 'outstanding': 'O', 'achievement': 'O', 'demonstrating': 'O', 'harmony': 'O', 'with': 'O', 'environment': 'O', ',': 'O', 'aesthetic': 'O', 'merit': 'O', 'and': 'O', 'successful': 'O', 'community': 'O', 'participation': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "Chan won the Gustav Lindenthal Medal for this project at the 2003 International Bridge Conference in Pittsburgh due to \"...outstanding achievement demonstrating harmony with the environment, aesthetic merit and successful community participation\".",
+        "stems": [
+            "chan",
+            "gustav",
+            "lindenth",
+            "medal",
+            "project",
+            "2003",
+            "intern",
+            "bridg",
+            "confer",
+            "pittsburgh",
+            "due",
+            "``",
+            "...",
+            "outstand",
+            "achiev",
+            "demonstr",
+            "harmoni",
+            "environ",
+            "aesthet",
+            "merit",
+            "success",
+            "commun",
+            "particip",
+            "''"
+        ],
         "synonyms": [
             "chan",
             "gustav",
@@ -43858,7 +45548,7 @@
             "engagement",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "chan",
                 "NN"
@@ -44256,6 +45946,19 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'metro': 'O', 'leaves': 'O', 'the': 'O', 'Rodoviária': 'O', '(': 'O', 'bus': 'O', 'station': 'O', ')': 'O', 'and': 'O', 'goes': 'O', 'south': 'O', ',': 'O', 'avoiding': 'O', 'most': 'O', 'of': 'O', 'political': 'O', 'tourist': 'O', 'areas': 'O', '.': 'O'}",
         "sentence": "The metro leaves the Rodoviária (bus station) and goes south, avoiding most of the political and tourist areas.",
+        "stems": [
+            "metro",
+            "leav",
+            "rodoviária",
+            "bu",
+            "station",
+            "goe",
+            "south",
+            "avoid",
+            "polit",
+            "tourist",
+            "area"
+        ],
         "synonyms": [
             "metro",
             "leave",
@@ -44269,7 +45972,7 @@
             "tourist",
             "sphere"
         ],
-        "tagged": [
+        "tags": [
             [
                 "metro",
                 "NN"
@@ -44652,6 +46355,20 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'main': 'O', 'purpose': 'O', 'of': 'O', 'the': 'O', 'metro': 'O', 'is': 'O', 'to': 'O', 'serve': 'O', 'cities': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'Samambaia': 'LOCATION', 'Taguatinga': 'PERSON', 'and': 'O', 'Ceilândia': 'LOCATION', 'well': 'O', 'Guará': 'O', 'Águas': 'PERSON', 'Claras': 'PERSON', '.': 'O'}",
         "sentence": "The main purpose of the metro is to serve cities, such as Samambaia, Taguatinga and Ceilândia, as well as Guará and Águas Claras.",
+        "stems": [
+            "main",
+            "purpos",
+            "metro",
+            "serv",
+            "citi",
+            "samambaia",
+            "taguatinga",
+            "ceilândia",
+            "well",
+            "guará",
+            "água",
+            "clara"
+        ],
         "synonyms": [
             "main",
             "purpose",
@@ -44666,7 +46383,7 @@
             "águas",
             "claras"
         ],
-        "tagged": [
+        "tags": [
             [
                 "main",
                 "JJ"
@@ -45360,6 +47077,35 @@
         ],
         "ner_tag": "{'The': 'O', 'satellite': 'O', 'cities': 'O', 'served': 'O', 'are': 'O', 'more': 'O', 'populated': 'O', 'in': 'O', 'total': 'O', 'than': 'O', 'the': 'O', 'Plano': 'CITY', 'Piloto': 'LOCATION', 'itself': 'O', '(': 'O', 'census': 'O', 'of': 'O', '2000': 'DATE', 'indicated': 'O', 'that': 'O', 'Ceilândia': 'PERSON', 'had': 'O', '344,039': 'NUMBER', 'inhabitants': 'O', ',': 'O', 'Taguatinga': 'PERSON', '243,575': 'NUMBER', 'whereas': 'O', 'approximately': 'O', '400,000': 'NUMBER', ')': 'O', 'and': 'O', 'most': 'O', 'residents': 'O', 'depend': 'O', 'on': 'O', 'public': 'O', 'transportation': 'O', '.': 'O'}",
         "sentence": "The satellite cities served are more populated in total than the Plano Piloto itself (the census of 2000 indicated that Ceilândia had 344,039 inhabitants, Taguatinga had 243,575, whereas the Plano Piloto had approximately 400,000 inhabitants), and most residents of the satellite cities depend on public transportation.",
+        "stems": [
+            "satellit",
+            "citi",
+            "serv",
+            "popul",
+            "total",
+            "plano",
+            "piloto",
+            "censu",
+            "2000",
+            "indic",
+            "ceilândia",
+            "344,039",
+            "inhabit",
+            "taguatinga",
+            "243,575",
+            "wherea",
+            "plano",
+            "piloto",
+            "approxim",
+            "400,000",
+            "inhabit",
+            "resid",
+            "satellit",
+            "citi",
+            "depend",
+            "public",
+            "transport"
+        ],
         "synonyms": [
             "satellite",
             "city",
@@ -45389,7 +47135,7 @@
             "public",
             "transportation_system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "satellite",
                 "NN"
@@ -45748,6 +47494,17 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'original': 'O', 'city': 'O', 'plan': 'O', ',': 'O', 'interstate': 'O', 'buses': 'O', 'should': 'O', 'also': 'O', 'stop': 'O', 'at': 'O', 'Central': 'LOCATION', 'Station': 'LOCATION', '.': 'O'}",
         "sentence": "In the original city plan, the interstate buses should also stop at the Central Station.",
+        "stems": [
+            "origin",
+            "citi",
+            "plan",
+            "interst",
+            "buse",
+            "also",
+            "stop",
+            "central",
+            "station"
+        ],
         "synonyms": [
             "original",
             "city",
@@ -45759,7 +47516,7 @@
             "central",
             "station"
         ],
-        "tagged": [
+        "tags": [
             [
                 "original",
                 "JJ"
@@ -46311,6 +48068,28 @@
         "meronyms": [],
         "ner_tag": "{'Because': 'O', 'of': 'O', 'the': 'O', 'growth': 'O', 'Brasília': 'LOCATION', '(': 'O', 'and': 'O', 'corresponding': 'O', 'in': 'O', 'bus': 'O', 'fleet': 'O', ')': 'O', ',': 'O', 'today': 'DATE', 'interstate': 'O', 'buses': 'O', 'leave': 'O', 'from': 'O', 'older': 'O', 'station': 'O', 'called': 'O', 'Rodoferroviária': 'LOCATION', 'located': 'O', 'at': 'O', 'western': 'O', 'end': 'O', 'Eixo': 'O', 'Monumental': 'O', '.': 'O'}",
         "sentence": "Because of the growth of Brasília (and corresponding growth in the bus fleet), today the interstate buses leave from the older interstate station (called Rodoferroviária), located at the western end of the Eixo Monumental.",
+        "stems": [
+            "growth",
+            "brasília",
+            "correspond",
+            "growth",
+            "bu",
+            "fleet",
+            "today",
+            "interst",
+            "buse",
+            "leav",
+            "older",
+            "interst",
+            "station",
+            "call",
+            "rodoferroviária",
+            "locat",
+            "western",
+            "end",
+            "eixo",
+            "monument"
+        ],
         "synonyms": [
             "increase",
             "brasília",
@@ -46333,7 +48112,7 @@
             "eixo",
             "monumental"
         ],
-        "tagged": [
+        "tags": [
             [
                 "growth",
                 "NN"
@@ -46588,6 +48367,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Central': 'O', 'Bus': 'O', 'Station': 'O', 'also': 'O', 'contains': 'O', 'a': 'O', 'main': 'O', 'metro': 'O', 'station': 'O', '.': 'O'}",
         "sentence": "The Central Bus Station also contains a main metro station.",
+        "stems": [
+            "central",
+            "bu",
+            "station",
+            "also",
+            "contain",
+            "main",
+            "metro",
+            "station"
+        ],
         "synonyms": [
             "central",
             "busbar",
@@ -46598,7 +48387,7 @@
             "metro",
             "station"
         ],
-        "tagged": [
+        "tags": [
             [
                 "central",
                 "JJ"
@@ -46776,6 +48565,14 @@
         ],
         "ner_tag": "{'A': 'O', 'new': 'O', 'bus': 'O', 'station': 'O', 'was': 'O', 'opened': 'O', 'in': 'O', 'July': 'DATE', '2010': 'DATE', '.': 'O'}",
         "sentence": "A new bus station was opened in July 2010.",
+        "stems": [
+            "new",
+            "bu",
+            "station",
+            "open",
+            "juli",
+            "2010"
+        ],
         "synonyms": [
             "newfangled",
             "busbar",
@@ -46784,7 +48581,7 @@
             "July",
             "2010"
         ],
-        "tagged": [
+        "tags": [
             [
                 "new",
                 "JJ"
@@ -47243,6 +49040,26 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'is': 'O', 'on': 'O', 'Saída': 'O', 'Sul': 'O', '(': 'O', 'South': 'LOCATION', 'Exit': 'LOCATION', ')': 'O', 'near': 'O', 'Parkshopping': 'LOCATION', 'Mall': 'LOCATION', 'and': 'O', 'with': 'O', 'its': 'O', 'metro': 'O', 'station': 'O', ',': 'O', 'it': 'O', \"'s\": 'O', 'also': 'O', 'an': 'O', 'inter-state': 'O', 'bus': 'O', 'used': 'O', 'only': 'O', 'to': 'O', 'leave': 'O', 'the': 'O', 'Federal': 'LOCATION', 'District': 'LOCATION', '.': 'O'}",
         "sentence": "It is on Saída Sul (South Exit) near Parkshopping Mall and with its metro station, and it's also an inter-state bus station, used only to leave the Federal District.",
+        "stems": [
+            "saída",
+            "sul",
+            "south",
+            "exit",
+            "near",
+            "parkshop",
+            "mall",
+            "metro",
+            "station",
+            "'s",
+            "also",
+            "inter-st",
+            "bu",
+            "station",
+            "use",
+            "leav",
+            "feder",
+            "district"
+        ],
         "synonyms": [
             "saída",
             "sul",
@@ -47263,7 +49080,7 @@
             "Federal",
             "district"
         ],
-        "tagged": [
+        "tags": [
             [
                 "saída",
                 "NN"
@@ -47695,6 +49512,23 @@
         ],
         "ner_tag": "{'Brasília': 'LOCATION', 'is': 'O', 'known': 'O', 'as': 'O', 'a': 'O', 'departing': 'O', 'point': 'O', 'for': 'O', 'the': 'O', 'practice': 'O', 'of': 'O', 'unpowered': 'O', 'air': 'O', 'sports': 'O', ',': 'O', 'that': 'O', 'may': 'O', 'be': 'O', 'practiced': 'O', 'with': 'O', 'hang': 'O', 'gliding': 'O', 'or': 'O', 'paragliding': 'O', 'wings': 'O', '.': 'O'}",
         "sentence": "Brasília is known as a departing point for the practice of unpowered air sports, sports that may be practiced with hang gliding or paragliding wings.",
+        "stems": [
+            "brasília",
+            "known",
+            "depart",
+            "point",
+            "practic",
+            "unpow",
+            "air",
+            "sport",
+            "sport",
+            "may",
+            "practic",
+            "hang",
+            "glide",
+            "paraglid",
+            "wing"
+        ],
         "synonyms": [
             "brasília",
             "know",
@@ -47712,7 +49546,7 @@
             "parasailing",
             "wings"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brasília",
                 "NNS"
@@ -48300,6 +50134,30 @@
         "meronyms": [],
         "ner_tag": "{'Practitioners': 'O', 'of': 'O', 'such': 'O', 'sports': 'O', 'reveal': 'O', 'that': 'O', ',': 'O', 'because': 'O', 'the': 'O', 'city': 'O', \"'s\": 'O', 'dry': 'O', 'weather': 'O', 'offers': 'O', 'strong': 'O', 'thermal': 'O', 'winds': 'O', 'and': 'O', 'great': 'O', '``': 'O', 'cloud': 'O', '-': 'O', 'streets': 'O', \"''\": 'O', 'which': 'O', 'is': 'O', 'also': 'O', 'name': 'O', 'for': 'O', 'a': 'O', 'manoeuvre': 'O', 'quite': 'O', 'appreciated': 'O', 'by': 'O', 'practitioners': 'O', '.': 'O'}",
         "sentence": "Practitioners of such sports reveal that, because of the city's dry weather, the city offers strong thermal winds and great \"cloud-streets\", which is also the name for a manoeuvre quite appreciated by practitioners.",
+        "stems": [
+            "practition",
+            "sport",
+            "reveal",
+            "citi",
+            "'s",
+            "dri",
+            "weather",
+            "citi",
+            "offer",
+            "strong",
+            "thermal",
+            "wind",
+            "great",
+            "``",
+            "cloud-street",
+            "''",
+            "also",
+            "name",
+            "manoeuvr",
+            "quit",
+            "appreci",
+            "practition"
+        ],
         "synonyms": [
             "practitioner",
             "sport",
@@ -48324,7 +50182,7 @@
             "prize",
             "practitioner"
         ],
-        "tagged": [
+        "tags": [
             [
                 "practitioners",
                 "NNS"
@@ -48688,6 +50546,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '2003': 'DATE', ',': 'O', 'Brasília': 'LOCATION', 'hosted': 'O', 'the': 'O', '14th': 'ORDINAL', 'Hang': 'O', 'Gliding': 'MISC', 'World': 'MISC', 'Championship': 'MISC', 'one': 'NUMBER', 'of': 'O', 'categories': 'O', 'free': 'O', 'flying': 'O', '.': 'O'}",
         "sentence": "In 2003, Brasília hosted the 14th Hang Gliding World Championship, one of the categories of free flying.",
+        "stems": [
+            "2003",
+            "brasília",
+            "host",
+            "14th",
+            "hang",
+            "glide",
+            "world",
+            "championship",
+            "one",
+            "categori",
+            "free",
+            "fli"
+        ],
         "synonyms": [
             "2003",
             "brasília",
@@ -48702,7 +50574,7 @@
             "release",
             "fly"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2003",
                 "CD"
@@ -48980,6 +50852,18 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'August': 'DATE', '2005': 'DATE', ',': 'O', 'the': 'O', 'city': 'O', 'hosted': 'O', '2nd': 'ORDINAL', 'stage': 'O', 'of': 'O', 'Brazilian': 'NATIONALITY', 'Hang': 'MISC', 'Gliding': 'MISC', 'Championship': 'MISC', '.': 'O'}",
         "sentence": "In August 2005, the city hosted the 2nd stage of the Brazilian Hang Gliding Championship.",
+        "stems": [
+            "august",
+            "2005",
+            "citi",
+            "host",
+            "2nd",
+            "stage",
+            "brazilian",
+            "hang",
+            "glide",
+            "championship"
+        ],
         "synonyms": [
             "august",
             "2005",
@@ -48992,7 +50876,7 @@
             "glide",
             "championship"
         ],
-        "tagged": [
+        "tags": [
             [
                 "august",
                 "JJ"

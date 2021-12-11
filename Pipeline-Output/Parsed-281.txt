@@ -366,6 +366,24 @@
         "meronyms": [],
         "ner_tag": "{'Textual': 'O', 'criticism': 'O', 'is': 'O', 'a': 'O', 'branch': 'O', 'of': 'O', 'textual': 'O', 'scholarship': 'O', ',': 'O', 'philology': 'O', 'and': 'O', 'literary': 'O', 'that': 'O', 'concerned': 'O', 'with': 'O', 'the': 'O', 'identification': 'O', 'variants': 'O', 'in': 'O', 'either': 'O', 'manuscripts': 'O', 'or': 'O', 'printed': 'O', 'books': 'O', '.': 'O'}",
         "sentence": "Textual criticism is a branch of textual scholarship, philology, and literary criticism that is concerned with the identification of textual variants in either manuscripts or printed books.",
+        "stems": [
+            "textual",
+            "critic",
+            "branch",
+            "textual",
+            "scholarship",
+            "philolog",
+            "literari",
+            "critic",
+            "concern",
+            "identif",
+            "textual",
+            "variant",
+            "either",
+            "manuscript",
+            "print",
+            "book"
+        ],
         "synonyms": [
             "textual",
             "criticism",
@@ -384,7 +402,7 @@
             "print",
             "script"
         ],
-        "tagged": [
+        "tags": [
             [
                 "textual",
                 "JJ"
@@ -602,6 +620,15 @@
         "meronyms": [],
         "ner_tag": "{'Ancient': 'O', 'scribes': 'O', 'made': 'O', 'alterations': 'O', 'when': 'O', 'copying': 'O', 'manuscripts': 'O', 'by': 'O', 'hand': 'O', '.': 'O'}",
         "sentence": "Ancient scribes made alterations when copying manuscripts by hand.",
+        "stems": [
+            "ancient",
+            "scribe",
+            "made",
+            "alter",
+            "copi",
+            "manuscript",
+            "hand"
+        ],
         "synonyms": [
             "ancient",
             "scriber",
@@ -611,7 +638,7 @@
             "manuscript",
             "hired_hand"
         ],
-        "tagged": [
+        "tags": [
             [
                 "ancient",
                 "NN"
@@ -1099,6 +1126,27 @@
         "meronyms": [],
         "ner_tag": "{'Given': 'O', 'a': 'O', 'manuscript': 'O', 'copy': 'O', ',': 'O', 'several': 'O', 'or': 'O', 'many': 'O', 'copies': 'O', 'but': 'O', 'not': 'O', 'the': 'O', 'original': 'O', 'document': 'O', 'textual': 'O', 'critic': 'TITLE', 'might': 'O', 'seek': 'O', 'to': 'O', 'reconstruct': 'O', 'text': 'O', '(': 'O', 'archetype': 'O', 'autograph': 'O', ')': 'O', 'as': 'O', 'closely': 'O', 'possible': 'O', '.': 'O'}",
         "sentence": "Given a manuscript copy, several or many copies, but not the original document, the textual critic might seek to reconstruct the original text (the archetype or autograph) as closely as possible.",
+        "stems": [
+            "given",
+            "manuscript",
+            "copi",
+            "sever",
+            "mani",
+            "copi",
+            "origin",
+            "document",
+            "textual",
+            "critic",
+            "might",
+            "seek",
+            "reconstruct",
+            "origin",
+            "text",
+            "archetyp",
+            "autograph",
+            "close",
+            "possibl"
+        ],
         "synonyms": [
             "given",
             "manuscript",
@@ -1120,7 +1168,7 @@
             "closely",
             "potential"
         ],
-        "tagged": [
+        "tags": [
             [
                 "given",
                 "VBN"
@@ -1501,6 +1549,19 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'same': 'O', 'processes': 'O', 'can': 'O', 'be': 'O', 'used': 'O', 'to': 'O', 'attempt': 'O', 'reconstruct': 'O', 'intermediate': 'O', 'versions': 'O', ',': 'O', 'or': 'O', 'recensions': 'O', 'of': 'O', 'a': 'O', 'document': 'O', \"'s\": 'O', 'transcription': 'O', 'history': 'O', '.': 'O'}",
         "sentence": "The same processes can be used to attempt to reconstruct intermediate versions, or recensions, of a document's transcription history.",
+        "stems": [
+            "process",
+            "use",
+            "attempt",
+            "reconstruct",
+            "intermedi",
+            "version",
+            "recens",
+            "document",
+            "'s",
+            "transcript",
+            "histori"
+        ],
         "synonyms": [
             "work",
             "use",
@@ -1514,7 +1575,7 @@
             "transcription",
             "history"
         ],
-        "tagged": [
+        "tags": [
             [
                 "processes",
                 "NNS"
@@ -1873,6 +1934,23 @@
         ],
         "ner_tag": "{'The': 'O', 'ultimate': 'O', 'objective': 'O', 'of': 'O', 'the': 'O', 'textual': 'O', 'critic': 'TITLE', \"'s\": 'O', 'work': 'O', 'is': 'O', 'production': 'O', 'a': 'O', '``': 'O', 'critical': 'O', 'edition': 'O', \"''\": 'O', 'containing': 'O', 'scholarly': 'O', 'curated': 'O', 'text': 'O', '.': 'O'}",
         "sentence": "The ultimate objective of the textual critic's work is the production of a \"critical edition\" containing a scholarly curated text.",
+        "stems": [
+            "ultim",
+            "object",
+            "textual",
+            "critic",
+            "'s",
+            "work",
+            "product",
+            "``",
+            "critic",
+            "edit",
+            "''",
+            "contain",
+            "scholarli",
+            "curat",
+            "text"
+        ],
         "synonyms": [
             "ultimate",
             "objective",
@@ -1890,7 +1968,7 @@
             "curated",
             "textbook"
         ],
-        "tagged": [
+        "tags": [
             [
                 "ultimate",
                 "JJ"
@@ -2405,6 +2483,24 @@
         "meronyms": [],
         "ner_tag": "{'Many': 'O', 'ancient': 'O', 'works': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'the': 'O', 'Bible': 'O', 'and': 'O', 'Greek': 'NATIONALITY', 'tragedies': 'O', '[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'survive': 'O', 'in': 'O', 'hundreds': 'O', 'of': 'O', 'copies': 'O', 'relationship': 'O', 'each': 'O', 'copy': 'O', 'to': 'O', 'original': 'O', 'may': 'O', 'be': 'O', 'unclear': 'O', '.': 'O'}",
         "sentence": "Many ancient works, such as the Bible and the Greek tragedies,[citation needed] survive in hundreds of copies, and the relationship of each copy to the original may be unclear.",
+        "stems": [
+            "mani",
+            "ancient",
+            "work",
+            "bibl",
+            "greek",
+            "tragedi",
+            "citat",
+            "need",
+            "surviv",
+            "hundr",
+            "copi",
+            "relationship",
+            "copi",
+            "origin",
+            "may",
+            "unclear"
+        ],
         "synonyms": [
             "many",
             "ancient",
@@ -2423,7 +2519,7 @@
             "whitethorn",
             "unclear"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -2818,6 +2914,20 @@
         ],
         "ner_tag": "{'Textual': 'O', 'scholars': 'O', 'have': 'O', 'debated': 'O', 'for': 'O', 'centuries': 'DURATION', 'which': 'O', 'sources': 'O', 'are': 'O', 'most': 'O', 'closely': 'O', 'derived': 'O', 'from': 'O', 'the': 'O', 'original': 'O', ',': 'O', 'hence': 'O', 'readings': 'O', 'in': 'O', 'those': 'O', 'correct': 'O', '.': 'O'}",
         "sentence": "Textual scholars have debated for centuries which sources are most closely derived from the original, hence which readings in those sources are correct.",
+        "stems": [
+            "textual",
+            "scholar",
+            "debat",
+            "centuri",
+            "sourc",
+            "close",
+            "deriv",
+            "origin",
+            "henc",
+            "read",
+            "sourc",
+            "correct"
+        ],
         "synonyms": [
             "textual",
             "scholar",
@@ -2832,7 +2942,7 @@
             "source",
             "correct"
         ],
-        "tagged": [
+        "tags": [
             [
                 "textual",
                 "JJ"
@@ -3396,6 +3506,30 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Although': 'O', 'biblical': 'O', 'books': 'O', 'that': 'O', 'are': 'O', 'letters': 'O', ',': 'O', 'like': 'O', 'Greek': 'NATIONALITY', 'plays': 'O', 'presumably': 'O', 'had': 'O', 'one': 'NUMBER', 'original': 'O', 'the': 'O', 'question': 'O', 'of': 'O', 'whether': 'O', 'some': 'O', 'Gospels': 'ORGANIZATION', 'ever': 'O', 'just': 'O', 'has': 'O', 'been': 'O', 'discussed': 'O', '.': 'O'}",
         "sentence": "[citation needed] Although biblical books that are letters, like Greek plays, presumably had one original, the question of whether some biblical books, like the Gospels, ever had just one original has been discussed.",
+        "stems": [
+            "citat",
+            "need",
+            "although",
+            "biblic",
+            "book",
+            "letter",
+            "like",
+            "greek",
+            "play",
+            "presum",
+            "one",
+            "origin",
+            "question",
+            "whether",
+            "biblic",
+            "book",
+            "like",
+            "gospel",
+            "ever",
+            "one",
+            "origin",
+            "discuss"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -3420,7 +3554,7 @@
             "original",
             "hash_out"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -3951,6 +4085,24 @@
         ],
         "ner_tag": "{'Interest': 'O', 'in': 'O', 'applying': 'O', 'textual': 'O', 'criticism': 'O', 'to': 'O', 'the': 'O', 'Qur': 'O', \"'\": 'O', 'an': 'O', 'has': 'O', 'also': 'O', 'developed': 'O', 'after': 'O', 'discovery': 'O', 'of': 'O', 'Sana': 'ORGANIZATION', 'a': 'O', 'manuscripts': 'O', '1972': 'DATE', ',': 'O', 'which': 'O', 'possibly': 'O', 'date': 'O', 'back': 'O', '7': 'NUMBER', '–': 'O', '8th': 'DATE', 'centuries': 'DATE', '.': 'O'}",
         "sentence": "Interest in applying textual criticism to the Qur'an has also developed after the discovery of the Sana'a manuscripts in 1972, which possibly date back to the 7–8th centuries.",
+        "stems": [
+            "interest",
+            "appli",
+            "textual",
+            "critic",
+            "qur'an",
+            "also",
+            "develop",
+            "discoveri",
+            "sana",
+            "manuscript",
+            "1972",
+            "possibl",
+            "date",
+            "back",
+            "7–8th",
+            "centuri"
+        ],
         "synonyms": [
             "sake",
             "use",
@@ -3969,7 +4121,7 @@
             "7–8th",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "interest",
                 "NN"
@@ -4712,6 +4864,33 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'English': 'NATIONALITY', 'language': 'O', ',': 'O', 'works': 'O', 'of': 'O', 'Shakespeare': 'PERSON', 'have': 'O', 'been': 'O', 'a': 'O', 'particularly': 'O', 'fertile': 'O', 'ground': 'O', 'for': 'O', 'textual': 'O', 'criticism': 'O', '—': 'O', 'both': 'O', 'because': 'O', 'texts': 'O', 'as': 'O', 'transmitted': 'O', 'contain': 'O', 'considerable': 'O', 'amount': 'O', 'variation': 'O', 'and': 'O', 'effort': 'O', 'expense': 'O', 'producing': 'O', 'superior': 'O', 'editions': 'O', 'his': 'O', 'always': 'O', 'widely': 'O', 'viewed': 'O', 'worthwhile': 'O', '.': 'O'}",
         "sentence": "In the English language, the works of Shakespeare have been a particularly fertile ground for textual criticism—both because the texts, as transmitted, contain a considerable amount of variation, and because the effort and expense of producing superior editions of his works have always been widely viewed as worthwhile.",
+        "stems": [
+            "english",
+            "languag",
+            "work",
+            "shakespear",
+            "particularli",
+            "fertil",
+            "ground",
+            "textual",
+            "criticism—both",
+            "text",
+            "transmit",
+            "contain",
+            "consider",
+            "amount",
+            "variat",
+            "effort",
+            "expens",
+            "produc",
+            "superior",
+            "edit",
+            "work",
+            "alway",
+            "wide",
+            "view",
+            "worthwhil"
+        ],
         "synonyms": [
             "English",
             "terminology",
@@ -4739,7 +4918,7 @@
             "watch",
             "worthwhile"
         ],
-        "tagged": [
+        "tags": [
             [
                 "english",
                 "JJ"
@@ -5511,6 +5690,34 @@
         ],
         "ner_tag": "{'The': 'O', 'principles': 'O', 'of': 'O', 'textual': 'O', 'criticism': 'O', ',': 'O', 'although': 'O', 'originally': 'O', 'developed': 'O', 'and': 'O', 'refined': 'O', 'for': 'O', 'works': 'O', 'antiquity': 'O', 'the': 'O', 'Bible': 'O', 'Shakespeare': 'PERSON', 'have': 'O', 'been': 'O', 'applied': 'O', 'to': 'O', 'many': 'O', 'extending': 'O', 'backwards': 'O', 'from': 'O', 'present': 'DATE', 'earliest': 'O', 'known': 'O', 'written': 'O', 'documents': 'O', 'in': 'O', 'Mesopotamia': 'COUNTRY', 'Egypt': 'COUNTRY', '—': 'O', 'a': 'O', 'period': 'O', 'about': 'DURATION', 'five': 'DURATION', 'millennia': 'DURATION', '.': 'O'}",
         "sentence": "The principles of textual criticism, although originally developed and refined for works of antiquity, the Bible, and Shakespeare, have been applied to many works, extending backwards from the present to the earliest known written documents, in Mesopotamia and Egypt—a period of about five millennia.",
+        "stems": [
+            "principl",
+            "textual",
+            "critic",
+            "although",
+            "origin",
+            "develop",
+            "refin",
+            "work",
+            "antiqu",
+            "bibl",
+            "shakespear",
+            "appli",
+            "mani",
+            "work",
+            "extend",
+            "backward",
+            "present",
+            "earliest",
+            "known",
+            "written",
+            "document",
+            "mesopotamia",
+            "egypt—a",
+            "period",
+            "five",
+            "millennia"
+        ],
         "synonyms": [
             "principle",
             "textual",
@@ -5539,7 +5746,7 @@
             "five-spot",
             "millennium"
         ],
-        "tagged": [
+        "tags": [
             [
                 "principles",
                 "NNS"
@@ -5896,6 +6103,17 @@
         "meronyms": [],
         "ner_tag": "{'However': 'O', ',': 'O', 'the': 'O', 'application': 'O', 'of': 'O', 'textual': 'O', 'criticism': 'O', 'to': 'O', 'non-religious': 'IDEOLOGY', 'works': 'O', 'does': 'O', 'not': 'O', 'antedate': 'O', 'invention': 'O', 'printing': 'O', '.': 'O'}",
         "sentence": "However, the application of textual criticism to non-religious works does not antedate the invention of printing.",
+        "stems": [
+            "howev",
+            "applic",
+            "textual",
+            "critic",
+            "non-religi",
+            "work",
+            "anted",
+            "invent",
+            "print"
+        ],
         "synonyms": [
             "however",
             "lotion",
@@ -5907,7 +6125,7 @@
             "invention",
             "print"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -6346,6 +6564,20 @@
         "meronyms": [],
         "ner_tag": "{'While': 'O', 'Christianity': 'RELIGION', 'has': 'O', 'been': 'O', 'relatively': 'O', 'receptive': 'O', 'to': 'O', 'textual': 'O', 'criticism': 'O', ',': 'O', 'application': 'O', 'of': 'O', 'it': 'O', 'the': 'O', 'Jewish': 'RELIGION', '(': 'O', 'Masoretic': 'LOCATION', ')': 'O', 'Torah': 'ORGANIZATION', 'and': 'O', 'Qur': 'O', \"'\": 'O', 'an': 'O', 'is': 'O', 'devout': 'MISC', 'taboo': 'O', '.': 'O'}",
         "sentence": "While Christianity has been relatively receptive to textual criticism, application of it to the Jewish (Masoretic) Torah and the Qur'an is, to the devout, taboo.",
+        "stems": [
+            "christian",
+            "rel",
+            "recept",
+            "textual",
+            "critic",
+            "applic",
+            "jewish",
+            "masoret",
+            "torah",
+            "qur'an",
+            "devout",
+            "taboo"
+        ],
         "synonyms": [
             "Christianity",
             "relatively",
@@ -6360,7 +6592,7 @@
             "devout",
             "taboo"
         ],
-        "tagged": [
+        "tags": [
             [
                 "christianity",
                 "NN"
@@ -6744,6 +6976,22 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Maas': 'PERSON', 'comments': 'O', 'further': 'O', 'that': 'O', '``': 'O', 'A': 'O', 'dictation': 'O', 'revised': 'O', 'by': 'O', 'the': 'O', 'author': 'TITLE', 'must': 'O', 'be': 'O', 'regarded': 'O', 'as': 'O', 'equivalent': 'O', 'to': 'O', 'an': 'O', 'autograph': 'O', 'manuscript': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "[citation needed] Maas comments further that \"A dictation revised by the author must be regarded as equivalent to an autograph manuscript\".",
+        "stems": [
+            "citat",
+            "need",
+            "maa",
+            "comment",
+            "``",
+            "dictat",
+            "revis",
+            "author",
+            "must",
+            "regard",
+            "equival",
+            "autograph",
+            "manuscript",
+            "''"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -6760,7 +7008,7 @@
             "manuscript",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -7022,6 +7270,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'lack': 'O', 'of': 'O', 'autograph': 'O', 'manuscripts': 'O', 'applies': 'O', 'to': 'O', 'many': 'O', 'cultures': 'O', 'other': 'O', 'than': 'O', 'Greek': 'NATIONALITY', 'and': 'O', 'Roman': 'MISC', '.': 'O'}",
         "sentence": "The lack of autograph manuscripts applies to many cultures other than Greek and Roman.",
+        "stems": [
+            "lack",
+            "autograph",
+            "manuscript",
+            "appli",
+            "mani",
+            "cultur",
+            "greek",
+            "roman"
+        ],
         "synonyms": [
             "miss",
             "autograph",
@@ -7032,7 +7290,7 @@
             "Greek",
             "roman"
         ],
-        "tagged": [
+        "tags": [
             [
                 "lack",
                 "NN"
@@ -7351,6 +7609,17 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'such': 'O', 'a': 'O', 'situation': 'O', ',': 'O', 'key': 'O', 'objective': 'O', 'becomes': 'O', 'the': 'O', 'identification': 'O', 'of': 'O', 'first': 'ORDINAL', 'exemplar': 'O', 'before': 'O', 'any': 'O', 'split': 'O', 'in': 'O', 'tradition': 'O', '.': 'O'}",
         "sentence": "In such a situation, a key objective becomes the identification of the first exemplar before any split in the tradition.",
+        "stems": [
+            "situat",
+            "key",
+            "object",
+            "becom",
+            "identif",
+            "first",
+            "exemplar",
+            "split",
+            "tradit"
+        ],
         "synonyms": [
             "situation",
             "winder",
@@ -7362,7 +7631,7 @@
             "split",
             "custom"
         ],
-        "tagged": [
+        "tags": [
             [
                 "situation",
                 "NN"
@@ -7512,12 +7781,17 @@
         "meronyms": [],
         "ner_tag": "{'That': 'O', 'exemplar': 'O', 'is': 'O', 'known': 'O', 'as': 'O', 'the': 'O', 'archetype': 'O', '.': 'O'}",
         "sentence": "That exemplar is known as the archetype.",
+        "stems": [
+            "exemplar",
+            "known",
+            "archetyp"
+        ],
         "synonyms": [
             "exemplar",
             "know",
             "original"
         ],
-        "tagged": [
+        "tags": [
             [
                 "exemplar",
                 "JJ"
@@ -7848,6 +8122,18 @@
         "meronyms": [],
         "ner_tag": "{'``': 'O', 'If': 'O', 'we': 'O', 'succeed': 'O', 'in': 'O', 'establishing': 'O', 'the': 'O', 'text': 'O', 'of': 'O', '[': 'O', 'archetype': 'O', ']': 'O', ',': 'O', 'constitutio': 'O', '(': 'O', 'reconstruction': 'O', 'original': 'O', ')': 'O', 'is': 'O', 'considerably': 'O', 'advanced': 'O', '.': 'O'}",
         "sentence": "\"If we succeed in establishing the text of [the archetype], the constitutio (reconstruction of the original) is considerably advanced.",
+        "stems": [
+            "``",
+            "succeed",
+            "establish",
+            "text",
+            "archetyp",
+            "constitutio",
+            "reconstruct",
+            "origin",
+            "consider",
+            "advanc"
+        ],
         "synonyms": [
             "``",
             "succeed",
@@ -7860,7 +8146,7 @@
             "well",
             "promote"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -8114,6 +8400,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'textual': 'O', 'critic': 'TITLE', \"'s\": 'O', 'ultimate': 'O', 'objective': 'O', 'is': 'O', 'the': 'O', 'production': 'O', 'of': 'O', 'a': 'O', '``': 'O', 'critical': 'O', 'edition': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "The textual critic's ultimate objective is the production of a \"critical edition\".",
+        "stems": [
+            "textual",
+            "critic",
+            "'s",
+            "ultim",
+            "object",
+            "product",
+            "``",
+            "critic",
+            "edit",
+            "''"
+        ],
         "synonyms": [
             "textual",
             "critic",
@@ -8126,7 +8424,7 @@
             "version",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "textual",
                 "JJ"
@@ -8547,6 +8845,22 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'This': 'O', 'contains': 'O', 'the': 'O', 'text': 'O', 'that': 'O', 'author': 'TITLE', 'has': 'O', 'determined': 'O', 'most': 'O', 'closely': 'O', 'approximates': 'O', 'original': 'O', ',': 'O', 'and': 'O', 'is': 'O', 'accompanied': 'O', 'by': 'O', 'an': 'O', 'apparatus': 'O', 'criticus': 'O', 'or': 'O', 'critical': 'O', '.': 'O'}",
         "sentence": "[citation needed] This contains the text that the author has determined most closely approximates the original, and is accompanied by an apparatus criticus or critical apparatus.",
+        "stems": [
+            "citat",
+            "need",
+            "contain",
+            "text",
+            "author",
+            "determin",
+            "close",
+            "approxim",
+            "origin",
+            "accompani",
+            "apparatu",
+            "criticu",
+            "critic",
+            "apparatu"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -8563,7 +8877,7 @@
             "critical",
             "apparatus"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -9584,6 +9898,46 @@
         ],
         "ner_tag": "{'The': 'O', 'critical': 'O', 'apparatus': 'O', 'presents': 'O', 'the': 'O', 'author': 'TITLE', \"'s\": 'O', 'work': 'O', 'in': 'O', 'three': 'NUMBER', 'parts': 'O', ':': 'O', 'first': 'ORDINAL', ',': 'O', 'a': 'O', 'list': 'O', 'or': 'O', 'description': 'O', 'of': 'O', 'evidence': 'O', 'that': 'O', 'editor': 'TITLE', 'used': 'O', '(': 'O', 'names': 'O', 'manuscripts': 'O', 'abbreviations': 'O', 'called': 'O', 'sigla': 'O', ')': 'O', ';': 'O', 'second': 'ORDINAL', 'analysis': 'O', 'sometimes': 'O', 'simple': 'O', 'likelihood': 'O', 'rating': 'O', '[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'and': 'O', 'third': 'ORDINAL', 'record': 'O', 'rejected': 'O', 'variants': 'O', 'text': 'O', 'often': 'O', 'order': 'O', 'preference': 'O', '.': 'O'}",
         "sentence": "The critical apparatus presents the author's work in three parts: first, a list or description of the evidence that the editor used (names of manuscripts, or abbreviations called sigla); second, the editor's analysis of that evidence (sometimes a simple likelihood rating),[citation needed]; and third, a record of rejected variants of the text (often in order of preference).",
+        "stems": [
+            "critic",
+            "apparatu",
+            "present",
+            "author",
+            "'s",
+            "work",
+            "three",
+            "part",
+            "first",
+            "list",
+            "descript",
+            "evid",
+            "editor",
+            "use",
+            "name",
+            "manuscript",
+            "abbrevi",
+            "call",
+            "sigla",
+            "second",
+            "editor",
+            "'s",
+            "analysi",
+            "evid",
+            "sometim",
+            "simpl",
+            "likelihood",
+            "rate",
+            "citat",
+            "need",
+            "third",
+            "record",
+            "reject",
+            "variant",
+            "text",
+            "often",
+            "order",
+            "prefer"
+        ],
         "synonyms": [
             "critical",
             "apparatus",
@@ -9624,7 +9978,7 @@
             "rate",
             "preference"
         ],
-        "tagged": [
+        "tags": [
             [
                 "critical",
                 "JJ"
@@ -10091,6 +10445,19 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Before': 'O', 'mechanical': 'O', 'printing': 'O', ',': 'O', 'literature': 'O', 'was': 'O', 'copied': 'O', 'by': 'O', 'hand': 'O', 'and': 'O', 'many': 'O', 'variations': 'O', 'were': 'O', 'introduced': 'O', 'copyists': 'O', '.': 'O'}",
         "sentence": "[citation needed] Before mechanical printing, literature was copied by hand, and many variations were introduced by copyists.",
+        "stems": [
+            "citat",
+            "need",
+            "mechan",
+            "print",
+            "literatur",
+            "copi",
+            "hand",
+            "mani",
+            "variat",
+            "introduc",
+            "copyist"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -10104,7 +10471,7 @@
             "precede",
             "copyist"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -10307,6 +10674,15 @@
         ],
         "ner_tag": "{'The': 'O', 'age': 'O', 'of': 'O', 'printing': 'O', 'made': 'O', 'the': 'O', 'scribal': 'O', 'profession': 'O', 'effectively': 'O', 'redundant': 'O', '.': 'O'}",
         "sentence": "The age of printing made the scribal profession effectively redundant.",
+        "stems": [
+            "age",
+            "print",
+            "made",
+            "scribal",
+            "profess",
+            "effect",
+            "redund"
+        ],
         "synonyms": [
             "old_age",
             "print",
@@ -10316,7 +10692,7 @@
             "efficaciously",
             "pleonastic"
         ],
-        "tagged": [
+        "tags": [
             [
                 "age",
                 "NN"
@@ -10738,6 +11114,25 @@
         ],
         "ner_tag": "{'Printed': 'O', 'editions': 'O', ',': 'O', 'while': 'O', 'less': 'O', 'susceptible': 'O', 'to': 'O', 'the': 'O', 'proliferation': 'O', 'of': 'O', 'variations': 'O', 'likely': 'O', 'arise': 'O', 'during': 'O', 'manual': 'O', 'transmission': 'O', 'are': 'O', 'nonetheless': 'O', 'not': 'O', 'immune': 'O', 'introducing': 'O', 'from': 'O', 'an': 'O', 'author': 'TITLE', \"'s\": 'O', 'autograph': 'O', '.': 'O'}",
         "sentence": "Printed editions, while less susceptible to the proliferation of variations likely to arise during manual transmission, are nonetheless not immune to introducing variations from an author's autograph.",
+        "stems": [
+            "print",
+            "edit",
+            "less",
+            "suscept",
+            "prolifer",
+            "variat",
+            "like",
+            "aris",
+            "manual",
+            "transmiss",
+            "nonetheless",
+            "immun",
+            "introduc",
+            "variat",
+            "author",
+            "'s",
+            "autograph"
+        ],
         "synonyms": [
             "print",
             "version",
@@ -10757,7 +11152,7 @@
             "'s",
             "autograph"
         ],
-        "tagged": [
+        "tags": [
             [
                 "printed",
                 "VBN"
@@ -11202,6 +11597,22 @@
         ],
         "ner_tag": "{'Instead': 'O', 'of': 'O', 'a': 'O', 'scribe': 'TITLE', 'miscopying': 'O', 'his': 'O', 'source': 'O', ',': 'O', 'compositor': 'TITLE', 'or': 'O', 'printing': 'O', 'shop': 'O', 'may': 'O', 'read': 'O', 'typeset': 'O', 'work': 'O', 'in': 'O', 'way': 'O', 'that': 'O', 'differs': 'O', 'from': 'O', 'the': 'O', 'autograph': 'O', '.': 'O'}",
         "sentence": "Instead of a scribe miscopying his source, a compositor or a printing shop may read or typeset a work in a way that differs from the autograph.",
+        "stems": [
+            "instead",
+            "scribe",
+            "miscopi",
+            "sourc",
+            "compositor",
+            "print",
+            "shop",
+            "may",
+            "read",
+            "typeset",
+            "work",
+            "way",
+            "differ",
+            "autograph"
+        ],
         "synonyms": [
             "rather",
             "scriber",
@@ -11218,7 +11629,7 @@
             "disagree",
             "autograph"
         ],
-        "tagged": [
+        "tags": [
             [
                 "instead",
                 "RB"
@@ -11626,6 +12037,24 @@
         "meronyms": [],
         "ner_tag": "{'Since': 'O', 'each': 'O', 'scribe': 'TITLE', 'or': 'O', 'printer': 'TITLE', 'commits': 'O', 'different': 'O', 'errors': 'O', ',': 'O', 'reconstruction': 'O', 'of': 'O', 'the': 'O', 'lost': 'O', 'original': 'O', 'is': 'O', 'often': 'O', 'aided': 'O', 'by': 'O', 'a': 'O', 'selection': 'O', 'readings': 'O', 'taken': 'O', 'from': 'O', 'many': 'O', 'sources': 'O', '.': 'O'}",
         "sentence": "Since each scribe or printer commits different errors, reconstruction of the lost original is often aided by a selection of readings taken from many sources.",
+        "stems": [
+            "sinc",
+            "scribe",
+            "printer",
+            "commit",
+            "differ",
+            "error",
+            "reconstruct",
+            "lost",
+            "origin",
+            "often",
+            "aid",
+            "select",
+            "read",
+            "taken",
+            "mani",
+            "sourc"
+        ],
         "synonyms": [
             "since",
             "scriber",
@@ -11644,7 +12073,7 @@
             "many",
             "source"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -11905,6 +12334,15 @@
         "meronyms": [],
         "ner_tag": "{'An': 'O', 'edited': 'O', 'text': 'O', 'that': 'O', 'draws': 'O', 'from': 'O', 'multiple': 'O', 'sources': 'O', 'is': 'O', 'said': 'O', 'to': 'O', 'be': 'O', 'eclectic': 'O', '.': 'O'}",
         "sentence": "An edited text that draws from multiple sources is said to be eclectic.",
+        "stems": [
+            "edit",
+            "text",
+            "draw",
+            "multipl",
+            "sourc",
+            "said",
+            "eclect"
+        ],
         "synonyms": [
             "emended",
             "textbook",
@@ -11914,7 +12352,7 @@
             "suppose",
             "eclectic"
         ],
-        "tagged": [
+        "tags": [
             [
                 "edited",
                 "VBN"
@@ -12289,6 +12727,22 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'contrast': 'O', 'to': 'O', 'this': 'O', 'approach': 'O', ',': 'O', 'some': 'O', 'textual': 'O', 'critics': 'O', 'prefer': 'O', 'identify': 'O', 'the': 'O', 'single': 'O', 'best': 'O', 'surviving': 'O', 'text': 'O', 'and': 'O', 'not': 'O', 'combine': 'O', 'readings': 'O', 'from': 'O', 'multiple': 'O', 'sources': 'O', '.': 'O'}",
         "sentence": "In contrast to this approach, some textual critics prefer to identify the single best surviving text, and not to combine readings from multiple sources.",
+        "stems": [
+            "contrast",
+            "approach",
+            "textual",
+            "critic",
+            "prefer",
+            "identifi",
+            "singl",
+            "best",
+            "surviv",
+            "text",
+            "combin",
+            "read",
+            "multipl",
+            "sourc"
+        ],
         "synonyms": [
             "line",
             "overture",
@@ -12305,7 +12759,7 @@
             "multiple",
             "source"
         ],
-        "tagged": [
+        "tags": [
             [
                 "contrast",
                 "NN"
@@ -12764,6 +13218,25 @@
         "meronyms": [],
         "ner_tag": "{'When': 'O', 'comparing': 'O', 'different': 'O', 'documents': 'O', ',': 'O', 'or': 'O', '``': 'O', 'witnesses': 'O', \"''\": 'O', 'of': 'O', 'a': 'O', 'single': 'O', 'original': 'O', 'text': 'O', 'the': 'O', 'observed': 'O', 'differences': 'O', 'are': 'O', 'called': 'O', 'variant': 'O', 'readings': 'O', 'simply': 'O', 'variants': 'O', '.': 'O'}",
         "sentence": "When comparing different documents, or \"witnesses\", of a single, original text, the observed differences are called variant readings, or simply variants or readings.",
+        "stems": [
+            "compar",
+            "differ",
+            "document",
+            "``",
+            "wit",
+            "''",
+            "singl",
+            "origin",
+            "text",
+            "observ",
+            "differ",
+            "call",
+            "variant",
+            "read",
+            "simpli",
+            "variant",
+            "read"
+        ],
         "synonyms": [
             "comparison",
             "unlike",
@@ -12783,7 +13256,7 @@
             "version",
             "understand"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comparing",
                 "VBG"
@@ -13064,6 +13537,17 @@
         ],
         "ner_tag": "{'It': 'O', 'is': 'O', 'not': 'O', 'always': 'O', 'apparent': 'O', 'which': 'O', 'single': 'O', 'variant': 'O', 'represents': 'O', 'the': 'O', 'author': 'TITLE', \"'s\": 'O', 'original': 'O', 'work': 'O', '.': 'O'}",
         "sentence": "It is not always apparent which single variant represents the author's original work.",
+        "stems": [
+            "alway",
+            "appar",
+            "singl",
+            "variant",
+            "repres",
+            "author",
+            "'s",
+            "origin",
+            "work"
+        ],
         "synonyms": [
             "constantly",
             "apparent",
@@ -13075,7 +13559,7 @@
             "original",
             "workplace"
         ],
-        "tagged": [
+        "tags": [
             [
                 "always",
                 "RB"
@@ -13708,6 +14192,32 @@
         ],
         "ner_tag": "{'The': 'O', 'process': 'O', 'of': 'O', 'textual': 'O', 'criticism': 'O', 'seeks': 'O', 'to': 'O', 'explain': 'O', 'how': 'O', 'each': 'O', 'variant': 'O', 'may': 'O', 'have': 'O', 'entered': 'O', 'the': 'O', 'text': 'O', ',': 'O', 'either': 'O', 'by': 'O', 'accident': 'CAUSE_OF_DEATH', '(': 'O', 'duplication': 'O', 'or': 'O', 'omission': 'O', ')': 'O', 'intention': 'O', 'harmonization': 'O', 'censorship': 'O', 'as': 'O', 'scribes': 'O', 'supervisors': 'O', 'transmitted': 'O', 'original': 'O', 'author': 'TITLE', \"'s\": 'O', 'copying': 'O', 'it': 'O', '.': 'O'}",
         "sentence": "The process of textual criticism seeks to explain how each variant may have entered the text, either by accident (duplication or omission) or intention (harmonization or censorship), as scribes or supervisors transmitted the original author's text by copying it.",
+        "stems": [
+            "process",
+            "textual",
+            "critic",
+            "seek",
+            "explain",
+            "variant",
+            "may",
+            "enter",
+            "text",
+            "either",
+            "accid",
+            "duplic",
+            "omiss",
+            "intent",
+            "harmon",
+            "censorship",
+            "scribe",
+            "supervisor",
+            "transmit",
+            "origin",
+            "author",
+            "'s",
+            "text",
+            "copi"
+        ],
         "synonyms": [
             "work",
             "textual",
@@ -13734,7 +14244,7 @@
             "textbook",
             "copy"
         ],
-        "tagged": [
+        "tags": [
             [
                 "process",
                 "NN"
@@ -14384,6 +14894,30 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'textual': 'O', 'critic': 'TITLE', \"'s\": 'O', 'task': 'O', ',': 'O', 'therefore': 'O', 'is': 'O', 'to': 'O', 'sort': 'O', 'through': 'O', 'the': 'O', 'variants': 'O', 'eliminating': 'O', 'those': 'O', 'most': 'O', 'likely': 'O', 'be': 'O', 'un-original': 'O', 'hence': 'O', 'establishing': 'O', 'a': 'O', '``': 'O', 'critical': 'O', 'text': 'O', \"''\": 'O', 'or': 'O', 'edition': 'O', 'that': 'O', 'intended': 'O', 'best': 'O', 'approximate': 'O', 'original': 'O', '.': 'O'}",
         "sentence": "The textual critic's task, therefore, is to sort through the variants, eliminating those most likely to be un-original, hence establishing a \"critical text\", or critical edition, that is intended to best approximate the original.",
+        "stems": [
+            "textual",
+            "critic",
+            "'s",
+            "task",
+            "therefor",
+            "sort",
+            "variant",
+            "elimin",
+            "like",
+            "un-origin",
+            "henc",
+            "establish",
+            "``",
+            "critic",
+            "text",
+            "''",
+            "critic",
+            "edit",
+            "intend",
+            "best",
+            "approxim",
+            "origin"
+        ],
         "synonyms": [
             "textual",
             "critic",
@@ -14408,7 +14942,7 @@
             "estimate",
             "original"
         ],
-        "tagged": [
+        "tags": [
             [
                 "textual",
                 "JJ"
@@ -14924,6 +15458,23 @@
         ],
         "ner_tag": "{'At': 'O', 'the': 'O', 'same': 'O', 'time': 'O', ',': 'O', 'critical': 'O', 'text': 'O', 'should': 'O', 'document': 'O', 'variant': 'O', 'readings': 'O', 'so': 'O', 'relation': 'O', 'of': 'O', 'extant': 'O', 'witnesses': 'O', 'to': 'O', 'reconstructed': 'O', 'original': 'O', 'is': 'O', 'apparent': 'O', 'a': 'O', 'reader': 'TITLE', 'edition': 'O', '.': 'O'}",
         "sentence": "At the same time, the critical text should document variant readings, so the relation of extant witnesses to the reconstructed original is apparent to a reader of the critical edition.",
+        "stems": [
+            "time",
+            "critic",
+            "text",
+            "document",
+            "variant",
+            "read",
+            "relat",
+            "extant",
+            "wit",
+            "reconstruct",
+            "origin",
+            "appar",
+            "reader",
+            "critic",
+            "edit"
+        ],
         "synonyms": [
             "time",
             "critical",
@@ -14941,7 +15492,7 @@
             "critical",
             "version"
         ],
-        "tagged": [
+        "tags": [
             [
                 "time",
                 "NN"
@@ -15662,6 +16213,34 @@
         ],
         "ner_tag": "{'In': 'O', 'establishing': 'O', 'the': 'O', 'critical': 'O', 'text': 'O', ',': 'O', 'textual': 'O', 'critic': 'TITLE', 'considers': 'O', 'both': 'O', '``': 'O', 'external': 'O', \"''\": 'O', 'evidence': 'O', '(': 'O', 'age': 'O', 'provenance': 'O', 'and': 'O', 'affiliation': 'O', 'of': 'O', 'each': 'O', 'witness': 'O', ')': 'O', 'internal': 'O', 'or': 'O', 'physical': 'O', 'considerations': 'O', 'what': 'O', 'author': 'TITLE', 'scribes': 'O', 'printers': 'O', 'were': 'O', 'likely': 'O', 'to': 'O', 'have': 'O', 'done': 'O', '.': 'O'}",
         "sentence": "In establishing the critical text, the textual critic considers both \"external\" evidence (the age, provenance, and affiliation of each witness) and \"internal\" or \"physical\" considerations (what the author and scribes, or printers, were likely to have done).",
+        "stems": [
+            "establish",
+            "critic",
+            "text",
+            "textual",
+            "critic",
+            "consid",
+            "``",
+            "extern",
+            "''",
+            "evid",
+            "age",
+            "proven",
+            "affili",
+            "wit",
+            "``",
+            "intern",
+            "''",
+            "``",
+            "physic",
+            "''",
+            "consider",
+            "author",
+            "scribe",
+            "printer",
+            "like",
+            "done"
+        ],
         "synonyms": [
             "establish",
             "critical",
@@ -15690,7 +16269,7 @@
             "likely",
             "serve"
         ],
-        "tagged": [
+        "tags": [
             [
                 "establishing",
                 "VBG"
@@ -16473,6 +17052,32 @@
         ],
         "ner_tag": "{'The': 'O', 'collation': 'O', 'of': 'O', 'all': 'O', 'known': 'O', 'variants': 'O', 'a': 'O', 'text': 'O', 'is': 'O', 'referred': 'O', 'to': 'O', 'as': 'O', 'variorum': 'O', ',': 'O', 'namely': 'O', 'work': 'O', 'textual': 'O', 'criticism': 'O', 'whereby': 'O', 'variations': 'O', 'and': 'O', 'emendations': 'O', 'are': 'O', 'set': 'O', 'side': 'O', 'by': 'O', 'so': 'O', 'that': 'O', 'reader': 'TITLE', 'can': 'O', 'track': 'O', 'how': 'O', 'decisions': 'O', 'have': 'O', 'been': 'O', 'made': 'O', 'in': 'O', 'the': 'O', 'preparation': 'O', 'for': 'O', 'publication': 'O', '.': 'O'}",
         "sentence": "The collation of all known variants of a text is referred to as a variorum, namely a work of textual criticism whereby all variations and emendations are set side by side so that a reader can track how textual decisions have been made in the preparation of a text for publication.",
+        "stems": [
+            "collat",
+            "known",
+            "variant",
+            "text",
+            "refer",
+            "variorum",
+            "name",
+            "work",
+            "textual",
+            "critic",
+            "wherebi",
+            "variat",
+            "emend",
+            "set",
+            "side",
+            "side",
+            "reader",
+            "track",
+            "textual",
+            "decis",
+            "made",
+            "prepar",
+            "text",
+            "public"
+        ],
         "synonyms": [
             "bite",
             "know",
@@ -16499,7 +17104,7 @@
             "textbook",
             "publication"
         ],
-        "tagged": [
+        "tags": [
             [
                 "collation",
                 "NN"
@@ -17209,6 +17814,32 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Bible': 'MISC', 'and': 'O', 'the': 'O', 'works': 'O', 'of': 'O', 'William': 'PERSON', 'Shakespeare': 'PERSON', 'have': 'O', 'often': 'O', 'been': 'O', 'subjects': 'O', 'variorum': 'O', 'editions': 'O', ',': 'O', 'although': 'O', 'same': 'O', 'techniques': 'O', 'applied': 'O', 'with': 'O', 'less': 'O', 'frequency': 'O', 'to': 'O', 'many': 'O', 'other': 'O', 'such': 'O', 'as': 'O', 'Walt': 'PERSON', 'Whitman': 'PERSON', \"'s\": 'O', 'Leaves': 'O', 'Grass': 'O', 'prose': 'O', 'writings': 'O', 'Edward': 'PERSON', 'Fitzgerald': 'PERSON', '.': 'O'}",
         "sentence": "The Bible and the works of William Shakespeare have often been the subjects of variorum editions, although the same techniques have been applied with less frequency to many other works, such as Walt Whitman's Leaves of Grass, and the prose writings of Edward Fitzgerald.",
+        "stems": [
+            "bibl",
+            "work",
+            "william",
+            "shakespear",
+            "often",
+            "subject",
+            "variorum",
+            "edit",
+            "although",
+            "techniqu",
+            "appli",
+            "less",
+            "frequenc",
+            "mani",
+            "work",
+            "walt",
+            "whitman",
+            "'s",
+            "leav",
+            "grass",
+            "prose",
+            "write",
+            "edward",
+            "fitzgerald"
+        ],
         "synonyms": [
             "bible",
             "works",
@@ -17235,7 +17866,7 @@
             "Edward",
             "Fitzgerald"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bible",
                 "JJ"
@@ -17571,6 +18202,18 @@
         "meronyms": [],
         "ner_tag": "{'Eclectic': 'O', 'readings': 'O', 'also': 'O', 'normally': 'O', 'give': 'O', 'an': 'O', 'impression': 'O', 'of': 'O', 'the': 'O', 'number': 'O', 'witnesses': 'O', 'to': 'O', 'each': 'O', 'available': 'O', 'reading': 'O', '.': 'O'}",
         "sentence": "Eclectic readings also normally give an impression of the number of witnesses to each available reading.",
+        "stems": [
+            "eclect",
+            "read",
+            "also",
+            "normal",
+            "give",
+            "impress",
+            "number",
+            "wit",
+            "avail",
+            "read"
+        ],
         "synonyms": [
             "eclectic",
             "understand",
@@ -17583,7 +18226,7 @@
             "available",
             "understand"
         ],
-        "tagged": [
+        "tags": [
             [
                 "eclectic",
                 "JJ"
@@ -17870,6 +18513,17 @@
         "meronyms": [],
         "ner_tag": "{'Although': 'O', 'a': 'O', 'reading': 'O', 'supported': 'O', 'by': 'O', 'the': 'O', 'majority': 'O', 'of': 'O', 'witnesses': 'O', 'is': 'O', 'frequently': 'O', 'preferred': 'O', ',': 'O', 'this': 'O', 'does': 'O', 'not': 'O', 'follow': 'O', 'automatically': 'O', '.': 'O'}",
         "sentence": "Although a reading supported by the majority of witnesses is frequently preferred, this does not follow automatically.",
+        "stems": [
+            "although",
+            "read",
+            "support",
+            "major",
+            "wit",
+            "frequent",
+            "prefer",
+            "follow",
+            "automat"
+        ],
         "synonyms": [
             "although",
             "understand",
@@ -17881,7 +18535,7 @@
             "take_after",
             "mechanically"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -18265,6 +18919,22 @@
         "meronyms": [],
         "ner_tag": "{'For': 'O', 'example': 'O', ',': 'O', 'a': 'O', 'second': 'DURATION', 'edition': 'O', 'of': 'O', 'Shakespeare': 'O', 'play': 'O', 'may': 'O', 'include': 'O', 'an': 'O', 'addition': 'O', 'alluding': 'O', 'to': 'O', 'event': 'O', 'known': 'O', 'have': 'O', 'happened': 'O', 'between': 'O', 'the': 'O', 'two': 'NUMBER', 'editions': 'O', '.': 'O'}",
         "sentence": "For example, a second edition of a Shakespeare play may include an addition alluding to an event known to have happened between the two editions.",
+        "stems": [
+            "exampl",
+            "second",
+            "edit",
+            "shakespear",
+            "play",
+            "may",
+            "includ",
+            "addit",
+            "allud",
+            "event",
+            "known",
+            "happen",
+            "two",
+            "edit"
+        ],
         "synonyms": [
             "model",
             "second_gear",
@@ -18281,7 +18951,7 @@
             "two",
             "version"
         ],
-        "tagged": [
+        "tags": [
             [
                 "example",
                 "NN"
@@ -18617,6 +19287,22 @@
         "meronyms": [],
         "ner_tag": "{'Although': 'O', 'nearly': 'O', 'all': 'O', 'subsequent': 'O', 'manuscripts': 'O', 'may': 'O', 'have': 'O', 'included': 'O', 'the': 'O', 'addition': 'O', ',': 'O', 'textual': 'O', 'critics': 'O', 'reconstruct': 'O', 'original': 'O', 'without': 'O', '.': 'O'}",
         "sentence": "Although nearly all subsequent manuscripts may have included the addition, textual critics may reconstruct the original without the addition.",
+        "stems": [
+            "although",
+            "nearli",
+            "subsequ",
+            "manuscript",
+            "may",
+            "includ",
+            "addit",
+            "textual",
+            "critic",
+            "may",
+            "reconstruct",
+            "origin",
+            "without",
+            "addit"
+        ],
         "synonyms": [
             "although",
             "closely",
@@ -18633,7 +19319,7 @@
             "without",
             "addition"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -18968,6 +19654,18 @@
         "meronyms": [],
         "ner_tag": "{'External': 'O', 'evidence': 'O', 'is': 'O', 'of': 'O', 'each': 'O', 'physical': 'O', 'witness': 'O', ',': 'O', 'its': 'O', 'date': 'O', 'source': 'O', 'and': 'O', 'relationship': 'O', 'to': 'O', 'other': 'O', 'known': 'O', 'witnesses': 'O', '.': 'O'}",
         "sentence": "External evidence is evidence of each physical witness, its date, source, and relationship to other known witnesses.",
+        "stems": [
+            "extern",
+            "evid",
+            "evid",
+            "physic",
+            "wit",
+            "date",
+            "sourc",
+            "relationship",
+            "known",
+            "wit"
+        ],
         "synonyms": [
             "external",
             "testify",
@@ -18980,7 +19678,7 @@
             "know",
             "witness"
         ],
-        "tagged": [
+        "tags": [
             [
                 "external",
                 "JJ"
@@ -19187,6 +19885,15 @@
         "meronyms": [],
         "ner_tag": "{'Critics': 'O', 'will': 'O', 'often': 'O', 'prefer': 'O', 'the': 'O', 'readings': 'O', 'supported': 'O', 'by': 'O', 'oldest': 'O', 'witnesses': 'O', '.': 'O'}",
         "sentence": "Critics will often prefer the readings supported by the oldest witnesses.",
+        "stems": [
+            "critic",
+            "often",
+            "prefer",
+            "read",
+            "support",
+            "oldest",
+            "wit"
+        ],
         "synonyms": [
             "critic",
             "often",
@@ -19196,7 +19903,7 @@
             "Old",
             "witness"
         ],
-        "tagged": [
+        "tags": [
             [
                 "critics",
                 "NNS"
@@ -19402,6 +20109,16 @@
         "meronyms": [],
         "ner_tag": "{'Since': 'O', 'errors': 'O', 'tend': 'O', 'to': 'O', 'accumulate': 'O', ',': 'O', 'older': 'O', 'manuscripts': 'O', 'should': 'O', 'have': 'O', 'fewer': 'O', '.': 'O'}",
         "sentence": "Since errors tend to accumulate, older manuscripts should have fewer errors.",
+        "stems": [
+            "sinc",
+            "error",
+            "tend",
+            "accumul",
+            "older",
+            "manuscript",
+            "fewer",
+            "error"
+        ],
         "synonyms": [
             "since",
             "mistake",
@@ -19412,7 +20129,7 @@
             "fewer",
             "mistake"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -19757,6 +20474,22 @@
         ],
         "ner_tag": "{'Readings': 'O', 'supported': 'O', 'by': 'O', 'a': 'O', 'majority': 'O', 'of': 'O', 'witnesses': 'O', 'are': 'O', 'also': 'O', 'usually': 'O', 'preferred': 'O', ',': 'O', 'since': 'O', 'these': 'O', 'less': 'O', 'likely': 'O', 'to': 'O', 'reflect': 'O', 'accidents': 'CAUSE_OF_DEATH', 'or': 'O', 'individual': 'O', 'biases': 'O', '.': 'O'}",
         "sentence": "Readings supported by a majority of witnesses are also usually preferred, since these are less likely to reflect accidents or individual biases.",
+        "stems": [
+            "read",
+            "support",
+            "major",
+            "wit",
+            "also",
+            "usual",
+            "prefer",
+            "sinc",
+            "less",
+            "like",
+            "reflect",
+            "accid",
+            "individu",
+            "bias"
+        ],
         "synonyms": [
             "understand",
             "support",
@@ -19773,7 +20506,7 @@
             "person",
             "diagonal"
         ],
-        "tagged": [
+        "tags": [
             [
                 "readings",
                 "NNS"
@@ -20006,6 +20739,13 @@
         "meronyms": [],
         "ner_tag": "{'For': 'O', 'the': 'O', 'same': 'O', 'reasons': 'O', ',': 'O', 'most': 'O', 'geographically': 'O', 'diverse': 'O', 'witnesses': 'O', 'are': 'O', 'preferred': 'O', '.': 'O'}",
         "sentence": "For the same reasons, the most geographically diverse witnesses are preferred.",
+        "stems": [
+            "reason",
+            "geograph",
+            "divers",
+            "wit",
+            "prefer"
+        ],
         "synonyms": [
             "reason",
             "geographically",
@@ -20013,7 +20753,7 @@
             "witness",
             "preferable"
         ],
-        "tagged": [
+        "tags": [
             [
                 "reasons",
                 "NNS"
@@ -20561,6 +21301,29 @@
         ],
         "ner_tag": "{'Some': 'O', 'manuscripts': 'O', 'show': 'O', 'evidence': 'O', 'that': 'O', 'particular': 'O', 'care': 'O', 'was': 'O', 'taken': 'O', 'in': 'O', 'their': 'O', 'composition': 'O', ',': 'O', 'for': 'O', 'example': 'O', 'by': 'O', 'including': 'O', 'alternative': 'O', 'readings': 'O', 'margins': 'O', 'demonstrating': 'O', 'more': 'O', 'than': 'O', 'one': 'NUMBER', 'prior': 'O', 'copy': 'O', '(': 'O', 'exemplar': 'O', ')': 'O', 'consulted': 'O', 'producing': 'O', 'the': 'O', 'current': 'DATE', '.': 'O'}",
         "sentence": "Some manuscripts show evidence that particular care was taken in their composition, for example, by including alternative readings in their margins, demonstrating that more than one prior copy (exemplar) was consulted in producing the current one.",
+        "stems": [
+            "manuscript",
+            "show",
+            "evid",
+            "particular",
+            "care",
+            "taken",
+            "composit",
+            "exampl",
+            "includ",
+            "altern",
+            "read",
+            "margin",
+            "demonstr",
+            "one",
+            "prior",
+            "copi",
+            "exemplar",
+            "consult",
+            "produc",
+            "current",
+            "one"
+        ],
         "synonyms": [
             "manuscript",
             "show",
@@ -20584,7 +21347,7 @@
             "current",
             "one"
         ],
-        "tagged": [
+        "tags": [
             [
                 "manuscripts",
                 "NNS"
@@ -20833,13 +21596,19 @@
         "meronyms": [],
         "ner_tag": "{'Other': 'O', 'factors': 'O', 'being': 'O', 'equal': 'O', ',': 'O', 'these': 'O', 'are': 'O', 'the': 'O', 'best': 'O', 'witnesses': 'O', '.': 'O'}",
         "sentence": "Other factors being equal, these are the best witnesses.",
+        "stems": [
+            "factor",
+            "equal",
+            "best",
+            "wit"
+        ],
         "synonyms": [
             "gene",
             "peer",
             "well",
             "witness"
         ],
-        "tagged": [
+        "tags": [
             [
                 "factors",
                 "NNS"
@@ -21063,6 +21832,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'role': 'O', 'of': 'O', 'the': 'O', 'textual': 'O', 'critic': 'TITLE', 'is': 'O', 'necessary': 'O', 'when': 'O', 'these': 'O', 'basic': 'O', 'criteria': 'O', 'are': 'O', 'in': 'O', 'conflict': 'O', '.': 'O'}",
         "sentence": "The role of the textual critic is necessary when these basic criteria are in conflict.",
+        "stems": [
+            "role",
+            "textual",
+            "critic",
+            "necessari",
+            "basic",
+            "criteria",
+            "conflict"
+        ],
         "synonyms": [
             "role",
             "textual",
@@ -21072,7 +21850,7 @@
             "standard",
             "dispute"
         ],
-        "tagged": [
+        "tags": [
             [
                 "role",
                 "NN"
@@ -21341,6 +22119,17 @@
         "meronyms": [],
         "ner_tag": "{'For': 'O', 'instance': 'O', ',': 'O', 'there': 'O', 'will': 'O', 'typically': 'O', 'be': 'O', 'fewer': 'O', 'early': 'O', 'copies': 'O', 'and': 'O', 'a': 'O', 'larger': 'O', 'number': 'O', 'of': 'O', 'later': 'O', '.': 'O'}",
         "sentence": "For instance, there will typically be fewer early copies, and a larger number of later copies.",
+        "stems": [
+            "instanc",
+            "typic",
+            "fewer",
+            "earli",
+            "copi",
+            "larger",
+            "number",
+            "later",
+            "copi"
+        ],
         "synonyms": [
             "example",
             "typically",
@@ -21352,7 +22141,7 @@
             "subsequently",
             "transcript"
         ],
-        "tagged": [
+        "tags": [
             [
                 "instance",
                 "NN"
@@ -21603,6 +22392,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'textual': 'O', 'critic': 'TITLE', 'will': 'O', 'attempt': 'O', 'to': 'O', 'balance': 'O', 'these': 'O', 'criteria': 'O', ',': 'O', 'determine': 'O', 'the': 'O', 'original': 'O', 'text': 'O', '.': 'O'}",
         "sentence": "The textual critic will attempt to balance these criteria, to determine the original text.",
+        "stems": [
+            "textual",
+            "critic",
+            "attempt",
+            "balanc",
+            "criteria",
+            "determin",
+            "origin",
+            "text"
+        ],
         "synonyms": [
             "textual",
             "critic",
@@ -21613,7 +22412,7 @@
             "original",
             "textbook"
         ],
-        "tagged": [
+        "tags": [
             [
                 "textual",
                 "JJ"
@@ -21931,6 +22730,21 @@
         "meronyms": [],
         "ner_tag": "{'Two': 'NUMBER', 'common': 'O', 'considerations': 'O', 'have': 'O', 'the': 'O', 'Latin': 'O', 'names': 'O', 'lectio': 'O', 'brevior': 'O', '(': 'O', 'shorter': 'O', 'reading': 'O', ')': 'O', 'and': 'O', 'difficilior': 'O', 'more': 'O', 'difficult': 'O', '.': 'O'}",
         "sentence": "Two common considerations have the Latin names lectio brevior (shorter reading) and lectio difficilior (more difficult reading).",
+        "stems": [
+            "two",
+            "common",
+            "consider",
+            "latin",
+            "name",
+            "lectio",
+            "brevior",
+            "shorter",
+            "read",
+            "lectio",
+            "difficilior",
+            "difficult",
+            "read"
+        ],
         "synonyms": [
             "two",
             "park",
@@ -21946,7 +22760,7 @@
             "unmanageable",
             "understand"
         ],
-        "tagged": [
+        "tags": [
             [
                 "two",
                 "CD"
@@ -22346,6 +23160,19 @@
         ],
         "ner_tag": "{'The': 'O', 'first': 'ORDINAL', 'is': 'O', 'the': 'O', 'general': 'TITLE', 'observation': 'O', 'that': 'O', 'scribes': 'O', 'tended': 'O', 'to': 'O', 'add': 'O', 'words': 'O', ',': 'O', 'for': 'O', 'clarification': 'O', 'or': 'O', 'out': 'O', 'of': 'O', 'habit': 'O', 'more': 'O', 'often': 'O', 'than': 'O', 'they': 'O', 'removed': 'O', 'them': 'O', '.': 'O'}",
         "sentence": "The first is the general observation that scribes tended to add words, for clarification or out of habit, more often than they removed them.",
+        "stems": [
+            "first",
+            "gener",
+            "observ",
+            "scribe",
+            "tend",
+            "add",
+            "word",
+            "clarif",
+            "habit",
+            "often",
+            "remov"
+        ],
         "synonyms": [
             "first_gear",
             "general",
@@ -22359,7 +23186,7 @@
             "often",
             "removed"
         ],
-        "tagged": [
+        "tags": [
             [
                 "first",
                 "RB"
@@ -22744,6 +23571,21 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'second': 'ORDINAL', ',': 'O', 'lectio': 'O', 'difficilior': 'O', 'potior': 'O', '(': 'O', 'the': 'O', 'harder': 'O', 'reading': 'O', 'is': 'O', 'stronger': 'O', ')': 'O', 'recognizes': 'O', 'tendency': 'O', 'for': 'O', 'harmonization': 'O', '—': 'O', 'resolving': 'O', 'apparent': 'O', 'inconsistencies': 'O', 'in': 'O', 'text': 'O', '.': 'O'}",
         "sentence": "The second, lectio difficilior potior (the harder reading is stronger), recognizes the tendency for harmonization—resolving apparent inconsistencies in the text.",
+        "stems": [
+            "second",
+            "lectio",
+            "difficilior",
+            "potior",
+            "harder",
+            "read",
+            "stronger",
+            "recogn",
+            "tendenc",
+            "harmonization—resolv",
+            "appar",
+            "inconsist",
+            "text"
+        ],
         "synonyms": [
             "second_gear",
             "lectio",
@@ -22759,7 +23601,7 @@
             "inconsistency",
             "textbook"
         ],
-        "tagged": [
+        "tags": [
             [
                 "second",
                 "JJ"
@@ -23093,6 +23935,17 @@
         "meronyms": [],
         "ner_tag": "{'Applying': 'O', 'this': 'O', 'principle': 'O', 'leads': 'O', 'to': 'O', 'taking': 'O', 'the': 'O', 'more': 'O', 'difficult': 'O', '(': 'O', 'unharmonized': 'O', ')': 'O', 'reading': 'O', 'as': 'O', 'being': 'O', 'likely': 'O', 'be': 'O', 'original': 'O', '.': 'O'}",
         "sentence": "Applying this principle leads to taking the more difficult (unharmonized) reading as being more likely to be the original.",
+        "stems": [
+            "appli",
+            "principl",
+            "lead",
+            "take",
+            "difficult",
+            "unharmon",
+            "read",
+            "like",
+            "origin"
+        ],
         "synonyms": [
             "use",
             "principle",
@@ -23104,7 +23957,7 @@
             "likely",
             "original"
         ],
-        "tagged": [
+        "tags": [
             [
                 "applying",
                 "VBG"
@@ -23343,6 +24196,17 @@
         "meronyms": [],
         "ner_tag": "{'Such': 'O', 'cases': 'O', 'also': 'O', 'include': 'O', 'scribes': 'O', 'simplifying': 'O', 'and': 'O', 'smoothing': 'O', 'texts': 'O', 'they': 'O', 'did': 'O', 'not': 'O', 'fully': 'O', 'understand': 'O', '.': 'O'}",
         "sentence": "Such cases also include scribes simplifying and smoothing texts they did not fully understand.",
+        "stems": [
+            "case",
+            "also",
+            "includ",
+            "scribe",
+            "simplifi",
+            "smooth",
+            "text",
+            "fulli",
+            "understand"
+        ],
         "synonyms": [
             "subject",
             "besides",
@@ -23354,7 +24218,7 @@
             "in_full",
             "understand"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cases",
                 "NNS"
@@ -23540,6 +24404,14 @@
         ],
         "ner_tag": "{'Brooke': 'PERSON', 'Foss': 'PERSON', 'Westcott': 'PERSON', '(': 'O', '1825': 'DATE', '–': 'O', '1901': 'DATE', ')': 'O', 'and': 'O', 'Fenton': 'PERSON', 'J': 'PERSON', '.': 'O'}",
         "sentence": "Brooke Foss Westcott (1825–1901) and Fenton J.",
+        "stems": [
+            "brook",
+            "foss",
+            "westcott",
+            "1825–1901",
+            "fenton",
+            "j"
+        ],
         "synonyms": [
             "Brooke",
             "field-grade_officer",
@@ -23548,7 +24420,7 @@
             "fenton",
             "joule"
         ],
-        "tagged": [
+        "tags": [
             [
                 "brooke",
                 "NN"
@@ -23814,6 +24686,17 @@
         ],
         "ner_tag": "{'A.': 'PERSON', 'Hort': 'PERSON', '(': 'O', '1828': 'DATE', '–': 'O', '1892': 'DATE', ')': 'O', 'published': 'O', 'an': 'O', 'edition': 'O', 'of': 'O', 'the': 'O', 'New': 'MISC', 'Testament': 'MISC', 'in': 'O', 'Greek': 'NATIONALITY', '1881': 'DATE', '.': 'O'}",
         "sentence": "A. Hort (1828–1892) published an edition of the New Testament in Greek in 1881.",
+        "stems": [
+            "a.",
+            "hort",
+            "1828–1892",
+            "publish",
+            "edit",
+            "new",
+            "testament",
+            "greek",
+            "1881"
+        ],
         "synonyms": [
             "a.",
             "hort",
@@ -23825,7 +24708,7 @@
             "Greek",
             "1881"
         ],
-        "tagged": [
+        "tags": [
             [
                 "a.",
                 "NN"
@@ -24278,6 +25161,28 @@
         "meronyms": [],
         "ner_tag": "{'They': 'O', 'proposed': 'O', 'nine': 'NUMBER', 'critical': 'O', 'rules': 'O', ',': 'O', 'including': 'O', 'a': 'O', 'version': 'O', 'of': 'O', 'Bengel': 'PERSON', \"'s\": 'O', 'rule': 'O', '``': 'O', 'The': 'O', 'reading': 'O', 'is': 'O', 'less': 'O', 'likely': 'O', 'to': 'O', 'be': 'O', 'original': 'O', 'that': 'O', 'shows': 'O', 'disposition': 'O', 'smooth': 'O', 'away': 'O', 'difficulties': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "They proposed nine critical rules, including a version of Bengel's rule, \"The reading is less likely to be original that shows a disposition to smooth away difficulties.\"",
+        "stems": [
+            "propos",
+            "nine",
+            "critic",
+            "rule",
+            "includ",
+            "version",
+            "bengel",
+            "'s",
+            "rule",
+            "``",
+            "read",
+            "less",
+            "like",
+            "origin",
+            "show",
+            "disposit",
+            "smooth",
+            "away",
+            "difficulti",
+            "''"
+        ],
         "synonyms": [
             "propose",
             "nine",
@@ -24300,7 +25205,7 @@
             "difficulty",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "proposed",
                 "VBN"
@@ -24965,6 +25870,28 @@
         ],
         "ner_tag": "{'They': 'O', 'also': 'O', 'argued': 'O', 'that': 'O', '``': 'O', 'Readings': 'O', 'are': 'O', 'approved': 'O', 'or': 'O', 'rejected': 'O', 'by': 'O', 'reason': 'O', 'of': 'O', 'the': 'O', 'quality': 'O', ',': 'O', 'and': 'O', 'not': 'O', 'number': 'O', 'their': 'O', 'supporting': 'O', 'witnesses': 'O', \"''\": 'O', 'The': 'O', 'reading': 'O', 'is': 'O', 'to': 'O', 'be': 'O', 'preferred': 'O', 'most': 'O', 'fitly': 'O', 'explains': 'O', 'existence': 'O', 'others': 'O', '.': 'O'}",
         "sentence": "They also argued that \"Readings are approved or rejected by reason of the quality, and not the number, of their supporting witnesses\", and that \"The reading is to be preferred that most fitly explains the existence of the others.\"",
+        "stems": [
+            "also",
+            "argu",
+            "``",
+            "read",
+            "approv",
+            "reject",
+            "reason",
+            "qualiti",
+            "number",
+            "support",
+            "wit",
+            "''",
+            "``",
+            "read",
+            "prefer",
+            "fitli",
+            "explain",
+            "exist",
+            "other",
+            "''"
+        ],
         "synonyms": [
             "besides",
             "argue",
@@ -24987,7 +25914,7 @@
             "others",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -25559,6 +26486,28 @@
         ],
         "ner_tag": "{'Since': 'O', 'the': 'O', 'canons': 'O', 'of': 'O', 'criticism': 'O', 'are': 'O', 'highly': 'O', 'susceptible': 'O', 'to': 'O', 'interpretation': 'O', ',': 'O', 'and': 'O', 'at': 'O', 'times': 'O', 'even': 'O', 'contradict': 'O', 'each': 'O', 'other': 'O', 'they': 'O', 'may': 'O', 'be': 'O', 'employed': 'O', 'justify': 'O', 'a': 'O', 'result': 'O', 'that': 'O', 'fits': 'O', 'textual': 'O', 'critic': 'TITLE', \"'s\": 'O', 'aesthetic': 'O', 'or': 'O', 'theological': 'O', 'agenda': 'O', '.': 'O'}",
         "sentence": "Since the canons of criticism are highly susceptible to interpretation, and at times even contradict each other, they may be employed to justify a result that fits the textual critic's aesthetic or theological agenda.",
+        "stems": [
+            "sinc",
+            "canon",
+            "critic",
+            "highli",
+            "suscept",
+            "interpret",
+            "time",
+            "even",
+            "contradict",
+            "may",
+            "employ",
+            "justifi",
+            "result",
+            "fit",
+            "textual",
+            "critic",
+            "'s",
+            "aesthet",
+            "theolog",
+            "agenda"
+        ],
         "synonyms": [
             "since",
             "canyon",
@@ -25581,7 +26530,7 @@
             "theological",
             "agenda"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -25895,6 +26844,18 @@
         ],
         "ner_tag": "{'Starting': 'O', 'in': 'O', 'the': 'DATE', '19th': 'DATE', 'century': 'DATE', ',': 'O', 'scholars': 'O', 'sought': 'O', 'more': 'O', 'rigorous': 'O', 'methods': 'O', 'to': 'O', 'guide': 'O', 'editorial': 'O', 'judgment': 'O', '.': 'O'}",
         "sentence": "Starting in the 19th century, scholars sought more rigorous methods to guide editorial judgment.",
+        "stems": [
+            "start",
+            "19th",
+            "centuri",
+            "scholar",
+            "sought",
+            "rigor",
+            "method",
+            "guid",
+            "editori",
+            "judgment"
+        ],
         "synonyms": [
             "start",
             "nineteenth",
@@ -25907,7 +26868,7 @@
             "editorial",
             "opinion"
         ],
-        "tagged": [
+        "tags": [
             [
                 "starting",
                 "VBG"
@@ -26148,6 +27109,16 @@
         "meronyms": [],
         "ner_tag": "{'Best': 'O', '-': 'O', 'text': 'O', 'editing': 'O', '(': 'O', 'a': 'O', 'complete': 'O', 'rejection': 'O', 'of': 'O', 'eclecticism': 'O', ')': 'O', 'became': 'O', 'one': 'NUMBER', 'extreme': 'O', '.': 'O'}",
         "sentence": "Best-text editing (a complete rejection of eclecticism) became one extreme.",
+        "stems": [
+            "best-text",
+            "edit",
+            "complet",
+            "reject",
+            "eclectic",
+            "becam",
+            "one",
+            "extrem"
+        ],
         "synonyms": [
             "best-text",
             "editing",
@@ -26158,7 +27129,7 @@
             "one",
             "extreme"
         ],
-        "tagged": [
+        "tags": [
             [
                 "best-text",
                 "JJ"
@@ -26756,6 +27727,32 @@
         "meronyms": [],
         "ner_tag": "{'Stemmatics': 'O', 'and': 'O', 'copy': 'O', '-': 'O', 'text': 'O', 'editing': 'O', '–': 'O', 'while': 'O', 'both': 'O', 'eclectic': 'O', ',': 'O', 'in': 'O', 'that': 'O', 'they': 'O', 'permit': 'O', 'the': 'O', 'editor': 'TITLE', 'to': 'O', 'select': 'O', 'readings': 'O', 'from': 'O', 'multiple': 'O', 'sources': 'O', 'sought': 'O', 'reduce': 'O', 'subjectivity': 'O', 'by': 'O', 'establishing': 'O', 'one': 'NUMBER', 'or': 'O', 'a': 'O', 'few': 'O', 'witnesses': 'O', 'presumably': 'O', 'as': 'O', 'being': 'O', 'favored': 'O', '``': 'O', 'objective': 'O', \"''\": 'O', 'criteria': 'O', '.': 'O'}",
         "sentence": "Stemmatics and copy-text editing – while both eclectic, in that they permit the editor to select readings from multiple sources – sought to reduce subjectivity by establishing one or a few witnesses presumably as being favored by \"objective\" criteria.",
+        "stems": [
+            "stemmat",
+            "copy-text",
+            "edit",
+            "–",
+            "eclect",
+            "permit",
+            "editor",
+            "select",
+            "read",
+            "multipl",
+            "sourc",
+            "–",
+            "sought",
+            "reduc",
+            "subject",
+            "establish",
+            "one",
+            "wit",
+            "presum",
+            "favor",
+            "``",
+            "object",
+            "''",
+            "criteria"
+        ],
         "synonyms": [
             "stemmatology",
             "copy-text",
@@ -26782,7 +27779,7 @@
             "''",
             "standard"
         ],
-        "tagged": [
+        "tags": [
             [
                 "stemmatics",
                 "NNS"
@@ -27473,6 +28470,30 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'The': 'O', 'citing': 'O', 'of': 'O', 'sources': 'O', 'used': 'O', ',': 'O', 'and': 'O', 'alternate': 'O', 'readings': 'O', 'the': 'O', 'use': 'O', 'original': 'O', 'text': 'O', 'images': 'O', 'helps': 'O', 'readers': 'O', 'other': 'O', 'critics': 'O', 'determine': 'O', 'to': 'O', 'an': 'O', 'extent': 'O', 'depth': 'O', 'research': 'O', 'critic': 'TITLE', 'independently': 'O', 'verify': 'O', 'their': 'O', 'work': 'O', '.': 'O'}",
         "sentence": "[citation needed] The citing of sources used, and alternate readings, and the use of original text and images helps readers and other critics determine to an extent the depth of research of the critic, and to independently verify their work.",
+        "stems": [
+            "citat",
+            "need",
+            "cite",
+            "sourc",
+            "use",
+            "altern",
+            "read",
+            "use",
+            "origin",
+            "text",
+            "imag",
+            "help",
+            "reader",
+            "critic",
+            "determin",
+            "extent",
+            "depth",
+            "research",
+            "critic",
+            "independ",
+            "verifi",
+            "work"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -27497,7 +28518,7 @@
             "verify",
             "workplace"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -27773,6 +28794,15 @@
         "meronyms": [],
         "ner_tag": "{'Stemmatics': 'O', ',': 'O', 'stemmology': 'O', 'or': 'O', 'stemmatology': 'O', 'is': 'O', 'a': 'O', 'rigorous': 'O', 'approach': 'O', 'to': 'O', 'textual': 'O', 'criticism': 'O', '.': 'O'}",
         "sentence": "Stemmatics, stemmology or stemmatology is a rigorous approach to textual criticism.",
+        "stems": [
+            "stemmat",
+            "stemmolog",
+            "stemmatolog",
+            "rigor",
+            "approach",
+            "textual",
+            "critic"
+        ],
         "synonyms": [
             "stemmatology",
             "stemmology",
@@ -27782,7 +28812,7 @@
             "textual",
             "criticism"
         ],
-        "tagged": [
+        "tags": [
             [
                 "stemmatics",
                 "NNS"
@@ -28098,6 +29128,19 @@
         "meronyms": [],
         "ner_tag": "{'Karl': 'PERSON', 'Lachmann': 'PERSON', '(': 'O', '1793': 'DATE', '–': 'O', '1851': 'DATE', ')': 'O', 'greatly': 'O', 'contributed': 'O', 'to': 'O', 'making': 'O', 'this': 'O', 'method': 'O', 'famous': 'O', ',': 'O', 'even': 'O', 'though': 'O', 'he': 'O', 'did': 'O', 'not': 'O', 'invent': 'O', 'it': 'O', '.': 'O'}",
         "sentence": "Karl Lachmann (1793–1851) greatly contributed to making this method famous, even though he did not invent it.",
+        "stems": [
+            "karl",
+            "lachmann",
+            "1793–1851",
+            "greatli",
+            "contribut",
+            "make",
+            "method",
+            "famou",
+            "even",
+            "though",
+            "invent"
+        ],
         "synonyms": [
             "karl",
             "lachmann",
@@ -28111,7 +29154,7 @@
             "though",
             "invent"
         ],
-        "tagged": [
+        "tags": [
             [
                 "karl",
                 "VB"
@@ -28302,6 +29345,13 @@
         ],
         "ner_tag": "{'The': 'O', 'method': 'O', 'takes': 'O', 'its': 'O', 'name': 'O', 'from': 'O', 'the': 'O', 'word': 'O', 'stemma': 'O', '.': 'O'}",
         "sentence": "The method takes its name from the word stemma.",
+        "stems": [
+            "method",
+            "take",
+            "name",
+            "word",
+            "stemma"
+        ],
         "synonyms": [
             "method",
             "take",
@@ -28309,7 +29359,7 @@
             "word",
             "stemma"
         ],
-        "tagged": [
+        "tags": [
             [
                 "method",
                 "NN"
@@ -28598,6 +29648,22 @@
         ],
         "ner_tag": "{'The': 'O', 'Ancient': 'O', 'Greek': 'NATIONALITY', 'word': 'O', 'στέμματα': 'O', 'and': 'O', 'its': 'O', 'loanword': 'O', 'in': 'O', 'classical': 'O', 'Latin': 'O', 'stemmata': 'O', 'may': 'O', 'refer': 'O', 'to': 'O', '``': 'O', 'family': 'O', 'trees': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "The Ancient Greek word στέμματα and its loanword in classical Latin stemmata may refer to \"family trees\".",
+        "stems": [
+            "ancient",
+            "greek",
+            "word",
+            "στέμματα",
+            "loanword",
+            "classic",
+            "latin",
+            "stemmata",
+            "may",
+            "refer",
+            "``",
+            "famili",
+            "tree",
+            "''"
+        ],
         "synonyms": [
             "ancient",
             "Greek",
@@ -28614,7 +29680,7 @@
             "tree",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "ancient",
                 "JJ"
@@ -29055,6 +30121,22 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'specific': 'O', 'meaning': 'O', 'shows': 'O', 'the': 'O', 'relationships': 'O', 'of': 'O', 'surviving': 'O', 'witnesses': 'O', '(': 'O', 'first': 'ORDINAL', 'known': 'O', 'example': 'O', 'such': 'O', 'a': 'O', 'stemma': 'O', ',': 'O', 'albeit': 'O', 'with': 'O', 'name': 'O', 'dates': 'O', 'from': 'O', '1827': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "This specific meaning shows the relationships of the surviving witnesses (the first known example of such a stemma, albeit with the name, dates from 1827).",
+        "stems": [
+            "specif",
+            "mean",
+            "show",
+            "relationship",
+            "surviv",
+            "wit",
+            "first",
+            "known",
+            "exampl",
+            "stemma",
+            "albeit",
+            "name",
+            "date",
+            "1827"
+        ],
         "synonyms": [
             "specific",
             "mean",
@@ -29071,7 +30153,7 @@
             "go_steady",
             "1827"
         ],
-        "tagged": [
+        "tags": [
             [
                 "specific",
                 "JJ"
@@ -29283,6 +30365,13 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'family': 'O', 'tree': 'O', 'is': 'O', 'also': 'O', 'referred': 'O', 'to': 'O', 'as': 'O', 'a': 'O', 'cladogram': 'O', '.': 'O'}",
         "sentence": "The family tree is also referred to as a cladogram.",
+        "stems": [
+            "famili",
+            "tree",
+            "also",
+            "refer",
+            "cladogram"
+        ],
         "synonyms": [
             "syndicate",
             "tree",
@@ -29290,7 +30379,7 @@
             "refer",
             "cladogram"
         ],
-        "tagged": [
+        "tags": [
             [
                 "family",
                 "NN"
@@ -29541,6 +30630,18 @@
         ],
         "ner_tag": "{'The': 'O', 'method': 'O', 'works': 'O', 'from': 'O', 'the': 'O', 'principle': 'O', 'that': 'O', '``': 'O', 'community': 'O', 'of': 'O', 'error': 'O', 'implies': 'O', 'origin': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "The method works from the principle that \"community of error implies community of origin.\"",
+        "stems": [
+            "method",
+            "work",
+            "principl",
+            "``",
+            "commun",
+            "error",
+            "impli",
+            "commun",
+            "origin",
+            "''"
+        ],
         "synonyms": [
             "method",
             "works",
@@ -29553,7 +30654,7 @@
             "origin",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "method",
                 "NN"
@@ -30000,6 +31101,21 @@
         "meronyms": [],
         "ner_tag": "{'That': 'O', 'is': 'O', ',': 'O', 'if': 'O', 'two': 'NUMBER', 'witnesses': 'O', 'have': 'O', 'a': 'O', 'number': 'O', 'of': 'O', 'errors': 'O', 'in': 'O', 'common': 'O', 'it': 'O', 'may': 'O', 'be': 'O', 'presumed': 'O', 'that': 'O', 'they': 'O', 'were': 'O', 'derived': 'O', 'from': 'O', 'intermediate': 'O', 'source': 'O', 'called': 'O', 'hyparchetype': 'O', '.': 'O'}",
         "sentence": "That is, if two witnesses have a number of errors in common, it may be presumed that they were derived from a common intermediate source, called a hyparchetype.",
+        "stems": [
+            "two",
+            "wit",
+            "number",
+            "error",
+            "common",
+            "may",
+            "presum",
+            "deriv",
+            "common",
+            "intermedi",
+            "sourc",
+            "call",
+            "hyparchetyp"
+        ],
         "synonyms": [
             "two",
             "witness",
@@ -30015,7 +31131,7 @@
             "visit",
             "hyparchetype"
         ],
-        "tagged": [
+        "tags": [
             [
                 "two",
                 "CD"
@@ -30443,6 +31559,23 @@
         ],
         "ner_tag": "{'Relations': 'O', 'between': 'O', 'the': 'O', 'lost': 'O', 'intermediates': 'O', 'are': 'O', 'determined': 'O', 'by': 'O', 'same': 'O', 'process': 'O', ',': 'O', 'placing': 'O', 'all': 'O', 'extant': 'O', 'manuscripts': 'O', 'in': 'O', 'a': 'O', 'family': 'O', 'tree': 'O', 'or': 'O', 'stemma': 'O', 'codicum': 'O', 'descended': 'O', 'from': 'O', 'single': 'O', 'archetype': 'O', '.': 'O'}",
         "sentence": "Relations between the lost intermediates are determined by the same process, placing all extant manuscripts in a family tree or stemma codicum descended from a single archetype.",
+        "stems": [
+            "relat",
+            "lost",
+            "intermedi",
+            "determin",
+            "process",
+            "place",
+            "extant",
+            "manuscript",
+            "famili",
+            "tree",
+            "stemma",
+            "codicum",
+            "descend",
+            "singl",
+            "archetyp"
+        ],
         "synonyms": [
             "sexual_intercourse",
             "suffer",
@@ -30460,7 +31593,7 @@
             "single",
             "original"
         ],
-        "tagged": [
+        "tags": [
             [
                 "relations",
                 "NNS"
@@ -30726,6 +31859,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'process': 'O', 'of': 'O', 'constructing': 'O', 'the': 'O', 'stemma': 'O', 'is': 'O', 'called': 'O', 'recension': 'O', ',': 'O', 'or': 'O', 'Latin': 'O', 'recensio': 'O', '.': 'O'}",
         "sentence": "The process of constructing the stemma is called recension, or the Latin recensio.",
+        "stems": [
+            "process",
+            "construct",
+            "stemma",
+            "call",
+            "recens",
+            "latin",
+            "recensio"
+        ],
         "synonyms": [
             "work",
             "manufacture",
@@ -30735,7 +31877,7 @@
             "Latin",
             "recensio"
         ],
-        "tagged": [
+        "tags": [
             [
                 "process",
                 "NN"
@@ -31015,6 +32157,19 @@
         ],
         "ner_tag": "{'The': 'O', 'process': 'O', 'of': 'O', 'selectio': 'O', 'resembles': 'O', 'eclectic': 'O', 'textual': 'O', 'criticism': 'O', ',': 'O', 'but': 'O', 'applied': 'O', 'to': 'O', 'a': 'O', 'restricted': 'O', 'set': 'O', 'hypothetical': 'O', 'hyparchetypes': 'O', '.': 'O'}",
         "sentence": "The process of selectio resembles eclectic textual criticism, but applied to a restricted set of hypothetical hyparchetypes.",
+        "stems": [
+            "process",
+            "selectio",
+            "resembl",
+            "eclect",
+            "textual",
+            "critic",
+            "appli",
+            "restrict",
+            "set",
+            "hypothet",
+            "hyparchetyp"
+        ],
         "synonyms": [
             "work",
             "selectio",
@@ -31028,7 +32183,7 @@
             "hypothetical",
             "hyparchetypes"
         ],
-        "tagged": [
+        "tags": [
             [
                 "process",
                 "NN"
@@ -31237,6 +32392,14 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'steps': 'O', 'of': 'O', 'examinatio': 'O', 'and': 'O', 'emendatio': 'O', 'resemble': 'O', 'copy': 'O', '-': 'O', 'text': 'O', 'editing': 'O', '.': 'O'}",
         "sentence": "The steps of examinatio and emendatio resemble copy-text editing.",
+        "stems": [
+            "step",
+            "examinatio",
+            "emendatio",
+            "resembl",
+            "copy-text",
+            "edit"
+        ],
         "synonyms": [
             "tone",
             "examinatio",
@@ -31245,7 +32408,7 @@
             "copy-text",
             "editing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "steps",
                 "NNS"
@@ -31654,6 +32817,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'fact': 'O', ',': 'O', 'the': 'O', 'other': 'O', 'techniques': 'O', 'can': 'O', 'be': 'O', 'seen': 'O', 'as': 'O', 'special': 'O', 'cases': 'O', 'of': 'O', 'stemmatics': 'O', 'in': 'O', 'which': 'O', 'a': 'O', 'rigorous': 'O', 'family': 'O', 'history': 'O', 'text': 'O', 'not': 'O', 'determined': 'O', 'but': 'O', 'only': 'O', 'approximated': 'O', '.': 'O'}",
         "sentence": "In fact, the other techniques can be seen as special cases of stemmatics in which a rigorous family history of the text cannot be determined but only approximated.",
+        "stems": [
+            "fact",
+            "techniqu",
+            "seen",
+            "special",
+            "case",
+            "stemmat",
+            "rigor",
+            "famili",
+            "histori",
+            "text",
+            "determin",
+            "approxim"
+        ],
         "synonyms": [
             "fact",
             "technique",
@@ -31668,7 +32845,7 @@
             "determine",
             "estimate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "fact",
                 "NN"
@@ -32226,6 +33403,26 @@
         "meronyms": [],
         "ner_tag": "{'If': 'O', 'it': 'O', 'seems': 'O', 'that': 'O', 'one': 'NUMBER', 'manuscript': 'O', 'is': 'O', 'by': 'O', 'far': 'O', 'the': 'O', 'best': 'O', 'text': 'O', ',': 'O', 'then': 'O', 'copy': 'O', 'editing': 'O', 'appropriate': 'O', 'and': 'O', 'if': 'O', 'a': 'O', 'group': 'O', 'of': 'O', 'manuscripts': 'O', 'are': 'O', 'good': 'O', 'eclecticism': 'O', 'on': 'O', 'would': 'O', 'be': 'O', 'proper': 'O', '.': 'O'}",
         "sentence": "If it seems that one manuscript is by far the best text, then copy text editing is appropriate, and if it seems that a group of manuscripts are good, then eclecticism on that group would be proper.",
+        "stems": [
+            "seem",
+            "one",
+            "manuscript",
+            "far",
+            "best",
+            "text",
+            "copi",
+            "text",
+            "edit",
+            "appropri",
+            "seem",
+            "group",
+            "manuscript",
+            "good",
+            "eclectic",
+            "group",
+            "would",
+            "proper"
+        ],
         "synonyms": [
             "look",
             "one",
@@ -32246,7 +33443,7 @@
             "would",
             "proper"
         ],
-        "tagged": [
+        "tags": [
             [
                 "seems",
                 "VBZ"
@@ -32573,6 +33770,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'critic': 'TITLE', 'Joseph': 'PERSON', 'Bédier': 'PERSON', '(': 'O', '1864': 'DATE', '–': 'O', '1938': 'DATE', ')': 'O', 'launched': 'O', 'a': 'O', 'particularly': 'O', 'withering': 'O', 'attack': 'CAUSE_OF_DEATH', 'on': 'O', 'stemmatics': 'O', 'in': 'O', '1928': 'DATE', '.': 'O'}",
         "sentence": "The critic Joseph Bédier (1864–1938) launched a particularly withering attack on stemmatics in 1928.",
+        "stems": [
+            "critic",
+            "joseph",
+            "bédier",
+            "1864–1938",
+            "launch",
+            "particularli",
+            "wither",
+            "attack",
+            "stemmat",
+            "1928"
+        ],
         "synonyms": [
             "critic",
             "Joseph",
@@ -32585,7 +33794,7 @@
             "stemmatology",
             "1928"
         ],
-        "tagged": [
+        "tags": [
             [
                 "critic",
                 "JJ"
@@ -33025,6 +34234,26 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'surveyed': 'O', 'editions': 'O', 'of': 'O', 'medieval': 'DATE', 'French': 'NATIONALITY', 'texts': 'O', 'that': 'O', 'were': 'O', 'produced': 'O', 'with': 'O', 'the': 'O', 'stemmatic': 'O', 'method': 'O', ',': 'O', 'and': 'O', 'found': 'O', 'textual': 'O', 'critics': 'O', 'tended': 'O', 'overwhelmingly': 'O', 'to': 'O', 'produce': 'O', 'trees': 'O', 'divided': 'O', 'into': 'O', 'just': 'O', 'two': 'NUMBER', 'branches': 'O', '.': 'O'}",
         "sentence": "He surveyed editions of medieval French texts that were produced with the stemmatic method, and found that textual critics tended overwhelmingly to produce trees divided into just two branches.",
+        "stems": [
+            "survey",
+            "edit",
+            "mediev",
+            "french",
+            "text",
+            "produc",
+            "stemmat",
+            "method",
+            "found",
+            "textual",
+            "critic",
+            "tend",
+            "overwhelmingli",
+            "produc",
+            "tree",
+            "divid",
+            "two",
+            "branch"
+        ],
         "synonyms": [
             "survey",
             "version",
@@ -33045,7 +34274,7 @@
             "two",
             "outgrowth"
         ],
-        "tagged": [
+        "tags": [
             [
                 "surveyed",
                 "VBN"
@@ -33552,6 +34781,23 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'concluded': 'O', 'that': 'O', 'this': 'O', 'outcome': 'O', 'was': 'O', 'unlikely': 'O', 'to': 'O', 'have': 'O', 'occurred': 'O', 'by': 'O', 'chance': 'O', ',': 'O', 'and': 'O', 'therefore': 'O', 'the': 'O', 'method': 'O', 'tending': 'O', 'produce': 'O', 'bipartite': 'O', 'stemmas': 'O', 'regardless': 'O', 'of': 'O', 'actual': 'O', 'history': 'O', 'witnesses': 'O', '.': 'O'}",
         "sentence": "He concluded that this outcome was unlikely to have occurred by chance, and that therefore, the method was tending to produce bipartite stemmas regardless of the actual history of the witnesses.",
+        "stems": [
+            "conclud",
+            "outcom",
+            "unlik",
+            "occur",
+            "chanc",
+            "therefor",
+            "method",
+            "tend",
+            "produc",
+            "bipartit",
+            "stemma",
+            "regardless",
+            "actual",
+            "histori",
+            "wit"
+        ],
         "synonyms": [
             "reason",
             "consequence",
@@ -33569,7 +34815,7 @@
             "history",
             "witness"
         ],
-        "tagged": [
+        "tags": [
             [
                 "concluded",
                 "VBD"
@@ -34152,6 +35398,30 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'suspected': 'O', 'that': 'O', 'editors': 'O', 'tended': 'O', 'to': 'O', 'favor': 'O', 'trees': 'O', 'with': 'O', 'two': 'NUMBER', 'branches': 'O', ',': 'O', 'as': 'O', 'this': 'O', 'would': 'O', 'maximize': 'O', 'the': 'O', 'opportunities': 'O', 'for': 'O', 'editorial': 'O', 'judgment': 'O', '(': 'O', 'there': 'O', 'be': 'O', 'no': 'O', 'third': 'ORDINAL', 'branch': 'O', '``': 'O', 'break': 'O', 'tie': 'O', \"''\": 'O', 'whenever': 'O', 'witnesses': 'O', 'disagreed': 'O', ')': 'O', '.': 'O'}",
         "sentence": "He suspected that editors tended to favor trees with two branches, as this would maximize the opportunities for editorial judgment (as there would be no third branch to \"break the tie\" whenever the witnesses disagreed).",
+        "stems": [
+            "suspect",
+            "editor",
+            "tend",
+            "favor",
+            "tree",
+            "two",
+            "branch",
+            "would",
+            "maxim",
+            "opportun",
+            "editori",
+            "judgment",
+            "would",
+            "third",
+            "branch",
+            "``",
+            "break",
+            "tie",
+            "''",
+            "whenev",
+            "wit",
+            "disagre"
+        ],
         "synonyms": [
             "suspected",
             "editor_program",
@@ -34176,7 +35446,7 @@
             "witness",
             "disagree"
         ],
-        "tagged": [
+        "tags": [
             [
                 "suspected",
                 "VBN"
@@ -34710,6 +35980,23 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'also': 'O', 'noted': 'O', 'that': 'O', ',': 'O', 'for': 'O', 'many': 'O', 'works': 'O', 'more': 'O', 'than': 'O', 'one': 'NUMBER', 'reasonable': 'O', 'stemma': 'O', 'could': 'O', 'be': 'O', 'postulated': 'O', 'suggesting': 'O', 'the': 'O', 'method': 'O', 'was': 'O', 'not': 'O', 'as': 'O', 'rigorous': 'O', 'or': 'O', 'scientific': 'O', 'its': 'O', 'proponents': 'O', 'had': 'O', 'claimed': 'O', '.': 'O'}",
         "sentence": "He also noted that, for many works, more than one reasonable stemma could be postulated, suggesting that the method was not as rigorous or as scientific as its proponents had claimed.",
+        "stems": [
+            "also",
+            "note",
+            "mani",
+            "work",
+            "one",
+            "reason",
+            "stemma",
+            "could",
+            "postul",
+            "suggest",
+            "method",
+            "rigor",
+            "scientif",
+            "propon",
+            "claim"
+        ],
         "synonyms": [
             "besides",
             "note",
@@ -34727,7 +36014,7 @@
             "advocate",
             "claim"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -35040,6 +36327,21 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'stemmatic': 'O', 'method': 'O', \"'s\": 'O', 'final': 'O', 'step': 'O', 'is': 'O', 'emendatio': 'O', ',': 'O', 'also': 'O', 'sometimes': 'O', 'referred': 'O', 'to': 'O', 'as': 'O', '``': 'O', 'conjectural': 'O', 'emendation': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "The stemmatic method's final step is emendatio, also sometimes referred to as \"conjectural emendation.\"",
+        "stems": [
+            "stemmat",
+            "method",
+            "'s",
+            "final",
+            "step",
+            "emendatio",
+            "also",
+            "sometim",
+            "refer",
+            "``",
+            "conjectur",
+            "emend",
+            "''"
+        ],
         "synonyms": [
             "stemmatic",
             "method",
@@ -35055,7 +36357,7 @@
             "emendation",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "stemmatic",
                 "JJ"
@@ -35311,6 +36613,15 @@
         "meronyms": [],
         "ner_tag": "{'But': 'O', 'in': 'O', 'fact': 'O', ',': 'O', 'the': 'O', 'critic': 'TITLE', 'employs': 'O', 'conjecture': 'O', 'at': 'O', 'every': 'O', 'step': 'O', 'of': 'O', 'process': 'O', '.': 'O'}",
         "sentence": "But in fact, the critic employs conjecture at every step of the process.",
+        "stems": [
+            "fact",
+            "critic",
+            "employ",
+            "conjectur",
+            "everi",
+            "step",
+            "process"
+        ],
         "synonyms": [
             "fact",
             "critic",
@@ -35320,7 +36631,7 @@
             "tone",
             "work"
         ],
-        "tagged": [
+        "tags": [
             [
                 "fact",
                 "NN"
@@ -35657,6 +36968,20 @@
         "meronyms": [],
         "ner_tag": "{'Some': 'O', 'of': 'O', 'the': 'O', 'method': 'O', \"'s\": 'O', 'rules': 'O', 'that': 'O', 'are': 'O', 'designed': 'O', 'to': 'O', 'reduce': 'O', 'exercise': 'O', 'editorial': 'O', 'judgment': 'O', 'do': 'O', 'not': 'O', 'necessarily': 'O', 'produce': 'O', 'correct': 'O', 'result': 'O', '.': 'O'}",
         "sentence": "Some of the method's rules that are designed to reduce the exercise of editorial judgment do not necessarily produce the correct result.",
+        "stems": [
+            "method",
+            "'s",
+            "rule",
+            "design",
+            "reduc",
+            "exercis",
+            "editori",
+            "judgment",
+            "necessarili",
+            "produc",
+            "correct",
+            "result"
+        ],
         "synonyms": [
             "method",
             "'s",
@@ -35671,7 +36996,7 @@
             "correct",
             "solution"
         ],
-        "tagged": [
+        "tags": [
             [
                 "method",
                 "NN"
@@ -36061,6 +37386,18 @@
         "meronyms": [],
         "ner_tag": "{'For': 'O', 'example': 'O', ',': 'O', 'where': 'O', 'there': 'O', 'are': 'O', 'more': 'O', 'than': 'O', 'two': 'NUMBER', 'witnesses': 'O', 'at': 'O', 'the': 'O', 'same': 'O', 'level': 'O', 'of': 'O', 'tree': 'O', 'normally': 'O', 'critic': 'TITLE', 'will': 'O', 'select': 'O', 'dominant': 'O', 'reading': 'O', '.': 'O'}",
         "sentence": "For example, where there are more than two witnesses at the same level of the tree, normally the critic will select the dominant reading.",
+        "stems": [
+            "exampl",
+            "two",
+            "wit",
+            "level",
+            "tree",
+            "normal",
+            "critic",
+            "select",
+            "domin",
+            "read"
+        ],
         "synonyms": [
             "model",
             "two",
@@ -36073,7 +37410,7 @@
             "prevailing",
             "understand"
         ],
-        "tagged": [
+        "tags": [
             [
                 "example",
                 "NN"
@@ -36369,6 +37706,16 @@
         "meronyms": [],
         "ner_tag": "{'However': 'O', ',': 'O', 'it': 'O', 'may': 'O', 'be': 'O', 'no': 'O', 'more': 'O', 'than': 'O', 'fortuitous': 'O', 'that': 'O', 'witnesses': 'O', 'have': 'O', 'survived': 'O', 'present': 'DATE', 'a': 'O', 'particular': 'O', 'reading': 'O', '.': 'O'}",
         "sentence": "However, it may be no more than fortuitous that more witnesses have survived that present a particular reading.",
+        "stems": [
+            "howev",
+            "may",
+            "fortuit",
+            "wit",
+            "surviv",
+            "present",
+            "particular",
+            "read"
+        ],
         "synonyms": [
             "however",
             "whitethorn",
@@ -36379,7 +37726,7 @@
             "particular",
             "understand"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -36621,6 +37968,17 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'plausible': 'O', 'reading': 'O', 'that': 'O', 'occurs': 'O', 'less': 'O', 'often': 'O', 'may': 'O', ',': 'O', 'nevertheless': 'O', 'be': 'O', 'the': 'O', 'correct': 'O', 'one': 'NUMBER', '.': 'O'}",
         "sentence": "A plausible reading that occurs less often may, nevertheless, be the correct one.",
+        "stems": [
+            "plausibl",
+            "read",
+            "occur",
+            "less",
+            "often",
+            "may",
+            "nevertheless",
+            "correct",
+            "one"
+        ],
         "synonyms": [
             "plausible",
             "understand",
@@ -36632,7 +37990,7 @@
             "correct",
             "one"
         ],
-        "tagged": [
+        "tags": [
             [
                 "plausible",
                 "JJ"
@@ -37164,6 +38522,29 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'bibliographer': 'TITLE', 'Ronald': 'PERSON', 'B.': 'PERSON', 'McKerrow': 'PERSON', 'introduced': 'O', 'the': 'O', 'term': 'O', 'copy': 'O', '-': 'O', 'text': 'O', 'in': 'O', 'his': 'O', '1904': 'DATE', 'edition': 'O', 'of': 'O', 'works': 'O', 'Thomas': 'PERSON', 'Nashe': 'PERSON', ',': 'O', 'defining': 'O', 'it': 'O', 'as': 'O', '``': 'O', 'used': 'O', 'each': 'O', 'particular': 'O', 'case': 'O', 'basis': 'O', 'mine': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "The bibliographer Ronald B. McKerrow introduced the term copy-text in his 1904 edition of the works of Thomas Nashe, defining it as \"the text used in each particular case as the basis of mine.\"",
+        "stems": [
+            "bibliograph",
+            "ronald",
+            "b.",
+            "mckerrow",
+            "introduc",
+            "term",
+            "copy-text",
+            "1904",
+            "edit",
+            "work",
+            "thoma",
+            "nash",
+            "defin",
+            "``",
+            "text",
+            "use",
+            "particular",
+            "case",
+            "basi",
+            "mine",
+            "''"
+        ],
         "synonyms": [
             "bibliographer",
             "ronald",
@@ -37187,7 +38568,7 @@
             "mine",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bibliographer",
                 "NN"
@@ -37809,6 +39190,26 @@
         "meronyms": [],
         "ner_tag": "{'McKerrow': 'PERSON', 'was': 'O', 'aware': 'O', 'of': 'O', 'the': 'O', 'limitations': 'O', 'stemmatic': 'O', 'method': 'O', ',': 'O', 'and': 'O', 'believed': 'O', 'it': 'O', 'more': 'O', 'prudent': 'O', 'to': 'O', 'choose': 'O', 'one': 'NUMBER', 'particular': 'O', 'text': 'O', 'that': 'O', 'thought': 'O', 'be': 'O', 'particularly': 'O', 'reliable': 'O', 'then': 'O', 'emend': 'O', 'only': 'O', 'where': 'O', 'obviously': 'O', 'corrupt': 'O', '.': 'O'}",
         "sentence": "McKerrow was aware of the limitations of the stemmatic method, and believed it was more prudent to choose one particular text that was thought to be particularly reliable, and then to emend it only where the text was obviously corrupt.",
+        "stems": [
+            "mckerrow",
+            "awar",
+            "limit",
+            "stemmat",
+            "method",
+            "believ",
+            "prudent",
+            "choos",
+            "one",
+            "particular",
+            "text",
+            "thought",
+            "particularli",
+            "reliabl",
+            "emend",
+            "text",
+            "obvious",
+            "corrupt"
+        ],
         "synonyms": [
             "mckerrow",
             "mindful",
@@ -37829,7 +39230,7 @@
             "obviously",
             "defile"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mckerrow",
                 "NN"
@@ -38326,6 +39727,26 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'French': 'NATIONALITY', 'critic': 'TITLE', 'Joseph': 'PERSON', 'Bédier': 'PERSON', 'likewise': 'O', 'became': 'O', 'disenchanted': 'O', 'with': 'O', 'the': 'O', 'stemmatic': 'O', 'method': 'O', ',': 'O', 'and': 'O', 'concluded': 'O', 'that': 'O', 'editor': 'TITLE', 'should': 'O', 'choose': 'O', 'best': 'O', 'available': 'O', 'text': 'O', 'emend': 'O', 'it': 'O', 'as': 'O', 'little': 'O', 'possible': 'O', '.': 'O'}",
         "sentence": "The French critic Joseph Bédier likewise became disenchanted with the stemmatic method, and concluded that the editor should choose the best available text, and emend it as little as possible.",
+        "stems": [
+            "french",
+            "critic",
+            "joseph",
+            "bédier",
+            "likewis",
+            "becam",
+            "disench",
+            "stemmat",
+            "method",
+            "conclud",
+            "editor",
+            "choos",
+            "best",
+            "avail",
+            "text",
+            "emend",
+            "littl",
+            "possibl"
+        ],
         "synonyms": [
             "French",
             "critic",
@@ -38346,7 +39767,7 @@
             "little",
             "potential"
         ],
-        "tagged": [
+        "tags": [
             [
                 "french",
                 "JJ"
@@ -39065,6 +40486,36 @@
         "meronyms": [],
         "ner_tag": "{'By': 'O', '1939': 'DATE', ',': 'O', 'in': 'O', 'his': 'O', 'Prolegomena': 'O', 'for': 'O', 'the': 'O', 'Oxford': 'PERSON', 'Shakespeare': 'PERSON', 'McKerrow': 'PERSON', 'had': 'O', 'changed': 'O', 'mind': 'O', 'about': 'O', 'this': 'O', 'approach': 'O', 'as': 'O', 'he': 'O', 'feared': 'O', 'that': 'O', 'a': 'O', 'later': 'O', 'edition': 'O', '–': 'O', 'even': 'O', 'if': 'O', 'it': 'O', 'contained': 'O', 'authorial': 'O', 'corrections': 'O', 'would': 'O', '``': 'O', 'deviate': 'O', 'more': 'O', 'widely': 'O', 'than': 'O', 'earliest': 'O', 'print': 'O', 'from': 'O', 'author': 'TITLE', \"'s\": 'O', 'original': 'O', 'manuscript': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "By 1939, in his Prolegomena for the Oxford Shakespeare, McKerrow had changed his mind about this approach, as he feared that a later edition – even if it contained authorial corrections – would \"deviate more widely than the earliest print from the author's original manuscript.\"",
+        "stems": [
+            "1939",
+            "prolegomena",
+            "oxford",
+            "shakespear",
+            "mckerrow",
+            "chang",
+            "mind",
+            "approach",
+            "fear",
+            "later",
+            "edit",
+            "–",
+            "even",
+            "contain",
+            "authori",
+            "correct",
+            "–",
+            "would",
+            "``",
+            "deviat",
+            "wide",
+            "earliest",
+            "print",
+            "author",
+            "'s",
+            "origin",
+            "manuscript",
+            "''"
+        ],
         "synonyms": [
             "1939",
             "prolegomenon",
@@ -39095,7 +40546,7 @@
             "manuscript",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1939",
                 "CD"
@@ -39843,6 +41294,32 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'therefore': 'O', 'concluded': 'O', 'that': 'O', 'the': 'O', 'correct': 'O', 'procedure': 'O', 'would': 'O', 'be': 'O', '``': 'O', 'produced': 'O', 'by': 'O', 'using': 'O', 'earliest': 'O', 'good': 'O', \"''\": 'O', 'print': 'O', 'as': 'O', 'copy': 'O', '-': 'O', 'text': 'O', 'and': 'O', 'inserting': 'O', 'into': 'O', 'it': 'O', ',': 'O', 'from': 'O', 'first': 'ORDINAL', 'edition': 'O', 'which': 'O', 'contains': 'O', 'them': 'O', 'such': 'O', 'corrections': 'O', 'appear': 'O', 'to': 'O', 'us': 'O', 'derived': 'O', 'author': 'TITLE', '.': 'O'}",
         "sentence": "He therefore concluded that the correct procedure would be \"produced by using the earliest \"good\" print as copy-text and inserting into it, from the first edition which contains them, such corrections as appear to us to be derived from the author.\"",
+        "stems": [
+            "therefor",
+            "conclud",
+            "correct",
+            "procedur",
+            "would",
+            "``",
+            "produc",
+            "use",
+            "earliest",
+            "``",
+            "good",
+            "''",
+            "print",
+            "copy-text",
+            "insert",
+            "first",
+            "edit",
+            "contain",
+            "correct",
+            "appear",
+            "us",
+            "deriv",
+            "author",
+            "''"
+        ],
         "synonyms": [
             "therefore",
             "reason",
@@ -39869,7 +41346,7 @@
             "writer",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "therefore",
                 "RB"
@@ -40590,6 +42067,33 @@
         "meronyms": [],
         "ner_tag": "{'But': 'O', ',': 'O', 'fearing': 'O', 'the': 'O', 'arbitrary': 'O', 'exercise': 'O', 'of': 'O', 'editorial': 'O', 'judgment': 'O', 'McKerrow': 'PERSON', 'stated': 'O', 'that': 'O', 'having': 'O', 'concluded': 'O', 'a': 'O', 'later': 'O', 'edition': 'O', 'had': 'O', 'substantive': 'O', 'revisions': 'O', 'attributable': 'O', 'to': 'O', 'author': 'TITLE', '``': 'O', 'we': 'O', 'must': 'O', 'accept': 'O', 'all': 'O', 'alterations': 'O', 'saving': 'O', 'any': 'O', 'which': 'O', 'seem': 'O', 'obvious': 'O', 'blunders': 'O', 'or': 'O', 'misprints': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "But, fearing the arbitrary exercise of editorial judgment, McKerrow stated that, having concluded that a later edition had substantive revisions attributable to the author, \"we must accept all the alterations of that edition, saving any which seem obvious blunders or misprints.\"",
+        "stems": [
+            "fear",
+            "arbitrari",
+            "exercis",
+            "editori",
+            "judgment",
+            "mckerrow",
+            "state",
+            "conclud",
+            "later",
+            "edit",
+            "substant",
+            "revis",
+            "attribut",
+            "author",
+            "``",
+            "must",
+            "accept",
+            "alter",
+            "edit",
+            "save",
+            "seem",
+            "obviou",
+            "blunder",
+            "misprint",
+            "''"
+        ],
         "synonyms": [
             "fear",
             "arbitrary",
@@ -40617,7 +42121,7 @@
             "misprint",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "fearing",
                 "VBG"
@@ -41307,6 +42811,31 @@
         "meronyms": [],
         "ner_tag": "{'Although': 'O', 'Greg': 'PERSON', 'argued': 'O', 'that': 'O', 'an': 'O', 'editor': 'TITLE', 'should': 'O', 'be': 'O', 'free': 'O', 'to': 'O', 'use': 'O', 'his': 'O', 'judgment': 'O', 'choose': 'O', 'between': 'O', 'competing': 'O', 'substantive': 'O', 'readings': 'O', ',': 'O', 'he': 'O', 'suggested': 'O', 'defer': 'O', 'the': 'O', 'copy': 'O', '-': 'O', 'text': 'O', 'when': 'O', '``': 'O', 'claims': 'O', 'of': 'O', 'two': 'NUMBER', '...': 'O', 'appear': 'O', 'exactly': 'O', 'balanced': 'O', '.': 'O'}",
         "sentence": "Although Greg argued that an editor should be free to use his judgment to choose between competing substantive readings, he suggested that an editor should defer to the copy-text when \"the claims of two readings ... appear to be exactly balanced.",
+        "stems": [
+            "although",
+            "greg",
+            "argu",
+            "editor",
+            "free",
+            "use",
+            "judgment",
+            "choos",
+            "compet",
+            "substant",
+            "read",
+            "suggest",
+            "editor",
+            "defer",
+            "copy-text",
+            "``",
+            "claim",
+            "two",
+            "read",
+            "...",
+            "appear",
+            "exactli",
+            "balanc"
+        ],
         "synonyms": [
             "although",
             "greg",
@@ -41332,7 +42861,7 @@
             "precisely",
             "balanced"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -41467,10 +42996,13 @@
         "meronyms": [],
         "ner_tag": "{'...': 'O'}",
         "sentence": "...",
+        "stems": [
+            "..."
+        ],
         "synonyms": [
             "..."
         ],
-        "tagged": [
+        "tags": [
             [
                 "...",
                 ":"
@@ -42025,6 +43557,24 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'such': 'O', 'a': 'O', 'case': 'O', ',': 'O', 'while': 'O', 'there': 'O', 'can': 'O', 'be': 'O', 'no': 'O', 'logical': 'O', 'reason': 'O', 'for': 'O', 'giving': 'O', 'preference': 'O', 'to': 'O', 'the': 'O', 'copy': 'O', '-': 'O', 'text': 'O', 'in': 'O', 'practice': 'O', 'if': 'O', 'is': 'O', 'altering': 'O', 'its': 'O', 'reading': 'O', 'obvious': 'O', 'thing': 'O', 'seems': 'O', 'let': 'O', 'it': 'O', 'stand': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "In such a case, while there can be no logical reason for giving preference to the copy-text, in practice, if there is no reason for altering its reading, the obvious thing seems to be to let it stand.\"",
+        "stems": [
+            "case",
+            "logic",
+            "reason",
+            "give",
+            "prefer",
+            "copy-text",
+            "practic",
+            "reason",
+            "alter",
+            "read",
+            "obviou",
+            "thing",
+            "seem",
+            "let",
+            "stand",
+            "''"
+        ],
         "synonyms": [
             "subject",
             "coherent",
@@ -42043,7 +43593,7 @@
             "stand",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "case",
                 "NN"
@@ -42274,6 +43824,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', '``': 'O', 'exactly': 'O', 'balanced': 'O', \"''\": 'O', 'variants': 'O', 'are': 'O', 'said': 'O', 'to': 'O', 'be': 'O', 'indifferent': 'O', '.': 'O'}",
         "sentence": "The \"exactly balanced\" variants are said to be indifferent.",
+        "stems": [
+            "``",
+            "exactli",
+            "balanc",
+            "''",
+            "variant",
+            "said",
+            "indiffer"
+        ],
         "synonyms": [
             "``",
             "precisely",
@@ -42283,7 +43842,7 @@
             "suppose",
             "inert"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -43075,6 +44634,42 @@
         ],
         "ner_tag": "{'Whereas': 'O', 'Greg': 'PERSON', 'had': 'O', 'limited': 'O', 'his': 'O', 'illustrative': 'O', 'examples': 'O', 'to': 'O', 'English': 'NATIONALITY', 'Renaissance': 'MISC', 'drama': 'MISC', ',': 'O', 'where': 'O', 'expertise': 'O', 'lay': 'O', 'Bowers': 'PERSON', 'argued': 'O', 'that': 'O', 'the': 'O', 'rationale': 'O', 'was': 'O', '``': 'O', 'most': 'O', 'workable': 'O', 'editorial': 'O', 'principle': 'O', 'yet': 'O', 'contrived': 'O', 'produce': 'O', 'a': 'O', 'critical': 'O', 'text': 'O', 'is': 'O', 'authoritative': 'O', 'in': 'O', 'maximum': 'O', 'of': 'O', 'its': 'O', 'details': 'O', 'whether': 'O', 'author': 'TITLE', 'be': 'O', 'Shakespeare': 'PERSON', 'Dryden': 'PERSON', 'Fielding': 'O', 'Nathaniel': 'PERSON', 'Hawthorne': 'PERSON', 'or': 'O', 'Stephen': 'PERSON', 'Crane': 'PERSON', '.': 'O'}",
         "sentence": "Whereas Greg had limited his illustrative examples to English Renaissance drama, where his expertise lay, Bowers argued that the rationale was \"the most workable editorial principle yet contrived to produce a critical text that is authoritative in the maximum of its details whether the author be Shakespeare, Dryden, Fielding, Nathaniel Hawthorne, or Stephen Crane.",
+        "stems": [
+            "wherea",
+            "greg",
+            "limit",
+            "illustr",
+            "exampl",
+            "english",
+            "renaiss",
+            "drama",
+            "expertis",
+            "lay",
+            "bower",
+            "argu",
+            "rational",
+            "``",
+            "workabl",
+            "editori",
+            "principl",
+            "yet",
+            "contriv",
+            "produc",
+            "critic",
+            "text",
+            "authorit",
+            "maximum",
+            "detail",
+            "whether",
+            "author",
+            "shakespear",
+            "dryden",
+            "field",
+            "nathaniel",
+            "hawthorn",
+            "stephen",
+            "crane"
+        ],
         "synonyms": [
             "whereas",
             "greg",
@@ -43111,7 +44706,7 @@
             "Stephen",
             "Grus"
         ],
-        "tagged": [
+        "tags": [
             [
                 "whereas",
                 "NNS"
@@ -43438,6 +45033,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'principle': 'O', 'is': 'O', 'sound': 'O', 'without': 'O', 'regard': 'O', 'for': 'O', 'the': 'O', 'literary': 'O', 'period': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "The principle is sound without regard for the literary period.\"",
+        "stems": [
+            "principl",
+            "sound",
+            "without",
+            "regard",
+            "literari",
+            "period",
+            "''"
+        ],
         "synonyms": [
             "principle",
             "strait",
@@ -43447,7 +45051,7 @@
             "period",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "principle",
                 "NN"
@@ -43841,6 +45445,24 @@
         "meronyms": [],
         "ner_tag": "{'For': 'O', 'works': 'O', 'where': 'O', 'an': 'O', 'author': 'TITLE', \"'s\": 'O', 'manuscript': 'O', 'survived': 'O', '–': 'O', 'a': 'O', 'case': 'O', 'Greg': 'PERSON', 'had': 'O', 'not': 'O', 'considered': 'O', 'Bowers': 'PERSON', 'concluded': 'O', 'that': 'O', 'the': 'O', 'should': 'O', 'generally': 'O', 'serve': 'O', 'as': 'O', 'copy': 'O', '-': 'O', 'text': 'O', '.': 'O'}",
         "sentence": "For works where an author's manuscript survived – a case Greg had not considered – Bowers concluded that the manuscript should generally serve as copy-text.",
+        "stems": [
+            "work",
+            "author",
+            "'s",
+            "manuscript",
+            "surviv",
+            "–",
+            "case",
+            "greg",
+            "consid",
+            "–",
+            "bower",
+            "conclud",
+            "manuscript",
+            "gener",
+            "serv",
+            "copy-text"
+        ],
         "synonyms": [
             "works",
             "writer",
@@ -43859,7 +45481,7 @@
             "service",
             "copy-text"
         ],
-        "tagged": [
+        "tags": [
             [
                 "works",
                 "NNS"
@@ -44411,6 +46033,30 @@
         ],
         "ner_tag": "{'Citing': 'O', 'the': 'O', 'example': 'O', 'of': 'O', 'Nathaniel': 'PERSON', 'Hawthorne': 'PERSON', ',': 'O', 'he': 'O', 'noted': 'O', ':': 'O', 'McKerrow': 'PERSON', 'had': 'O', 'articulated': 'O', 'textual': 'O', 'criticism': 'O', \"'s\": 'O', 'goal': 'O', 'in': 'O', 'terms': 'O', '``': 'O', 'our': 'O', 'ideal': 'O', 'an': 'O', 'author': 'TITLE', 'fair': 'O', 'copy': 'O', 'his': 'O', 'work': 'O', 'its': 'O', 'final': 'O', 'state': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "Citing the example of Nathaniel Hawthorne, he noted: McKerrow had articulated textual criticism's goal in terms of \"our ideal of an author's fair copy of his work in its final state\".",
+        "stems": [
+            "cite",
+            "exampl",
+            "nathaniel",
+            "hawthorn",
+            "note",
+            "mckerrow",
+            "articul",
+            "textual",
+            "critic",
+            "'s",
+            "goal",
+            "term",
+            "``",
+            "ideal",
+            "author",
+            "'s",
+            "fair",
+            "copi",
+            "work",
+            "final",
+            "state",
+            "''"
+        ],
         "synonyms": [
             "quote",
             "model",
@@ -44435,7 +46081,7 @@
             "state",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citing",
                 "VBG"
@@ -44875,6 +46521,27 @@
         "meronyms": [],
         "ner_tag": "{'Bowers': 'PERSON', 'asserted': 'O', 'that': 'O', 'editions': 'O', 'founded': 'O', 'on': 'O', 'Greg': 'PERSON', \"'s\": 'O', 'method': 'O', 'would': 'O', '``': 'O', 'represent': 'O', 'the': 'O', 'nearest': 'O', 'approximation': 'O', 'in': 'O', 'every': 'O', 'respect': 'O', 'of': 'O', 'author': 'TITLE', 'final': 'O', 'intentions': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "Bowers asserted that editions founded on Greg's method would \"represent the nearest approximation in every respect of the author's final intentions.\"",
+        "stems": [
+            "bower",
+            "assert",
+            "edit",
+            "found",
+            "greg",
+            "'s",
+            "method",
+            "would",
+            "``",
+            "repres",
+            "nearest",
+            "approxim",
+            "everi",
+            "respect",
+            "author",
+            "'s",
+            "final",
+            "intent",
+            "''"
+        ],
         "synonyms": [
             "embower",
             "insist",
@@ -44896,7 +46563,7 @@
             "intention",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bowers",
                 "NNS"
@@ -45279,6 +46946,23 @@
         "meronyms": [],
         "ner_tag": "{'Bowers': 'PERSON', 'stated': 'O', 'similarly': 'O', 'that': 'O', 'the': 'O', 'editor': 'TITLE', \"'s\": 'O', 'task': 'O', 'is': 'O', 'to': 'O', '``': 'O', 'approximate': 'O', 'as': 'O', 'nearly': 'O', 'possible': 'O', 'an': 'O', 'inferential': 'O', 'authorial': 'O', 'fair': 'O', 'copy': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "Bowers stated similarly that the editor's task is to \"approximate as nearly as possible an inferential authorial fair copy.\"",
+        "stems": [
+            "bower",
+            "state",
+            "similarli",
+            "editor",
+            "'s",
+            "task",
+            "``",
+            "approxim",
+            "nearli",
+            "possibl",
+            "inferenti",
+            "authori",
+            "fair",
+            "copi",
+            "''"
+        ],
         "synonyms": [
             "embower",
             "express",
@@ -45296,7 +46980,7 @@
             "transcript",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bowers",
                 "NNS"
@@ -45762,6 +47446,25 @@
         "meronyms": [],
         "ner_tag": "{'Tanselle': 'PERSON', 'notes': 'O', 'that': 'O', ',': 'O', '``': 'O', 'Textual': 'O', 'criticism': 'O', '...': 'O', 'has': 'O', 'generally': 'O', 'been': 'O', 'undertaken': 'O', 'with': 'O', 'a': 'O', 'view': 'O', 'to': 'O', 'reconstructing': 'O', 'as': 'O', 'accurately': 'O', 'possible': 'O', 'the': 'O', 'text': 'O', 'finally': 'O', 'intended': 'O', 'by': 'O', 'author': 'TITLE', \"''\": 'O', '.': 'O'}",
         "sentence": "Tanselle notes that, \"Textual criticism ... has generally been undertaken with a view to reconstructing, as accurately as possible, the text finally intended by the author\".",
+        "stems": [
+            "tansel",
+            "note",
+            "``",
+            "textual",
+            "critic",
+            "...",
+            "gener",
+            "undertaken",
+            "view",
+            "reconstruct",
+            "accur",
+            "possibl",
+            "text",
+            "final",
+            "intend",
+            "author",
+            "''"
+        ],
         "synonyms": [
             "tanselle",
             "note",
@@ -45781,7 +47484,7 @@
             "writer",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "tanselle",
                 "NN"
@@ -46093,6 +47796,18 @@
         "meronyms": [],
         "ner_tag": "{'Bowers': 'PERSON', 'and': 'O', 'Tanselle': 'LOCATION', 'argue': 'O', 'for': 'O', 'rejecting': 'O', 'textual': 'O', 'variants': 'O', 'that': 'O', 'an': 'O', 'author': 'TITLE', 'inserted': 'O', 'at': 'O', 'the': 'O', 'suggestion': 'O', 'of': 'O', 'others': 'O', '.': 'O'}",
         "sentence": "Bowers and Tanselle argue for rejecting textual variants that an author inserted at the suggestion of others.",
+        "stems": [
+            "bower",
+            "tansel",
+            "argu",
+            "reject",
+            "textual",
+            "variant",
+            "author",
+            "insert",
+            "suggest",
+            "other"
+        ],
         "synonyms": [
             "embower",
             "tanselle",
@@ -46105,7 +47820,7 @@
             "trace",
             "others"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bowers",
                 "NNS"
@@ -46482,6 +48197,26 @@
         "meronyms": [],
         "ner_tag": "{'Bowers': 'PERSON', 'said': 'O', 'that': 'O', 'his': 'O', 'edition': 'O', 'of': 'O', 'Stephen': 'PERSON', 'Crane': 'PERSON', \"'s\": 'O', 'first': 'ORDINAL', 'novel': 'O', ',': 'O', 'Maggie': 'PERSON', 'presented': 'O', '``': 'O', 'the': 'O', 'author': 'TITLE', 'final': 'O', 'and': 'O', 'uninfluenced': 'O', 'artistic': 'O', 'intentions': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "Bowers said that his edition of Stephen Crane's first novel, Maggie, presented \"the author's final and uninfluenced artistic intentions.\"",
+        "stems": [
+            "bower",
+            "said",
+            "edit",
+            "stephen",
+            "crane",
+            "'s",
+            "first",
+            "novel",
+            "maggi",
+            "present",
+            "``",
+            "author",
+            "'s",
+            "final",
+            "uninfluenc",
+            "artist",
+            "intent",
+            "''"
+        ],
         "synonyms": [
             "embower",
             "suppose",
@@ -46502,7 +48237,7 @@
             "intention",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bowers",
                 "NNS"
@@ -46855,6 +48590,22 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'his': 'O', 'writings': 'O', ',': 'O', 'Tanselle': 'PERSON', 'refers': 'O', 'to': 'O', '``': 'O', 'unconstrained': 'O', 'authorial': 'O', 'intention': 'O', \"''\": 'O', 'or': 'O', 'an': 'O', 'author': 'TITLE', \"'s\": 'O', 'uninfluenced': 'O', 'intentions': 'O', '.': 'O'}",
         "sentence": "In his writings, Tanselle refers to \"unconstrained authorial intention\" or \"an author's uninfluenced intentions.\"",
+        "stems": [
+            "write",
+            "tansel",
+            "refer",
+            "``",
+            "unconstrain",
+            "authori",
+            "intent",
+            "''",
+            "``",
+            "author",
+            "'s",
+            "uninfluenc",
+            "intent",
+            "''"
+        ],
         "synonyms": [
             "writing",
             "tanselle",
@@ -46871,7 +48622,7 @@
             "intention",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "writings",
                 "NNS"
@@ -47573,6 +49324,31 @@
         ],
         "ner_tag": "{'This': 'O', 'marks': 'O', 'a': 'O', 'departure': 'O', 'from': 'O', 'Greg': 'PERSON', ',': 'O', 'who': 'O', 'had': 'O', 'merely': 'O', 'suggested': 'O', 'that': 'O', 'the': 'O', 'editor': 'TITLE', 'inquire': 'O', 'whether': 'O', 'later': 'O', 'reading': 'O', '``': 'O', 'is': 'O', 'one': 'NUMBER', 'author': 'TITLE', 'can': 'O', 'reasonably': 'O', 'be': 'O', 'supposed': 'O', 'to': 'O', 'have': 'O', 'substituted': 'O', 'for': 'O', 'former': 'O', \"''\": 'O', 'not': 'O', 'implying': 'O', 'any': 'O', 'further': 'O', 'inquiry': 'O', 'as': 'O', 'why': 'O', 'made': 'O', 'change': 'O', '.': 'O'}",
         "sentence": "This marks a departure from Greg, who had merely suggested that the editor inquire whether a later reading \"is one that the author can reasonably be supposed to have substituted for the former\", not implying any further inquiry as to why the author had made the change.",
+        "stems": [
+            "mark",
+            "departur",
+            "greg",
+            "mere",
+            "suggest",
+            "editor",
+            "inquir",
+            "whether",
+            "later",
+            "read",
+            "``",
+            "one",
+            "author",
+            "reason",
+            "suppos",
+            "substitut",
+            "former",
+            "''",
+            "impli",
+            "inquiri",
+            "author",
+            "made",
+            "chang"
+        ],
         "synonyms": [
             "target",
             "deviation",
@@ -47598,7 +49374,7 @@
             "take",
             "variety"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marks",
                 "NNS"
@@ -47857,6 +49633,14 @@
         "meronyms": [],
         "ner_tag": "{'Bowers': 'PERSON', 'confronted': 'O', 'a': 'O', 'similar': 'O', 'problem': 'O', 'in': 'O', 'his': 'O', 'edition': 'O', 'of': 'O', 'Maggie': 'PERSON', '.': 'O'}",
         "sentence": "Bowers confronted a similar problem in his edition of Maggie.",
+        "stems": [
+            "bower",
+            "confront",
+            "similar",
+            "problem",
+            "edit",
+            "maggi"
+        ],
         "synonyms": [
             "embower",
             "confront",
@@ -47865,7 +49649,7 @@
             "version",
             "maggie"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bowers",
                 "NNS"
@@ -48014,6 +49798,14 @@
         "meronyms": [],
         "ner_tag": "{'Crane': 'PERSON', 'originally': 'O', 'printed': 'O', 'the': 'O', 'novel': 'O', 'privately': 'O', 'in': 'O', '1893': 'DATE', '.': 'O'}",
         "sentence": "Crane originally printed the novel privately in 1893.",
+        "stems": [
+            "crane",
+            "origin",
+            "print",
+            "novel",
+            "privat",
+            "1893"
+        ],
         "synonyms": [
             "Grus",
             "primitively",
@@ -48022,7 +49814,7 @@
             "privately",
             "1893"
         ],
-        "tagged": [
+        "tags": [
             [
                 "crane",
                 "NN"
@@ -48310,6 +50102,20 @@
         ],
         "ner_tag": "{'To': 'O', 'secure': 'O', 'commercial': 'O', 'publication': 'O', 'in': 'O', '1896': 'DATE', ',': 'O', 'Crane': 'PERSON', 'agreed': 'O', 'to': 'O', 'remove': 'O', 'profanity': 'O', 'but': 'O', 'he': 'O', 'also': 'O', 'made': 'O', 'stylistic': 'O', 'revisions': 'O', '.': 'O'}",
         "sentence": "To secure commercial publication in 1896, Crane agreed to remove profanity, but he also made stylistic revisions.",
+        "stems": [
+            "secur",
+            "commerci",
+            "public",
+            "1896",
+            "crane",
+            "agre",
+            "remov",
+            "profan",
+            "also",
+            "made",
+            "stylist",
+            "revis"
+        ],
         "synonyms": [
             "plug",
             "commercial",
@@ -48324,7 +50130,7 @@
             "stylistic",
             "rewrite"
         ],
-        "tagged": [
+        "tags": [
             [
                 "secure",
                 "JJ"
@@ -48834,6 +50640,26 @@
         "meronyms": [],
         "ner_tag": "{'Bowers': 'PERSON', \"'s\": 'O', 'approach': 'O', 'was': 'O', 'to': 'O', 'preserve': 'O', 'the': 'O', 'stylistic': 'O', 'and': 'O', 'literary': 'O', 'changes': 'O', 'of': 'O', '1896': 'DATE', ',': 'O', 'but': 'O', 'revert': 'O', '1893': 'DATE', 'readings': 'O', 'where': 'O', 'he': 'O', 'believed': 'O', 'that': 'O', 'Crane': 'PERSON', 'fulfilling': 'O', 'publisher': 'TITLE', 'intention': 'O', 'rather': 'O', 'than': 'O', 'his': 'O', 'own': 'O', '.': 'O'}",
         "sentence": "Bowers's approach was to preserve the stylistic and literary changes of 1896, but to revert to the 1893 readings where he believed that Crane was fulfilling the publisher's intention rather than his own.",
+        "stems": [
+            "bower",
+            "'s",
+            "approach",
+            "preserv",
+            "stylist",
+            "literari",
+            "chang",
+            "1896",
+            "revert",
+            "1893",
+            "read",
+            "believ",
+            "crane",
+            "fulfil",
+            "publish",
+            "'s",
+            "intent",
+            "rather"
+        ],
         "synonyms": [
             "embower",
             "'s",
@@ -48854,7 +50680,7 @@
             "intention",
             "quite"
         ],
-        "tagged": [
+        "tags": [
             [
                 "bowers",
                 "NNS"
@@ -49536,6 +51362,30 @@
         "meronyms": [],
         "ner_tag": "{'There': 'O', 'were': 'O', ',': 'O', 'however': 'O', 'intermediate': 'O', 'cases': 'O', 'that': 'O', 'could': 'O', 'reasonably': 'O', 'have': 'O', 'been': 'O', 'attributed': 'O', 'to': 'O', 'either': 'O', 'intention': 'O', 'and': 'O', 'some': 'O', 'of': 'O', 'Bowers': 'PERSON', \"'s\": 'O', 'choices': 'O', 'came': 'O', 'under': 'O', 'fire': 'CAUSE_OF_DEATH', '–': 'O', 'both': 'O', 'as': 'O', 'his': 'O', 'judgment': 'O', 'the': 'O', 'wisdom': 'O', 'conflating': 'O', 'readings': 'O', 'from': 'O', 'two': 'NUMBER', 'different': 'O', 'versions': 'O', 'Maggie': 'PERSON', '.': 'O'}",
         "sentence": "There were, however, intermediate cases that could reasonably have been attributed to either intention, and some of Bowers's choices came under fire – both as to his judgment, and as to the wisdom of conflating readings from the two different versions of Maggie.",
+        "stems": [
+            "howev",
+            "intermedi",
+            "case",
+            "could",
+            "reason",
+            "attribut",
+            "either",
+            "intent",
+            "bower",
+            "'s",
+            "choic",
+            "came",
+            "fire",
+            "–",
+            "judgment",
+            "wisdom",
+            "conflat",
+            "read",
+            "two",
+            "differ",
+            "version",
+            "maggi"
+        ],
         "synonyms": [
             "however",
             "intermediate",
@@ -49560,7 +51410,7 @@
             "version",
             "maggie"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -50212,6 +52062,30 @@
         "meronyms": [],
         "ner_tag": "{'Some': 'O', 'critics': 'O', 'believe': 'O', 'that': 'O', 'a': 'O', 'clear': 'O', '-': 'O', 'text': 'O', 'edition': 'O', 'gives': 'O', 'the': 'O', 'edited': 'O', 'too': 'O', 'great': 'O', 'prominence': 'O', ',': 'O', 'relegating': 'O', 'textual': 'O', 'variants': 'O', 'to': 'O', 'appendices': 'O', 'are': 'O', 'difficult': 'O', 'use': 'O', 'and': 'O', 'suggesting': 'O', 'greater': 'O', 'sense': 'O', 'of': 'O', 'certainty': 'O', 'about': 'O', 'established': 'O', 'than': 'O', 'it': 'O', 'deserves': 'O', '.': 'O'}",
         "sentence": "Some critics believe that a clear-text edition gives the edited text too great a prominence, relegating textual variants to appendices that are difficult to use, and suggesting a greater sense of certainty about the established text than it deserves.",
+        "stems": [
+            "critic",
+            "believ",
+            "clear-text",
+            "edit",
+            "give",
+            "edit",
+            "text",
+            "great",
+            "promin",
+            "releg",
+            "textual",
+            "variant",
+            "appendic",
+            "difficult",
+            "use",
+            "suggest",
+            "greater",
+            "sens",
+            "certainti",
+            "establish",
+            "text",
+            "deserv"
+        ],
         "synonyms": [
             "critic",
             "believe",
@@ -50236,7 +52110,7 @@
             "textbook",
             "deserve"
         ],
-        "tagged": [
+        "tags": [
             [
                 "critics",
                 "NNS"
@@ -50984,6 +52858,36 @@
         "meronyms": [],
         "ner_tag": "{'As': 'O', 'Shillingsburg': 'O', 'notes': 'O', ',': 'O', '``': 'O', 'English': 'NATIONALITY', 'scholarly': 'O', 'editions': 'O', 'have': 'O', 'tended': 'O', 'to': 'O', 'use': 'O', 'at': 'O', 'the': 'O', 'foot': 'O', 'of': 'O', 'text': 'O', 'page': 'O', 'indicating': 'O', 'tacitly': 'O', 'a': 'O', 'greater': 'O', 'modesty': 'O', 'about': 'O', 'established': 'O', \"''\": 'O', 'and': 'O', 'drawing': 'O', 'attention': 'O', 'more': 'O', 'forcibly': 'O', 'least': 'O', 'some': 'O', 'alternative': 'O', 'forms': 'O', '.': 'O'}",
         "sentence": "As Shillingsburg notes, \"English scholarly editions have tended to use notes at the foot of the text page, indicating, tacitly, a greater modesty about the \"established\" text and drawing attention more forcibly to at least some of the alternative forms of the text\".",
+        "stems": [
+            "shillingsburg",
+            "note",
+            "``",
+            "english",
+            "scholarli",
+            "edit",
+            "tend",
+            "use",
+            "note",
+            "foot",
+            "text",
+            "page",
+            "indic",
+            "tacitli",
+            "greater",
+            "modesti",
+            "``",
+            "establish",
+            "''",
+            "text",
+            "draw",
+            "attent",
+            "forcibl",
+            "least",
+            "altern",
+            "form",
+            "text",
+            "''"
+        ],
         "synonyms": [
             "shillingsburg",
             "note",
@@ -51014,7 +52918,7 @@
             "textbook",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "shillingsburg",
                 "NN"
@@ -51393,6 +53297,18 @@
         "meronyms": [],
         "ner_tag": "{'Cladistics': 'MISC', 'is': 'O', 'a': 'O', 'technique': 'O', 'borrowed': 'O', 'from': 'O', 'biology': 'O', ',': 'O', 'where': 'O', 'it': 'O', 'was': 'O', 'originally': 'O', 'named': 'O', 'phylogenetic': 'O', 'systematics': 'O', 'by': 'O', 'Willi': 'PERSON', 'Hennig': 'PERSON', '.': 'O'}",
         "sentence": "Cladistics is a technique borrowed from biology, where it was originally named phylogenetic systematics by Willi Hennig.",
+        "stems": [
+            "cladist",
+            "techniqu",
+            "borrow",
+            "biolog",
+            "origin",
+            "name",
+            "phylogenet",
+            "systemat",
+            "willi",
+            "hennig"
+        ],
         "synonyms": [
             "cladistics",
             "technique",
@@ -51405,7 +53321,7 @@
             "willi",
             "hennig"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cladistics",
                 "NNS"
@@ -51658,6 +53574,16 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'biology': 'O', ',': 'O', 'the': 'O', 'technique': 'O', 'is': 'O', 'used': 'O', 'to': 'O', 'determine': 'O', 'evolutionary': 'O', 'relationships': 'O', 'between': 'O', 'different': 'O', 'species': 'O', '.': 'O'}",
         "sentence": "In biology, the technique is used to determine the evolutionary relationships between different species.",
+        "stems": [
+            "biolog",
+            "techniqu",
+            "use",
+            "determin",
+            "evolutionari",
+            "relationship",
+            "differ",
+            "speci"
+        ],
         "synonyms": [
             "biota",
             "technique",
@@ -51668,7 +53594,7 @@
             "unlike",
             "species"
         ],
-        "tagged": [
+        "tags": [
             [
                 "biology",
                 "NN"
@@ -52069,6 +53995,19 @@
         ],
         "ner_tag": "{'In': 'O', 'its': 'O', 'application': 'O', 'in': 'O', 'textual': 'O', 'criticism': 'O', ',': 'O', 'the': 'O', 'text': 'O', 'of': 'O', 'a': 'O', 'number': 'O', 'different': 'O', 'manuscripts': 'O', 'is': 'O', 'entered': 'O', 'into': 'O', 'computer': 'O', 'which': 'O', 'records': 'O', 'all': 'O', 'differences': 'O', 'between': 'O', 'them': 'O', '.': 'O'}",
         "sentence": "In its application in textual criticism, the text of a number of different manuscripts is entered into a computer, which records all the differences between them.",
+        "stems": [
+            "applic",
+            "textual",
+            "critic",
+            "text",
+            "number",
+            "differ",
+            "manuscript",
+            "enter",
+            "comput",
+            "record",
+            "differ"
+        ],
         "synonyms": [
             "lotion",
             "textual",
@@ -52082,7 +54021,7 @@
             "record",
             "dispute"
         ],
-        "tagged": [
+        "tags": [
             [
                 "application",
                 "NN"
@@ -52283,6 +54222,13 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'manuscripts': 'O', 'are': 'O', 'then': 'O', 'grouped': 'O', 'according': 'O', 'to': 'O', 'their': 'O', 'shared': 'O', 'characteristics': 'O', '.': 'O'}",
         "sentence": "The manuscripts are then grouped according to their shared characteristics.",
+        "stems": [
+            "manuscript",
+            "group",
+            "accord",
+            "share",
+            "characterist"
+        ],
         "synonyms": [
             "manuscript",
             "group",
@@ -52290,7 +54236,7 @@
             "partake",
             "feature"
         ],
-        "tagged": [
+        "tags": [
             [
                 "manuscripts",
                 "NNS"
@@ -52929,6 +54875,33 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'difference': 'O', 'between': 'O', 'cladistics': 'O', 'and': 'O', 'more': 'O', 'traditional': 'O', 'forms': 'O', 'of': 'O', 'statistical': 'O', 'analysis': 'O', 'is': 'O', 'that': 'O', ',': 'O', 'rather': 'O', 'than': 'O', 'simply': 'O', 'arranging': 'O', 'the': 'O', 'manuscripts': 'O', 'into': 'O', 'rough': 'O', 'groupings': 'O', 'according': 'O', 'to': 'O', 'their': 'O', 'overall': 'O', 'similarity': 'O', 'assumes': 'O', 'they': 'O', 'are': 'O', 'part': 'O', 'a': 'O', 'branching': 'O', 'family': 'O', 'tree': 'O', 'uses': 'O', 'assumption': 'O', 'derive': 'O', 'relationships': 'O', 'them': 'O', '.': 'O'}",
         "sentence": "The difference between cladistics and more traditional forms of statistical analysis is that, rather than simply arranging the manuscripts into rough groupings according to their overall similarity, cladistics assumes that they are part of a branching family tree and uses that assumption to derive relationships between them.",
+        "stems": [
+            "differ",
+            "cladist",
+            "tradit",
+            "form",
+            "statist",
+            "analysi",
+            "rather",
+            "simpli",
+            "arrang",
+            "manuscript",
+            "rough",
+            "group",
+            "accord",
+            "overal",
+            "similar",
+            "cladist",
+            "assum",
+            "part",
+            "branch",
+            "famili",
+            "tree",
+            "use",
+            "assumpt",
+            "deriv",
+            "relationship"
+        ],
         "synonyms": [
             "dispute",
             "cladistics",
@@ -52956,7 +54929,7 @@
             "derive",
             "relationship"
         ],
-        "tagged": [
+        "tags": [
             [
                 "difference",
                 "NN"
@@ -53224,6 +55197,13 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'makes': 'O', 'it': 'O', 'more': 'O', 'like': 'O', 'an': 'O', 'automated': 'O', 'approach': 'O', 'to': 'O', 'stemmatics': 'O', '.': 'O'}",
         "sentence": "This makes it more like an automated approach to stemmatics.",
+        "stems": [
+            "make",
+            "like",
+            "autom",
+            "approach",
+            "stemmat"
+        ],
         "synonyms": [
             "take",
             "like",
@@ -53231,7 +55211,7 @@
             "overture",
             "stemmatology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "makes",
                 "VBZ"
@@ -53849,6 +55829,28 @@
         ],
         "ner_tag": "{'However': 'O', ',': 'O', 'where': 'O', 'there': 'O', 'is': 'O', 'a': 'O', 'difference': 'O', 'the': 'O', 'computer': 'O', 'does': 'O', 'not': 'O', 'attempt': 'O', 'to': 'O', 'decide': 'O', 'which': 'O', 'reading': 'O', 'closer': 'O', 'original': 'O', 'text': 'O', 'and': 'O', 'so': 'O', 'indicate': 'O', 'branch': 'O', 'of': 'O', 'tree': 'O', '``': 'O', 'root': 'O', \"''\": 'O', '—': 'O', 'manuscript': 'O', 'tradition': 'O', 'closest': 'O', '.': 'O'}",
         "sentence": "However, where there is a difference, the computer does not attempt to decide which reading is closer to the original text, and so does not indicate which branch of the tree is the \"root\"—which manuscript tradition is closest to the original.",
+        "stems": [
+            "howev",
+            "differ",
+            "comput",
+            "attempt",
+            "decid",
+            "read",
+            "closer",
+            "origin",
+            "text",
+            "indic",
+            "branch",
+            "tree",
+            "``",
+            "root",
+            "''",
+            "—which",
+            "manuscript",
+            "tradit",
+            "closest",
+            "origin"
+        ],
         "synonyms": [
             "however",
             "dispute",
@@ -53871,7 +55873,7 @@
             "close",
             "original"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -54114,6 +56116,13 @@
         "meronyms": [],
         "ner_tag": "{'Other': 'O', 'types': 'O', 'of': 'O', 'evidence': 'O', 'must': 'O', 'be': 'O', 'used': 'O', 'for': 'O', 'that': 'O', 'purpose': 'O', '.': 'O'}",
         "sentence": "Other types of evidence must be used for that purpose.",
+        "stems": [
+            "type",
+            "evid",
+            "must",
+            "use",
+            "purpos"
+        ],
         "synonyms": [
             "type",
             "testify",
@@ -54121,7 +56130,7 @@
             "use",
             "purpose"
         ],
-        "tagged": [
+        "tags": [
             [
                 "types",
                 "NNS"
@@ -54456,6 +56465,21 @@
         "meronyms": [],
         "ner_tag": "{'Although': 'O', 'some': 'O', 'earlier': 'O', 'unpublished': 'O', 'studies': 'O', 'had': 'O', 'been': 'O', 'prepared': 'O', ',': 'O', 'not': 'O', 'until': 'O', 'the': 'O', 'early': 'O', '1970s': 'DATE', 'was': 'O', 'true': 'O', 'textual': 'O', 'criticism': 'O', 'applied': 'O', 'to': 'O', 'Book': 'MISC', 'of': 'MISC', 'Mormon': 'RELIGION', '.': 'O'}",
         "sentence": "Although some earlier unpublished studies had been prepared, not until the early 1970s was true textual criticism applied to the Book of Mormon.",
+        "stems": [
+            "although",
+            "earlier",
+            "unpublish",
+            "studi",
+            "prepar",
+            "earli",
+            "1970",
+            "true",
+            "textual",
+            "critic",
+            "appli",
+            "book",
+            "mormon"
+        ],
         "synonyms": [
             "although",
             "early",
@@ -54471,7 +56495,7 @@
             "script",
             "Latter-Day_Saint"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -54882,6 +56906,23 @@
         "meronyms": [],
         "ner_tag": "{'At': 'O', 'that': 'O', 'time': 'O', 'BYU': 'ORGANIZATION', 'Professor': 'TITLE', 'Ellis': 'PERSON', 'Rasmussen': 'PERSON', 'and': 'O', 'his': 'O', 'associates': 'O', 'were': 'O', 'asked': 'O', 'by': 'O', 'the': 'O', 'LDS': 'ORGANIZATION', 'Church': 'ORGANIZATION', 'to': 'O', 'begin': 'O', 'preparation': 'O', 'for': 'O', 'a': 'O', 'new': 'O', 'edition': 'O', 'of': 'O', 'Holy': 'O', 'Scriptures': 'O', '.': 'O'}",
         "sentence": "At that time BYU Professor Ellis Rasmussen and his associates were asked by the LDS Church to begin preparation for a new edition of the Holy Scriptures.",
+        "stems": [
+            "time",
+            "byu",
+            "professor",
+            "elli",
+            "rasmussen",
+            "associ",
+            "ask",
+            "ld",
+            "church",
+            "begin",
+            "prepar",
+            "new",
+            "edit",
+            "holi",
+            "scriptur"
+        ],
         "synonyms": [
             "time",
             "byu",
@@ -54899,7 +56940,7 @@
             "holy_place",
             "scripture"
         ],
-        "tagged": [
+        "tags": [
             [
                 "time",
                 "NN"
@@ -55271,6 +57312,23 @@
         "meronyms": [],
         "ner_tag": "{'One': 'NUMBER', 'aspect': 'O', 'of': 'O', 'that': 'O', 'effort': 'O', 'entailed': 'O', 'digitizing': 'O', 'the': 'O', 'text': 'O', 'and': 'O', 'preparing': 'O', 'appropriate': 'O', 'footnotes': 'O', ',': 'O', 'another': 'O', 'required': 'O', 'establishing': 'O', 'most': 'O', 'dependable': 'O', '.': 'O'}",
         "sentence": "One aspect of that effort entailed digitizing the text and preparing appropriate footnotes, another aspect required establishing the most dependable text.",
+        "stems": [
+            "one",
+            "aspect",
+            "effort",
+            "entail",
+            "digit",
+            "text",
+            "prepar",
+            "appropri",
+            "footnot",
+            "anoth",
+            "aspect",
+            "requir",
+            "establish",
+            "depend",
+            "text"
+        ],
         "synonyms": [
             "one",
             "view",
@@ -55288,7 +57346,7 @@
             "reliable",
             "textbook"
         ],
-        "tagged": [
+        "tags": [
             [
                 "one",
                 "CD"
@@ -55894,6 +57952,32 @@
         ],
         "ner_tag": "{'To': 'O', 'that': 'O', 'latter': 'O', 'end': 'O', ',': 'O', 'Stanley': 'PERSON', 'R.': 'PERSON', 'Larson': 'PERSON', '(': 'O', 'a': 'O', 'Rasmussen': 'PERSON', 'graduate': 'O', 'student': 'TITLE', ')': 'O', 'set': 'O', 'about': 'O', 'applying': 'O', 'modern': 'O', 'text': 'O', 'critical': 'O', 'standards': 'O', 'to': 'O', 'the': 'O', 'manuscripts': 'O', 'and': 'O', 'early': 'O', 'editions': 'O', 'of': 'O', 'Book': 'O', 'Mormon': 'RELIGION', 'as': 'O', 'his': 'O', 'thesis': 'O', 'project': 'O', '–': 'O', 'which': 'O', 'he': 'O', 'completed': 'O', 'in': 'O', '1974': 'DATE', '.': 'O'}",
         "sentence": "To that latter end, Stanley R. Larson (a Rasmussen graduate student) set about applying modern text critical standards to the manuscripts and early editions of the Book of Mormon as his thesis project – which he completed in 1974.",
+        "stems": [
+            "latter",
+            "end",
+            "stanley",
+            "r.",
+            "larson",
+            "rasmussen",
+            "graduat",
+            "student",
+            "set",
+            "appli",
+            "modern",
+            "text",
+            "critic",
+            "standard",
+            "manuscript",
+            "earli",
+            "edit",
+            "book",
+            "mormon",
+            "thesi",
+            "project",
+            "–",
+            "complet",
+            "1974"
+        ],
         "synonyms": [
             "latter",
             "goal",
@@ -55920,7 +58004,7 @@
             "completed",
             "1974"
         ],
-        "tagged": [
+        "tags": [
             [
                 "latter",
                 "JJ"
@@ -57015,6 +59099,44 @@
         "meronyms": [],
         "ner_tag": "{'To': 'O', 'that': 'O', 'end': 'O', ',': 'O', 'Larson': 'PERSON', 'carefully': 'O', 'examined': 'O', 'the': 'O', 'Original': 'O', 'Manuscript': 'O', '(': 'O', 'one': 'NUMBER', 'dictated': 'O', 'by': 'O', 'Joseph': 'PERSON', 'Smith': 'PERSON', 'to': 'O', 'his': 'O', 'scribes': 'O', ')': 'O', 'and': 'O', 'Printer': 'TITLE', '’': 'O', 's': 'O', 'copy': 'O', 'Oliver': 'PERSON', 'Cowdery': 'PERSON', 'prepared': 'O', 'for': 'O', 'in': 'O', '1829': 'DATE', '–': 'O', '1830': 'DATE', 'compared': 'O', 'them': 'O', 'with': 'O', '1st': 'ORDINAL', '2nd': 'ORDINAL', '3rd': 'ORDINAL', 'editions': 'O', 'of': 'O', 'Book': 'MISC', 'Mormon': 'RELIGION', 'determine': 'O', 'what': 'O', 'sort': 'O', 'changes': 'O', 'had': 'O', 'occurred': 'O', 'over': 'O', 'time': 'O', 'make': 'O', 'judgments': 'O', 'as': 'O', 'which': 'O', 'readings': 'O', 'were': 'O', 'most': 'O', 'original': 'O', '.': 'O'}",
         "sentence": "To that end, Larson carefully examined the Original Manuscript (the one dictated by Joseph Smith to his scribes) and the Printer’s Manuscript (the copy Oliver Cowdery prepared for the Printer in 1829–1830), and compared them with the 1st, 2nd, and 3rd editions of the Book of Mormon to determine what sort of changes had occurred over time and to make judgments as to which readings were the most original.",
+        "stems": [
+            "end",
+            "larson",
+            "care",
+            "examin",
+            "origin",
+            "manuscript",
+            "one",
+            "dictat",
+            "joseph",
+            "smith",
+            "scribe",
+            "printer",
+            "’",
+            "manuscript",
+            "copi",
+            "oliv",
+            "cowderi",
+            "prepar",
+            "printer",
+            "1829–1830",
+            "compar",
+            "1st",
+            "2nd",
+            "3rd",
+            "edit",
+            "book",
+            "mormon",
+            "determin",
+            "sort",
+            "chang",
+            "occur",
+            "time",
+            "make",
+            "judgment",
+            "read",
+            "origin"
+        ],
         "synonyms": [
             "goal",
             "larson",
@@ -57053,7 +59175,7 @@
             "understand",
             "original"
         ],
-        "tagged": [
+        "tags": [
             [
                 "end",
                 "NN"
@@ -57486,6 +59608,17 @@
         ],
         "ner_tag": "{'Larson': 'PERSON', 'proceeded': 'O', 'to': 'O', 'publish': 'O', 'a': 'O', 'useful': 'O', 'set': 'O', 'of': 'O', 'well': 'O', '-': 'O', 'argued': 'O', 'articles': 'O', 'on': 'O', 'the': 'O', 'phenomena': 'O', 'which': 'O', 'he': 'O', 'had': 'O', 'discovered': 'O', '.': 'O'}",
         "sentence": "Larson proceeded to publish a useful set of well-argued articles on the phenomena which he had discovered.",
+        "stems": [
+            "larson",
+            "proceed",
+            "publish",
+            "use",
+            "set",
+            "well-argu",
+            "articl",
+            "phenomena",
+            "discov"
+        ],
         "synonyms": [
             "larson",
             "proceed",
@@ -57497,7 +59630,7 @@
             "phenomenon",
             "unwrap"
         ],
-        "tagged": [
+        "tags": [
             [
                 "larson",
                 "NN"
@@ -57779,6 +59912,17 @@
         "meronyms": [],
         "ner_tag": "{'Many': 'O', 'of': 'O', 'his': 'O', 'observations': 'O', 'were': 'O', 'included': 'O', 'as': 'O', 'improvements': 'O', 'in': 'O', 'the': 'O', '1981': 'DATE', 'LDS': 'RELIGION', 'edition': 'O', 'Book': 'O', 'Mormon': 'RELIGION', '.': 'O'}",
         "sentence": "Many of his observations were included as improvements in the 1981 LDS edition of the Book of Mormon.",
+        "stems": [
+            "mani",
+            "observ",
+            "includ",
+            "improv",
+            "1981",
+            "ld",
+            "edit",
+            "book",
+            "mormon"
+        ],
         "synonyms": [
             "many",
             "observation",
@@ -57790,7 +59934,7 @@
             "script",
             "Latter-Day_Saint"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -58495,6 +60639,37 @@
         ],
         "ner_tag": "{'By': 'O', '1979': 'DATE', ',': 'O', 'with': 'O', 'the': 'MISC', 'establishment': 'O', 'of': 'MISC', 'Foundation': 'ORGANIZATION', 'for': 'ORGANIZATION', 'Ancient': 'ORGANIZATION', 'Research': 'ORGANIZATION', 'and': 'O', 'Mormon': 'RELIGION', 'Studies': 'O', '(': 'O', 'FARMS': 'O', ')': 'O', 'as': 'O', 'a': 'O', 'California': 'STATE_OR_PROVINCE', 'non-profit': 'O', 'research': 'O', 'institution': 'O', 'an': 'O', 'effort': 'O', 'led': 'O', 'by': 'O', 'Robert': 'PERSON', 'F.': 'PERSON', 'Smith': 'PERSON', 'began': 'O', 'to': 'O', 'take': 'O', 'full': 'O', 'account': 'O', 'Larson': 'PERSON', '’': 'O', 's': 'O', 'work': 'O', 'publish': 'O', 'Critical': 'MISC', 'Text': 'MISC', 'Book': 'MISC', '.': 'O'}",
         "sentence": "By 1979, with the establishment of the Foundation for Ancient Research and Mormon Studies (FARMS) as a California non-profit research institution, an effort led by Robert F. Smith began to take full account of Larson’s work and to publish a Critical Text of the Book of Mormon.",
+        "stems": [
+            "1979",
+            "establish",
+            "foundat",
+            "ancient",
+            "research",
+            "mormon",
+            "studi",
+            "farm",
+            "california",
+            "non-profit",
+            "research",
+            "institut",
+            "effort",
+            "led",
+            "robert",
+            "f.",
+            "smith",
+            "began",
+            "take",
+            "full",
+            "account",
+            "larson",
+            "’",
+            "work",
+            "publish",
+            "critic",
+            "text",
+            "book",
+            "mormon"
+        ],
         "synonyms": [
             "1979",
             "institution",
@@ -58526,7 +60701,7 @@
             "script",
             "Latter-Day_Saint"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1979",
                 "CD"
@@ -58999,6 +61174,23 @@
         "meronyms": [],
         "ner_tag": "{'Thus': 'O', 'was': 'O', 'born': 'O', 'the': 'O', 'FARMS': 'MISC', 'Critical': 'O', 'Text': 'O', 'Project': 'MISC', 'which': 'O', 'published': 'O', 'first': 'ORDINAL', 'volume': 'NUMBER', 'of': 'O', '3': 'NUMBER', '-': 'NUMBER', 'Book': 'O', 'Mormon': 'RELIGION', 'in': 'O', '1984': 'DATE', '.': 'O'}",
         "sentence": "Thus was born the FARMS Critical Text Project which published the first volume of the 3-volume Book of Mormon Critical Text in 1984.",
+        "stems": [
+            "thu",
+            "born",
+            "farm",
+            "critic",
+            "text",
+            "project",
+            "publish",
+            "first",
+            "volum",
+            "3-volum",
+            "book",
+            "mormon",
+            "critic",
+            "text",
+            "1984"
+        ],
         "synonyms": [
             "thus",
             "hold",
@@ -59016,7 +61208,7 @@
             "textbook",
             "1984"
         ],
-        "tagged": [
+        "tags": [
             [
                 "thus",
                 "RB"
@@ -59960,6 +62152,46 @@
         ],
         "ner_tag": "{'The': 'O', 'third': 'ORDINAL', 'volume': 'O', 'of': 'O', 'that': 'O', 'first': 'ORDINAL', 'edition': 'O', 'was': 'O', 'published': 'O', 'in': 'O', '1987': 'DATE', ',': 'O', 'but': 'O', 'already': 'O', 'being': 'O', 'superseded': 'O', 'by': 'O', 'a': 'DURATION', 'second': 'DURATION', 'revised': 'O', 'the': 'O', 'entire': 'O', 'work': 'O', 'greatly': 'O', 'aided': 'O', 'through': 'O', 'advice': 'O', 'and': 'O', 'assistance': 'O', 'then': 'O', 'Yale': 'ORGANIZATION', 'doctoral': 'O', 'candidate': 'TITLE', 'Grant': 'PERSON', 'Hardy': 'PERSON', 'Dr.': 'O', 'Gordon': 'PERSON', 'C.': 'PERSON', 'Thomasson': 'PERSON', 'Professor': 'TITLE', 'John': 'PERSON', 'W.': 'PERSON', 'Welch': 'PERSON', '(': 'O', 'head': 'O', 'FARMS': 'O', ')': 'O', 'Royal': 'PERSON', 'Skousen': 'PERSON', 'others': 'O', 'too': 'O', 'numerous': 'O', 'to': 'O', 'mention': 'O', 'here': 'O', '.': 'O'}",
         "sentence": "The third volume of that first edition was published in 1987, but was already being superseded by a second, revised edition of the entire work, greatly aided through the advice and assistance of then Yale doctoral candidate Grant Hardy, Dr. Gordon C. Thomasson, Professor John W. Welch (the head of FARMS), Professor Royal Skousen, and others too numerous to mention here.",
+        "stems": [
+            "third",
+            "volum",
+            "first",
+            "edit",
+            "publish",
+            "1987",
+            "alreadi",
+            "supersed",
+            "second",
+            "revis",
+            "edit",
+            "entir",
+            "work",
+            "greatli",
+            "aid",
+            "advic",
+            "assist",
+            "yale",
+            "doctor",
+            "candid",
+            "grant",
+            "hardi",
+            "dr.",
+            "gordon",
+            "c.",
+            "thomasson",
+            "professor",
+            "john",
+            "w.",
+            "welch",
+            "head",
+            "farm",
+            "professor",
+            "royal",
+            "skousen",
+            "other",
+            "numer",
+            "mention"
+        ],
         "synonyms": [
             "third_gear",
             "volume",
@@ -60000,7 +62232,7 @@
             "numerous",
             "mention"
         ],
-        "tagged": [
+        "tags": [
             [
                 "third",
                 "JJ"
@@ -60408,6 +62640,16 @@
         "meronyms": [],
         "ner_tag": "{'However': 'O', ',': 'O', 'these': 'O', 'were': 'O', 'merely': 'O', 'preliminary': 'O', 'steps': 'O', 'to': 'O', 'a': 'O', 'far': 'O', 'more': 'O', 'exacting': 'O', 'and': 'O', 'all': 'O', '-': 'O', 'encompassing': 'O', 'project': 'O', '.': 'O'}",
         "sentence": "However, these were merely preliminary steps to a far more exacting and all-encompassing project.",
+        "stems": [
+            "howev",
+            "mere",
+            "preliminari",
+            "step",
+            "far",
+            "exact",
+            "all-encompass",
+            "project"
+        ],
         "synonyms": [
             "however",
             "merely",
@@ -60418,7 +62660,7 @@
             "across-the-board",
             "project"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -61261,6 +63503,44 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '1988': 'DATE', ',': 'O', 'with': 'O', 'that': 'O', 'preliminary': 'O', 'phase': 'O', 'of': 'O', 'the': 'O', 'project': 'O', 'completed': 'O', 'Professor': 'TITLE', 'Skousen': 'PERSON', 'took': 'O', 'over': 'O', 'as': 'O', 'editor': 'TITLE', 'and': 'O', 'head': 'O', 'FARMS': 'O', 'Critical': 'O', 'Text': 'O', 'Book': 'O', 'Mormon': 'RELIGION', 'Project': 'O', 'proceeded': 'O', 'to': 'O', 'gather': 'O', 'still': 'O', 'scattered': 'O', 'fragments': 'O', 'Original': 'O', 'Manuscript': 'O', 'have': 'O', 'advanced': 'O', 'photographic': 'O', 'techniques': 'O', 'applied': 'O', 'obtain': 'O', 'fine': 'O', 'readings': 'O', 'from': 'O', 'otherwise': 'O', 'unreadable': 'O', 'pages': 'O', '.': 'O'}",
         "sentence": "In 1988, with that preliminary phase of the project completed, Professor Skousen took over as editor and head of the FARMS Critical Text of the Book of Mormon Project and proceeded to gather still scattered fragments of the Original Manuscript of the Book of Mormon and to have advanced photographic techniques applied to obtain fine readings from otherwise unreadable pages and fragments.",
+        "stems": [
+            "1988",
+            "preliminari",
+            "phase",
+            "project",
+            "complet",
+            "professor",
+            "skousen",
+            "took",
+            "editor",
+            "head",
+            "farm",
+            "critic",
+            "text",
+            "book",
+            "mormon",
+            "project",
+            "proceed",
+            "gather",
+            "still",
+            "scatter",
+            "fragment",
+            "origin",
+            "manuscript",
+            "book",
+            "mormon",
+            "advanc",
+            "photograph",
+            "techniqu",
+            "appli",
+            "obtain",
+            "fine",
+            "read",
+            "otherwis",
+            "unread",
+            "page",
+            "fragment"
+        ],
         "synonyms": [
             "1988",
             "preliminary",
@@ -61299,7 +63579,7 @@
             "page",
             "shard"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1988",
                 "CD"
@@ -62016,6 +64296,27 @@
         ],
         "ner_tag": "{'He': 'O', 'also': 'O', 'closely': 'O', 'examined': 'O', 'the': 'O', 'Printer': 'TITLE', '’': 'O', 's': 'O', 'Manuscript': 'O', '(': 'O', 'owned': 'O', 'by': 'O', 'Community': 'RELIGION', 'of': 'O', 'Christ': 'RELIGION', '—': 'O', 'RLDS': 'O', 'Church': 'O', 'in': 'O', 'Independence': 'O', ',': 'O', 'Missouri': 'STATE_OR_PROVINCE', ')': 'O', 'for': 'O', 'differences': 'O', 'types': 'O', 'ink': 'O', 'or': 'O', 'pencil': 'O', 'order': 'O', 'to': 'O', 'determine': 'O', 'when': 'O', 'and': 'O', 'whom': 'O', 'they': 'O', 'were': 'O', 'made': 'O', '.': 'O'}",
         "sentence": "He also closely examined the Printer’s Manuscript (owned by the Community of Christ—RLDS Church in Independence, Missouri) for differences in types of ink or pencil, in order to determine when and by whom they were made.",
+        "stems": [
+            "also",
+            "close",
+            "examin",
+            "printer",
+            "’",
+            "manuscript",
+            "own",
+            "commun",
+            "christ—rld",
+            "church",
+            "independ",
+            "missouri",
+            "differ",
+            "type",
+            "ink",
+            "pencil",
+            "order",
+            "determin",
+            "made"
+        ],
         "synonyms": [
             "besides",
             "closely",
@@ -62037,7 +64338,7 @@
             "determine",
             "take"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -62465,6 +64766,20 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'also': 'O', 'collated': 'O', 'the': 'O', 'various': 'O', 'editions': 'O', 'of': 'O', 'Book': 'MISC', 'Mormon': 'RELIGION', 'down': 'O', 'to': 'O', 'present': 'DATE', 'see': 'O', 'what': 'O', 'sorts': 'O', 'changes': 'O', 'have': 'O', 'been': 'O', 'made': 'O', 'through': 'O', 'time': 'O', '.': 'O'}",
         "sentence": "He also collated the various editions of the Book of Mormon down to the present to see what sorts of changes have been made through time.",
+        "stems": [
+            "also",
+            "collat",
+            "variou",
+            "edit",
+            "book",
+            "mormon",
+            "present",
+            "see",
+            "sort",
+            "chang",
+            "made",
+            "time"
+        ],
         "synonyms": [
             "besides",
             "collate",
@@ -62479,7 +64794,7 @@
             "take",
             "time"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -62949,6 +65264,26 @@
         ],
         "ner_tag": "{'Shemaryahu': 'PERSON', 'Talmon': 'PERSON', ',': 'O', 'who': 'O', 'summarized': 'O', 'the': 'O', 'amount': 'O', 'of': 'O', 'consensus': 'O', 'and': 'O', 'genetic': 'O', 'relation': 'O', 'to': 'O', 'Urtext': 'O', 'Hebrew': 'O', 'Bible': 'O', 'concluded': 'O', 'that': 'O', 'major': 'O', 'divergences': 'O', 'which': 'O', 'intrinsically': 'O', 'affect': 'O', 'sense': 'O', 'are': 'O', 'extremely': 'O', 'rare': 'O', '.': 'O'}",
         "sentence": "Shemaryahu Talmon, who summarized the amount of consensus and genetic relation to the Urtext of the Hebrew Bible, concluded that major divergences which intrinsically affect the sense are extremely rare.",
+        "stems": [
+            "shemaryahu",
+            "talmon",
+            "summar",
+            "amount",
+            "consensu",
+            "genet",
+            "relat",
+            "urtext",
+            "hebrew",
+            "bibl",
+            "conclud",
+            "major",
+            "diverg",
+            "intrins",
+            "affect",
+            "sens",
+            "extrem",
+            "rare"
+        ],
         "synonyms": [
             "shemaryahu",
             "talmon",
@@ -62969,7 +65304,7 @@
             "highly",
             "rare"
         ],
-        "tagged": [
+        "tags": [
             [
                 "shemaryahu",
                 "NN"
@@ -63405,6 +65740,23 @@
         ],
         "ner_tag": "{'As': 'O', 'far': 'O', 'as': 'O', 'the': 'O', 'Hebrew': 'O', 'Bible': 'O', 'referenced': 'O', 'by': 'O', 'Old': 'IDEOLOGY', 'Testament': 'IDEOLOGY', 'is': 'O', 'concerned': 'O', ',': 'O', 'almost': 'O', 'all': 'O', 'of': 'O', 'textual': 'O', 'variants': 'O', 'are': 'O', 'fairly': 'O', 'insignificant': 'O', 'and': 'O', 'hardly': 'O', 'affect': 'O', 'any': 'O', 'doctrine': 'O', '.': 'O'}",
         "sentence": "As far as the Hebrew Bible referenced by Old Testament is concerned, almost all of the textual variants are fairly insignificant and hardly affect any doctrine.",
+        "stems": [
+            "far",
+            "hebrew",
+            "bibl",
+            "referenc",
+            "old",
+            "testament",
+            "concern",
+            "almost",
+            "textual",
+            "variant",
+            "fairli",
+            "insignific",
+            "hardli",
+            "affect",
+            "doctrin"
+        ],
         "synonyms": [
             "far",
             "Jew",
@@ -63422,7 +65774,7 @@
             "involve",
             "doctrine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "far",
                 "RB"
@@ -64230,6 +66582,40 @@
         "meronyms": [],
         "ner_tag": "{'Professor': 'TITLE', 'Douglas': 'PERSON', 'Stuart': 'PERSON', 'states': 'O', ':': 'O', '``': 'O', 'It': 'O', 'is': 'O', 'fair': 'O', 'to': 'O', 'say': 'O', 'that': 'O', 'the': 'O', 'verses': 'O', ',': 'O', 'chapters': 'O', 'and': 'O', 'books': 'O', 'of': 'O', 'Bible': 'MISC', 'would': 'O', 'read': 'O', 'largely': 'O', 'same': 'O', 'leave': 'O', 'impression': 'O', 'with': 'O', 'reader': 'TITLE', 'even': 'O', 'if': 'O', 'one': 'NUMBER', 'adopted': 'O', 'virtually': 'O', 'every': 'O', 'possible': 'O', 'alternative': 'O', 'reading': 'O', 'those': 'O', 'now': 'DATE', 'serving': 'O', 'as': 'O', 'basis': 'O', 'for': 'O', 'current': 'DATE', 'English': 'NATIONALITY', 'translations': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "Professor Douglas Stuart states: \"It is fair to say that the verses, chapters, and books of the Bible would read largely the same, and would leave the same impression with the reader, even if one adopted virtually every possible alternative reading to those now serving as the basis for current English translations.\"",
+        "stems": [
+            "professor",
+            "dougla",
+            "stuart",
+            "state",
+            "``",
+            "fair",
+            "say",
+            "vers",
+            "chapter",
+            "book",
+            "bibl",
+            "would",
+            "read",
+            "larg",
+            "would",
+            "leav",
+            "impress",
+            "reader",
+            "even",
+            "one",
+            "adopt",
+            "virtual",
+            "everi",
+            "possibl",
+            "altern",
+            "read",
+            "serv",
+            "basi",
+            "current",
+            "english",
+            "translat",
+            "''"
+        ],
         "synonyms": [
             "professor",
             "Douglas",
@@ -64264,7 +66650,7 @@
             "translation",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "professor",
                 "NN"
@@ -64947,6 +67333,32 @@
         ],
         "ner_tag": "{'While': 'O', 'textual': 'O', 'criticism': 'O', 'developed': 'O', 'into': 'O', 'a': 'O', 'discipline': 'O', 'of': 'O', 'thorough': 'O', 'analysis': 'O', 'the': 'O', 'Bible': 'O', '—': 'O', 'both': 'O', 'Hebrew': 'O', 'and': 'O', 'New': 'MISC', 'Testament': 'MISC', 'scholars': 'O', 'also': 'O', 'use': 'O', 'it': 'O', 'to': 'O', 'determine': 'O', 'original': 'O', 'content': 'O', 'classic': 'O', 'texts': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'Plato': 'PERSON', \"'s\": 'O', 'Republic': 'O', '.': 'O'}",
         "sentence": "While textual criticism developed into a discipline of thorough analysis of the Bible — both the Hebrew Bible and the New Testament — scholars also use it to determine the original content of classic texts, such as Plato's Republic.",
+        "stems": [
+            "textual",
+            "critic",
+            "develop",
+            "disciplin",
+            "thorough",
+            "analysi",
+            "bibl",
+            "—",
+            "hebrew",
+            "bibl",
+            "new",
+            "testament",
+            "—",
+            "scholar",
+            "also",
+            "use",
+            "determin",
+            "origin",
+            "content",
+            "classic",
+            "text",
+            "plato",
+            "'s",
+            "republ"
+        ],
         "synonyms": [
             "textual",
             "criticism",
@@ -64973,7 +67385,7 @@
             "'s",
             "republic"
         ],
-        "tagged": [
+        "tags": [
             [
                 "textual",
                 "JJ"
@@ -65442,6 +67854,21 @@
         "meronyms": [],
         "ner_tag": "{'There': 'O', 'are': 'O', 'far': 'O', 'fewer': 'O', 'witnesses': 'O', 'to': 'O', 'classical': 'O', 'texts': 'O', 'than': 'O', 'the': 'O', 'Bible': 'O', ',': 'O', 'so': 'O', 'scholars': 'O', 'can': 'O', 'use': 'O', 'stemmatics': 'O', 'and': 'O', 'in': 'O', 'some': 'O', 'cases': 'O', 'copy': 'O', 'text': 'O', 'editing': 'O', '.': 'O'}",
         "sentence": "There are far fewer witnesses to classical texts than to the Bible, so scholars can use stemmatics and, in some cases, copy text editing.",
+        "stems": [
+            "far",
+            "fewer",
+            "wit",
+            "classic",
+            "text",
+            "bibl",
+            "scholar",
+            "use",
+            "stemmat",
+            "case",
+            "copi",
+            "text",
+            "edit"
+        ],
         "synonyms": [
             "far",
             "fewer",
@@ -65457,7 +67884,7 @@
             "textbook",
             "editing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "far",
                 "RB"
@@ -65956,6 +68383,26 @@
         ],
         "ner_tag": "{'However': 'O', ',': 'O', 'unlike': 'O', 'the': 'O', 'New': 'MISC', 'Testament': 'MISC', 'where': 'O', 'earliest': 'O', 'witnesses': 'O', 'are': 'O', 'within': 'O', '200': 'DURATION', 'years': 'DURATION', 'of': 'O', 'original': 'O', 'existing': 'O', 'manuscripts': 'O', 'most': 'O', 'classical': 'O', 'texts': 'O', 'were': 'O', 'written': 'O', 'about': 'DURATION', 'a': 'DURATION', 'millennium': 'DURATION', 'after': 'O', 'their': 'O', 'composition': 'O', '.': 'O'}",
         "sentence": "However, unlike the New Testament where the earliest witnesses are within 200 years of the original, the earliest existing manuscripts of most classical texts were written about a millennium after their composition.",
+        "stems": [
+            "howev",
+            "unlik",
+            "new",
+            "testament",
+            "earliest",
+            "wit",
+            "within",
+            "200",
+            "year",
+            "origin",
+            "earliest",
+            "exist",
+            "manuscript",
+            "classic",
+            "text",
+            "written",
+            "millennium",
+            "composit"
+        ],
         "synonyms": [
             "however",
             "unlike",
@@ -65976,7 +68423,7 @@
             "millennium",
             "musical_composition"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -66393,6 +68840,21 @@
         "meronyms": [],
         "ner_tag": "{'All': 'O', 'things': 'O', 'being': 'O', 'equal': 'O', ',': 'O', 'textual': 'O', 'scholars': 'O', 'expect': 'O', 'that': 'O', 'a': 'O', 'larger': 'O', 'time': 'O', 'gap': 'O', 'between': 'O', 'an': 'O', 'original': 'O', 'and': 'O', 'manuscript': 'O', 'means': 'O', 'more': 'O', 'changes': 'O', 'in': 'O', 'the': 'O', 'text': 'O', '.': 'O'}",
         "sentence": "All things being equal, textual scholars expect that a larger time gap between an original and a manuscript means more changes in the text.",
+        "stems": [
+            "thing",
+            "equal",
+            "textual",
+            "scholar",
+            "expect",
+            "larger",
+            "time",
+            "gap",
+            "origin",
+            "manuscript",
+            "mean",
+            "chang",
+            "text"
+        ],
         "synonyms": [
             "thing",
             "peer",
@@ -66408,7 +68870,7 @@
             "variety",
             "textbook"
         ],
-        "tagged": [
+        "tags": [
             [
                 "things",
                 "NNS"
@@ -66732,6 +69194,18 @@
         "meronyms": [],
         "ner_tag": "{'Scientific': 'O', 'and': 'O', 'critical': 'O', 'editions': 'O', 'can': 'O', 'be': 'O', 'protected': 'O', 'by': 'O', 'copyright': 'O', 'as': 'O', 'works': 'O', 'of': 'O', 'authorship': 'O', 'if': 'O', 'enough': 'O', 'creativity': 'O', '/': 'O', 'originality': 'O', 'is': 'O', 'provided': 'O', '.': 'O'}",
         "sentence": "Scientific and critical editions can be protected by copyright as works of authorship if enough creativity/originality is provided.",
+        "stems": [
+            "scientif",
+            "critic",
+            "edit",
+            "protect",
+            "copyright",
+            "work",
+            "authorship",
+            "enough",
+            "creativity/origin",
+            "provid"
+        ],
         "synonyms": [
             "scientific",
             "critical",
@@ -66744,7 +69218,7 @@
             "creativity/originality",
             "provide"
         ],
-        "tagged": [
+        "tags": [
             [
                 "scientific",
                 "JJ"
@@ -67185,6 +69659,21 @@
         ],
         "ner_tag": "{'The': 'O', 'mere': 'O', 'addition': 'O', 'of': 'O', 'a': 'O', 'word': 'O', ',': 'O', 'or': 'O', 'substitution': 'O', 'term': 'O', 'with': 'O', 'another': 'O', 'one': 'NUMBER', 'believed': 'O', 'to': 'O', 'be': 'O', 'more': 'O', 'correct': 'O', 'usually': 'O', 'does': 'O', 'not': 'O', 'achieve': 'O', 'such': 'O', 'level': 'O', 'originality': 'O', '/': 'O', 'creativity': 'O', '.': 'O'}",
         "sentence": "The mere addition of a word, or substitution of a term with another one believed to be more correct, usually does not achieve such level of originality/creativity.",
+        "stems": [
+            "mere",
+            "addit",
+            "word",
+            "substitut",
+            "term",
+            "anoth",
+            "one",
+            "believ",
+            "correct",
+            "usual",
+            "achiev",
+            "level",
+            "originality/cr"
+        ],
         "synonyms": [
             "mere",
             "addition",
@@ -67200,7 +69689,7 @@
             "tied",
             "originality/creativity"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mere",
                 "JJ"
@@ -67623,6 +70112,20 @@
         ],
         "ner_tag": "{'All': 'O', 'the': 'O', 'notes': 'O', 'accounting': 'O', 'for': 'O', 'analysis': 'O', 'and': 'O', 'why': 'O', 'how': 'O', 'such': 'O', 'changes': 'O', 'have': 'O', 'been': 'O', 'made': 'O', 'represent': 'O', 'a': 'O', 'different': 'O', 'work': 'O', 'autonomously': 'O', 'copyrightable': 'O', 'if': 'O', 'other': 'O', 'requirements': 'O', 'are': 'O', 'satisfied': 'O', '.': 'O'}",
         "sentence": "All the notes accounting for the analysis and why and how such changes have been made represent a different work autonomously copyrightable if the other requirements are satisfied.",
+        "stems": [
+            "note",
+            "account",
+            "analysi",
+            "chang",
+            "made",
+            "repres",
+            "differ",
+            "work",
+            "autonom",
+            "copyright",
+            "requir",
+            "satisfi"
+        ],
         "synonyms": [
             "note",
             "accounting",
@@ -67637,7 +70140,7 @@
             "requirement",
             "meet"
         ],
-        "tagged": [
+        "tags": [
             [
                 "notes",
                 "NNS"
@@ -68112,6 +70615,29 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'European': 'ORGANIZATION', 'Union': 'ORGANIZATION', 'critical': 'O', 'and': 'O', 'scientific': 'O', 'editions': 'O', 'may': 'O', 'be': 'O', 'protected': 'O', 'also': 'O', 'by': 'O', 'relevant': 'O', 'neighboring': 'O', 'right': 'O', 'that': 'O', 'protects': 'O', 'publications': 'O', 'of': 'O', 'public': 'O', 'domain': 'O', 'works': 'O', 'as': 'O', 'made': 'O', 'possible': 'O', 'art': 'O', '.': 'O'}",
         "sentence": "In the European Union critical and scientific editions may be protected also by the relevant neighboring right that protects critical and scientific publications of public domain works as made possible by art.",
+        "stems": [
+            "european",
+            "union",
+            "critic",
+            "scientif",
+            "edit",
+            "may",
+            "protect",
+            "also",
+            "relev",
+            "neighbor",
+            "right",
+            "protect",
+            "critic",
+            "scientif",
+            "public",
+            "public",
+            "domain",
+            "work",
+            "made",
+            "possibl",
+            "art"
+        ],
         "synonyms": [
             "European",
             "union",
@@ -68135,7 +70661,7 @@
             "potential",
             "artwork"
         ],
-        "tagged": [
+        "tags": [
             [
                 "european",
                 "JJ"
@@ -68336,13 +70862,19 @@
         "meronyms": [],
         "ner_tag": "{'5': 'NUMBER', 'of': 'O', 'the': 'O', 'Copyright': 'O', 'Term': 'O', 'Directive': 'O', '.': 'O'}",
         "sentence": "5 of the Copyright Term Directive.",
+        "stems": [
+            "5",
+            "copyright",
+            "term",
+            "direct"
+        ],
         "synonyms": [
             "five",
             "copyright",
             "terminus",
             "directive"
         ],
-        "tagged": [
+        "tags": [
             [
                 "5",
                 "CD"
@@ -68489,6 +71021,13 @@
         ],
         "ner_tag": "{'Not': 'O', 'all': 'O', 'EU': 'ORGANIZATION', 'member': 'O', 'States': 'LOCATION', 'have': 'O', 'transposed': 'O', 'art': 'O', '.': 'O'}",
         "sentence": "Not all EU member States have transposed art.",
+        "stems": [
+            "eu",
+            "member",
+            "state",
+            "transpos",
+            "art"
+        ],
         "synonyms": [
             "europium",
             "penis",
@@ -68496,7 +71035,7 @@
             "transpose",
             "artwork"
         ],
-        "tagged": [
+        "tags": [
             [
                 "eu",
                 "JJ"
@@ -68593,12 +71132,17 @@
         "meronyms": [],
         "ner_tag": "{'5': 'NUMBER', 'into': 'O', 'national': 'O', 'law': 'O', '.': 'O'}",
         "sentence": "5 into national law.",
+        "stems": [
+            "5",
+            "nation",
+            "law"
+        ],
         "synonyms": [
             "five",
             "national",
             "law"
         ],
-        "tagged": [
+        "tags": [
             [
                 "5",
                 "CD"

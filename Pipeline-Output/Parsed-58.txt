@@ -253,6 +253,19 @@
         ],
         "ner_tag": "{'Comics': 'O', 'are': 'O', 'a': 'O', 'medium': 'O', 'used': 'O', 'to': 'O', 'express': 'O', 'ideas': 'O', 'by': 'O', 'images': 'O', ',': 'O', 'often': 'O', 'combined': 'O', 'with': 'O', 'text': 'O', 'or': 'O', 'other': 'O', 'visual': 'O', 'information': 'O', '.': 'O'}",
         "sentence": "Comics are a medium used to express ideas by images, often combined with text or other visual information.",
+        "stems": [
+            "comic",
+            "medium",
+            "use",
+            "express",
+            "idea",
+            "imag",
+            "often",
+            "combin",
+            "text",
+            "visual",
+            "inform"
+        ],
         "synonyms": [
             "comic_strip",
             "medium",
@@ -266,7 +279,7 @@
             "ocular",
             "information"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comics",
                 "NNS"
@@ -494,6 +507,16 @@
         ],
         "ner_tag": "{'Comics': 'O', 'frequently': 'O', 'takes': 'O', 'the': 'O', 'form': 'O', 'of': 'O', 'juxtaposed': 'O', 'sequences': 'O', 'panels': 'O', 'images': 'O', '.': 'O'}",
         "sentence": "Comics frequently takes the form of juxtaposed sequences of panels of images.",
+        "stems": [
+            "comic",
+            "frequent",
+            "take",
+            "form",
+            "juxtapos",
+            "sequenc",
+            "panel",
+            "imag"
+        ],
         "synonyms": [
             "comic_strip",
             "frequently",
@@ -504,7 +527,7 @@
             "panel",
             "trope"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comics",
                 "NNS"
@@ -851,6 +874,21 @@
         "meronyms": [],
         "ner_tag": "{'Often': 'O', 'textual': 'O', 'devices': 'O', 'such': 'O', 'as': 'O', 'speech': 'O', 'balloons': 'O', ',': 'O', 'captions': 'O', 'and': 'O', 'onomatopoeia': 'O', 'indicate': 'O', 'dialogue': 'O', 'narration': 'O', 'sound': 'O', 'effects': 'O', 'or': 'O', 'other': 'O', 'information': 'O', '.': 'O'}",
         "sentence": "Often textual devices such as speech balloons, captions, and onomatopoeia indicate dialogue, narration, sound effects, or other information.",
+        "stems": [
+            "often",
+            "textual",
+            "devic",
+            "speech",
+            "balloon",
+            "caption",
+            "onomatopoeia",
+            "indic",
+            "dialogu",
+            "narrat",
+            "sound",
+            "effect",
+            "inform"
+        ],
         "synonyms": [
             "often",
             "textual",
@@ -866,7 +904,7 @@
             "effects",
             "information"
         ],
-        "tagged": [
+        "tags": [
             [
                 "often",
                 "RB"
@@ -1067,6 +1105,14 @@
         "meronyms": [],
         "ner_tag": "{'Size': 'O', 'and': 'O', 'arrangement': 'O', 'of': 'O', 'panels': 'O', 'contribute': 'O', 'to': 'O', 'narrative': 'O', 'pacing': 'O', '.': 'O'}",
         "sentence": "Size and arrangement of panels contribute to narrative pacing.",
+        "stems": [
+            "size",
+            "arrang",
+            "panel",
+            "contribut",
+            "narr",
+            "pace"
+        ],
         "synonyms": [
             "size",
             "musical_arrangement",
@@ -1075,7 +1121,7 @@
             "narrative",
             "tempo"
         ],
-        "tagged": [
+        "tags": [
             [
                 "size",
                 "NN"
@@ -1435,6 +1481,21 @@
         ],
         "ner_tag": "{'Cartooning': 'O', 'and': 'O', 'similar': 'O', 'forms': 'O', 'of': 'O', 'illustration': 'O', 'are': 'O', 'the': 'O', 'most': 'O', 'common': 'O', 'image': 'O', '-': 'O', 'making': 'O', 'means': 'O', 'in': 'O', 'comics': 'O', ';': 'O', 'fumetti': 'O', 'is': 'O', 'a': 'O', 'form': 'O', 'which': 'O', 'uses': 'O', 'photographic': 'O', 'images': 'O', '.': 'O'}",
         "sentence": "Cartooning and similar forms of illustration are the most common image-making means in comics; fumetti is a form which uses photographic images.",
+        "stems": [
+            "cartoon",
+            "similar",
+            "form",
+            "illustr",
+            "common",
+            "image-mak",
+            "mean",
+            "comic",
+            "fumetti",
+            "form",
+            "use",
+            "photograph",
+            "imag"
+        ],
         "synonyms": [
             "cartoon",
             "similar",
@@ -1450,7 +1511,7 @@
             "photographic",
             "trope"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cartooning",
                 "VBG"
@@ -1746,6 +1807,19 @@
         ],
         "ner_tag": "{'Common': 'O', 'forms': 'O', 'of': 'O', 'comics': 'O', 'include': 'O', 'comic': 'O', 'strips': 'O', ',': 'O', 'editorial': 'O', 'and': 'O', 'gag': 'O', 'cartoons': 'O', 'books': 'O', '.': 'O'}",
         "sentence": "Common forms of comics include comic strips, editorial and gag cartoons, and comic books.",
+        "stems": [
+            "common",
+            "form",
+            "comic",
+            "includ",
+            "comic",
+            "strip",
+            "editori",
+            "gag",
+            "cartoon",
+            "comic",
+            "book"
+        ],
         "synonyms": [
             "park",
             "shape",
@@ -1759,7 +1833,7 @@
             "comedian",
             "script"
         ],
-        "tagged": [
+        "tags": [
             [
                 "common",
                 "JJ"
@@ -2234,6 +2308,27 @@
         ],
         "ner_tag": "{'Since': 'O', 'the': 'DATE', 'late': 'DATE', '20th': 'DATE', 'century': 'DATE', ',': 'O', 'bound': 'O', 'volumes': 'O', 'such': 'O', 'as': 'O', 'graphic': 'O', 'novels': 'O', 'comics': 'O', 'albums': 'O', 'and': 'O', 'tankōbon': 'O', 'have': 'O', 'become': 'O', 'increasingly': 'O', 'common': 'O', 'online': 'O', 'webcomics': 'O', 'proliferated': 'O', 'in': 'O', '21st': 'DATE', '.': 'O'}",
         "sentence": "Since the late 20th century, bound volumes such as graphic novels, comics albums, and tankōbon have become increasingly common, and online webcomics have proliferated in the 21st century.",
+        "stems": [
+            "sinc",
+            "late",
+            "20th",
+            "centuri",
+            "bound",
+            "volum",
+            "graphic",
+            "novel",
+            "comic",
+            "album",
+            "tankōbon",
+            "becom",
+            "increasingli",
+            "common",
+            "onlin",
+            "webcom",
+            "prolifer",
+            "21st",
+            "centuri"
+        ],
         "synonyms": [
             "since",
             "late",
@@ -2255,7 +2350,7 @@
             "twenty-first",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -2510,6 +2605,15 @@
         ],
         "ner_tag": "{'The': 'O', 'history': 'O', 'of': 'O', 'comics': 'O', 'has': 'O', 'followed': 'O', 'different': 'O', 'paths': 'O', 'in': 'O', 'cultures': 'O', '.': 'O'}",
         "sentence": "The history of comics has followed different paths in different cultures.",
+        "stems": [
+            "histori",
+            "comic",
+            "follow",
+            "differ",
+            "path",
+            "differ",
+            "cultur"
+        ],
         "synonyms": [
             "history",
             "comic_strip",
@@ -2519,7 +2623,7 @@
             "unlike",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "history",
                 "NN"
@@ -2740,6 +2844,16 @@
         "meronyms": [],
         "ner_tag": "{'Scholars': 'O', 'have': 'O', 'posited': 'O', 'a': 'O', 'pre-history': 'O', 'as': 'O', 'far': 'O', 'back': 'O', 'the': 'O', 'Lascaux': 'LOCATION', 'cave': 'O', 'paintings': 'O', '.': 'O'}",
         "sentence": "Scholars have posited a pre-history as far back as the Lascaux cave paintings.",
+        "stems": [
+            "scholar",
+            "posit",
+            "pre-histori",
+            "far",
+            "back",
+            "lascaux",
+            "cave",
+            "paint"
+        ],
         "synonyms": [
             "scholar",
             "postulate",
@@ -2750,7 +2864,7 @@
             "cave",
             "painting"
         ],
-        "tagged": [
+        "tags": [
             [
                 "scholars",
                 "NNS"
@@ -3119,6 +3233,21 @@
         ],
         "ner_tag": "{'By': 'O', 'the': 'O', 'mid-20th': 'DATE', 'century': 'DATE', ',': 'O', 'comics': 'O', 'flourished': 'O', 'particularly': 'O', 'in': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', 'western': 'O', 'Europe': 'LOCATION', '(': 'O', 'especially': 'O', 'France': 'COUNTRY', 'and': 'O', 'Belgium': 'COUNTRY', ')': 'O', 'Japan': 'COUNTRY', '.': 'O'}",
         "sentence": "By the mid-20th century, comics flourished particularly in the United States, western Europe (especially in France and Belgium), and Japan.",
+        "stems": [
+            "mid-20th",
+            "centuri",
+            "comic",
+            "flourish",
+            "particularli",
+            "unit",
+            "state",
+            "western",
+            "europ",
+            "especi",
+            "franc",
+            "belgium",
+            "japan"
+        ],
         "synonyms": [
             "mid-20th",
             "century",
@@ -3134,7 +3263,7 @@
             "Belgium",
             "japan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mid-20th",
                 "JJ"
@@ -3671,6 +3800,28 @@
         ],
         "ner_tag": "{'The': 'O', 'history': 'O', 'of': 'O', 'European': 'NATIONALITY', 'comics': 'O', 'is': 'O', 'often': 'O', 'traced': 'O', 'to': 'O', 'Rodolphe': 'PERSON', 'Töpffer': 'PERSON', \"'s\": 'O', 'cartoon': 'O', 'strips': 'O', 'the': 'DATE', '1830s': 'DATE', ',': 'O', 'and': 'O', 'became': 'O', 'popular': 'O', 'following': 'O', 'success': 'O', 'in': 'O', '1930s': 'DATE', 'books': 'O', 'such': 'O', 'as': 'O', 'Adventures': 'O', 'Tintin': 'O', '.': 'O'}",
         "sentence": "The history of European comics is often traced to Rodolphe Töpffer's cartoon strips of the 1830s, and became popular following the success in the 1930s of strips and books such as The Adventures of Tintin.",
+        "stems": [
+            "histori",
+            "european",
+            "comic",
+            "often",
+            "trace",
+            "rodolph",
+            "töpffer",
+            "'s",
+            "cartoon",
+            "strip",
+            "1830",
+            "becam",
+            "popular",
+            "follow",
+            "success",
+            "1930",
+            "strip",
+            "book",
+            "adventur",
+            "tintin"
+        ],
         "synonyms": [
             "history",
             "European",
@@ -3693,7 +3844,7 @@
             "gamble",
             "tintin"
         ],
-        "tagged": [
+        "tags": [
             [
                 "history",
                 "NN"
@@ -4333,6 +4484,32 @@
         ],
         "ner_tag": "{'American': 'NATIONALITY', 'comics': 'O', 'emerged': 'O', 'as': 'O', 'a': 'O', 'mass': 'O', 'medium': 'O', 'in': 'O', 'the': 'O', 'early': 'DATE', '20th': 'DATE', 'century': 'DATE', 'with': 'O', 'advent': 'O', 'of': 'O', 'newspaper': 'O', 'comic': 'O', 'strips': 'O', ';': 'O', 'magazine': 'O', '-': 'O', 'style': 'O', 'books': 'O', 'followed': 'O', '1930s': 'DATE', ',': 'O', 'which': 'O', 'superhero': 'O', 'genre': 'O', 'became': 'O', 'prominent': 'O', 'after': 'O', 'Superman': 'PERSON', 'appeared': 'O', '1938': 'DATE', '.': 'O'}",
         "sentence": "American comics emerged as a mass medium in the early 20th century with the advent of newspaper comic strips; magazine-style comic books followed in the 1930s, in which the superhero genre became prominent after Superman appeared in 1938.",
+        "stems": [
+            "american",
+            "comic",
+            "emerg",
+            "mass",
+            "medium",
+            "earli",
+            "20th",
+            "centuri",
+            "advent",
+            "newspap",
+            "comic",
+            "strip",
+            "magazine-styl",
+            "comic",
+            "book",
+            "follow",
+            "1930",
+            "superhero",
+            "genr",
+            "becam",
+            "promin",
+            "superman",
+            "appear",
+            "1938"
+        ],
         "synonyms": [
             "American",
             "comic_strip",
@@ -4359,7 +4536,7 @@
             "look",
             "1938"
         ],
-        "tagged": [
+        "tags": [
             [
                 "american",
                 "JJ"
@@ -4715,6 +4892,18 @@
         ],
         "ner_tag": "{'Histories': 'O', 'of': 'O', 'Japanese': 'NATIONALITY', 'comics': 'O', 'and': 'O', 'cartooning': 'O', '(': 'O', 'manga': 'O', ')': 'O', 'propose': 'O', 'origins': 'O', 'as': 'O', 'early': 'O', 'the': 'DATE', '12th': 'DATE', 'century': 'DATE', '.': 'O'}",
         "sentence": "Histories of Japanese comics and cartooning (manga) propose origins as early as the 12th century.",
+        "stems": [
+            "histori",
+            "japanes",
+            "comic",
+            "cartoon",
+            "manga",
+            "propos",
+            "origin",
+            "earli",
+            "12th",
+            "centuri"
+        ],
         "synonyms": [
             "history",
             "Japanese",
@@ -4727,7 +4916,7 @@
             "twelfth",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "histories",
                 "NNS"
@@ -5259,6 +5448,30 @@
         ],
         "ner_tag": "{'Modern': 'MISC', 'comic': 'O', 'strips': 'O', 'emerged': 'O', 'in': 'O', 'Japan': 'COUNTRY', 'the': 'O', 'early': 'DATE', '20th': 'DATE', 'century': 'DATE', ',': 'O', 'and': 'O', 'output': 'O', 'of': 'O', 'comics': 'O', 'magazines': 'O', 'books': 'O', 'rapidly': 'O', 'expanded': 'O', 'post-World': 'MISC', 'War': 'CAUSE_OF_DEATH', 'II': 'NUMBER', 'era': 'O', 'with': 'O', 'popularity': 'O', 'cartoonists': 'O', 'such': 'O', 'as': 'O', 'Osamu': 'PERSON', 'Tezuka': 'PERSON', '.': 'O'}",
         "sentence": "Modern comic strips emerged in Japan in the early 20th century, and the output of comics magazines and books rapidly expanded in the post-World War II era with the popularity of cartoonists such as Osamu Tezuka.",
+        "stems": [
+            "modern",
+            "comic",
+            "strip",
+            "emerg",
+            "japan",
+            "earli",
+            "20th",
+            "centuri",
+            "output",
+            "comic",
+            "magazin",
+            "book",
+            "rapidli",
+            "expand",
+            "post-world",
+            "war",
+            "ii",
+            "era",
+            "popular",
+            "cartoonist",
+            "osamu",
+            "tezuka"
+        ],
         "synonyms": [
             "Modern",
             "comedian",
@@ -5283,7 +5496,7 @@
             "osamu",
             "tezuka"
         ],
-        "tagged": [
+        "tags": [
             [
                 "modern",
                 "JJ"
@@ -5791,6 +6004,23 @@
         ],
         "ner_tag": "{'Comics': 'O', 'has': 'O', 'had': 'O', 'a': 'O', 'lowbrow': 'O', 'reputation': 'O', 'for': 'O', 'much': 'O', 'of': 'DATE', 'its': 'O', 'history': 'O', ',': 'O', 'but': 'O', 'towards': 'O', 'the': 'O', 'end': 'DATE', '20th': 'DATE', 'century': 'DATE', 'began': 'O', 'to': 'O', 'find': 'O', 'greater': 'O', 'acceptance': 'O', 'with': 'O', 'public': 'O', 'and': 'O', 'in': 'O', 'academia': 'O', '.': 'O'}",
         "sentence": "Comics has had a lowbrow reputation for much of its history, but towards the end of the 20th century began to find greater acceptance with the public and in academia.",
+        "stems": [
+            "comic",
+            "lowbrow",
+            "reput",
+            "much",
+            "histori",
+            "toward",
+            "end",
+            "20th",
+            "centuri",
+            "began",
+            "find",
+            "greater",
+            "accept",
+            "public",
+            "academia"
+        ],
         "synonyms": [
             "comic_strip",
             "philistine",
@@ -5808,7 +6038,7 @@
             "public",
             "academia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comics",
                 "NNS"
@@ -6296,6 +6526,24 @@
         ],
         "ner_tag": "{'The': 'O', 'English': 'NATIONALITY', 'term': 'O', 'comics': 'O', 'is': 'O', 'used': 'O', 'as': 'O', 'a': 'O', 'singular': 'O', 'noun': 'O', 'when': 'O', 'it': 'O', 'refers': 'O', 'to': 'O', 'the': 'O', 'medium': 'O', 'and': 'O', 'plural': 'O', 'referring': 'O', 'particular': 'O', 'instances': 'O', ',': 'O', 'such': 'O', 'individual': 'O', 'strips': 'O', 'or': 'O', 'comic': 'O', 'books': 'O', '.': 'O'}",
         "sentence": "The English term comics is used as a singular noun when it refers to the medium and a plural when referring to particular instances, such as individual strips or comic books.",
+        "stems": [
+            "english",
+            "term",
+            "comic",
+            "use",
+            "singular",
+            "noun",
+            "refer",
+            "medium",
+            "plural",
+            "refer",
+            "particular",
+            "instanc",
+            "individu",
+            "strip",
+            "comic",
+            "book"
+        ],
         "synonyms": [
             "English",
             "terminus",
@@ -6314,7 +6562,7 @@
             "comedian",
             "script"
         ],
-        "tagged": [
+        "tags": [
             [
                 "english",
                 "JJ"
@@ -6770,6 +7018,25 @@
         ],
         "ner_tag": "{'Though': 'O', 'the': 'O', 'term': 'O', 'derives': 'O', 'from': 'O', 'humorous': 'O', '(': 'O', 'or': 'O', 'comic': 'O', ')': 'O', 'work': 'O', 'that': 'O', 'predominated': 'O', 'in': 'O', 'early': 'O', 'American': 'NATIONALITY', 'newspaper': 'O', 'strips': 'O', ',': 'O', 'it': 'O', 'has': 'O', 'become': 'O', 'standard': 'O', 'also': 'O', 'for': 'O', 'non-humorous': 'O', 'works': 'O', '.': 'O'}",
         "sentence": "Though the term derives from the humorous (or comic) work that predominated in early American newspaper comic strips, it has become standard also for non-humorous works.",
+        "stems": [
+            "though",
+            "term",
+            "deriv",
+            "humor",
+            "comic",
+            "work",
+            "predomin",
+            "earli",
+            "american",
+            "newspap",
+            "comic",
+            "strip",
+            "becom",
+            "standard",
+            "also",
+            "non-humor",
+            "work"
+        ],
         "synonyms": [
             "though",
             "terminus",
@@ -6789,7 +7056,7 @@
             "non-humorous",
             "works"
         ],
-        "tagged": [
+        "tags": [
             [
                 "though",
                 "IN"
@@ -7344,6 +7611,25 @@
         ],
         "ner_tag": "{'It': 'O', 'is': 'O', 'common': 'O', 'in': 'O', 'English': 'NATIONALITY', 'to': 'O', 'refer': 'O', 'the': 'O', 'comics': 'O', 'of': 'O', 'different': 'O', 'cultures': 'O', 'by': 'O', 'terms': 'O', 'used': 'O', 'their': 'O', 'original': 'O', 'languages': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'manga': 'O', 'for': 'O', 'Japanese': 'NATIONALITY', 'or': 'O', 'bandes': 'O', 'dessinées': 'O', 'French': 'MISC', '-': 'MISC', 'language': 'MISC', '.': 'O'}",
         "sentence": "It is common in English to refer to the comics of different cultures by the terms used in their original languages, such as manga for Japanese comics, or bandes dessinées for French-language comics.",
+        "stems": [
+            "common",
+            "english",
+            "refer",
+            "comic",
+            "differ",
+            "cultur",
+            "term",
+            "use",
+            "origin",
+            "languag",
+            "manga",
+            "japanes",
+            "comic",
+            "band",
+            "dessiné",
+            "french-languag",
+            "comic"
+        ],
         "synonyms": [
             "park",
             "English",
@@ -7363,7 +7649,7 @@
             "french-language",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "common",
                 "JJ"
@@ -8007,6 +8293,29 @@
         ],
         "ner_tag": "{'There': 'O', 'is': 'O', 'no': 'O', 'consensus': 'O', 'amongst': 'O', 'theorists': 'O', 'and': 'O', 'historians': 'O', 'on': 'O', 'a': 'O', 'definition': 'O', 'of': 'O', 'comics': 'O', ';': 'O', 'some': 'O', 'emphasize': 'O', 'the': 'O', 'combination': 'O', 'images': 'O', 'text': 'O', ',': 'O', 'sequentiality': 'O', 'or': 'O', 'other': 'O', 'image': 'O', 'relations': 'O', 'others': 'O', 'historical': 'O', 'aspects': 'O', 'such': 'O', 'as': 'O', 'mass': 'O', 'reproduction': 'O', 'use': 'O', 'recurring': 'O', 'characters': 'O', '.': 'O'}",
         "sentence": "There is no consensus amongst theorists and historians on a definition of comics; some emphasize the combination of images and text, some sequentiality or other image relations, and others historical aspects such as mass reproduction or the use of recurring characters.",
+        "stems": [
+            "consensu",
+            "amongst",
+            "theorist",
+            "historian",
+            "definit",
+            "comic",
+            "emphas",
+            "combin",
+            "imag",
+            "text",
+            "sequenti",
+            "imag",
+            "relat",
+            "other",
+            "histor",
+            "aspect",
+            "mass",
+            "reproduct",
+            "use",
+            "recur",
+            "charact"
+        ],
         "synonyms": [
             "consensus",
             "amongst",
@@ -8030,7 +8339,7 @@
             "recurring",
             "quality"
         ],
-        "tagged": [
+        "tags": [
             [
                 "consensus",
                 "NN"
@@ -8358,6 +8667,18 @@
         ],
         "ner_tag": "{'The': 'O', 'increasing': 'O', 'cross-pollination': 'O', 'of': 'O', 'concepts': 'O', 'from': 'O', 'different': 'O', 'comics': 'O', 'cultures': 'O', 'and': 'O', 'eras': 'O', 'has': 'O', 'further': 'O', 'made': 'O', 'definition': 'O', 'difficult': 'O', '.': 'O'}",
         "sentence": "The increasing cross-pollination of concepts from different comics cultures and eras has further made definition difficult.",
+        "stems": [
+            "increas",
+            "cross-pollin",
+            "concept",
+            "differ",
+            "comic",
+            "cultur",
+            "era",
+            "made",
+            "definit",
+            "difficult"
+        ],
         "synonyms": [
             "increasing",
             "cross-pollination",
@@ -8370,7 +8691,7 @@
             "definition",
             "unmanageable"
         ],
-        "tagged": [
+        "tags": [
             [
                 "increasing",
                 "VBG"
@@ -8609,6 +8930,16 @@
         ],
         "ner_tag": "{'The': 'O', 'European': 'NATIONALITY', ',': 'O', 'American': 'NATIONALITY', 'and': 'O', 'Japanese': 'NATIONALITY', 'comics': 'O', 'traditions': 'O', 'have': 'O', 'followed': 'O', 'different': 'O', 'paths': 'O', '.': 'O'}",
         "sentence": "The European, American, and Japanese comics traditions have followed different paths.",
+        "stems": [
+            "european",
+            "american",
+            "japanes",
+            "comic",
+            "tradit",
+            "follow",
+            "differ",
+            "path"
+        ],
         "synonyms": [
             "European",
             "American",
@@ -8619,7 +8950,7 @@
             "unlike",
             "way"
         ],
-        "tagged": [
+        "tags": [
             [
                 "european",
                 "JJ"
@@ -9250,6 +9581,37 @@
         "meronyms": [],
         "ner_tag": "{'Europeans': 'MISC', 'have': 'O', 'seen': 'O', 'their': 'O', 'tradition': 'O', 'as': 'O', 'beginning': 'O', 'with': 'O', 'the': 'O', 'Swiss': 'NATIONALITY', 'Rodolphe': 'PERSON', 'Töpffer': 'PERSON', 'from': 'O', 'early': 'O', '1827': 'DATE', 'and': 'O', 'Americans': 'MISC', 'origin': 'O', 'of': 'O', 'theirs': 'O', 'in': 'O', 'Richard': 'PERSON', 'F.': 'PERSON', 'Outcault': 'PERSON', \"'s\": 'O', '1890s': 'SET', 'newspaper': 'O', 'strip': 'O', 'The': 'O', 'Yellow': 'MISC', 'Kid': 'MISC', ',': 'O', 'though': 'O', 'many': 'O', 'come': 'O', 'to': 'O', 'recognize': 'O', 'precedence': 'O', '.': 'O'}",
         "sentence": "Europeans have seen their tradition as beginning with the Swiss Rodolphe Töpffer from as early as 1827 and Americans have seen the origin of theirs in Richard F. Outcault's 1890s newspaper strip The Yellow Kid, though many Americans have come to recognize Töpffer's precedence.",
+        "stems": [
+            "european",
+            "seen",
+            "tradit",
+            "begin",
+            "swiss",
+            "rodolph",
+            "töpffer",
+            "earli",
+            "1827",
+            "american",
+            "seen",
+            "origin",
+            "richard",
+            "f.",
+            "outcault",
+            "'s",
+            "1890",
+            "newspap",
+            "strip",
+            "yellow",
+            "kid",
+            "though",
+            "mani",
+            "american",
+            "come",
+            "recogn",
+            "töpffer",
+            "'s",
+            "preced"
+        ],
         "synonyms": [
             "European",
             "visit",
@@ -9281,7 +9643,7 @@
             "'s",
             "precession"
         ],
-        "tagged": [
+        "tags": [
             [
                 "europeans",
                 "NNS"
@@ -9675,6 +10037,19 @@
         ],
         "ner_tag": "{'Japan': 'COUNTRY', 'had': 'O', 'a': 'O', 'long': 'O', 'prehistory': 'O', 'of': 'O', 'satirical': 'O', 'cartoons': 'O', 'and': 'O', 'comics': 'O', 'leading': 'O', 'up': 'O', 'to': 'O', 'the': 'O', 'World': 'MISC', 'War': 'CAUSE_OF_DEATH', 'II': 'MISC', 'era': 'O', '.': 'O'}",
         "sentence": "Japan had a long prehistory of satirical cartoons and comics leading up to the World War II era.",
+        "stems": [
+            "japan",
+            "long",
+            "prehistori",
+            "satir",
+            "cartoon",
+            "comic",
+            "lead",
+            "world",
+            "war",
+            "ii",
+            "era"
+        ],
         "synonyms": [
             "japan",
             "long",
@@ -9688,7 +10063,7 @@
             "two",
             "era"
         ],
-        "tagged": [
+        "tags": [
             [
                 "japan",
                 "NN"
@@ -10035,6 +10410,20 @@
         ],
         "ner_tag": "{'The': 'O', 'ukiyo': 'O', '-': 'O', 'e': 'O', 'artist': 'TITLE', 'Hokusai': 'PERSON', 'popularized': 'O', 'the': 'DATE', 'Japanese': 'NATIONALITY', 'term': 'O', 'for': 'O', 'comics': 'O', 'and': 'O', 'cartooning': 'O', ',': 'O', 'manga': 'O', 'in': 'O', 'early': 'DATE', '19th': 'DATE', 'century': 'DATE', '.': 'O'}",
         "sentence": "The ukiyo-e artist Hokusai popularized the Japanese term for comics and cartooning, manga, in the early 19th century.",
+        "stems": [
+            "ukiyo-",
+            "artist",
+            "hokusai",
+            "popular",
+            "japanes",
+            "term",
+            "comic",
+            "cartoon",
+            "manga",
+            "earli",
+            "19th",
+            "centuri"
+        ],
         "synonyms": [
             "ukiyo-e",
             "artist",
@@ -10049,7 +10438,7 @@
             "nineteenth",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "ukiyo-e",
                 "JJ"
@@ -10369,6 +10758,21 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'post-war': 'O', 'era': 'O', 'modern': 'O', 'Japanese': 'NATIONALITY', 'comics': 'O', 'began': 'O', 'to': 'O', 'flourish': 'O', 'when': 'O', 'Osamu': 'PERSON', 'Tezuka': 'PERSON', 'produced': 'O', 'a': 'O', 'prolific': 'O', 'body': 'O', 'of': 'O', 'work': 'O', '.': 'O'}",
         "sentence": "In the post-war era modern Japanese comics began to flourish when Osamu Tezuka produced a prolific body of work.",
+        "stems": [
+            "post-war",
+            "era",
+            "modern",
+            "japanes",
+            "comic",
+            "began",
+            "flourish",
+            "osamu",
+            "tezuka",
+            "produc",
+            "prolif",
+            "bodi",
+            "work"
+        ],
         "synonyms": [
             "post-war",
             "era",
@@ -10384,7 +10788,7 @@
             "soundbox",
             "workplace"
         ],
-        "tagged": [
+        "tags": [
             [
                 "post-war",
                 "JJ"
@@ -11017,6 +11421,28 @@
         ],
         "ner_tag": "{'Towards': 'O', 'the': 'O', 'close': 'O', 'of': 'O', '20th': 'DATE', 'century': 'DATE', ',': 'O', 'these': 'O', 'three': 'NUMBER', 'traditions': 'O', 'converged': 'O', 'in': 'O', 'a': 'O', 'trend': 'O', 'towards': 'O', 'book': 'O', '-': 'MISC', 'length': 'O', 'comics': 'O', ':': 'O', 'album': 'O', 'Europe': 'LOCATION', 'tankōbon': 'O', '[': 'O', ']': 'O', 'Japan': 'COUNTRY', 'and': 'O', 'graphic': 'O', 'novel': 'O', 'English': 'MISC', 'speaking': 'MISC', 'countries': 'O', '.': 'O'}",
         "sentence": "Towards the close of the 20th century, these three traditions converged in a trend towards book-length comics: the comics album in Europe, the tankōbon[a] in Japan, and the graphic novel in the English-speaking countries.",
+        "stems": [
+            "toward",
+            "close",
+            "20th",
+            "centuri",
+            "three",
+            "tradit",
+            "converg",
+            "trend",
+            "toward",
+            "book-length",
+            "comic",
+            "comic",
+            "album",
+            "europ",
+            "tankōbon",
+            "japan",
+            "graphic",
+            "novel",
+            "english-speak",
+            "countri"
+        ],
         "synonyms": [
             "towards",
             "conclusion",
@@ -11039,7 +11465,7 @@
             "English-speaking",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "towards",
                 "NNS"
@@ -12241,6 +12667,57 @@
         ],
         "ner_tag": "{'Outside': 'O', 'of': 'O', 'these': 'O', 'genealogies': 'O', ',': 'O', 'comics': 'O', 'theorists': 'O', 'and': 'O', 'historians': 'O', 'have': 'O', 'seen': 'O', 'precedents': 'O', 'for': 'O', 'in': 'O', 'the': 'O', 'Lascaux': 'LOCATION', 'cave': 'O', 'paintings': 'O', 'France': 'COUNTRY', '(': 'O', 'some': 'O', 'which': 'O', 'appear': 'O', 'to': 'O', 'be': 'O', 'chronological': 'O', 'sequences': 'O', 'images': 'O', ')': 'O', 'Egyptian': 'NATIONALITY', 'hieroglyphs': 'O', 'Trajan': 'PERSON', \"'s\": 'O', 'Column': 'O', 'Rome': 'CITY', '11th': 'DATE', '-': 'DATE', 'century': 'DATE', 'Norman': 'PERSON', 'Bayeux': 'PERSON', 'Tapestry': 'PERSON', '1370': 'DATE', 'bois': 'O', 'Protat': 'O', 'woodcut': 'O', '15th': 'DATE', 'Ars': 'O', 'moriendi': 'O', 'block': 'O', 'books': 'O', 'Michelangelo': 'PERSON', 'The': 'O', 'Last': 'O', 'Judgment': 'O', 'Sistine': 'LOCATION', 'Chapel': 'LOCATION', 'William': 'PERSON', 'Hogarth': 'PERSON', '17th': 'DATE', 'sequential': 'O', 'engravings': 'O', 'amongst': 'O', 'others': 'O', '.': 'O'}",
         "sentence": "Outside of these genealogies, comics theorists and historians have seen precedents for comics in the Lascaux cave paintings in France (some of which appear to be chronological sequences of images), Egyptian hieroglyphs, Trajan's Column in Rome, the 11th-century Norman Bayeux Tapestry, the 1370 bois Protat woodcut, the 15th-century Ars moriendi and block books, Michelangelo's The Last Judgment in the Sistine Chapel, and William Hogarth's 17th-century sequential engravings, amongst others.",
+        "stems": [
+            "outsid",
+            "genealog",
+            "comic",
+            "theorist",
+            "historian",
+            "seen",
+            "preced",
+            "comic",
+            "lascaux",
+            "cave",
+            "paint",
+            "franc",
+            "appear",
+            "chronolog",
+            "sequenc",
+            "imag",
+            "egyptian",
+            "hieroglyph",
+            "trajan",
+            "'s",
+            "column",
+            "rome",
+            "11th-centuri",
+            "norman",
+            "bayeux",
+            "tapestri",
+            "1370",
+            "boi",
+            "protat",
+            "woodcut",
+            "15th-centuri",
+            "ar",
+            "moriendi",
+            "block",
+            "book",
+            "michelangelo",
+            "'s",
+            "last",
+            "judgment",
+            "sistin",
+            "chapel",
+            "william",
+            "hogarth",
+            "'s",
+            "17th-centuri",
+            "sequenti",
+            "engrav",
+            "amongst",
+            "other"
+        ],
         "synonyms": [
             "outside",
             "genealogy",
@@ -12292,7 +12769,7 @@
             "amongst",
             "others"
         ],
-        "tagged": [
+        "tags": [
             [
                 "outside",
                 "JJ"
@@ -12907,6 +13384,21 @@
         ],
         "ner_tag": "{'[': 'O', 'b': 'O', ']': 'O', 'Illustrated': 'O', 'humour': 'O', 'periodicals': 'O', 'were': 'O', 'popular': 'O', 'in': 'O', '19th': 'DATE', '-': 'O', 'century': 'DATE', 'Britain': 'COUNTRY', ',': 'O', 'the': 'O', 'earliest': 'O', 'of': 'O', 'which': 'O', 'was': 'O', 'short': 'O', 'lived': 'O', 'The': 'O', 'Glasgow': 'O', 'Looking': 'O', 'Glass': 'O', '1825': 'DATE', '.': 'O'}",
         "sentence": "[b] Illustrated humour periodicals were popular in 19th-century Britain, the earliest of which was the short-lived The Glasgow Looking Glass in 1825.",
+        "stems": [
+            "b",
+            "illustr",
+            "humour",
+            "period",
+            "popular",
+            "19th-centuri",
+            "britain",
+            "earliest",
+            "short-liv",
+            "glasgow",
+            "look",
+            "glass",
+            "1825"
+        ],
         "synonyms": [
             "B-complex_vitamin",
             "illustrate",
@@ -12922,7 +13414,7 @@
             "methamphetamine",
             "1825"
         ],
-        "tagged": [
+        "tags": [
             [
                 "b",
                 "NN"
@@ -13185,6 +13677,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'most': 'O', 'popular': 'O', 'was': 'O', 'Punch': 'O', ',': 'O', 'which': 'O', 'popularized': 'O', 'the': 'O', 'term': 'O', 'cartoon': 'O', 'for': 'O', 'its': 'O', 'humorous': 'O', 'caricatures': 'O', '.': 'O'}",
         "sentence": "The most popular was Punch, which popularized the term cartoon for its humorous caricatures.",
+        "stems": [
+            "popular",
+            "punch",
+            "popular",
+            "term",
+            "cartoon",
+            "humor",
+            "caricatur"
+        ],
         "synonyms": [
             "popular",
             "punch",
@@ -13194,7 +13695,7 @@
             "humorous",
             "caricature"
         ],
-        "tagged": [
+        "tags": [
             [
                 "popular",
                 "JJ"
@@ -13676,6 +14177,27 @@
         "meronyms": [],
         "ner_tag": "{'On': 'O', 'occasion': 'O', 'the': 'O', 'cartoons': 'O', 'in': 'O', 'these': 'O', 'magazines': 'O', 'appeared': 'O', 'sequences': 'O', ';': 'O', 'character': 'O', 'Ally': 'PERSON', 'Sloper': 'PERSON', 'featured': 'O', 'earliest': 'O', 'serialized': 'O', 'comic': 'O', 'strip': 'O', 'when': 'O', 'began': 'O', 'to': 'O', 'feature': 'O', 'its': 'O', 'own': 'O', 'weekly': 'SET', 'magazine': 'O', '1884': 'DATE', '.': 'O'}",
         "sentence": "On occasion the cartoons in these magazines appeared in sequences; the character Ally Sloper featured in the earliest serialized comic strip when the character began to feature in its own weekly magazine in 1884.",
+        "stems": [
+            "occas",
+            "cartoon",
+            "magazin",
+            "appear",
+            "sequenc",
+            "charact",
+            "alli",
+            "sloper",
+            "featur",
+            "earliest",
+            "serial",
+            "comic",
+            "strip",
+            "charact",
+            "began",
+            "featur",
+            "weekli",
+            "magazin",
+            "1884"
+        ],
         "synonyms": [
             "occasion",
             "cartoon",
@@ -13697,7 +14219,7 @@
             "magazine",
             "1884"
         ],
-        "tagged": [
+        "tags": [
             [
                 "occasion",
                 "NN"
@@ -13989,6 +14511,15 @@
         ],
         "ner_tag": "{'American': 'NATIONALITY', 'comics': 'O', 'developed': 'O', 'out': 'O', 'of': 'O', 'such': 'O', 'magazines': 'O', 'as': 'O', 'Puck': 'O', ',': 'O', 'Judge': 'TITLE', 'and': 'O', 'Life': 'O', '.': 'O'}",
         "sentence": "American comics developed out of such magazines as Puck, Judge, and Life.",
+        "stems": [
+            "american",
+            "comic",
+            "develop",
+            "magazin",
+            "puck",
+            "judg",
+            "life"
+        ],
         "synonyms": [
             "American",
             "comic_strip",
@@ -13998,7 +14529,7 @@
             "judge",
             "life_sentence"
         ],
-        "tagged": [
+        "tags": [
             [
                 "american",
                 "JJ"
@@ -14461,6 +14992,29 @@
         ],
         "ner_tag": "{'The': 'O', 'success': 'O', 'of': 'O', 'illustrated': 'O', 'humour': 'O', 'supplements': 'O', 'in': 'O', 'the': 'O', 'New': 'STATE_OR_PROVINCE', 'York': 'STATE_OR_PROVINCE', 'World': 'LOCATION', 'and': 'O', 'later': 'O', 'American': 'NATIONALITY', ',': 'O', 'particularly': 'O', 'Outcault': 'PERSON', \"'s\": 'O', 'Yellow': 'MISC', 'Kid': 'MISC', 'led': 'O', 'to': 'O', 'development': 'O', 'newspaper': 'O', 'comic': 'O', 'strips': 'O', '.': 'O'}",
         "sentence": "The success of illustrated humour supplements in the New York World and later the New York American, particularly Outcault's The Yellow Kid, led to the development of newspaper comic strips.",
+        "stems": [
+            "success",
+            "illustr",
+            "humour",
+            "supplement",
+            "new",
+            "york",
+            "world",
+            "later",
+            "new",
+            "york",
+            "american",
+            "particularli",
+            "outcault",
+            "'s",
+            "yellow",
+            "kid",
+            "led",
+            "develop",
+            "newspap",
+            "comic",
+            "strip"
+        ],
         "synonyms": [
             "success",
             "illustrate",
@@ -14484,7 +15038,7 @@
             "comedian",
             "strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "success",
                 "NN"
@@ -14742,6 +15296,14 @@
         "meronyms": [],
         "ner_tag": "{'Early': 'DATE', 'Sunday': 'DATE', 'strips': 'O', 'were': 'O', 'full': 'O', '-': 'O', 'page': 'O', 'and': 'O', 'often': 'O', 'in': 'O', 'colour': 'O', '.': 'O'}",
         "sentence": "Early Sunday strips were full-page and often in colour.",
+        "stems": [
+            "earli",
+            "sunday",
+            "strip",
+            "full-pag",
+            "often",
+            "colour"
+        ],
         "synonyms": [
             "early",
             "Sunday",
@@ -14750,7 +15312,7 @@
             "often",
             "color"
         ],
-        "tagged": [
+        "tags": [
             [
                 "early",
                 "RB"
@@ -14973,6 +15535,16 @@
         "meronyms": [],
         "ner_tag": "{'Between': 'O', '1896': 'DATE', 'and': 'O', '1901': 'DATE', 'cartoonists': 'O', 'experimented': 'O', 'with': 'O', 'sequentiality': 'O', ',': 'O', 'movement': 'O', 'speech': 'O', 'balloons': 'O', '.': 'O'}",
         "sentence": "Between 1896 and 1901 cartoonists experimented with sequentiality, movement, and speech balloons.",
+        "stems": [
+            "1896",
+            "1901",
+            "cartoonist",
+            "experi",
+            "sequenti",
+            "movement",
+            "speech",
+            "balloon"
+        ],
         "synonyms": [
             "1896",
             "1901",
@@ -14983,7 +15555,7 @@
             "lecture",
             "balloon"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1896",
                 "CD"
@@ -15469,6 +16041,27 @@
         ],
         "ner_tag": "{'Shorter': 'O', ',': 'O', 'black': 'O', '-': 'O', 'and': 'O', 'white': 'O', 'daily': 'SET', 'strips': 'O', 'began': 'O', 'to': 'O', 'appear': 'O', 'early': 'DATE', 'in': 'O', 'the': 'O', '20th': 'DATE', 'century': 'DATE', 'became': 'O', 'established': 'O', 'newspapers': 'O', 'after': 'O', 'success': 'O', '1907': 'DATE', 'of': 'O', 'Bud': 'PERSON', 'Fisher': 'PERSON', \"'s\": 'O', 'Mutt': 'O', 'Jeff': 'PERSON', '.': 'O'}",
         "sentence": "Shorter, black-and-white daily strips began to appear early in the 20th century, and became established in newspapers after the success in 1907 of Bud Fisher's Mutt and Jeff.",
+        "stems": [
+            "shorter",
+            "black-and-whit",
+            "daili",
+            "strip",
+            "began",
+            "appear",
+            "earli",
+            "20th",
+            "centuri",
+            "becam",
+            "establish",
+            "newspap",
+            "success",
+            "1907",
+            "bud",
+            "fisher",
+            "'s",
+            "mutt",
+            "jeff"
+        ],
         "synonyms": [
             "short",
             "black-and-white",
@@ -15490,7 +16083,7 @@
             "cur",
             "jeff"
         ],
-        "tagged": [
+        "tags": [
             [
                 "shorter",
                 "JJR"
@@ -15933,6 +16526,23 @@
         ],
         "ner_tag": "{'Humour': 'O', 'strips': 'O', 'predominated': 'O', 'at': 'O', 'first': 'ORDINAL', ',': 'O', 'and': 'O', 'in': 'O', 'the': 'DATE', '1920s': 'DATE', '1930s': 'DATE', 'with': 'O', 'continuing': 'O', 'stories': 'O', 'genres': 'O', 'such': 'O', 'as': 'O', 'adventure': 'O', 'drama': 'O', 'also': 'O', 'became': 'O', 'popular': 'O', '.': 'O'}",
         "sentence": "Humour strips predominated at first, and in the 1920s and 1930s strips with continuing stories in genres such as adventure and drama also became popular.",
+        "stems": [
+            "humour",
+            "strip",
+            "predomin",
+            "first",
+            "1920",
+            "1930",
+            "strip",
+            "continu",
+            "stori",
+            "genr",
+            "adventur",
+            "drama",
+            "also",
+            "becam",
+            "popular"
+        ],
         "synonyms": [
             "wit",
             "strip",
@@ -15950,7 +16560,7 @@
             "become",
             "popular"
         ],
-        "tagged": [
+        "tags": [
             [
                 "humour",
                 "PRP$"
@@ -16415,6 +17025,26 @@
         ],
         "ner_tag": "{'Thin': 'O', 'periodicals': 'O', 'called': 'O', 'comic': 'O', 'books': 'O', 'appeared': 'O', 'in': 'O', 'the': 'DATE', '1930s': 'DATE', ',': 'O', 'at': 'O', 'first': 'ORDINAL', 'reprinting': 'O', 'newspaper': 'O', 'strips': 'O', ';': 'O', 'by': 'O', 'end': 'DATE', 'of': 'DATE', 'decade': 'DATE', 'original': 'O', 'content': 'O', 'began': 'O', 'to': 'O', 'dominate': 'O', '.': 'O'}",
         "sentence": "Thin periodicals called comic books appeared in the 1930s, at first reprinting newspaper comic strips; by the end of the decade, original content began to dominate.",
+        "stems": [
+            "thin",
+            "period",
+            "call",
+            "comic",
+            "book",
+            "appear",
+            "1930",
+            "first",
+            "reprint",
+            "newspap",
+            "comic",
+            "strip",
+            "end",
+            "decad",
+            "origin",
+            "content",
+            "began",
+            "domin"
+        ],
         "synonyms": [
             "flimsy",
             "periodical",
@@ -16435,7 +17065,7 @@
             "begin",
             "predominate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "thin",
                 "JJ"
@@ -16917,6 +17547,24 @@
         ],
         "ner_tag": "{'The': 'O', 'success': 'O', 'in': 'O', '1938': 'DATE', 'of': 'MISC', 'Action': 'ORGANIZATION', 'Comics': 'ORGANIZATION', 'and': 'O', 'its': 'O', 'lead': 'O', 'hero': 'O', 'Superman': 'PERSON', 'marked': 'O', 'the': 'O', 'beginning': 'O', 'Golden': 'MISC', 'Age': 'MISC', 'Comic': 'MISC', 'Books': 'MISC', ',': 'O', 'which': 'O', 'superhero': 'O', 'genre': 'O', 'was': 'O', 'prominent': 'O', '.': 'O'}",
         "sentence": "The success in 1938 of Action Comics and its lead hero Superman marked the beginning of the Golden Age of Comic Books, in which the superhero genre was prominent.",
+        "stems": [
+            "success",
+            "1938",
+            "action",
+            "comic",
+            "lead",
+            "hero",
+            "superman",
+            "mark",
+            "begin",
+            "golden",
+            "age",
+            "comic",
+            "book",
+            "superhero",
+            "genr",
+            "promin"
+        ],
         "synonyms": [
             "success",
             "1938",
@@ -16935,7 +17583,7 @@
             "writing_style",
             "outstanding"
         ],
-        "tagged": [
+        "tags": [
             [
                 "success",
                 "NN"
@@ -17487,6 +18135,29 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'popularity': 'O', 'of': 'O', 'superhero': 'O', 'comic': 'O', 'books': 'O', 'declined': 'O', 'following': 'O', 'World': 'MISC', 'War': 'CAUSE_OF_DEATH', 'II': 'MISC', ',': 'O', 'while': 'O', 'book': 'O', 'sales': 'O', 'continued': 'O', 'to': 'O', 'increase': 'O', 'as': 'O', 'other': 'O', 'genres': 'O', 'proliferated': 'O', 'such': 'O', 'romance': 'O', 'westerns': 'O', 'crime': 'O', 'horror': 'O', 'and': 'O', 'humour': 'O', '.': 'O'}",
         "sentence": "The popularity of superhero comic books declined following World War II, while comic book sales continued to increase as other genres proliferated, such as romance, westerns, crime, horror, and humour.",
+        "stems": [
+            "popular",
+            "superhero",
+            "comic",
+            "book",
+            "declin",
+            "follow",
+            "world",
+            "war",
+            "ii",
+            "comic",
+            "book",
+            "sale",
+            "continu",
+            "increas",
+            "genr",
+            "prolifer",
+            "romanc",
+            "western",
+            "crime",
+            "horror",
+            "humour"
+        ],
         "synonyms": [
             "popularity",
             "superhero",
@@ -17510,7 +18181,7 @@
             "repugnance",
             "wit"
         ],
-        "tagged": [
+        "tags": [
             [
                 "popularity",
                 "NN"
@@ -18256,6 +18927,35 @@
         ],
         "ner_tag": "{'Following': 'O', 'a': 'O', 'sales': 'O', 'peak': 'O', 'in': 'O', 'the': 'O', 'early': 'O', '1950s': 'DATE', ',': 'O', 'content': 'O', 'of': 'O', 'comic': 'O', 'books': 'O', '(': 'O', 'particularly': 'O', 'crime': 'O', 'and': 'O', 'horror': 'O', ')': 'O', 'was': 'O', 'subjected': 'O', 'to': 'O', 'scrutiny': 'O', 'from': 'O', 'parent': 'O', 'groups': 'O', 'government': 'O', 'agencies': 'O', 'which': 'O', 'culminated': 'O', 'Senate': 'ORGANIZATION', 'hearings': 'O', 'that': 'O', 'led': 'O', 'establishment': 'O', 'Comics': 'ORGANIZATION', 'Code': 'ORGANIZATION', 'Authority': 'ORGANIZATION', 'self': 'O', '-': 'O', 'censoring': 'O', 'body': 'O', '.': 'O'}",
         "sentence": "Following a sales peak in the early 1950s, the content of comic books (particularly crime and horror) was subjected to scrutiny from parent groups and government agencies, which culminated in Senate hearings that led to the establishment of the Comics Code Authority self-censoring body.",
+        "stems": [
+            "follow",
+            "sale",
+            "peak",
+            "earli",
+            "1950",
+            "content",
+            "comic",
+            "book",
+            "particularli",
+            "crime",
+            "horror",
+            "subject",
+            "scrutini",
+            "parent",
+            "group",
+            "govern",
+            "agenc",
+            "culmin",
+            "senat",
+            "hear",
+            "led",
+            "establish",
+            "comic",
+            "code",
+            "author",
+            "self-censor",
+            "bodi"
+        ],
         "synonyms": [
             "take_after",
             "sale",
@@ -18285,7 +18985,7 @@
             "self-censoring",
             "soundbox"
         ],
-        "tagged": [
+        "tags": [
             [
                 "following",
                 "VBG"
@@ -18790,6 +19490,22 @@
         ],
         "ner_tag": "{'The': 'O', 'Code': 'MISC', 'has': 'O', 'been': 'O', 'blamed': 'O', 'for': 'O', 'stunting': 'O', 'the': 'DATE', 'growth': 'O', 'of': 'O', 'American': 'NATIONALITY', 'comics': 'O', 'and': 'O', 'maintaining': 'O', 'its': 'O', 'low': 'O', 'status': 'O', 'in': 'O', 'society': 'O', 'much': 'O', 'remainder': 'O', 'century': 'DATE', '.': 'O'}",
         "sentence": "The Code has been blamed for stunting the growth of American comics and maintaining its low status in American society for much of the remainder of the century.",
+        "stems": [
+            "code",
+            "blame",
+            "stunt",
+            "growth",
+            "american",
+            "comic",
+            "maintain",
+            "low",
+            "statu",
+            "american",
+            "societi",
+            "much",
+            "remaind",
+            "centuri"
+        ],
         "synonyms": [
             "code",
             "blasted",
@@ -18806,7 +19522,7 @@
             "end",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "code",
                 "NN"
@@ -19067,6 +19783,16 @@
         "meronyms": [],
         "ner_tag": "{'Superheroes': 'O', 're-established': 'O', 'themselves': 'O', 'as': 'O', 'the': 'O', 'most': 'O', 'prominent': 'O', 'comic': 'O', 'book': 'O', 'genre': 'O', 'by': 'O', 'early': 'O', '1960s': 'DATE', '.': 'O'}",
         "sentence": "Superheroes re-established themselves as the most prominent comic book genre by the early 1960s.",
+        "stems": [
+            "superhero",
+            "re-establish",
+            "promin",
+            "comic",
+            "book",
+            "genr",
+            "earli",
+            "1960"
+        ],
         "synonyms": [
             "superheroes",
             "re-established",
@@ -19077,7 +19803,7 @@
             "early",
             "sixties"
         ],
-        "tagged": [
+        "tags": [
             [
                 "superheroes",
                 "NNS"
@@ -19374,6 +20100,20 @@
         ],
         "ner_tag": "{'Underground': 'O', 'comix': 'O', 'challenged': 'O', 'the': 'O', 'Code': 'MISC', 'and': 'O', 'readers': 'O', 'with': 'O', 'adult': 'O', ',': 'O', 'countercultural': 'O', 'content': 'O', 'in': 'O', 'late': 'O', '1960s': 'DATE', 'early': 'O', '1970s': 'DATE', '.': 'O'}",
         "sentence": "Underground comix challenged the Code and readers with adult, countercultural content in the late 1960s and early 1970s.",
+        "stems": [
+            "underground",
+            "comix",
+            "challeng",
+            "code",
+            "reader",
+            "adult",
+            "countercultur",
+            "content",
+            "late",
+            "1960",
+            "earli",
+            "1970"
+        ],
         "synonyms": [
             "underground",
             "comix",
@@ -19388,7 +20128,7 @@
             "early",
             "seventies"
         ],
-        "tagged": [
+        "tags": [
             [
                 "underground",
                 "JJ"
@@ -19744,6 +20484,21 @@
         ],
         "ner_tag": "{'The': 'O', 'underground': 'O', 'gave': 'O', 'birth': 'O', 'to': 'O', 'the': 'DATE', 'alternative': 'O', 'comics': 'O', 'movement': 'O', 'in': 'O', '1980s': 'DATE', 'and': 'O', 'its': 'O', 'mature': 'O', ',': 'O', 'often': 'O', 'experimental': 'O', 'content': 'O', 'non-superhero': 'O', 'genres': 'O', '.': 'O'}",
         "sentence": "The underground gave birth to the alternative comics movement in the 1980s and its mature, often experimental content in non-superhero genres.",
+        "stems": [
+            "underground",
+            "gave",
+            "birth",
+            "altern",
+            "comic",
+            "movement",
+            "1980",
+            "matur",
+            "often",
+            "experiment",
+            "content",
+            "non-superhero",
+            "genr"
+        ],
         "synonyms": [
             "underground",
             "give",
@@ -19759,7 +20514,7 @@
             "non-superhero",
             "writing_style"
         ],
-        "tagged": [
+        "tags": [
             [
                 "underground",
                 "JJ"
@@ -20219,6 +20974,26 @@
         ],
         "ner_tag": "{'From': 'O', 'the': 'O', '1980s': 'DATE', ',': 'O', 'mainstream': 'O', 'sensibilities': 'O', 'were': 'O', 'reasserted': 'O', 'and': 'O', 'serialization': 'O', 'became': 'O', 'less': 'O', 'common': 'O', 'as': 'O', 'number': 'O', 'of': 'O', 'comics': 'O', 'magazines': 'O', 'decreased': 'O', 'many': 'O', 'began': 'O', 'to': 'O', 'be': 'O', 'published': 'O', 'directly': 'O', 'albums': 'O', '.': 'O'}",
         "sentence": "From the 1980s, mainstream sensibilities were reasserted and serialization became less common as the number of comics magazines decreased and many comics began to be published directly as albums.",
+        "stems": [
+            "1980",
+            "mainstream",
+            "sensibl",
+            "reassert",
+            "serial",
+            "becam",
+            "less",
+            "common",
+            "number",
+            "comic",
+            "magazin",
+            "decreas",
+            "mani",
+            "comic",
+            "began",
+            "publish",
+            "directli",
+            "album"
+        ],
         "synonyms": [
             "eighties",
             "mainstream",
@@ -20239,7 +21014,7 @@
             "directly",
             "album"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1980s",
                 "CD"
@@ -20598,6 +21373,21 @@
         "meronyms": [],
         "ner_tag": "{'Smaller': 'O', 'publishers': 'O', 'such': 'O', 'as': 'O', \"L'Association\": 'O', 'that': 'O', 'published': 'O', 'longer': 'O', 'works': 'O', 'in': 'O', 'non-traditional': 'O', 'formats': 'O', 'by': 'O', 'auteur': 'O', '-': 'O', 'istic': 'O', 'creators': 'O', 'also': 'O', 'became': 'O', 'common': 'O', '.': 'O'}",
         "sentence": "Smaller publishers such as L'Association that published longer works in non-traditional formats by auteur-istic creators also became common.",
+        "stems": [
+            "smaller",
+            "publish",
+            "l'associ",
+            "publish",
+            "longer",
+            "work",
+            "non-tradit",
+            "format",
+            "auteur-ist",
+            "creator",
+            "also",
+            "becam",
+            "common"
+        ],
         "synonyms": [
             "little",
             "publisher",
@@ -20613,7 +21403,7 @@
             "become",
             "park"
         ],
-        "tagged": [
+        "tags": [
             [
                 "smaller",
                 "JJR"
@@ -20883,6 +21673,18 @@
         "meronyms": [],
         "ner_tag": "{'Since': 'O', 'the': 'DATE', '1990s': 'DATE', ',': 'O', 'mergers': 'O', 'resulted': 'O', 'in': 'O', 'fewer': 'O', 'large': 'O', 'publishers': 'O', 'while': 'O', 'smaller': 'O', 'proliferated': 'O', '.': 'O'}",
         "sentence": "Since the 1990s, mergers resulted in fewer large publishers, while smaller publishers proliferated.",
+        "stems": [
+            "sinc",
+            "1990",
+            "merger",
+            "result",
+            "fewer",
+            "larg",
+            "publish",
+            "smaller",
+            "publish",
+            "prolifer"
+        ],
         "synonyms": [
             "since",
             "nineties",
@@ -20895,7 +21697,7 @@
             "publisher",
             "proliferate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -21136,6 +21938,18 @@
         "meronyms": [],
         "ner_tag": "{'Sales': 'O', 'overall': 'O', 'continued': 'O', 'to': 'O', 'grow': 'O', 'despite': 'O', 'the': 'O', 'trend': 'O', 'towards': 'O', 'a': 'O', 'shrinking': 'O', 'print': 'O', 'market': 'O', '.': 'O'}",
         "sentence": "Sales overall continued to grow despite the trend towards a shrinking print market.",
+        "stems": [
+            "sale",
+            "overal",
+            "continu",
+            "grow",
+            "despit",
+            "trend",
+            "toward",
+            "shrink",
+            "print",
+            "market"
+        ],
         "synonyms": [
             "sale",
             "overall",
@@ -21148,7 +21962,7 @@
             "print",
             "marketplace"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sales",
                 "NNS"
@@ -22022,6 +22836,33 @@
         ],
         "ner_tag": "{'Japanese': 'NATIONALITY', 'comics': 'O', 'and': 'DATE', 'cartooning': 'O', '(': 'O', 'manga': 'O', ')': 'O', ',': 'O', '[': 'O', 'g': 'O', ']': 'O', 'have': 'O', 'a': 'O', 'history': 'O', 'that': 'O', 'has': 'O', 'been': 'O', 'seen': 'O', 'as': 'O', 'far': 'O', 'back': 'O', 'the': 'O', 'anthropomorphic': 'O', 'characters': 'O', 'in': 'O', '12th': 'O', '-': 'O', 'to': 'O', '13th': 'O', 'century': 'DATE', 'Chōjū': 'O', 'jinbutsu': 'O', 'giga': 'O', '17th': 'ORDINAL', 'toba': 'O', 'e': 'O', 'kibyōshi': 'O', 'picture': 'O', 'books': 'O', 'woodblock': 'O', 'prints': 'O', 'such': 'O', 'ukiyo': 'O', 'which': 'O', 'were': 'O', 'popular': 'O', 'between': 'O', '20th': 'DATE', 'centuries': 'DATE', '.': 'O'}",
         "sentence": "Japanese comics and cartooning (manga),[g] have a history that has been seen as far back as the anthropomorphic characters in the 12th-to-13th-century Chōjū-jinbutsu-giga, 17th-century toba-e and kibyōshi picture books, and woodblock prints such as ukiyo-e which were popular between the 17th and 20th centuries.",
+        "stems": [
+            "japanes",
+            "comic",
+            "cartoon",
+            "manga",
+            "g",
+            "histori",
+            "seen",
+            "far",
+            "back",
+            "anthropomorph",
+            "charact",
+            "12th-to-13th-centuri",
+            "chōjū-jinbutsu-giga",
+            "17th-centuri",
+            "toba-",
+            "kibyōshi",
+            "pictur",
+            "book",
+            "woodblock",
+            "print",
+            "ukiyo-",
+            "popular",
+            "17th",
+            "20th",
+            "centuri"
+        ],
         "synonyms": [
             "Japanese",
             "comic_strip",
@@ -22049,7 +22890,7 @@
             "twentieth",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "japanese",
                 "JJ"
@@ -22373,6 +23214,17 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'kibyōshi': 'O', 'contained': 'O', 'examples': 'O', 'of': 'O', 'sequential': 'O', 'images': 'O', ',': 'O', 'movement': 'O', 'lines': 'O', 'and': 'O', 'sound': 'O', 'effects': 'O', '.': 'O'}",
         "sentence": "The kibyōshi contained examples of sequential images, movement lines, and sound effects.",
+        "stems": [
+            "kibyōshi",
+            "contain",
+            "exampl",
+            "sequenti",
+            "imag",
+            "movement",
+            "line",
+            "sound",
+            "effect"
+        ],
         "synonyms": [
             "kibyōshi",
             "incorporate",
@@ -22384,7 +23236,7 @@
             "strait",
             "effects"
         ],
-        "tagged": [
+        "tags": [
             [
                 "kibyōshi",
                 "NN"
@@ -22675,6 +23527,20 @@
         ],
         "ner_tag": "{'Illustrated': 'O', 'magazines': 'O', 'for': 'O', 'Western': 'MISC', 'expatriates': 'O', 'introduced': 'O', '-': 'MISC', 'style': 'MISC', 'satirical': 'O', 'cartoons': 'O', 'to': 'O', 'Japan': 'COUNTRY', 'in': 'O', 'the': 'DATE', 'late': 'DATE', '19th': 'DATE', 'century': 'DATE', '.': 'O'}",
         "sentence": "Illustrated magazines for Western expatriates introduced Western-style satirical cartoons to Japan in the late 19th century.",
+        "stems": [
+            "illustr",
+            "magazin",
+            "western",
+            "expatri",
+            "introduc",
+            "western-styl",
+            "satir",
+            "cartoon",
+            "japan",
+            "late",
+            "19th",
+            "centuri"
+        ],
         "synonyms": [
             "illustrate",
             "magazine",
@@ -22689,7 +23555,7 @@
             "nineteenth",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "illustrated",
                 "JJ"
@@ -23249,6 +24115,28 @@
         ],
         "ner_tag": "{'New': 'O', 'publications': 'O', 'in': 'O', 'both': 'O', 'the': 'DATE', 'Western': 'MISC', 'and': 'O', 'Japanese': 'NATIONALITY', 'styles': 'O', 'became': 'O', 'popular': 'O', ',': 'O', 'at': 'O', 'end': 'DATE', 'of': 'DATE', '1890s': 'DATE', 'American': 'NATIONALITY', '-': 'MISC', 'style': 'MISC', 'newspaper': 'O', 'comics': 'O', 'supplements': 'O', 'began': 'O', 'to': 'O', 'appear': 'O', 'Japan': 'COUNTRY', 'as': 'O', 'well': 'O', 'some': 'O', 'comic': 'O', 'strips': 'O', '.': 'O'}",
         "sentence": "New publications in both the Western and Japanese styles became popular, and at the end of the 1890s, American-style newspaper comics supplements began to appear in Japan, as well as some American comic strips.",
+        "stems": [
+            "new",
+            "public",
+            "western",
+            "japanes",
+            "style",
+            "becam",
+            "popular",
+            "end",
+            "1890",
+            "american-styl",
+            "newspap",
+            "comic",
+            "supplement",
+            "began",
+            "appear",
+            "japan",
+            "well",
+            "american",
+            "comic",
+            "strip"
+        ],
         "synonyms": [
             "newfangled",
             "publication",
@@ -23271,7 +24159,7 @@
             "comedian",
             "strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "new",
                 "JJ"
@@ -23910,6 +24798,33 @@
         ],
         "ner_tag": "{'1900': 'DATE', 'saw': 'O', 'the': 'O', 'debut': 'O', 'of': 'O', 'Jiji': 'LOCATION', 'Manga': 'CITY', 'in': 'O', 'Shinpō': 'LOCATION', 'newspaper': 'O', '—': 'O', 'first': 'ORDINAL', 'use': 'O', 'word': 'O', '``': 'O', 'manga': 'O', \"''\": 'O', 'its': 'O', 'modern': 'O', 'sense': 'O', ',': 'O', 'and': 'O', 'where': 'O', '1902': 'DATE', 'Rakuten': 'PERSON', 'Kitazawa': 'PERSON', 'began': 'O', 'Japanese': 'NATIONALITY', 'comic': 'O', 'strip': 'O', '.': 'O'}",
         "sentence": "1900 saw the debut of the Jiji Manga in the Jiji Shinpō newspaper—the first use of the word \"manga\" in its modern sense, and where, in 1902, Rakuten Kitazawa began the first modern Japanese comic strip.",
+        "stems": [
+            "1900",
+            "saw",
+            "debut",
+            "jiji",
+            "manga",
+            "jiji",
+            "shinpō",
+            "newspaper—th",
+            "first",
+            "use",
+            "word",
+            "``",
+            "manga",
+            "''",
+            "modern",
+            "sens",
+            "1902",
+            "rakuten",
+            "kitazawa",
+            "began",
+            "first",
+            "modern",
+            "japanes",
+            "comic",
+            "strip"
+        ],
         "synonyms": [
             "1900",
             "visit",
@@ -23937,7 +24852,7 @@
             "comedian",
             "strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1900",
                 "CD"
@@ -24373,6 +25288,20 @@
         "meronyms": [],
         "ner_tag": "{'By': 'O', 'the': 'DATE', '1930s': 'DATE', ',': 'O', 'comic': 'O', 'strips': 'O', 'were': 'O', 'serialized': 'O', 'in': 'O', 'large': 'O', '-': 'O', 'circulation': 'O', 'monthly': 'SET', 'girls': 'O', \"'\": 'O', 'and': 'O', 'boys': 'O', 'magazine': 'O', 'collected': 'O', 'into': 'O', 'hardback': 'O', 'volumes': 'O', '.': 'O'}",
         "sentence": "By the 1930s, comic strips were serialized in large-circulation monthly girls' and boys' magazine and collected into hardback volumes.",
+        "stems": [
+            "1930",
+            "comic",
+            "strip",
+            "serial",
+            "large-circul",
+            "monthli",
+            "girl",
+            "boy",
+            "magazin",
+            "collect",
+            "hardback",
+            "volum"
+        ],
         "synonyms": [
             "thirties",
             "comedian",
@@ -24387,7 +25316,7 @@
             "hardbacked",
             "volume"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1930s",
                 "CD"
@@ -24874,6 +25803,26 @@
         ],
         "ner_tag": "{'The': 'O', 'modern': 'O', 'era': 'O', 'of': 'O', 'comics': 'O', 'in': 'O', 'Japan': 'COUNTRY', 'began': 'O', 'after': 'O', 'World': 'MISC', 'War': 'CAUSE_OF_DEATH', 'II': 'MISC', ',': 'O', 'propelled': 'O', 'by': 'O', 'the': 'O', 'success': 'O', 'serialized': 'O', 'prolific': 'O', 'Osamu': 'PERSON', 'Tezuka': 'PERSON', 'and': 'O', 'comic': 'O', 'strip': 'O', 'Sazae': 'MISC', '-': 'MISC', 'san': 'MISC', '.': 'O'}",
         "sentence": "The modern era of comics in Japan began after World War II, propelled by the success of the serialized comics of the prolific Osamu Tezuka and the comic strip Sazae-san.",
+        "stems": [
+            "modern",
+            "era",
+            "comic",
+            "japan",
+            "began",
+            "world",
+            "war",
+            "ii",
+            "propel",
+            "success",
+            "serial",
+            "comic",
+            "prolif",
+            "osamu",
+            "tezuka",
+            "comic",
+            "strip",
+            "sazae-san"
+        ],
         "synonyms": [
             "Modern",
             "era",
@@ -24894,7 +25843,7 @@
             "strip",
             "sazae-san"
         ],
-        "tagged": [
+        "tags": [
             [
                 "modern",
                 "JJ"
@@ -25110,6 +26059,13 @@
         ],
         "ner_tag": "{'Genres': 'O', 'and': 'O', 'audiences': 'O', 'diversified': 'O', 'over': 'O', 'the': 'DATE', 'following': 'DATE', 'decades': 'DATE', '.': 'O'}",
         "sentence": "Genres and audiences diversified over the following decades.",
+        "stems": [
+            "genr",
+            "audienc",
+            "diversifi",
+            "follow",
+            "decad"
+        ],
         "synonyms": [
             "writing_style",
             "consultation",
@@ -25117,7 +26073,7 @@
             "take_after",
             "decade"
         ],
-        "tagged": [
+        "tags": [
             [
                 "genres",
                 "NNS"
@@ -25528,6 +26484,24 @@
         ],
         "ner_tag": "{'Stories': 'O', 'are': 'O', 'usually': 'O', 'first': 'ORDINAL', 'serialized': 'O', 'in': 'O', 'magazines': 'O', 'which': 'O', 'often': 'O', 'hundreds': 'O', 'of': 'O', 'pages': 'O', 'thick': 'O', 'and': 'O', 'may': 'O', 'over': 'O', 'a': 'O', 'dozen': 'NUMBER', 'stories': 'O', ';': 'O', 'they': 'O', 'later': 'O', 'compiled': 'O', 'tankōbon': 'O', '-': 'O', 'format': 'O', 'books': 'O', '.': 'O'}",
         "sentence": "Stories are usually first serialized in magazines which are often hundreds of pages thick and may over a dozen stories; they are later compiled in tankōbon-format books.",
+        "stems": [
+            "stori",
+            "usual",
+            "first",
+            "serial",
+            "magazin",
+            "often",
+            "hundr",
+            "page",
+            "thick",
+            "may",
+            "dozen",
+            "stori",
+            "later",
+            "compil",
+            "tankōbon-format",
+            "book"
+        ],
         "synonyms": [
             "story",
             "normally",
@@ -25546,7 +26520,7 @@
             "tankōbon-format",
             "script"
         ],
-        "tagged": [
+        "tags": [
             [
                 "stories",
                 "NNS"
@@ -25907,6 +26881,18 @@
         ],
         "ner_tag": "{'At': 'O', 'the': 'O', 'turn': 'O', 'of': 'O', '20th': 'ORDINAL', 'and': 'DATE', '21st': 'DATE', 'centuries': 'DATE', ',': 'O', 'nearly': 'DURATION', 'a': 'DURATION', 'quarter': 'DURATION', 'all': 'O', 'printed': 'O', 'material': 'O', 'in': 'O', 'Japan': 'COUNTRY', 'was': 'O', 'comics': 'O', '.': 'O'}",
         "sentence": "At the turn of the 20th and 21st centuries, nearly a quarter of all printed material in Japan was comics.",
+        "stems": [
+            "turn",
+            "20th",
+            "21st",
+            "centuri",
+            "nearli",
+            "quarter",
+            "print",
+            "materi",
+            "japan",
+            "comic"
+        ],
         "synonyms": [
             "turning",
             "twentieth",
@@ -25919,7 +26905,7 @@
             "japan",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "turn",
                 "NN"
@@ -26227,6 +27213,20 @@
         ],
         "ner_tag": "{'translations': 'O', 'became': 'O', 'extremely': 'O', 'popular': 'O', 'in': 'O', 'foreign': 'O', 'markets': 'O', '—': 'O', 'some': 'O', 'cases': 'O', 'equaling': 'O', 'or': 'O', 'surpassing': 'O', 'the': 'O', 'sales': 'O', 'of': 'O', 'domestic': 'O', 'comics': 'O', '.': 'O'}",
         "sentence": "translations became extremely popular in foreign markets—in some cases equaling or surpassing the sales of domestic comics.",
+        "stems": [
+            "translat",
+            "becam",
+            "extrem",
+            "popular",
+            "foreign",
+            "markets—in",
+            "case",
+            "equal",
+            "surpass",
+            "sale",
+            "domest",
+            "comic"
+        ],
         "synonyms": [
             "translation",
             "become",
@@ -26241,7 +27241,7 @@
             "domestic",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "translations",
                 "NNS"
@@ -26510,6 +27510,18 @@
         ],
         "ner_tag": "{'Comic': 'O', 'strips': 'O', 'are': 'O', 'generally': 'O', 'short': 'O', ',': 'O', 'multipanel': 'O', 'comics': 'O', 'that': 'O', 'traditionally': 'O', 'most': 'O', 'commonly': 'O', 'appeared': 'O', 'in': 'O', 'newspapers': 'O', '.': 'O'}",
         "sentence": "Comic strips are generally short, multipanel comics that traditionally most commonly appeared in newspapers.",
+        "stems": [
+            "comic",
+            "strip",
+            "gener",
+            "short",
+            "multipanel",
+            "comic",
+            "tradit",
+            "commonli",
+            "appear",
+            "newspap"
+        ],
         "synonyms": [
             "comedian",
             "strip",
@@ -26522,7 +27534,7 @@
             "look",
             "newspaper"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comic",
                 "JJ"
@@ -26851,6 +27863,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'US': 'COUNTRY', ',': 'O', 'daily': 'SET', 'strips': 'O', 'have': 'O', 'normally': 'O', 'occupied': 'O', 'a': 'O', 'single': 'O', 'tier': 'TITLE', 'while': 'O', 'Sunday': 'DATE', 'been': 'O', 'given': 'O', 'multiple': 'O', 'tiers': 'O', '.': 'O'}",
         "sentence": "In the US, daily strips have normally occupied a single tier, while Sunday strips have been given multiple tiers.",
+        "stems": [
+            "us",
+            "daili",
+            "strip",
+            "normal",
+            "occupi",
+            "singl",
+            "tier",
+            "sunday",
+            "strip",
+            "given",
+            "multipl",
+            "tier"
+        ],
         "synonyms": [
             "uranium",
             "daily",
@@ -26865,7 +27891,7 @@
             "multiple",
             "tier"
         ],
-        "tagged": [
+        "tags": [
             [
                 "us",
                 "PRP"
@@ -27282,6 +28308,22 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'DATE', 'early': 'DATE', '20th': 'DATE', 'century': 'DATE', ',': 'O', 'daily': 'SET', 'strips': 'O', 'were': 'O', 'typically': 'O', 'in': 'O', 'black': 'O', '-': 'O', 'and': 'O', 'white': 'O', 'Sundays': 'DATE', 'usually': 'O', 'colour': 'O', 'often': 'O', 'occupied': 'O', 'a': 'O', 'full': 'O', 'page': 'O', '.': 'O'}",
         "sentence": "In the early 20th century, daily strips were typically in black-and-white and Sundays were usually in colour and often occupied a full page.",
+        "stems": [
+            "earli",
+            "20th",
+            "centuri",
+            "daili",
+            "strip",
+            "typic",
+            "black-and-whit",
+            "sunday",
+            "usual",
+            "colour",
+            "often",
+            "occupi",
+            "full",
+            "page"
+        ],
         "synonyms": [
             "early",
             "twentieth",
@@ -27298,7 +28340,7 @@
             "fully",
             "page"
         ],
-        "tagged": [
+        "tags": [
             [
                 "early",
                 "RB"
@@ -27510,6 +28552,16 @@
         ],
         "ner_tag": "{'Specialized': 'O', 'comics': 'O', 'periodicals': 'O', 'formats': 'O', 'vary': 'O', 'greatly': 'O', 'in': 'O', 'different': 'O', 'cultures': 'O', '.': 'O'}",
         "sentence": "Specialized comics periodicals formats vary greatly in different cultures.",
+        "stems": [
+            "special",
+            "comic",
+            "period",
+            "format",
+            "vari",
+            "greatli",
+            "differ",
+            "cultur"
+        ],
         "synonyms": [
             "speciate",
             "comic_strip",
@@ -27520,7 +28572,7 @@
             "unlike",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "specialized",
                 "JJ"
@@ -27768,6 +28820,18 @@
         "meronyms": [],
         "ner_tag": "{'Comic': 'O', 'books': 'O', ',': 'O', 'primarily': 'O', 'an': 'O', 'American': 'NATIONALITY', 'format': 'O', 'are': 'O', 'thin': 'O', 'periodicals': 'O', 'usually': 'O', 'published': 'O', 'in': 'O', 'colour': 'O', '.': 'O'}",
         "sentence": "Comic books, primarily an American format, are thin periodicals usually published in colour.",
+        "stems": [
+            "comic",
+            "book",
+            "primarili",
+            "american",
+            "format",
+            "thin",
+            "period",
+            "usual",
+            "publish",
+            "colour"
+        ],
         "synonyms": [
             "comedian",
             "script",
@@ -27780,7 +28844,7 @@
             "published",
             "color"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comic",
                 "JJ"
@@ -28176,6 +29240,20 @@
         ],
         "ner_tag": "{'European': 'NATIONALITY', 'and': 'O', 'Japanese': 'NATIONALITY', 'comics': 'O', 'are': 'O', 'frequently': 'O', 'serialized': 'O', 'in': 'O', 'magazines': 'O', '—': 'O', 'monthly': 'SET', 'or': 'O', 'weekly': 'SET', 'Europe': 'LOCATION', ',': 'O', 'usually': 'O', 'black': 'O', '-': 'O', 'white': 'O', 'Japan': 'COUNTRY', '.': 'O'}",
         "sentence": "European and Japanese comics are frequently serialized in magazines—monthly or weekly in Europe, and usually black-and-white and weekly in Japan.",
+        "stems": [
+            "european",
+            "japanes",
+            "comic",
+            "frequent",
+            "serial",
+            "magazines—monthli",
+            "weekli",
+            "europ",
+            "usual",
+            "black-and-whit",
+            "weekli",
+            "japan"
+        ],
         "synonyms": [
             "European",
             "Japanese",
@@ -28190,7 +29268,7 @@
             "weekly",
             "japan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "european",
                 "JJ"
@@ -28390,6 +29468,15 @@
         ],
         "ner_tag": "{'Japanese': 'NATIONALITY', 'comics': 'O', 'magazine': 'O', 'typically': 'O', 'run': 'O', 'to': 'O', 'hundreds': 'O', 'of': 'O', 'pages': 'O', '.': 'O'}",
         "sentence": "Japanese comics magazine typically run to hundreds of pages.",
+        "stems": [
+            "japanes",
+            "comic",
+            "magazin",
+            "typic",
+            "run",
+            "hundr",
+            "page"
+        ],
         "synonyms": [
             "Japanese",
             "comic_strip",
@@ -28399,7 +29486,7 @@
             "hundred",
             "page"
         ],
-        "tagged": [
+        "tags": [
             [
                 "japanese",
                 "JJ"
@@ -28581,6 +29668,15 @@
         ],
         "ner_tag": "{'Book': 'O', '-': 'O', 'length': 'O', 'comics': 'O', 'take': 'O', 'different': 'O', 'forms': 'O', 'in': 'O', 'cultures': 'O', '.': 'O'}",
         "sentence": "Book-length comics take different forms in different cultures.",
+        "stems": [
+            "book-length",
+            "comic",
+            "take",
+            "differ",
+            "form",
+            "differ",
+            "cultur"
+        ],
         "synonyms": [
             "book-length",
             "comic_strip",
@@ -28590,7 +29686,7 @@
             "unlike",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "book-length",
                 "JJ"
@@ -28812,6 +29908,16 @@
         ],
         "ner_tag": "{'European': 'NATIONALITY', 'comics': 'O', 'albums': 'O', 'are': 'O', 'most': 'O', 'commonly': 'O', 'printed': 'O', 'in': 'O', 'A4': 'O', '-': 'O', 'size': 'O', 'colour': 'O', 'volumes': 'O', '.': 'O'}",
         "sentence": "European comics albums are most commonly printed in A4-size colour volumes.",
+        "stems": [
+            "european",
+            "comic",
+            "album",
+            "commonli",
+            "print",
+            "a4-siz",
+            "colour",
+            "volum"
+        ],
         "synonyms": [
             "European",
             "comic_strip",
@@ -28822,7 +29928,7 @@
             "color",
             "volume"
         ],
-        "tagged": [
+        "tags": [
             [
                 "european",
                 "JJ"
@@ -29133,6 +30239,19 @@
         ],
         "ner_tag": "{'In': 'O', 'English': 'MISC', '-': 'MISC', 'speaking': 'MISC', 'countries': 'O', ',': 'O', 'bound': 'O', 'volumes': 'O', 'of': 'O', 'comics': 'O', 'are': 'O', 'called': 'O', 'graphic': 'O', 'novels': 'O', 'and': 'O', 'available': 'O', 'in': 'O', 'various': 'O', 'formats': 'O', '.': 'O'}",
         "sentence": "In English-speaking countries, bound volumes of comics are called graphic novels and are available in various formats.",
+        "stems": [
+            "english-speak",
+            "countri",
+            "bound",
+            "volum",
+            "comic",
+            "call",
+            "graphic",
+            "novel",
+            "avail",
+            "variou",
+            "format"
+        ],
         "synonyms": [
             "English-speaking",
             "state",
@@ -29146,7 +30265,7 @@
             "versatile",
             "format"
         ],
-        "tagged": [
+        "tags": [
             [
                 "english-speaking",
                 "JJ"
@@ -29567,6 +30686,29 @@
         "meronyms": [],
         "ner_tag": "{'Despite': 'O', 'incorporating': 'O', 'the': 'O', 'term': 'O', '``': 'O', 'novel': 'O', \"''\": 'O', '—': 'O', 'a': 'O', 'normally': 'O', 'associated': 'O', 'with': 'O', 'fiction': 'O', 'graphic': 'O', 'also': 'O', 'refers': 'O', 'to': 'O', 'non-fiction': 'O', 'and': 'O', 'collections': 'O', 'of': 'O', 'short': 'O', 'works': 'O', '.': 'O'}",
         "sentence": "Despite incorporating the term \"novel\"—a term normally associated with fiction—\"graphic novel\" also refers to non-fiction and collections of short works.",
+        "stems": [
+            "despit",
+            "incorpor",
+            "term",
+            "``",
+            "novel",
+            "''",
+            "—a",
+            "term",
+            "normal",
+            "associ",
+            "fiction—",
+            "''",
+            "graphic",
+            "novel",
+            "''",
+            "also",
+            "refer",
+            "non-fict",
+            "collect",
+            "short",
+            "work"
+        ],
         "synonyms": [
             "contempt",
             "integrate",
@@ -29590,7 +30732,7 @@
             "shortstop",
             "works"
         ],
-        "tagged": [
+        "tags": [
             [
                 "despite",
                 "IN"
@@ -29863,6 +31005,17 @@
         ],
         "ner_tag": "{'Japanese': 'NATIONALITY', 'comics': 'O', 'are': 'O', 'collected': 'O', 'in': 'O', 'volumes': 'O', 'called': 'O', 'tankōbon': 'O', 'following': 'O', 'magazine': 'O', 'serialization': 'O', '.': 'O'}",
         "sentence": "Japanese comics are collected in volumes called tankōbon following magazine serialization.",
+        "stems": [
+            "japanes",
+            "comic",
+            "collect",
+            "volum",
+            "call",
+            "tankōbon",
+            "follow",
+            "magazin",
+            "serial"
+        ],
         "synonyms": [
             "Japanese",
             "comic_strip",
@@ -29874,7 +31027,7 @@
             "magazine",
             "serialization"
         ],
-        "tagged": [
+        "tags": [
             [
                 "japanese",
                 "JJ"
@@ -30167,6 +31320,20 @@
         ],
         "ner_tag": "{'Gag': 'O', 'and': 'O', 'editorial': 'O', 'cartoons': 'O', 'usually': 'O', 'consist': 'O', 'of': 'O', 'a': 'O', 'single': 'O', 'panel': 'O', ',': 'O', 'often': 'O', 'incorporating': 'O', 'caption': 'O', 'or': 'O', 'speech': 'O', 'balloon': 'O', '.': 'O'}",
         "sentence": "Gag and editorial cartoons usually consist of a single panel, often incorporating a caption or speech balloon.",
+        "stems": [
+            "gag",
+            "editori",
+            "cartoon",
+            "usual",
+            "consist",
+            "singl",
+            "panel",
+            "often",
+            "incorpor",
+            "caption",
+            "speech",
+            "balloon"
+        ],
         "synonyms": [
             "joke",
             "editorial",
@@ -30181,7 +31348,7 @@
             "lecture",
             "balloon"
         ],
-        "tagged": [
+        "tags": [
             [
                 "gag",
                 "JJ"
@@ -30668,6 +31835,24 @@
         ],
         "ner_tag": "{'Definitions': 'O', 'of': 'O', 'comics': 'O', 'which': 'O', 'emphasize': 'O', 'sequence': 'O', 'usually': 'O', 'exclude': 'O', 'gag': 'O', ',': 'O', 'editorial': 'O', 'and': 'O', 'other': 'O', 'single': 'O', '-': 'O', 'panel': 'O', 'cartoons': 'O', ';': 'O', 'they': 'O', 'can': 'O', 'be': 'O', 'included': 'O', 'in': 'O', 'definitions': 'O', 'that': 'O', 'the': 'O', 'combination': 'O', 'word': 'O', 'image': 'O', '.': 'O'}",
         "sentence": "Definitions of comics which emphasize sequence usually exclude gag, editorial, and other single-panel cartoons; they can be included in definitions that emphasize the combination of word and image.",
+        "stems": [
+            "definit",
+            "comic",
+            "emphas",
+            "sequenc",
+            "usual",
+            "exclud",
+            "gag",
+            "editori",
+            "single-panel",
+            "cartoon",
+            "includ",
+            "definit",
+            "emphas",
+            "combin",
+            "word",
+            "imag"
+        ],
         "synonyms": [
             "definition",
             "comic_strip",
@@ -30686,7 +31871,7 @@
             "word",
             "trope"
         ],
-        "tagged": [
+        "tags": [
             [
                 "definitions",
                 "NNS"
@@ -31293,6 +32478,32 @@
         ],
         "ner_tag": "{'Gag': 'O', 'cartoons': 'O', 'first': 'ORDINAL', 'began': 'O', 'to': 'O', 'proliferate': 'O', 'in': 'O', 'broadsheets': 'O', 'published': 'O', 'Europe': 'LOCATION', 'the': 'O', '18th': 'ORDINAL', 'and': 'O', '19th': 'DATE', 'centuries': 'DATE', ',': 'O', 'term': 'O', '``': 'O', 'cartoon': 'O', \"''\": 'O', '[': 'O', 'h': 'O', ']': 'O', 'was': 'O', 'used': 'O', 'describe': 'O', 'them': 'O', '1843': 'DATE', 'British': 'NATIONALITY', 'humour': 'O', 'magazine': 'O', 'Punch': 'O', '.': 'O'}",
         "sentence": "Gag cartoons first began to proliferate in broadsheets published in Europe in the 18th and 19th centuries, and the term \"cartoon\"[h] was first used to describe them in 1843 in the British humour magazine Punch.",
+        "stems": [
+            "gag",
+            "cartoon",
+            "first",
+            "began",
+            "prolifer",
+            "broadsheet",
+            "publish",
+            "europ",
+            "18th",
+            "19th",
+            "centuri",
+            "term",
+            "``",
+            "cartoon",
+            "''",
+            "h",
+            "first",
+            "use",
+            "describ",
+            "1843",
+            "british",
+            "humour",
+            "magazin",
+            "punch"
+        ],
         "synonyms": [
             "joke",
             "cartoon",
@@ -31319,7 +32530,7 @@
             "magazine",
             "punch"
         ],
-        "tagged": [
+        "tags": [
             [
                 "gag",
                 "NN"
@@ -31810,6 +33021,25 @@
         ],
         "ner_tag": "{'Comics': 'O', 'in': 'O', 'the': 'O', 'US': 'COUNTRY', 'has': 'O', 'had': 'O', 'a': 'O', 'lowbrow': 'O', 'reputation': 'O', 'stemming': 'O', 'from': 'O', 'its': 'O', 'roots': 'O', 'mass': 'O', 'culture': 'O', ';': 'O', 'cultural': 'O', 'elites': 'O', 'sometimes': 'O', 'saw': 'O', 'popular': 'O', 'as': 'O', 'threatening': 'O', 'and': 'O', 'society': 'O', '.': 'O'}",
         "sentence": "Comics in the US has had a lowbrow reputation stemming from its roots in mass culture; cultural elites sometimes saw popular culture as threatening culture and society.",
+        "stems": [
+            "comic",
+            "us",
+            "lowbrow",
+            "reput",
+            "stem",
+            "root",
+            "mass",
+            "cultur",
+            "cultur",
+            "elit",
+            "sometim",
+            "saw",
+            "popular",
+            "cultur",
+            "threaten",
+            "cultur",
+            "societi"
+        ],
         "synonyms": [
             "comic_strip",
             "uranium",
@@ -31829,7 +33059,7 @@
             "polish",
             "society"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comics",
                 "NNS"
@@ -32256,6 +33486,22 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'latter': 'DATE', 'half': 'DATE', 'of': 'DATE', '20th': 'DATE', 'century': 'DATE', ',': 'O', 'popular': 'O', 'culture': 'O', 'won': 'O', 'greater': 'O', 'acceptance': 'O', 'and': 'O', 'lines': 'O', 'between': 'O', 'high': 'O', 'low': 'O', 'began': 'O', 'to': 'O', 'blur': 'O', '.': 'O'}",
         "sentence": "In the latter half of the 20th century, popular culture won greater acceptance, and the lines between high and low culture began to blur.",
+        "stems": [
+            "latter",
+            "half",
+            "20th",
+            "centuri",
+            "popular",
+            "cultur",
+            "greater",
+            "accept",
+            "line",
+            "high",
+            "low",
+            "cultur",
+            "began",
+            "blur"
+        ],
         "synonyms": [
             "latter",
             "one-half",
@@ -32272,7 +33518,7 @@
             "begin",
             "smear"
         ],
-        "tagged": [
+        "tags": [
             [
                 "latter",
                 "JJ"
@@ -32586,6 +33832,17 @@
         ],
         "ner_tag": "{'Comics': 'O', 'nevertheless': 'O', 'continued': 'O', 'to': 'O', 'be': 'O', 'stigmatized': 'O', ',': 'O', 'as': 'O', 'the': 'O', 'medium': 'O', 'was': 'O', 'seen': 'O', 'entertainment': 'O', 'for': 'O', 'children': 'O', 'and': 'O', 'illiterates': 'O', '.': 'O'}",
         "sentence": "Comics nevertheless continued to be stigmatized, as the medium was seen as entertainment for children and illiterates.",
+        "stems": [
+            "comic",
+            "nevertheless",
+            "continu",
+            "stigmat",
+            "medium",
+            "seen",
+            "entertain",
+            "children",
+            "illiter"
+        ],
         "synonyms": [
             "comic_strip",
             "however",
@@ -32597,7 +33854,7 @@
             "child",
             "illiterate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comics",
                 "NNS"
@@ -33006,6 +34263,20 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'graphic': 'O', 'novel': 'O', '—': 'O', 'book': 'O', '-': 'O', 'length': 'O', 'comics': 'O', 'began': 'O', 'to': 'O', 'gain': 'O', 'attention': 'O', 'after': 'O', 'Will': 'PERSON', 'Eisner': 'PERSON', 'popularized': 'O', 'the': 'O', 'term': 'O', 'with': 'O', 'his': 'O', 'A': 'O', 'Contract': 'O', 'God': 'O', '(': 'O', '1978': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "The graphic novel—book-length comics—began to gain attention after Will Eisner popularized the term with his book A Contract with God (1978).",
+        "stems": [
+            "graphic",
+            "novel—book-length",
+            "comics—began",
+            "gain",
+            "attent",
+            "eisner",
+            "popular",
+            "term",
+            "book",
+            "contract",
+            "god",
+            "1978"
+        ],
         "synonyms": [
             "graphic",
             "novel—book-length",
@@ -33020,7 +34291,7 @@
             "idol",
             "1978"
         ],
-        "tagged": [
+        "tags": [
             [
                 "graphic",
                 "JJ"
@@ -33402,6 +34673,21 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'term': 'O', 'became': 'O', 'widely': 'O', 'known': 'O', 'with': 'O', 'the': 'DATE', 'public': 'O', 'after': 'O', 'commercial': 'O', 'success': 'O', 'of': 'O', 'Maus': 'O', ',': 'O', 'Watchmen': 'O', 'and': 'O', 'Dark': 'O', 'Knight': 'O', 'Returns': 'O', 'in': 'O', 'mid-1980s': 'DATE', '.': 'O'}",
         "sentence": "The term became widely known with the public after the commercial success of Maus, Watchmen, and The Dark Knight Returns in the mid-1980s.",
+        "stems": [
+            "term",
+            "becam",
+            "wide",
+            "known",
+            "public",
+            "commerci",
+            "success",
+            "mau",
+            "watchmen",
+            "dark",
+            "knight",
+            "return",
+            "mid-1980"
+        ],
         "synonyms": [
             "terminus",
             "become",
@@ -33417,7 +34703,7 @@
             "revert",
             "mid-1980s"
         ],
-        "tagged": [
+        "tags": [
             [
                 "term",
                 "NN"
@@ -33721,6 +35007,20 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'DATE', '21st': 'DATE', 'century': 'DATE', 'graphic': 'O', 'novels': 'O', 'became': 'O', 'established': 'O', 'in': 'O', 'mainstream': 'O', 'bookstores': 'O', 'and': 'O', 'libraries': 'O', 'webcomics': 'O', 'common': 'O', '.': 'O'}",
         "sentence": "In the 21st century graphic novels became established in mainstream bookstores and libraries and webcomics became common.",
+        "stems": [
+            "21st",
+            "centuri",
+            "graphic",
+            "novel",
+            "becam",
+            "establish",
+            "mainstream",
+            "bookstor",
+            "librari",
+            "webcom",
+            "becam",
+            "common"
+        ],
         "synonyms": [
             "twenty-first",
             "century",
@@ -33735,7 +35035,7 @@
             "become",
             "park"
         ],
-        "tagged": [
+        "tags": [
             [
                 "21st",
                 "JJ"
@@ -34038,6 +35338,21 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'francophone': 'O', 'Swiss': 'NATIONALITY', 'Rodolphe': 'PERSON', 'Töpffer': 'PERSON', 'produced': 'O', 'comic': 'O', 'strips': 'O', 'beginning': 'DATE', 'in': 'DATE', '1827': 'DATE', ',': 'O', 'and': 'O', 'published': 'O', 'theories': 'O', 'behind': 'O', 'the': 'O', 'form': 'O', '.': 'O'}",
         "sentence": "The francophone Swiss Rodolphe Töpffer produced comic strips beginning in 1827, and published theories behind the form.",
+        "stems": [
+            "francophon",
+            "swiss",
+            "rodolph",
+            "töpffer",
+            "produc",
+            "comic",
+            "strip",
+            "begin",
+            "1827",
+            "publish",
+            "theori",
+            "behind",
+            "form"
+        ],
         "synonyms": [
             "francophone",
             "Swiss",
@@ -34053,7 +35368,7 @@
             "behind",
             "shape"
         ],
-        "tagged": [
+        "tags": [
             [
                 "francophone",
                 "NN"
@@ -34279,6 +35594,15 @@
         ],
         "ner_tag": "{'Cartoons': 'O', 'appeared': 'O', 'widely': 'O', 'in': 'O', 'newspapers': 'O', 'and': 'O', 'magazines': 'O', 'from': 'O', 'the': 'DATE', '19th': 'DATE', 'century': 'DATE', '.': 'O'}",
         "sentence": "Cartoons appeared widely in newspapers and magazines from the 19th century.",
+        "stems": [
+            "cartoon",
+            "appear",
+            "wide",
+            "newspap",
+            "magazin",
+            "19th",
+            "centuri"
+        ],
         "synonyms": [
             "cartoon",
             "look",
@@ -34288,7 +35612,7 @@
             "nineteenth",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cartoons",
                 "NNS"
@@ -34677,6 +36001,23 @@
         ],
         "ner_tag": "{'The': 'O', 'success': 'O', 'of': 'O', 'Zig': 'PERSON', 'et': 'O', 'Puce': 'O', 'in': 'O', '1925': 'DATE', 'popularized': 'O', 'the': 'O', 'use': 'O', 'speech': 'O', 'balloons': 'O', 'European': 'NATIONALITY', 'comics': 'O', ',': 'O', 'after': 'O', 'which': 'O', 'Franco': 'MISC', '-': 'MISC', 'Belgian': 'MISC', 'began': 'O', 'to': 'O', 'dominate': 'O', '.': 'O'}",
         "sentence": "The success of Zig et Puce in 1925 popularized the use of speech balloons in European comics, after which Franco-Belgian comics began to dominate.",
+        "stems": [
+            "success",
+            "zig",
+            "et",
+            "puce",
+            "1925",
+            "popular",
+            "use",
+            "speech",
+            "balloon",
+            "european",
+            "comic",
+            "franco-belgian",
+            "comic",
+            "began",
+            "domin"
+        ],
         "synonyms": [
             "success",
             "zigzag",
@@ -34694,7 +36035,7 @@
             "begin",
             "predominate"
         ],
-        "tagged": [
+        "tags": [
             [
                 "success",
                 "NN"
@@ -35187,6 +36528,25 @@
         ],
         "ner_tag": "{'The': 'O', 'Adventures': 'MISC', 'of': 'O', 'Tintin': 'MISC', ',': 'O', 'with': 'O', 'its': 'O', 'signature': 'O', 'clear': 'O', 'line': 'O', 'style': 'O', 'was': 'O', 'first': 'ORDINAL', 'serialized': 'O', 'in': 'DATE', 'newspaper': 'O', 'comics': 'O', 'supplements': 'O', 'beginning': 'DATE', '1929': 'DATE', 'and': 'O', 'became': 'O', 'an': 'O', 'icon': 'O', 'Franco': 'MISC', '-': 'MISC', 'Belgian': 'MISC', '.': 'O'}",
         "sentence": "The Adventures of Tintin, with its signature clear line style, was first serialized in newspaper comics supplements beginning in 1929, and became an icon of Franco-Belgian comics.",
+        "stems": [
+            "adventur",
+            "tintin",
+            "signatur",
+            "clear",
+            "line",
+            "style",
+            "first",
+            "serial",
+            "newspap",
+            "comic",
+            "supplement",
+            "begin",
+            "1929",
+            "becam",
+            "icon",
+            "franco-belgian",
+            "comic"
+        ],
         "synonyms": [
             "gamble",
             "tintin",
@@ -35206,7 +36566,7 @@
             "franco-belgian",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "adventures",
                 "NNS"
@@ -35727,6 +37087,27 @@
         ],
         "ner_tag": "{'Following': 'O', 'the': 'DATE', 'success': 'O', 'of': 'O', 'Le': 'ORGANIZATION', 'Journal': 'ORGANIZATION', 'de': 'ORGANIZATION', 'Mickey': 'ORGANIZATION', '(': 'O', '1934': 'DATE', '–': 'O', '44': 'NUMBER', ')': 'O', ',': 'O', 'dedicated': 'O', 'comics': 'O', 'magazines': 'O', 'and': 'O', 'full': 'O', '-': 'O', 'colour': 'O', 'albums': 'O', 'became': 'O', 'primary': 'O', 'outlet': 'O', 'for': 'O', 'in': 'O', 'mid-20th': 'DATE', 'century': 'DATE', '.': 'O'}",
         "sentence": "Following the success of Le Journal de Mickey (1934–44), dedicated comics magazines and full-colour comics albums became the primary outlet for comics in the mid-20th century.",
+        "stems": [
+            "follow",
+            "success",
+            "le",
+            "journal",
+            "de",
+            "mickey",
+            "1934–44",
+            "dedic",
+            "comic",
+            "magazin",
+            "full-colour",
+            "comic",
+            "album",
+            "becam",
+            "primari",
+            "outlet",
+            "comic",
+            "mid-20th",
+            "centuri"
+        ],
         "synonyms": [
             "take_after",
             "success",
@@ -35748,7 +37129,7 @@
             "mid-20th",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "following",
                 "VBG"
@@ -36492,6 +37873,32 @@
         ],
         "ner_tag": "{'As': 'O', 'in': 'O', 'the': 'O', 'US': 'COUNTRY', ',': 'O', 'at': 'O', 'time': 'DATE', 'comics': 'O', 'were': 'O', 'seen': 'O', 'as': 'O', 'infantile': 'O', 'and': 'O', 'a': 'O', 'threat': 'O', 'to': 'O', 'culture': 'O', 'literacy': 'O', ';': 'O', 'commentators': 'O', 'stated': 'O', 'that': 'O', '``': 'O', 'none': 'O', 'bear': 'O', 'up': 'O', 'slightest': 'O', 'serious': 'O', 'analysis': 'O', \"''\": 'O', '[': 'O', 'c': 'O', ']': 'O', 'sabotage': 'O', 'of': 'O', 'all': 'O', 'art': 'O', 'literature': 'O', '.': 'O'}",
         "sentence": "As in the US, at the time comics were seen as infantile and a threat to culture and literacy; commentators stated that \"none bear up to the slightest serious analysis\",[c] and that comics were \"the sabotage of all art and all literature\".",
+        "stems": [
+            "us",
+            "time",
+            "comic",
+            "seen",
+            "infantil",
+            "threat",
+            "cultur",
+            "literaci",
+            "comment",
+            "state",
+            "``",
+            "none",
+            "bear",
+            "slightest",
+            "seriou",
+            "analysi",
+            "''",
+            "c",
+            "comic",
+            "``",
+            "sabotag",
+            "art",
+            "literatur",
+            "''"
+        ],
         "synonyms": [
             "uranium",
             "time",
@@ -36518,7 +37925,7 @@
             "literature",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "us",
                 "PRP"
@@ -36982,6 +38389,22 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'd': 'O', ']': 'O', 'In': 'O', 'the': 'O', '1960s': 'DATE', ',': 'O', 'term': 'O', 'bandes': 'O', 'dessinées': 'O', '(': 'O', '``': 'O', 'drawn': 'O', 'strips': 'O', \"''\": 'O', ')': 'O', 'came': 'O', 'into': 'O', 'wide': 'O', 'use': 'O', 'in': 'O', 'French': 'NATIONALITY', 'to': 'O', 'denote': 'O', 'medium': 'O', '.': 'O'}",
         "sentence": "[d] In the 1960s, the term bandes dessinées (\"drawn strips\") came into wide use in French to denote the medium.",
+        "stems": [
+            "1960",
+            "term",
+            "band",
+            "dessiné",
+            "``",
+            "drawn",
+            "strip",
+            "''",
+            "came",
+            "wide",
+            "use",
+            "french",
+            "denot",
+            "medium"
+        ],
         "synonyms": [
             "sixties",
             "terminus",
@@ -36998,7 +38421,7 @@
             "denote",
             "medium"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1960s",
                 "CD"
@@ -37498,6 +38921,28 @@
         ],
         "ner_tag": "{'Cartoonists': 'O', 'began': 'O', 'creating': 'O', 'comics': 'O', 'for': 'O', 'mature': 'O', 'audiences': 'O', ',': 'O', 'and': 'O', 'the': 'O', 'term': 'O', '``': 'O', 'Ninth': 'ORDINAL', 'Art': 'O', \"''\": 'O', '[': 'O', 'e': 'O', ']': 'O', 'was': 'O', 'coined': 'O', 'as': 'O', 'to': 'O', 'attract': 'O', 'public': 'O', 'academic': 'O', 'attention': 'O', 'an': 'O', 'artform': 'O', '.': 'O'}",
         "sentence": "Cartoonists began creating comics for mature audiences, and the term \"Ninth Art\"[e] was coined, as comics began to attract public and academic attention as an artform.",
+        "stems": [
+            "cartoonist",
+            "began",
+            "creat",
+            "comic",
+            "matur",
+            "audienc",
+            "term",
+            "``",
+            "ninth",
+            "art",
+            "''",
+            "e",
+            "coin",
+            "comic",
+            "began",
+            "attract",
+            "public",
+            "academ",
+            "attent",
+            "artform"
+        ],
         "synonyms": [
             "cartoonist",
             "begin",
@@ -37520,7 +38965,7 @@
             "attention",
             "artform"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cartoonists",
                 "NNS"
@@ -37913,6 +39358,23 @@
         ],
         "ner_tag": "{'A': 'O', 'group': 'O', 'including': 'O', 'René': 'PERSON', 'Goscinny': 'PERSON', 'and': 'O', 'Albert': 'PERSON', 'Uderzo': 'PERSON', 'founded': 'O', 'the': 'O', 'magazine': 'O', 'Pilote': 'O', 'in': 'O', '1959': 'DATE', 'to': 'O', 'give': 'O', 'artists': 'O', 'greater': 'O', 'freedom': 'O', 'over': 'O', 'their': 'O', 'work': 'O', '.': 'O'}",
         "sentence": "A group including René Goscinny and Albert Uderzo founded the magazine Pilote in 1959 to give artists greater freedom over their work.",
+        "stems": [
+            "group",
+            "includ",
+            "rené",
+            "goscinni",
+            "albert",
+            "uderzo",
+            "found",
+            "magazin",
+            "pilot",
+            "1959",
+            "give",
+            "artist",
+            "greater",
+            "freedom",
+            "work"
+        ],
         "synonyms": [
             "group",
             "include",
@@ -37930,7 +39392,7 @@
             "freedom",
             "workplace"
         ],
-        "tagged": [
+        "tags": [
             [
                 "group",
                 "NN"
@@ -38329,6 +39791,20 @@
         ],
         "ner_tag": "{'Goscinny': 'PERSON', 'and': 'O', 'Uderzo': 'PERSON', \"'s\": 'O', 'The': 'O', 'Adventures': 'O', 'of': 'O', 'Asterix': 'PERSON', 'appeared': 'O', 'in': 'O', 'it': 'O', 'went': 'O', 'on': 'O', 'to': 'O', 'become': 'O', 'the': 'O', 'best': 'O', '-': 'MISC', 'selling': 'O', 'French': 'MISC', 'language': 'MISC', 'comics': 'O', 'series': 'O', '.': 'O'}",
         "sentence": "Goscinny and Uderzo's The Adventures of Asterix appeared in it and went on to become the best-selling French-language comics series.",
+        "stems": [
+            "goscinni",
+            "uderzo",
+            "'s",
+            "adventur",
+            "asterix",
+            "appear",
+            "went",
+            "becom",
+            "best-sel",
+            "french-languag",
+            "comic",
+            "seri"
+        ],
         "synonyms": [
             "goscinny",
             "uderzo",
@@ -38343,7 +39819,7 @@
             "comic_strip",
             "series"
         ],
-        "tagged": [
+        "tags": [
             [
                 "goscinny",
                 "JJ"
@@ -38739,6 +40215,21 @@
         ],
         "ner_tag": "{'From': 'O', '1960': 'DATE', ',': 'O', 'the': 'O', 'satirical': 'O', 'and': 'O', 'taboo': 'O', '-': 'MISC', 'breaking': 'O', 'Hara': 'MISC', 'Kiri': 'MISC', 'defied': 'O', 'censorship': 'O', 'laws': 'O', 'in': 'O', 'countercultural': 'O', 'spirit': 'O', 'that': 'O', 'led': 'O', 'to': 'O', 'May': 'DATE', '1968': 'DATE', 'events': 'O', '.': 'O'}",
         "sentence": "From 1960, the satirical and taboo-breaking Hara-Kiri defied censorship laws in the countercultural spirit that led to the May 1968 events.",
+        "stems": [
+            "1960",
+            "satir",
+            "taboo-break",
+            "hara-kiri",
+            "defi",
+            "censorship",
+            "law",
+            "countercultur",
+            "spirit",
+            "led",
+            "may",
+            "1968",
+            "event"
+        ],
         "synonyms": [
             "1960",
             "satirical",
@@ -38754,7 +40245,7 @@
             "1968",
             "event"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1960",
                 "CD"
@@ -39131,6 +40622,22 @@
         "meronyms": [],
         "ner_tag": "{'Frustration': 'O', 'with': 'O', 'censorship': 'O', 'and': 'O', 'editorial': 'O', 'interference': 'O', 'led': 'O', 'to': 'O', 'a': 'O', 'group': 'O', 'of': 'O', 'Pilote': 'O', 'cartoonists': 'O', 'found': 'O', 'the': 'O', 'adults': 'O', '-': 'O', 'only': 'O', \"L'Écho\": 'O', 'des': 'O', 'savanes': 'O', 'in': 'O', '1972': 'DATE', '.': 'O'}",
         "sentence": "Frustration with censorship and editorial interference led to a group of Pilote cartoonists to found the adults-only L'Écho des savanes in 1972.",
+        "stems": [
+            "frustrat",
+            "censorship",
+            "editori",
+            "interfer",
+            "led",
+            "group",
+            "pilot",
+            "cartoonist",
+            "found",
+            "adults-onli",
+            "l'écho",
+            "de",
+            "savan",
+            "1972"
+        ],
         "synonyms": [
             "frustration",
             "censoring",
@@ -39147,7 +40654,7 @@
             "savanes",
             "1972"
         ],
-        "tagged": [
+        "tags": [
             [
                 "frustration",
                 "NN"
@@ -39689,6 +41196,28 @@
         ],
         "ner_tag": "{'Adult': 'O', '-': 'O', 'oriented': 'O', 'and': 'O', 'experimental': 'O', 'comics': 'O', 'flourished': 'O', 'in': 'O', 'the': 'O', '1970s': 'DATE', ',': 'O', 'such': 'O', 'as': 'O', 'science': 'O', 'fiction': 'O', 'of': 'O', 'Mœbius': 'O', 'others': 'O', 'Métal': 'LOCATION', 'hurlant': 'O', 'even': 'O', 'mainstream': 'O', 'publishers': 'O', 'took': 'O', 'to': 'O', 'publishing': 'O', 'prestige': 'O', 'format': 'O', 'adult': 'O', '.': 'O'}",
         "sentence": "Adult-oriented and experimental comics flourished in the 1970s, such as in the experimental science fiction of Mœbius and others in Métal hurlant, even mainstream publishers took to publishing prestige-format adult comics.",
+        "stems": [
+            "adult-ori",
+            "experiment",
+            "comic",
+            "flourish",
+            "1970",
+            "experiment",
+            "scienc",
+            "fiction",
+            "mœbiu",
+            "other",
+            "métal",
+            "hurlant",
+            "even",
+            "mainstream",
+            "publish",
+            "took",
+            "publish",
+            "prestige-format",
+            "adult",
+            "comic"
+        ],
         "synonyms": [
             "adult-oriented",
             "experimental",
@@ -39711,7 +41240,7 @@
             "adult",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "adult-oriented",
                 "JJ"
@@ -40451,6 +41980,32 @@
         ],
         "ner_tag": "{'Historical': 'O', 'narratives': 'O', 'of': 'O', 'manga': 'O', 'tend': 'O', 'to': 'O', 'focus': 'O', 'either': 'O', 'on': 'O', 'its': 'O', 'recent': 'O', ',': 'O', 'post-WWII': 'O', 'history': 'O', 'or': 'O', 'attempts': 'O', 'demonstrates': 'O', 'deep': 'O', 'roots': 'O', 'in': 'O', 'the': 'DATE', 'past': 'DATE', 'such': 'O', 'as': 'O', 'Chōjū': 'MISC', '-': 'DATE', 'jinbutsu': 'MISC', 'giga': 'MISC', 'picture': 'O', 'scroll': 'O', '12th': 'ORDINAL', 'and': 'DATE', '13th': 'DATE', 'centuries': 'DATE', 'early': 'DATE', '19th': 'DATE', 'century': 'DATE', 'Hokusai': 'PERSON', 'Manga': 'PERSON', '.': 'O'}",
         "sentence": "Historical narratives of manga tend to focus either on its recent, post-WWII history, or on attempts to demonstrates deep roots in the past, such as to the Chōjū-jinbutsu-giga picture scroll of the 12th and 13th centuries, or the early 19th-century Hokusai Manga.",
+        "stems": [
+            "histor",
+            "narr",
+            "manga",
+            "tend",
+            "focu",
+            "either",
+            "recent",
+            "post-wwii",
+            "histori",
+            "attempt",
+            "demonstr",
+            "deep",
+            "root",
+            "past",
+            "chōjū-jinbutsu-giga",
+            "pictur",
+            "scroll",
+            "12th",
+            "13th",
+            "centuri",
+            "earli",
+            "19th-centuri",
+            "hokusai",
+            "manga"
+        ],
         "synonyms": [
             "diachronic",
             "narrative",
@@ -40477,7 +42032,7 @@
             "Hokusai",
             "manga"
         ],
-        "tagged": [
+        "tags": [
             [
                 "historical",
                 "JJ"
@@ -40862,6 +42417,19 @@
         ],
         "ner_tag": "{'The': 'O', 'first': 'ORDINAL', 'historical': 'O', 'overview': 'O', 'of': 'O', 'Japanese': 'NATIONALITY', 'comics': 'O', 'was': 'O', 'Seiki': 'PERSON', 'Hosokibara': 'PERSON', \"'s\": 'O', 'Nihon': 'ORGANIZATION', 'Manga': 'ORGANIZATION', '-': 'ORGANIZATION', 'Shi': 'ORGANIZATION', '[': 'O', 'i': 'O', ']': 'O', 'in': 'O', '1924': 'DATE', '.': 'O'}",
         "sentence": "The first historical overview of Japanese comics was Seiki Hosokibara's Nihon Manga-Shi[i] in 1924.",
+        "stems": [
+            "first",
+            "histor",
+            "overview",
+            "japanes",
+            "comic",
+            "seiki",
+            "hosokibara",
+            "'s",
+            "nihon",
+            "manga-shi",
+            "1924"
+        ],
         "synonyms": [
             "first_gear",
             "diachronic",
@@ -40875,7 +42443,7 @@
             "manga-shi",
             "1924"
         ],
-        "tagged": [
+        "tags": [
             [
                 "first",
                 "RB"
@@ -41557,6 +43125,36 @@
         ],
         "ner_tag": "{'Early': 'O', 'post-war': 'O', 'Japanese': 'NATIONALITY', 'criticism': 'O', 'was': 'O', 'mostly': 'O', 'of': 'O', 'a': 'O', 'left': 'IDEOLOGY', '-': 'IDEOLOGY', 'wing': 'IDEOLOGY', 'political': 'O', 'nature': 'O', 'until': 'O', 'the': 'O', '1986': 'DATE', 'publication': 'O', 'for': 'O', 'Tomofusa': 'LOCATION', 'Kure': 'CITY', \"'s\": 'O', 'Modern': 'O', 'Manga': 'O', ':': 'O', 'The': 'O', 'Complete': 'O', 'Picture': 'O', ',': 'O', '[': 'O', 'j': 'O', ']': 'O', 'which': 'O', 'de-emphasized': 'O', 'politics': 'O', 'in': 'O', 'favour': 'O', 'formal': 'O', 'aspects': 'O', 'such': 'O', 'as': 'O', 'structure': 'O', 'and': 'O', '``': 'O', 'grammar': 'O', \"''\": 'O', 'comics': 'O', '.': 'O'}",
         "sentence": "Early post-war Japanese criticism was mostly of a left-wing political nature until the 1986 publication for Tomofusa Kure's Modern Manga: The Complete Picture,[j] which de-emphasized politics in favour of formal aspects, such as structure and a \"grammar\" of comics.",
+        "stems": [
+            "earli",
+            "post-war",
+            "japanes",
+            "critic",
+            "mostli",
+            "left-w",
+            "polit",
+            "natur",
+            "1986",
+            "public",
+            "tomofusa",
+            "kure",
+            "'s",
+            "modern",
+            "manga",
+            "complet",
+            "pictur",
+            "j",
+            "de-emphas",
+            "polit",
+            "favour",
+            "formal",
+            "aspect",
+            "structur",
+            "``",
+            "grammar",
+            "''",
+            "comic"
+        ],
         "synonyms": [
             "early",
             "post-war",
@@ -41587,7 +43185,7 @@
             "''",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "early",
                 "RB"
@@ -41967,6 +43565,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'field': 'O', 'of': 'O', 'manga': 'O', 'studies': 'O', 'increased': 'O', 'rapidly': 'O', ',': 'O', 'with': 'O', 'numerous': 'O', 'books': 'O', 'on': 'O', 'the': 'DATE', 'subject': 'O', 'appearing': 'O', 'in': 'O', '1990s': 'DATE', '.': 'O'}",
         "sentence": "The field of manga studies increased rapidly, with numerous books on the subject appearing in the 1990s.",
+        "stems": [
+            "field",
+            "manga",
+            "studi",
+            "increas",
+            "rapidli",
+            "numer",
+            "book",
+            "subject",
+            "appear",
+            "1990"
+        ],
         "synonyms": [
             "field",
             "manga",
@@ -41979,7 +43589,7 @@
             "look",
             "nineties"
         ],
-        "tagged": [
+        "tags": [
             [
                 "field",
                 "NN"
@@ -42667,6 +44277,34 @@
         ],
         "ner_tag": "{'Formal': 'O', 'theories': 'O', 'of': 'O', 'manga': 'O', 'have': 'O', 'focused': 'O', 'on': 'O', 'developing': 'O', 'a': 'O', '``': 'O', 'expression': 'O', 'theory': 'O', \"''\": 'O', ',': 'O', '[': 'O', 'k': 'NUMBER', ']': 'O', 'with': 'O', 'emphasis': 'O', 'spatial': 'O', 'relationships': 'O', 'in': 'O', 'the': 'O', 'structure': 'O', 'images': 'O', 'page': 'O', 'distinguishing': 'O', 'medium': 'O', 'from': 'O', 'film': 'O', 'or': 'O', 'literature': 'O', 'which': 'O', 'flow': 'O', 'time': 'O', 'is': 'O', 'basic': 'O', 'organizing': 'O', 'element': 'O', '.': 'O'}",
         "sentence": "Formal theories of manga have focused on developing a \"manga expression theory\",[k] with emphasis on spatial relationships in the structure of images on the page, distinguishing the medium from film or literature, in which the flow of time is the basic organizing element.",
+        "stems": [
+            "formal",
+            "theori",
+            "manga",
+            "focus",
+            "develop",
+            "``",
+            "manga",
+            "express",
+            "theori",
+            "''",
+            "k",
+            "emphasi",
+            "spatial",
+            "relationship",
+            "structur",
+            "imag",
+            "page",
+            "distinguish",
+            "medium",
+            "film",
+            "literatur",
+            "flow",
+            "time",
+            "basic",
+            "organ",
+            "element"
+        ],
         "synonyms": [
             "formal",
             "theory",
@@ -42695,7 +44333,7 @@
             "unionize",
             "element"
         ],
-        "tagged": [
+        "tags": [
             [
                 "formal",
                 "JJ"
@@ -43250,6 +44888,26 @@
         ],
         "ner_tag": "{'Comics': 'O', 'studies': 'O', 'courses': 'O', 'have': 'O', 'proliferated': 'O', 'at': 'O', 'Japanese': 'NATIONALITY', 'universities': 'O', ',': 'O', 'and': 'O', 'Japan': 'ORGANIZATION', 'Society': 'ORGANIZATION', 'for': 'ORGANIZATION', 'Studies': 'ORGANIZATION', 'in': 'O', 'Cartoon': 'O', '(': 'O', 'ja': 'O', ')': 'O', '[': 'O', 'l': 'O', ']': 'O', 'was': 'O', 'established': 'O', '2001': 'DATE', 'to': 'O', 'promote': 'O', 'comics': 'O', 'scholarship': 'O', '.': 'O'}",
         "sentence": "Comics studies courses have proliferated at Japanese universities, and Japan Society for Studies in Cartoon and Comics (ja)[l] was established in 2001 to promote comics scholarship.",
+        "stems": [
+            "comic",
+            "studi",
+            "cours",
+            "prolifer",
+            "japanes",
+            "univers",
+            "japan",
+            "societi",
+            "studi",
+            "cartoon",
+            "comic",
+            "ja",
+            "l",
+            "establish",
+            "2001",
+            "promot",
+            "comic",
+            "scholarship"
+        ],
         "synonyms": [
             "comic_strip",
             "survey",
@@ -43270,7 +44928,7 @@
             "comic_strip",
             "scholarship"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comics",
                 "NNS"
@@ -43480,6 +45138,14 @@
         ],
         "ner_tag": "{'The': 'O', 'publication': 'O', 'of': 'O', 'Frederik': 'PERSON', 'L.': 'PERSON', 'Schodt': 'PERSON', \"'s\": 'O', 'Manga': 'O', '!': 'O'}",
         "sentence": "The publication of Frederik L. Schodt's Manga!",
+        "stems": [
+            "public",
+            "frederik",
+            "l.",
+            "schodt",
+            "'s",
+            "manga"
+        ],
         "synonyms": [
             "publication",
             "frederik",
@@ -43488,7 +45154,7 @@
             "'s",
             "manga"
         ],
-        "tagged": [
+        "tags": [
             [
                 "publication",
                 "NN"
@@ -43550,10 +45216,13 @@
         "meronyms": [],
         "ner_tag": "{'Manga': 'O', '!': 'O'}",
         "sentence": "Manga!",
+        "stems": [
+            "manga"
+        ],
         "synonyms": [
             "manga"
         ],
-        "tagged": [
+        "tags": [
             [
                 "manga",
                 "NN"
@@ -43978,6 +45647,28 @@
         ],
         "ner_tag": "{'The': 'O', 'World': 'O', 'of': 'O', 'Japanese': 'O', 'Comics': 'O', 'in': 'O', '1983': 'DATE', 'led': 'O', 'to': 'O', 'the': 'O', 'spread': 'O', 'use': 'O', 'word': 'O', 'manga': 'O', 'outside': 'O', 'Japan': 'COUNTRY', 'mean': 'O', '``': 'O', 'comics': 'O', \"''\": 'O', 'or': 'O', '-': 'O', 'style': 'O', '.': 'O'}",
         "sentence": "The World of Japanese Comics in 1983 led to the spread of use of the word manga outside Japan to mean \"Japanese comics\" or \"Japanese-style comics\".",
+        "stems": [
+            "world",
+            "japanes",
+            "comic",
+            "1983",
+            "led",
+            "spread",
+            "use",
+            "word",
+            "manga",
+            "outsid",
+            "japan",
+            "mean",
+            "``",
+            "japanes",
+            "comic",
+            "''",
+            "``",
+            "japanese-styl",
+            "comic",
+            "''"
+        ],
         "synonyms": [
             "world",
             "Japanese",
@@ -44000,7 +45691,7 @@
             "comic_strip",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "world",
                 "NN"
@@ -44323,6 +46014,18 @@
         ],
         "ner_tag": "{'Coulton': 'PERSON', 'Waugh': 'PERSON', 'attempted': 'O', 'the': 'O', 'first': 'ORDINAL', 'comprehensive': 'O', 'history': 'O', 'of': 'O', 'American': 'NATIONALITY', 'comics': 'O', 'with': 'O', 'The': 'O', 'Comics': 'O', '(': 'O', '1947': 'DATE', ')': 'O', '.': 'O'}",
         "sentence": "Coulton Waugh attempted the first comprehensive history of American comics with The Comics (1947).",
+        "stems": [
+            "coulton",
+            "waugh",
+            "attempt",
+            "first",
+            "comprehens",
+            "histori",
+            "american",
+            "comic",
+            "comic",
+            "1947"
+        ],
         "synonyms": [
             "coulton",
             "Waugh",
@@ -44335,7 +46038,7 @@
             "comic_strip",
             "1947"
         ],
-        "tagged": [
+        "tags": [
             [
                 "coulton",
                 "NN"
@@ -44776,6 +46479,26 @@
         ],
         "ner_tag": "{'Will': 'PERSON', 'Eisner': 'PERSON', \"'s\": 'O', 'Comics': 'O', 'and': 'O', 'Sequential': 'O', 'Art': 'O', '(': 'O', '1985': 'DATE', ')': 'O', 'Scott': 'PERSON', 'McCloud': 'PERSON', 'Understanding': 'O', '1993': 'DATE', 'were': 'O', 'early': 'O', 'attempts': 'O', 'in': 'O', 'English': 'NATIONALITY', 'to': 'O', 'formalize': 'O', 'the': 'O', 'study': 'O', 'of': 'O', 'comics': 'O', '.': 'O'}",
         "sentence": "Will Eisner's Comics and Sequential Art (1985) and Scott McCloud's Understanding Comics (1993) were early attempts in English to formalize the study of comics.",
+        "stems": [
+            "eisner",
+            "'s",
+            "comic",
+            "sequenti",
+            "art",
+            "1985",
+            "scott",
+            "mccloud",
+            "'s",
+            "understand",
+            "comic",
+            "1993",
+            "earli",
+            "attempt",
+            "english",
+            "formal",
+            "studi",
+            "comic"
+        ],
         "synonyms": [
             "eisner",
             "'s",
@@ -44796,7 +46519,7 @@
             "survey",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "eisner",
                 "NN"
@@ -45188,6 +46911,20 @@
         ],
         "ner_tag": "{'David': 'PERSON', 'Carrier': 'PERSON', \"'s\": 'O', 'The': 'O', 'Aesthetics': 'ORGANIZATION', 'of': 'O', 'Comics': 'ORGANIZATION', '(': 'O', '2000': 'DATE', ')': 'O', 'was': 'O', 'the': 'O', 'first': 'ORDINAL', 'full': 'O', '-': 'O', 'length': 'O', 'treatment': 'O', 'comics': 'O', 'from': 'O', 'a': 'O', 'philosophical': 'O', 'perspective': 'O', '.': 'O'}",
         "sentence": "David Carrier's The Aesthetics of Comics (2000) was the first full-length treatment of comics from a philosophical perspective.",
+        "stems": [
+            "david",
+            "carrier",
+            "'s",
+            "aesthet",
+            "comic",
+            "2000",
+            "first",
+            "full-length",
+            "treatment",
+            "comic",
+            "philosoph",
+            "perspect"
+        ],
         "synonyms": [
             "David",
             "mailman",
@@ -45202,7 +46939,7 @@
             "philosophical",
             "position"
         ],
-        "tagged": [
+        "tags": [
             [
                 "david",
                 "NN"
@@ -45494,6 +47231,20 @@
         ],
         "ner_tag": "{'Prominent': 'O', 'American': 'NATIONALITY', 'attempts': 'O', 'at': 'O', 'definitions': 'O', 'of': 'O', 'comics': 'O', 'include': 'O', 'Eisner': 'PERSON', \"'s\": 'O', ',': 'O', 'McCloud': 'PERSON', 'and': 'O', 'Harvey': 'PERSON', '.': 'O'}",
         "sentence": "Prominent American attempts at definitions of comics include Eisner's, McCloud's, and Harvey's.",
+        "stems": [
+            "promin",
+            "american",
+            "attempt",
+            "definit",
+            "comic",
+            "includ",
+            "eisner",
+            "'s",
+            "mccloud",
+            "'s",
+            "harvey",
+            "'s"
+        ],
         "synonyms": [
             "outstanding",
             "American",
@@ -45508,7 +47259,7 @@
             "Harvey",
             "'s"
         ],
-        "tagged": [
+        "tags": [
             [
                 "prominent",
                 "JJ"
@@ -46488,6 +48239,52 @@
         ],
         "ner_tag": "{'Eisner': 'PERSON', 'described': 'O', 'what': 'O', 'he': 'O', 'called': 'O', '``': 'O', 'sequential': 'O', 'art': 'O', \"''\": 'O', 'as': 'O', 'the': 'O', 'arrangement': 'O', 'of': 'O', 'pictures': 'O', 'or': 'O', 'images': 'O', 'and': 'O', 'words': 'O', 'to': 'O', 'narrate': 'O', 'a': 'O', 'story': 'O', 'dramatize': 'O', 'an': 'O', 'idea': 'O', ';': 'O', 'Scott': 'PERSON', 'McCloud': 'PERSON', 'defined': 'O', 'comics': 'O', 'juxtaposed': 'O', 'pictorial': 'O', 'other': 'O', 'in': 'O', 'deliberate': 'O', 'sequence': 'O', ',': 'O', 'intended': 'O', 'convey': 'O', 'information': 'O', '/': 'O', 'produce': 'O', 'aesthetic': 'O', 'response': 'O', 'viewer': 'O', 'strictly': 'O', 'formal': 'O', 'definition': 'O', 'which': 'O', 'detached': 'O', 'from': 'O', 'its': 'O', 'historical': 'O', 'cultural': 'O', 'trappings': 'O', '.': 'O'}",
         "sentence": "Eisner described what he called \"sequential art\" as \"the arrangement of pictures or images and words to narrate a story or dramatize an idea\"; Scott McCloud defined comics \"juxtaposed pictorial and other images in deliberate sequence, intended to convey information and/or to produce an aesthetic response in the viewer\", a strictly formal definition which detached comics from its historical and cultural trappings.",
+        "stems": [
+            "eisner",
+            "describ",
+            "call",
+            "``",
+            "sequenti",
+            "art",
+            "''",
+            "``",
+            "arrang",
+            "pictur",
+            "imag",
+            "word",
+            "narrat",
+            "stori",
+            "dramat",
+            "idea",
+            "''",
+            "scott",
+            "mccloud",
+            "defin",
+            "comic",
+            "``",
+            "juxtapos",
+            "pictori",
+            "imag",
+            "deliber",
+            "sequenc",
+            "intend",
+            "convey",
+            "inform",
+            "and/or",
+            "produc",
+            "aesthet",
+            "respons",
+            "viewer",
+            "''",
+            "strictli",
+            "formal",
+            "definit",
+            "detach",
+            "comic",
+            "histor",
+            "cultur",
+            "trap"
+        ],
         "synonyms": [
             "eisner",
             "trace",
@@ -46534,7 +48331,7 @@
             "cultural",
             "caparison"
         ],
-        "tagged": [
+        "tags": [
             [
                 "eisner",
                 "NN"
@@ -47236,6 +49033,32 @@
         ],
         "ner_tag": "{'R.': 'PERSON', 'C.': 'PERSON', 'Harvey': 'PERSON', 'defined': 'O', 'comics': 'O', 'as': 'O', '``': 'O', 'pictorial': 'O', 'narratives': 'O', 'or': 'O', 'expositions': 'O', 'in': 'O', 'which': 'O', 'words': 'O', '(': 'O', 'often': 'O', 'lettered': 'O', 'into': 'O', 'the': 'O', 'picture': 'O', 'area': 'O', 'within': 'O', 'speech': 'O', 'balloons': 'O', ')': 'O', 'usually': 'O', 'contribute': 'O', 'to': 'O', 'meaning': 'O', 'of': 'O', 'pictures': 'O', 'and': 'O', 'vice': 'O', 'versa': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "R. C. Harvey defined comics as \"pictorial narratives or expositions in which words (often lettered into the picture area within speech balloons) usually contribute to the meaning of the pictures and vice versa\".",
+        "stems": [
+            "r.",
+            "c.",
+            "harvey",
+            "defin",
+            "comic",
+            "``",
+            "pictori",
+            "narr",
+            "exposit",
+            "word",
+            "often",
+            "letter",
+            "pictur",
+            "area",
+            "within",
+            "speech",
+            "balloon",
+            "usual",
+            "contribut",
+            "mean",
+            "pictur",
+            "vice",
+            "versa",
+            "''"
+        ],
         "synonyms": [
             "r.",
             "c.",
@@ -47262,7 +49085,7 @@
             "versa",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "r.",
                 "NN"
@@ -47476,11 +49299,15 @@
         "meronyms": [],
         "ner_tag": "{'Each': 'O', 'definition': 'O', 'has': 'O', 'had': 'O', 'its': 'O', 'detractors': 'O', '.': 'O'}",
         "sentence": "Each definition has had its detractors.",
+        "stems": [
+            "definit",
+            "detractor"
+        ],
         "synonyms": [
             "definition",
             "detractor"
         ],
-        "tagged": [
+        "tags": [
             [
                 "definition",
                 "NN"
@@ -47945,6 +49772,31 @@
         ],
         "ner_tag": "{'Harvey': 'PERSON', 'saw': 'O', 'McCloud': 'PERSON', \"'s\": 'O', 'definition': 'O', 'as': 'O', 'excluding': 'O', 'single': 'O', '-': 'O', 'panel': 'O', 'cartoons': 'O', ',': 'O', 'and': 'O', 'objected': 'O', 'to': 'O', 'de-emphasizing': 'O', 'verbal': 'O', 'elements': 'O', 'insisting': 'O', '``': 'O', 'the': 'O', 'essential': 'O', 'characteristic': 'O', 'of': 'O', 'comics': 'O', 'is': 'O', 'incorporation': 'O', 'content': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "Harvey saw McCloud's definition as excluding single-panel cartoons, and objected to McCloud's de-emphasizing verbal elements, insisting \"the essential characteristic of comics is the incorporation of verbal content\".",
+        "stems": [
+            "harvey",
+            "saw",
+            "mccloud",
+            "'s",
+            "definit",
+            "exclud",
+            "single-panel",
+            "cartoon",
+            "object",
+            "mccloud",
+            "'s",
+            "de-emphas",
+            "verbal",
+            "element",
+            "insist",
+            "``",
+            "essenti",
+            "characterist",
+            "comic",
+            "incorpor",
+            "verbal",
+            "content",
+            "''"
+        ],
         "synonyms": [
             "Harvey",
             "visit",
@@ -47970,7 +49822,7 @@
             "message",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "harvey",
                 "NN"
@@ -48347,6 +50199,21 @@
         ],
         "ner_tag": "{'Aaron': 'PERSON', 'Meskin': 'PERSON', 'saw': 'O', 'McCloud': 'PERSON', \"'s\": 'O', 'theories': 'O', 'as': 'O', 'an': 'O', 'artificial': 'O', 'attempt': 'O', 'to': 'O', 'legitimize': 'O', 'the': 'O', 'place': 'O', 'of': 'O', 'comics': 'O', 'in': 'O', 'art': 'O', 'history': 'O', '.': 'O'}",
         "sentence": "Aaron Meskin saw McCloud's theories as an artificial attempt to legitimize the place of comics in art history.",
+        "stems": [
+            "aaron",
+            "meskin",
+            "saw",
+            "mccloud",
+            "'s",
+            "theori",
+            "artifici",
+            "attempt",
+            "legitim",
+            "place",
+            "comic",
+            "art",
+            "histori"
+        ],
         "synonyms": [
             "Aaron",
             "meskin",
@@ -48362,7 +50229,7 @@
             "artwork",
             "history"
         ],
-        "tagged": [
+        "tags": [
             [
                 "aaron",
                 "NN"
@@ -48749,6 +50616,22 @@
         ],
         "ner_tag": "{'Cross-cultural': 'O', 'study': 'O', 'of': 'O', 'comics': 'O', 'is': 'O', 'complicated': 'O', 'by': 'O', 'the': 'O', 'great': 'O', 'difference': 'O', 'in': 'O', 'meaning': 'O', 'and': 'O', 'scope': 'O', 'words': 'O', 'for': 'O', '``': 'O', \"''\": 'O', 'different': 'O', 'languages': 'O', '.': 'O'}",
         "sentence": "Cross-cultural study of comics is complicated by the great difference in meaning and scope of the words for \"comics\" in different languages.",
+        "stems": [
+            "cross-cultur",
+            "studi",
+            "comic",
+            "complic",
+            "great",
+            "differ",
+            "mean",
+            "scope",
+            "word",
+            "``",
+            "comic",
+            "''",
+            "differ",
+            "languag"
+        ],
         "synonyms": [
             "cross-cultural",
             "survey",
@@ -48765,7 +50648,7 @@
             "unlike",
             "terminology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cross-cultural",
                 "JJ"
@@ -49279,6 +51162,28 @@
         ],
         "ner_tag": "{'The': 'O', 'French': 'NATIONALITY', 'term': 'O', 'for': 'O', 'comics': 'O', ',': 'O', 'bandes': 'O', 'dessinées': 'O', '(': 'O', '``': 'O', 'drawn': 'O', 'strip': 'O', \"''\": 'O', ')': 'O', 'emphasizes': 'O', 'the': 'O', 'juxtaposition': 'O', 'of': 'O', 'images': 'O', 'as': 'O', 'a': 'O', 'defining': 'O', 'factor': 'O', 'which': 'O', 'can': 'O', 'imply': 'O', 'exclusion': 'O', 'even': 'O', 'photographic': 'O', '.': 'O'}",
         "sentence": "The French term for comics, bandes dessinées (\"drawn strip\") emphasizes the juxtaposition of drawn images as a defining factor, which can imply the exclusion of even photographic comics.",
+        "stems": [
+            "french",
+            "term",
+            "comic",
+            "band",
+            "dessiné",
+            "``",
+            "drawn",
+            "strip",
+            "''",
+            "emphas",
+            "juxtaposit",
+            "drawn",
+            "imag",
+            "defin",
+            "factor",
+            "impli",
+            "exclus",
+            "even",
+            "photograph",
+            "comic"
+        ],
         "synonyms": [
             "French",
             "terminus",
@@ -49301,7 +51206,7 @@
             "photographic",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "french",
                 "JJ"
@@ -49645,6 +51550,17 @@
         ],
         "ner_tag": "{'The': 'O', 'term': 'O', 'manga': 'O', 'is': 'O', 'used': 'O', 'in': 'O', 'Japanese': 'NATIONALITY', 'to': 'O', 'indicate': 'O', 'all': 'O', 'forms': 'O', 'of': 'O', 'comics': 'O', ',': 'O', 'cartooning': 'O', 'and': 'O', 'caricature': 'O', '.': 'O'}",
         "sentence": "The term manga is used in Japanese to indicate all forms of comics, cartooning, and caricature.",
+        "stems": [
+            "term",
+            "manga",
+            "use",
+            "japanes",
+            "indic",
+            "form",
+            "comic",
+            "cartoon",
+            "caricatur"
+        ],
         "synonyms": [
             "terminus",
             "manga",
@@ -49656,7 +51572,7 @@
             "cartoon",
             "caricature"
         ],
-        "tagged": [
+        "tags": [
             [
                 "term",
                 "NN"
@@ -49831,13 +51747,19 @@
         ],
         "ner_tag": "{'Webcomics': 'O', 'are': 'O', 'comics': 'O', 'that': 'O', 'available': 'O', 'on': 'O', 'the': 'O', 'internet': 'O', '.': 'O'}",
         "sentence": "Webcomics are comics that are available on the internet.",
+        "stems": [
+            "webcom",
+            "comic",
+            "avail",
+            "internet"
+        ],
         "synonyms": [
             "webcomics",
             "comic_strip",
             "available",
             "internet"
         ],
-        "tagged": [
+        "tags": [
             [
                 "webcomics",
                 "NNS"
@@ -50075,6 +51997,18 @@
         "meronyms": [],
         "ner_tag": "{'They': 'O', 'are': 'O', 'able': 'O', 'to': 'O', 'reach': 'O', 'large': 'O', 'audiences': 'O', ',': 'O', 'and': 'O', 'new': 'O', 'readers': 'O', 'usually': 'O', 'can': 'O', 'access': 'O', 'archived': 'O', 'installments': 'O', '.': 'O'}",
         "sentence": "They are able to reach large audiences, and new readers usually can access archived installments.",
+        "stems": [
+            "abl",
+            "reach",
+            "larg",
+            "audienc",
+            "new",
+            "reader",
+            "usual",
+            "access",
+            "archiv",
+            "instal"
+        ],
         "synonyms": [
             "able",
             "reach",
@@ -50087,7 +52021,7 @@
             "archive",
             "installment"
         ],
-        "tagged": [
+        "tags": [
             [
                 "able",
                 "JJ"
@@ -50407,6 +52341,17 @@
         "meronyms": [],
         "ner_tag": "{'Webcomics': 'O', 'can': 'O', 'make': 'O', 'use': 'O', 'of': 'O', 'an': 'O', 'infinite': 'O', 'canvas': 'O', '—': 'O', 'meaning': 'O', 'they': 'O', 'are': 'O', 'not': 'O', 'constrained': 'O', 'by': 'O', 'size': 'O', 'or': 'O', 'dimensions': 'O', 'a': 'O', 'page': 'O', '.': 'O'}",
         "sentence": "Webcomics can make use of an infinite canvas—meaning they are not constrained by size or dimensions of a page.",
+        "stems": [
+            "webcom",
+            "make",
+            "use",
+            "infinit",
+            "canvas—mean",
+            "constrain",
+            "size",
+            "dimens",
+            "page"
+        ],
         "synonyms": [
             "webcomics",
             "take",
@@ -50418,7 +52363,7 @@
             "property",
             "page"
         ],
-        "tagged": [
+        "tags": [
             [
                 "webcomics",
                 "NNS"
@@ -50597,6 +52542,13 @@
         ],
         "ner_tag": "{'Some': 'O', 'consider': 'O', 'storyboards': 'O', 'and': 'O', 'wordless': 'O', 'novels': 'O', 'to': 'O', 'be': 'O', 'comics': 'O', '.': 'O'}",
         "sentence": "Some consider storyboards and wordless novels to be comics.",
+        "stems": [
+            "consid",
+            "storyboard",
+            "wordless",
+            "novel",
+            "comic"
+        ],
         "synonyms": [
             "view",
             "storyboards",
@@ -50604,7 +52556,7 @@
             "novel",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "consider",
                 "VB"
@@ -50865,6 +52817,19 @@
         ],
         "ner_tag": "{'Film': 'O', 'studios': 'O', ',': 'O', 'especially': 'O', 'in': 'O', 'animation': 'O', 'often': 'O', 'use': 'O', 'sequences': 'O', 'of': 'O', 'images': 'O', 'as': 'O', 'guides': 'O', 'for': 'O', 'film': 'O', '.': 'O'}",
         "sentence": "Film studios, especially in animation, often use sequences of images as guides for film sequences.",
+        "stems": [
+            "film",
+            "studio",
+            "especi",
+            "anim",
+            "often",
+            "use",
+            "sequenc",
+            "imag",
+            "guid",
+            "film",
+            "sequenc"
+        ],
         "synonyms": [
             "movie",
             "studio_apartment",
@@ -50878,7 +52843,7 @@
             "movie",
             "sequence"
         ],
-        "tagged": [
+        "tags": [
             [
                 "film",
                 "NN"
@@ -51146,6 +53111,15 @@
         "meronyms": [],
         "ner_tag": "{'These': 'O', 'storyboards': 'O', 'are': 'O', 'not': 'O', 'intended': 'O', 'as': 'O', 'an': 'O', 'end': 'O', 'product': 'O', 'and': 'O', 'rarely': 'O', 'seen': 'O', 'by': 'O', 'the': 'O', 'public': 'O', '.': 'O'}",
         "sentence": "These storyboards are not intended as an end product and are rarely seen by the public.",
+        "stems": [
+            "storyboard",
+            "intend",
+            "end",
+            "product",
+            "rare",
+            "seen",
+            "public"
+        ],
         "synonyms": [
             "storyboards",
             "intend",
@@ -51155,7 +53129,7 @@
             "visit",
             "public"
         ],
-        "tagged": [
+        "tags": [
             [
                 "storyboards",
                 "NNS"
@@ -51384,6 +53358,17 @@
         "meronyms": [],
         "ner_tag": "{'Wordless': 'O', 'novels': 'O', 'are': 'O', 'books': 'O', 'which': 'O', 'use': 'O', 'sequences': 'O', 'of': 'O', 'captionless': 'O', 'images': 'O', 'to': 'O', 'deliver': 'O', 'a': 'O', 'narrative': 'O', '.': 'O'}",
         "sentence": "Wordless novels are books which use sequences of captionless images to deliver a narrative.",
+        "stems": [
+            "wordless",
+            "novel",
+            "book",
+            "use",
+            "sequenc",
+            "captionless",
+            "imag",
+            "deliv",
+            "narr"
+        ],
         "synonyms": [
             "mute",
             "novel",
@@ -51395,7 +53380,7 @@
             "deliver",
             "narrative"
         ],
-        "tagged": [
+        "tags": [
             [
                 "wordless",
                 "NN"
@@ -51877,6 +53862,25 @@
         ],
         "ner_tag": "{'Similar': 'O', 'to': 'O', 'the': 'O', 'problems': 'O', 'of': 'O', 'defining': 'O', 'literature': 'O', 'and': 'O', 'film': 'O', ',': 'O', 'no': 'O', 'consensus': 'O', 'has': 'O', 'been': 'O', 'reached': 'O', 'on': 'O', 'a': 'O', 'definition': 'O', 'comics': 'O', 'medium': 'O', 'attempted': 'O', 'definitions': 'O', 'descriptions': 'O', 'have': 'O', 'fallen': 'O', 'prey': 'O', 'numerous': 'O', 'exceptions': 'O', '.': 'O'}",
         "sentence": "Similar to the problems of defining literature and film, no consensus has been reached on a definition of the comics medium, and attempted definitions and descriptions have fallen prey to numerous exceptions.",
+        "stems": [
+            "similar",
+            "problem",
+            "defin",
+            "literatur",
+            "film",
+            "consensu",
+            "reach",
+            "definit",
+            "comic",
+            "medium",
+            "attempt",
+            "definit",
+            "descript",
+            "fallen",
+            "prey",
+            "numer",
+            "except"
+        ],
         "synonyms": [
             "similar",
             "trouble",
@@ -51896,7 +53900,7 @@
             "numerous",
             "exception"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similar",
                 "JJ"
@@ -52488,6 +54492,31 @@
         ],
         "ner_tag": "{'Theorists': 'O', 'such': 'O', 'as': 'O', 'Töpffer': 'O', ',': 'O', 'R.': 'PERSON', 'C.': 'PERSON', 'Harvey': 'PERSON', 'Will': 'PERSON', 'Eisner': 'PERSON', 'David': 'PERSON', 'Carrier': 'PERSON', 'Alain': 'PERSON', 'Rey': 'PERSON', 'and': 'O', 'Lawrence': 'PERSON', 'Grove': 'PERSON', 'emphasize': 'O', 'the': 'O', 'combination': 'O', 'of': 'O', 'text': 'O', 'images': 'O', 'though': 'O', 'there': 'O', 'are': 'O', 'prominent': 'O', 'examples': 'O', 'pantomime': 'O', 'comics': 'O', 'throughout': 'O', 'its': 'O', 'history': 'O', '.': 'O'}",
         "sentence": "Theorists such as Töpffer, R. C. Harvey, Will Eisner, David Carrier, Alain Rey, and Lawrence Grove emphasize the combination of text and images, though there are prominent examples of pantomime comics throughout its history.",
+        "stems": [
+            "theorist",
+            "töpffer",
+            "r.",
+            "c.",
+            "harvey",
+            "eisner",
+            "david",
+            "carrier",
+            "alain",
+            "rey",
+            "lawrenc",
+            "grove",
+            "emphas",
+            "combin",
+            "text",
+            "imag",
+            "though",
+            "promin",
+            "exampl",
+            "pantomim",
+            "comic",
+            "throughout",
+            "histori"
+        ],
         "synonyms": [
             "theorist",
             "töpffer",
@@ -52513,7 +54542,7 @@
             "throughout",
             "history"
         ],
-        "tagged": [
+        "tags": [
             [
                 "theorists",
                 "NNS"
@@ -52875,6 +54904,17 @@
         "meronyms": [],
         "ner_tag": "{'Other': 'O', 'critics': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'Thierry': 'PERSON', 'Groensteen': 'PERSON', 'and': 'O', 'Scott': 'PERSON', 'McCloud': 'PERSON', 'have': 'O', 'emphasized': 'O', 'the': 'O', 'primacy': 'O', 'of': 'O', 'sequences': 'O', 'images': 'O', '.': 'O'}",
         "sentence": "Other critics, such as Thierry Groensteen and Scott McCloud, have emphasized the primacy of sequences of images.",
+        "stems": [
+            "critic",
+            "thierri",
+            "groensteen",
+            "scott",
+            "mccloud",
+            "emphas",
+            "primaci",
+            "sequenc",
+            "imag"
+        ],
         "synonyms": [
             "critic",
             "thierry",
@@ -52886,7 +54926,7 @@
             "sequence",
             "trope"
         ],
-        "tagged": [
+        "tags": [
             [
                 "critics",
                 "NNS"
@@ -53449,6 +55489,31 @@
         ],
         "ner_tag": "{'Towards': 'O', 'the': 'O', 'close': 'O', 'of': 'O', '20th': 'DATE', 'century': 'DATE', ',': 'O', 'different': 'O', 'cultures': 'O', \"'\": 'O', 'discoveries': 'O', 'each': 'O', 'other': 'O', \"'s\": 'O', 'comics': 'O', 'traditions': 'O', 'rediscovery': 'O', 'forgotten': 'O', 'early': 'O', 'forms': 'O', 'and': 'O', 'rise': 'O', 'new': 'O', 'made': 'O', 'defining': 'O', 'a': 'O', 'more': 'O', 'complicated': 'O', 'task': 'O', '.': 'O'}",
         "sentence": "Towards the close of the 20th century, different cultures' discoveries of each other's comics traditions, the rediscovery of forgotten early comics forms, and the rise of new forms made defining comics a more complicated task.",
+        "stems": [
+            "toward",
+            "close",
+            "20th",
+            "centuri",
+            "differ",
+            "cultur",
+            "discoveri",
+            "'s",
+            "comic",
+            "tradit",
+            "rediscoveri",
+            "forgotten",
+            "earli",
+            "comic",
+            "form",
+            "rise",
+            "new",
+            "form",
+            "made",
+            "defin",
+            "comic",
+            "complic",
+            "task"
+        ],
         "synonyms": [
             "towards",
             "conclusion",
@@ -53474,7 +55539,7 @@
             "complicated",
             "task"
         ],
-        "tagged": [
+        "tags": [
             [
                 "towards",
                 "NNS"
@@ -53931,6 +55996,22 @@
         ],
         "ner_tag": "{'European': 'NATIONALITY', 'comics': 'O', 'studies': 'O', 'began': 'O', 'with': 'O', 'Töpffer': 'PERSON', \"'s\": 'O', 'theories': 'O', 'of': 'O', 'his': 'O', 'own': 'O', 'work': 'O', 'in': 'O', 'the': 'O', '1840s': 'DATE', ',': 'O', 'which': 'O', 'emphasized': 'O', 'panel': 'O', 'transitions': 'O', 'and': 'O', 'visual': 'O', '–': 'O', 'verbal': 'O', 'combination': 'O', '.': 'O'}",
         "sentence": "European comics studies began with Töpffer's theories of his own work in the 1840s, which emphasized panel transitions and the visual–verbal combination.",
+        "stems": [
+            "european",
+            "comic",
+            "studi",
+            "began",
+            "töpffer",
+            "'s",
+            "theori",
+            "work",
+            "1840",
+            "emphas",
+            "panel",
+            "transit",
+            "visual–verb",
+            "combin"
+        ],
         "synonyms": [
             "European",
             "comic_strip",
@@ -53947,7 +56028,7 @@
             "visual–verbal",
             "combination"
         ],
-        "tagged": [
+        "tags": [
             [
                 "european",
                 "JJ"
@@ -54134,12 +56215,17 @@
         "meronyms": [],
         "ner_tag": "{'No': 'O', 'further': 'O', 'progress': 'O', 'was': 'O', 'made': 'O', 'until': 'O', 'the': 'DATE', '1970s': 'DATE', '.': 'O'}",
         "sentence": "No further progress was made until the 1970s.",
+        "stems": [
+            "progress",
+            "made",
+            "1970"
+        ],
         "synonyms": [
             "progress",
             "take",
             "seventies"
         ],
-        "tagged": [
+        "tags": [
             [
                 "progress",
                 "NN"
@@ -54662,6 +56748,30 @@
         ],
         "ner_tag": "{'Pierre': 'PERSON', 'Fresnault': 'PERSON', '-': 'O', 'Deruelle': 'PERSON', 'then': 'O', 'took': 'O', 'a': 'O', 'semiotics': 'O', 'approach': 'O', 'to': 'O', 'the': 'O', 'study': 'O', 'of': 'O', 'comics': 'O', ',': 'O', 'analyzing': 'O', 'text': 'O', '–': 'O', 'image': 'O', 'relations': 'O', 'page': 'O', 'level': 'O', 'and': 'O', 'discontinuities': 'O', 'or': 'O', 'what': 'O', 'Scott': 'PERSON', 'McCloud': 'PERSON', 'later': 'O', 'dubbed': 'O', '``': 'O', 'closure': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "Pierre Fresnault-Deruelle then took a semiotics approach to the study of comics, analyzing text–image relations, page-level image relations, and image discontinuities, or what Scott McCloud later dubbed \"closure\".",
+        "stems": [
+            "pierr",
+            "fresnault-deruel",
+            "took",
+            "semiot",
+            "approach",
+            "studi",
+            "comic",
+            "analyz",
+            "text–imag",
+            "relat",
+            "page-level",
+            "imag",
+            "relat",
+            "imag",
+            "discontinu",
+            "scott",
+            "mccloud",
+            "later",
+            "dub",
+            "``",
+            "closur",
+            "''"
+        ],
         "synonyms": [
             "Pierre",
             "fresnault-deruelle",
@@ -54686,7 +56796,7 @@
             "closure",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "pierre",
                 "JJ"
@@ -55131,6 +57241,22 @@
         ],
         "ner_tag": "{'In': 'O', '1987': 'DATE', ',': 'O', 'Henri': 'PERSON', 'Vanlier': 'PERSON', 'introduced': 'O', 'the': 'O', 'term': 'O', 'multicadre': 'O', 'or': 'O', '``': 'O', 'multiframe': 'O', \"''\": 'O', 'to': 'O', 'refer': 'O', 'comics': 'O', 'a': 'O', 'page': 'O', 'as': 'O', 'semantic': 'O', 'unit': 'O', '.': 'O'}",
         "sentence": "In 1987, Henri Vanlier introduced the term multicadre, or \"multiframe\", to refer to the comics a page as a semantic unit.",
+        "stems": [
+            "1987",
+            "henri",
+            "vanlier",
+            "introduc",
+            "term",
+            "multicadr",
+            "``",
+            "multifram",
+            "''",
+            "refer",
+            "comic",
+            "page",
+            "semant",
+            "unit"
+        ],
         "synonyms": [
             "1987",
             "henri",
@@ -55147,7 +57273,7 @@
             "semantic",
             "whole"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1987",
                 "CD"
@@ -55480,6 +57606,20 @@
         "meronyms": [],
         "ner_tag": "{'By': 'O', 'the': 'DATE', '1990s': 'DATE', ',': 'O', 'theorists': 'O', 'such': 'O', 'as': 'O', 'Benoît': 'PERSON', 'Peeters': 'PERSON', 'and': 'O', 'Thierry': 'PERSON', 'Groensteen': 'PERSON', 'turned': 'O', 'attention': 'O', 'to': 'O', 'artists': 'O', \"'\": 'O', 'poïetic': 'O', 'creative': 'O', 'choices': 'O', '.': 'O'}",
         "sentence": "By the 1990s, theorists such as Benoît Peeters and Thierry Groensteen turned attention to artists' poïetic creative choices.",
+        "stems": [
+            "1990",
+            "theorist",
+            "benoît",
+            "peeter",
+            "thierri",
+            "groensteen",
+            "turn",
+            "attent",
+            "artist",
+            "poïet",
+            "creativ",
+            "choic"
+        ],
         "synonyms": [
             "nineties",
             "theorist",
@@ -55494,7 +57634,7 @@
             "creative",
             "option"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1990s",
                 "CD"
@@ -55913,6 +58053,24 @@
         ],
         "ner_tag": "{'Thierry': 'PERSON', 'Smolderen': 'PERSON', 'and': 'O', 'Harry': 'PERSON', 'Morgan': 'PERSON', 'have': 'O', 'held': 'O', 'relativistic': 'O', 'views': 'O', 'of': 'O', 'the': 'O', 'definition': 'O', 'comics': 'O', ',': 'O', 'a': 'O', 'medium': 'O', 'that': 'O', 'has': 'O', 'taken': 'O', 'various': 'O', 'equally': 'O', 'valid': 'O', 'forms': 'O', 'over': 'O', 'its': 'O', 'history': 'O', '.': 'O'}",
         "sentence": "Thierry Smolderen and Harry Morgan have held relativistic views of the definition of comics, a medium that has taken various, equally valid forms over its history.",
+        "stems": [
+            "thierri",
+            "smolderen",
+            "harri",
+            "morgan",
+            "held",
+            "relativist",
+            "view",
+            "definit",
+            "comic",
+            "medium",
+            "taken",
+            "variou",
+            "equal",
+            "valid",
+            "form",
+            "histori"
+        ],
         "synonyms": [
             "thierry",
             "smolderen",
@@ -55931,7 +58089,7 @@
             "shape",
             "history"
         ],
-        "tagged": [
+        "tags": [
             [
                 "thierry",
                 "NN"
@@ -56267,6 +58425,21 @@
         ],
         "ner_tag": "{'Morgan': 'PERSON', 'sees': 'O', 'comics': 'O', 'as': 'O', 'a': 'O', 'subset': 'O', 'of': 'O', '``': 'O', 'les': 'O', 'littératures': 'O', 'dessinées': 'O', \"''\": 'O', '(': 'O', 'or': 'O', 'drawn': 'O', 'literatures': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Morgan sees comics as a subset of \"les littératures dessinées\" (or \"drawn literatures\").",
+        "stems": [
+            "morgan",
+            "see",
+            "comic",
+            "subset",
+            "``",
+            "le",
+            "littératur",
+            "dessiné",
+            "''",
+            "``",
+            "drawn",
+            "literatur",
+            "''"
+        ],
         "synonyms": [
             "Morgan",
             "visit",
@@ -56282,7 +58455,7 @@
             "literature",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "morgan",
                 "JJ"
@@ -56729,6 +58902,23 @@
         "meronyms": [],
         "ner_tag": "{'French': 'NATIONALITY', 'theory': 'O', 'has': 'O', 'come': 'O', 'to': 'O', 'give': 'O', 'special': 'O', 'attention': 'O', 'the': 'O', 'page': 'O', ',': 'O', 'in': 'O', 'distinction': 'O', 'from': 'O', 'American': 'NATIONALITY', 'theories': 'O', 'such': 'O', 'as': 'O', 'McCloud': 'PERSON', \"'s\": 'O', 'which': 'O', 'focus': 'O', 'on': 'O', 'panel': 'O', '-': 'O', 'transitions': 'O', '.': 'O'}",
         "sentence": "French theory has come to give special attention to the page, in distinction from American theories such as McCloud's which focus on panel-to-panel transitions.",
+        "stems": [
+            "french",
+            "theori",
+            "come",
+            "give",
+            "special",
+            "attent",
+            "page",
+            "distinct",
+            "american",
+            "theori",
+            "mccloud",
+            "'s",
+            "focu",
+            "panel-to-panel",
+            "transit"
+        ],
         "synonyms": [
             "French",
             "theory",
@@ -56746,7 +58936,7 @@
             "panel-to-panel",
             "transition"
         ],
-        "tagged": [
+        "tags": [
             [
                 "french",
                 "JJ"
@@ -57202,6 +59392,28 @@
         ],
         "ner_tag": "{'Since': 'O', 'the': 'DATE', 'mid-2000s': 'DATE', ',': 'O', 'Neil': 'PERSON', 'Cohn': 'PERSON', 'has': 'O', 'begun': 'O', 'analyzing': 'O', 'how': 'O', 'comics': 'O', 'are': 'O', 'understood': 'O', 'using': 'O', 'tools': 'O', 'from': 'O', 'cognitive': 'O', 'science': 'O', 'extending': 'O', 'beyond': 'O', 'theory': 'O', 'by': 'O', 'actual': 'O', 'psychological': 'O', 'and': 'O', 'neuroscience': 'O', 'experiments': 'O', '.': 'O'}",
         "sentence": "Since the mid-2000s, Neil Cohn has begun analyzing how comics are understood using tools from cognitive science, extending beyond theory by using actual psychological and neuroscience experiments.",
+        "stems": [
+            "sinc",
+            "mid-2000",
+            "neil",
+            "cohn",
+            "begun",
+            "analyz",
+            "comic",
+            "understood",
+            "use",
+            "tool",
+            "cognit",
+            "scienc",
+            "extend",
+            "beyond",
+            "theori",
+            "use",
+            "actual",
+            "psycholog",
+            "neurosci",
+            "experi"
+        ],
         "synonyms": [
             "since",
             "mid-2000s",
@@ -57224,7 +59436,7 @@
             "neuroscience",
             "experiment"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -58058,6 +60270,38 @@
         ],
         "ner_tag": "{'This': 'O', 'work': 'O', 'has': 'O', 'argued': 'O', 'that': 'O', 'sequential': 'O', 'images': 'O', 'and': 'O', 'page': 'O', 'layouts': 'O', 'both': 'O', 'use': 'O', 'separate': 'O', 'rule': 'O', '-': 'O', 'bound': 'O', '``': 'O', 'grammars': 'O', \"''\": 'O', 'to': 'O', 'be': 'O', 'understood': 'O', 'extend': 'O', 'beyond': 'O', 'panel': 'O', 'transitions': 'O', 'categorical': 'O', 'distinctions': 'O', 'of': 'O', 'types': 'O', ',': 'O', 'the': 'O', 'brain': 'O', \"'s\": 'O', 'comprehension': 'O', 'comics': 'O', 'is': 'O', 'similar': 'O', 'comprehending': 'O', 'other': 'O', 'domains': 'O', 'such': 'O', 'as': 'O', 'language': 'O', 'music': 'O', '.': 'O'}",
         "sentence": "This work has argued that sequential images and page layouts both use separate rule-bound \"grammars\" to be understood that extend beyond panel-to-panel transitions and categorical distinctions of types of layouts, and that the brain's comprehension of comics is similar to comprehending other domains, such as language and music.",
+        "stems": [
+            "work",
+            "argu",
+            "sequenti",
+            "imag",
+            "page",
+            "layout",
+            "use",
+            "separ",
+            "rule-bound",
+            "``",
+            "grammar",
+            "''",
+            "understood",
+            "extend",
+            "beyond",
+            "panel-to-panel",
+            "transit",
+            "categor",
+            "distinct",
+            "type",
+            "layout",
+            "brain",
+            "'s",
+            "comprehens",
+            "comic",
+            "similar",
+            "comprehend",
+            "domain",
+            "languag",
+            "music"
+        ],
         "synonyms": [
             "workplace",
             "argue",
@@ -58090,7 +60334,7 @@
             "terminology",
             "music"
         ],
-        "tagged": [
+        "tags": [
             [
                 "work",
                 "NN"
@@ -58569,6 +60813,21 @@
         ],
         "ner_tag": "{'Many': 'O', 'cultures': 'O', 'have': 'O', 'taken': 'O', 'their': 'O', 'words': 'O', 'for': 'O', 'comics': 'O', 'from': 'O', 'English': 'NATIONALITY', ',': 'O', 'including': 'O', 'Russian': 'NATIONALITY', '(': 'O', ':': 'O', 'Комикс': 'O', 'komiks': 'O', ')': 'O', 'and': 'O', 'German': 'NATIONALITY', 'comic': 'O', '.': 'O'}",
         "sentence": "Many cultures have taken their words for comics from English, including Russian (Russian: Комикс, komiks) and German (comic).",
+        "stems": [
+            "mani",
+            "cultur",
+            "taken",
+            "word",
+            "comic",
+            "english",
+            "includ",
+            "russian",
+            "russian",
+            "комикс",
+            "komik",
+            "german",
+            "comic"
+        ],
         "synonyms": [
             "many",
             "polish",
@@ -58584,7 +60843,7 @@
             "German",
             "comedian"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -58950,6 +61209,21 @@
         "meronyms": [],
         "ner_tag": "{'Similarly': 'O', ',': 'O', 'the': 'O', 'Chinese': 'NATIONALITY', 'term': 'O', 'manhua': 'O', 'and': 'O', 'Korean': 'NATIONALITY', 'manhwa': 'O', 'derive': 'O', 'from': 'O', 'characters': 'O', 'with': 'O', 'which': 'O', 'Japanese': 'NATIONALITY', 'manga': 'O', 'is': 'O', 'written': 'O', '.': 'O'}",
         "sentence": "Similarly, the Chinese term manhua and the Korean manhwa derive from the Chinese characters with which the Japanese term manga is written.",
+        "stems": [
+            "similarli",
+            "chines",
+            "term",
+            "manhua",
+            "korean",
+            "manhwa",
+            "deriv",
+            "chines",
+            "charact",
+            "japanes",
+            "term",
+            "manga",
+            "written"
+        ],
         "synonyms": [
             "similarly",
             "Chinese",
@@ -58965,7 +61239,7 @@
             "manga",
             "write"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similarly",
                 "RB"
@@ -59495,6 +61769,30 @@
         ],
         "ner_tag": "{'The': 'O', 'English': 'NATIONALITY', 'term': 'O', 'comics': 'O', 'derives': 'O', 'from': 'O', 'the': 'O', 'humorous': 'O', '(': 'O', 'or': 'O', '``': 'O', 'comic': 'O', \"''\": 'O', ')': 'O', 'work': 'O', 'which': 'O', 'predominated': 'O', 'in': 'O', 'early': 'O', 'American': 'NATIONALITY', 'newspaper': 'O', 'strips': 'O', ';': 'O', 'usage': 'O', 'of': 'O', 'has': 'O', 'become': 'O', 'standard': 'O', 'for': 'O', 'non-humorous': 'O', 'works': 'O', 'as': 'O', 'well': 'O', '.': 'O'}",
         "sentence": "The English term comics derives from the humorous (or \"comic\") work which predominated in early American newspaper comic strips; usage of the term has become standard for non-humorous works as well.",
+        "stems": [
+            "english",
+            "term",
+            "comic",
+            "deriv",
+            "humor",
+            "``",
+            "comic",
+            "''",
+            "work",
+            "predomin",
+            "earli",
+            "american",
+            "newspap",
+            "comic",
+            "strip",
+            "usag",
+            "term",
+            "becom",
+            "standard",
+            "non-humor",
+            "work",
+            "well"
+        ],
         "synonyms": [
             "English",
             "terminus",
@@ -59519,7 +61817,7 @@
             "works",
             "well"
         ],
-        "tagged": [
+        "tags": [
             [
                 "english",
                 "JJ"
@@ -59985,6 +62283,22 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'term': 'O', '``': 'O', 'comic': 'O', 'book': 'O', \"''\": 'O', 'has': 'O', 'a': 'O', 'similarly': 'O', 'confusing': 'O', 'history': 'O', ':': 'O', 'they': 'O', 'are': 'O', 'most': 'O', 'often': 'O', 'not': 'O', 'humorous': 'O', ';': 'O', 'nor': 'O', 'regular': 'O', 'books': 'O', ',': 'O', 'but': 'O', 'rather': 'O', 'periodicals': 'O', '.': 'O'}",
         "sentence": "The term \"comic book\" has a similarly confusing history: they are most often not humorous; nor are they regular books, but rather periodicals.",
+        "stems": [
+            "term",
+            "``",
+            "comic",
+            "book",
+            "''",
+            "similarli",
+            "confus",
+            "histori",
+            "often",
+            "humor",
+            "regular",
+            "book",
+            "rather",
+            "period"
+        ],
         "synonyms": [
             "terminus",
             "``",
@@ -60001,7 +62315,7 @@
             "quite",
             "periodical"
         ],
-        "tagged": [
+        "tags": [
             [
                 "term",
                 "NN"
@@ -60575,6 +62889,26 @@
         ],
         "ner_tag": "{'It': 'O', 'is': 'O', 'common': 'O', 'in': 'O', 'English': 'NATIONALITY', 'to': 'O', 'refer': 'O', 'the': 'O', 'comics': 'O', 'of': 'O', 'different': 'O', 'cultures': 'O', 'by': 'O', 'terms': 'O', 'used': 'O', 'their': 'O', 'original': 'O', 'languages': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'manga': 'O', 'for': 'O', 'Japanese': 'NATIONALITY', 'or': 'O', 'bandes': 'O', 'dessinées': 'O', 'French': 'MISC', '-': 'MISC', 'language': 'MISC', 'Franco': 'MISC', 'Belgian': 'MISC', '.': 'O'}",
         "sentence": "It is common in English to refer to the comics of different cultures by the terms used in their original languages, such as manga for Japanese comics, or bandes dessinées for French-language Franco-Belgian comics.",
+        "stems": [
+            "common",
+            "english",
+            "refer",
+            "comic",
+            "differ",
+            "cultur",
+            "term",
+            "use",
+            "origin",
+            "languag",
+            "manga",
+            "japanes",
+            "comic",
+            "band",
+            "dessiné",
+            "french-languag",
+            "franco-belgian",
+            "comic"
+        ],
         "synonyms": [
             "park",
             "English",
@@ -60595,7 +62929,7 @@
             "franco-belgian",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "common",
                 "JJ"
@@ -61000,6 +63334,19 @@
         ],
         "ner_tag": "{'While': 'O', 'comics': 'O', 'are': 'O', 'often': 'O', 'the': 'O', 'work': 'O', 'of': 'O', 'a': 'O', 'single': 'O', 'creator': 'TITLE', ',': 'O', 'labour': 'O', 'making': 'O', 'them': 'O', 'is': 'O', 'frequently': 'O', 'divided': 'O', 'between': 'O', 'number': 'O', 'specialists': 'O', '.': 'O'}",
         "sentence": "While comics are often the work of a single creator, the labour of making them is frequently divided between a number of specialists.",
+        "stems": [
+            "comic",
+            "often",
+            "work",
+            "singl",
+            "creator",
+            "labour",
+            "make",
+            "frequent",
+            "divid",
+            "number",
+            "specialist"
+        ],
         "synonyms": [
             "comic_strip",
             "often",
@@ -61013,7 +63360,7 @@
             "phone_number",
             "specialist"
         ],
-        "tagged": [
+        "tags": [
             [
                 "comics",
                 "NNS"
@@ -61435,6 +63782,21 @@
         "meronyms": [],
         "ner_tag": "{'There': 'O', 'may': 'O', 'be': 'O', 'separate': 'O', 'writers': 'O', 'and': 'O', 'artists': 'O', ',': 'O', 'specialize': 'O', 'in': 'O', 'parts': 'O', 'of': 'O', 'the': 'O', 'artwork': 'O', 'such': 'O', 'as': 'O', 'characters': 'O', 'or': 'O', 'backgrounds': 'O', 'is': 'O', 'common': 'O', 'Japan': 'COUNTRY', '.': 'O'}",
         "sentence": "There may be separate writers and artists, and artists may specialize in parts of the artwork such as characters or backgrounds, as is common in Japan.",
+        "stems": [
+            "may",
+            "separ",
+            "writer",
+            "artist",
+            "artist",
+            "may",
+            "special",
+            "part",
+            "artwork",
+            "charact",
+            "background",
+            "common",
+            "japan"
+        ],
         "synonyms": [
             "whitethorn",
             "separate",
@@ -61450,7 +63812,7 @@
             "park",
             "japan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "may",
                 "MD"
@@ -62119,6 +64481,30 @@
         "meronyms": [],
         "ner_tag": "{'Particularly': 'O', 'in': 'O', 'American': 'NATIONALITY', 'superhero': 'O', 'comic': 'O', 'books': 'O', ',': 'O', 'the': 'O', 'art': 'O', 'may': 'O', 'be': 'O', 'divided': 'O', 'between': 'O', 'a': 'O', 'penciller': 'O', 'who': 'O', 'lays': 'O', 'out': 'O', 'artwork': 'O', 'pencil': 'O', ';': 'O', 'an': 'O', 'inker': 'TITLE', 'finishes': 'O', 'ink': 'O', 'colourist': 'O', 'and': 'O', 'letterer': 'TITLE', 'adds': 'O', 'captions': 'O', 'speech': 'O', 'balloons': 'O', '.': 'O'}",
         "sentence": "Particularly in American superhero comic books, the art may be divided between a penciller, who lays out the artwork in pencil; an inker, who finishes the artwork in ink; a colourist; and a letterer, who adds the captions and speech balloons.",
+        "stems": [
+            "particularli",
+            "american",
+            "superhero",
+            "comic",
+            "book",
+            "art",
+            "may",
+            "divid",
+            "pencil",
+            "lay",
+            "artwork",
+            "pencil",
+            "inker",
+            "finish",
+            "artwork",
+            "ink",
+            "colourist",
+            "letter",
+            "add",
+            "caption",
+            "speech",
+            "balloon"
+        ],
         "synonyms": [
             "peculiarly",
             "American",
@@ -62143,7 +64529,7 @@
             "lecture",
             "balloon"
         ],
-        "tagged": [
+        "tags": [
             [
                 "particularly",
                 "RB"
@@ -62467,6 +64853,17 @@
         ],
         "ner_tag": "{'Panels': 'O', 'are': 'O', 'individual': 'O', 'images': 'O', 'containing': 'O', 'a': 'O', 'segment': 'O', 'of': 'O', 'action': 'O', ',': 'O', 'often': 'O', 'surrounded': 'O', 'by': 'O', 'border': 'O', '.': 'O'}",
         "sentence": "Panels are individual images containing a segment of action, often surrounded by a border.",
+        "stems": [
+            "panel",
+            "individu",
+            "imag",
+            "contain",
+            "segment",
+            "action",
+            "often",
+            "surround",
+            "border"
+        ],
         "synonyms": [
             "panel",
             "person",
@@ -62478,7 +64875,7 @@
             "wall",
             "molding"
         ],
-        "tagged": [
+        "tags": [
             [
                 "panels",
                 "NNS"
@@ -62730,6 +65127,17 @@
         "meronyms": [],
         "ner_tag": "{'Prime': 'O', 'moments': 'O', 'in': 'O', 'a': 'O', 'narrative': 'O', 'are': 'O', 'broken': 'O', 'down': 'O', 'into': 'O', 'panels': 'O', 'via': 'O', 'process': 'O', 'called': 'O', 'encapsulation': 'O', '.': 'O'}",
         "sentence": "Prime moments in a narrative are broken down into panels via a process called encapsulation.",
+        "stems": [
+            "prime",
+            "moment",
+            "narr",
+            "broken",
+            "panel",
+            "via",
+            "process",
+            "call",
+            "encapsul"
+        ],
         "synonyms": [
             "prime",
             "moment",
@@ -62741,7 +65149,7 @@
             "visit",
             "encapsulation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "prime",
                 "JJ"
@@ -63146,6 +65554,25 @@
         ],
         "ner_tag": "{'The': 'O', 'reader': 'TITLE', 'puts': 'O', 'the': 'O', 'pieces': 'O', 'together': 'O', 'via': 'O', 'process': 'O', 'of': 'O', 'closure': 'O', 'by': 'O', 'using': 'O', 'background': 'O', 'knowledge': 'O', 'and': 'O', 'an': 'O', 'understanding': 'O', 'panel': 'O', 'relations': 'O', 'to': 'O', 'combine': 'O', 'panels': 'O', 'mentally': 'O', 'into': 'O', 'events': 'O', '.': 'O'}",
         "sentence": "The reader puts the pieces together via the process of closure by using background knowledge and an understanding of panel relations to combine panels mentally into events.",
+        "stems": [
+            "reader",
+            "put",
+            "piec",
+            "togeth",
+            "via",
+            "process",
+            "closur",
+            "use",
+            "background",
+            "knowledg",
+            "understand",
+            "panel",
+            "relat",
+            "combin",
+            "panel",
+            "mental",
+            "event"
+        ],
         "synonyms": [
             "subscriber",
             "put_option",
@@ -63165,7 +65592,7 @@
             "mentally",
             "event"
         ],
-        "tagged": [
+        "tags": [
             [
                 "reader",
                 "NN"
@@ -63491,6 +65918,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'size': 'O', ',': 'O', 'shape': 'O', 'and': 'O', 'arrangement': 'O', 'of': 'O', 'panels': 'O', 'each': 'O', 'affect': 'O', 'the': 'O', 'timing': 'O', 'pacing': 'O', 'narrative': 'O', '.': 'O'}",
         "sentence": "The size, shape, and arrangement of panels each affect the timing and pacing of the narrative.",
+        "stems": [
+            "size",
+            "shape",
+            "arrang",
+            "panel",
+            "affect",
+            "time",
+            "pace",
+            "narr"
+        ],
         "synonyms": [
             "size",
             "shape",
@@ -63501,7 +65938,7 @@
             "tempo",
             "narrative"
         ],
-        "tagged": [
+        "tags": [
             [
                 "size",
                 "NN"
@@ -63837,6 +66274,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'contents': 'O', 'of': 'O', 'a': 'O', 'panel': 'O', 'may': 'O', 'be': 'O', 'asynchronous': 'O', ',': 'O', 'with': 'O', 'events': 'O', 'depicted': 'O', 'in': 'O', 'the': 'O', 'same': 'O', 'image': 'O', 'not': 'O', 'necessarily': 'O', 'occurring': 'O', 'at': 'O', 'time': 'O', '.': 'O'}",
         "sentence": "The contents of a panel may be asynchronous, with events depicted in the same image not necessarily occurring at the same time.",
+        "stems": [
+            "content",
+            "panel",
+            "may",
+            "asynchron",
+            "event",
+            "depict",
+            "imag",
+            "necessarili",
+            "occur",
+            "time"
+        ],
         "synonyms": [
             "message",
             "panel",
@@ -63849,7 +66298,7 @@
             "occur",
             "time"
         ],
-        "tagged": [
+        "tags": [
             [
                 "contents",
                 "NNS"
@@ -64113,6 +66562,18 @@
         ],
         "ner_tag": "{'Text': 'O', 'is': 'O', 'frequently': 'O', 'incorporated': 'O', 'into': 'O', 'comics': 'O', 'via': 'O', 'speech': 'O', 'balloons': 'O', ',': 'O', 'captions': 'O', 'and': 'O', 'sound': 'O', 'effects': 'O', '.': 'O'}",
         "sentence": "Text is frequently incorporated into comics via speech balloons, captions, and sound effects.",
+        "stems": [
+            "text",
+            "frequent",
+            "incorpor",
+            "comic",
+            "via",
+            "speech",
+            "balloon",
+            "caption",
+            "sound",
+            "effect"
+        ],
         "synonyms": [
             "textbook",
             "frequently",
@@ -64125,7 +66586,7 @@
             "strait",
             "effects"
         ],
-        "tagged": [
+        "tags": [
             [
                 "text",
                 "NN"
@@ -64481,6 +66942,20 @@
         "meronyms": [],
         "ner_tag": "{'Speech': 'O', 'balloons': 'O', 'indicate': 'O', 'dialogue': 'O', '(': 'O', 'or': 'O', 'thought': 'O', ',': 'O', 'in': 'O', 'the': 'O', 'case': 'O', 'of': 'O', ')': 'O', 'with': 'O', 'tails': 'O', 'pointing': 'O', 'at': 'O', 'their': 'O', 'respective': 'O', 'speakers': 'O', '.': 'O'}",
         "sentence": "Speech balloons indicate dialogue (or thought, in the case of thought balloons), with tails pointing at their respective speakers.",
+        "stems": [
+            "speech",
+            "balloon",
+            "indic",
+            "dialogu",
+            "thought",
+            "case",
+            "thought",
+            "balloon",
+            "tail",
+            "point",
+            "respect",
+            "speaker"
+        ],
         "synonyms": [
             "lecture",
             "balloon",
@@ -64495,7 +66970,7 @@
             "respective",
             "Speaker"
         ],
-        "tagged": [
+        "tags": [
             [
                 "speech",
                 "NN"
@@ -64828,6 +67303,19 @@
         "meronyms": [],
         "ner_tag": "{'Captions': 'O', 'can': 'O', 'give': 'O', 'voice': 'O', 'to': 'O', 'a': 'O', 'narrator': 'TITLE', ',': 'O', 'convey': 'O', 'characters': 'O', \"'\": 'O', 'dialogue': 'O', 'or': 'O', 'thoughts': 'O', 'indicate': 'O', 'place': 'O', 'time': 'O', '.': 'O'}",
         "sentence": "Captions can give voice to a narrator, convey characters' dialogue or thoughts, or indicate place or time.",
+        "stems": [
+            "caption",
+            "give",
+            "voic",
+            "narrat",
+            "convey",
+            "charact",
+            "dialogu",
+            "thought",
+            "indic",
+            "place",
+            "time"
+        ],
         "synonyms": [
             "subtitle",
             "give",
@@ -64841,7 +67329,7 @@
             "topographic_point",
             "time"
         ],
-        "tagged": [
+        "tags": [
             [
                 "captions",
                 "NNS"
@@ -65236,6 +67724,20 @@
         ],
         "ner_tag": "{'Speech': 'O', 'balloons': 'O', 'themselves': 'O', 'are': 'O', 'strongly': 'O', 'associated': 'O', 'with': 'O', 'comics': 'O', ',': 'O', 'such': 'O', 'that': 'O', 'the': 'O', 'addition': 'O', 'of': 'O', 'one': 'NUMBER', 'to': 'O', 'an': 'O', 'image': 'O', 'is': 'O', 'sufficient': 'O', 'turn': 'O', 'into': 'O', '.': 'O'}",
         "sentence": "Speech balloons themselves are strongly associated with comics, such that the addition of one to an image is sufficient to turn the image into comics.",
+        "stems": [
+            "speech",
+            "balloon",
+            "strongli",
+            "associ",
+            "comic",
+            "addit",
+            "one",
+            "imag",
+            "suffici",
+            "turn",
+            "imag",
+            "comic"
+        ],
         "synonyms": [
             "lecture",
             "balloon",
@@ -65250,7 +67752,7 @@
             "trope",
             "comic_strip"
         ],
-        "tagged": [
+        "tags": [
             [
                 "speech",
                 "NN"
@@ -65469,6 +67971,17 @@
         "meronyms": [],
         "ner_tag": "{'Sound': 'O', 'effects': 'O', 'mimic': 'O', 'non-vocal': 'O', 'sounds': 'O', 'textually': 'O', 'using': 'O', 'onomatopoeia': 'O', 'sound': 'O', '-': 'O', 'words': 'O', '.': 'O'}",
         "sentence": "Sound effects mimic non-vocal sounds textually using onomatopoeia sound-words.",
+        "stems": [
+            "sound",
+            "effect",
+            "mimic",
+            "non-voc",
+            "sound",
+            "textual",
+            "use",
+            "onomatopoeia",
+            "sound-word"
+        ],
         "synonyms": [
             "strait",
             "effects",
@@ -65480,7 +67993,7 @@
             "onomatopoeia",
             "sound-words"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sound",
                 "JJ"
@@ -65949,6 +68462,29 @@
         ],
         "ner_tag": "{'Cartooning': 'O', 'is': 'O', 'most': 'O', 'frequently': 'O', 'used': 'O', 'in': 'O', 'making': 'O', 'comics': 'O', ',': 'O', 'traditionally': 'O', 'using': 'O', 'ink': 'O', '(': 'O', 'especially': 'O', 'India': 'COUNTRY', ')': 'O', 'with': 'O', 'dip': 'O', 'pens': 'O', 'or': 'O', 'brushes': 'O', ';': 'O', 'mixed': 'O', 'media': 'O', 'and': 'O', 'digital': 'O', 'technology': 'O', 'have': 'O', 'become': 'O', 'common': 'O', '.': 'O'}",
         "sentence": "Cartooning is most frequently used in making comics, traditionally using ink (especially India ink) with dip pens or ink brushes; mixed media and digital technology have become common.",
+        "stems": [
+            "cartoon",
+            "frequent",
+            "use",
+            "make",
+            "comic",
+            "tradit",
+            "use",
+            "ink",
+            "especi",
+            "india",
+            "ink",
+            "dip",
+            "pen",
+            "ink",
+            "brush",
+            "mix",
+            "media",
+            "digit",
+            "technolog",
+            "becom",
+            "common"
+        ],
         "synonyms": [
             "cartoon",
             "frequently",
@@ -65972,7 +68508,7 @@
             "become",
             "park"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cartooning",
                 "VBG"
@@ -66253,6 +68789,16 @@
         "meronyms": [],
         "ner_tag": "{'Cartooning': 'O', 'techniques': 'O', 'such': 'O', 'as': 'O', 'motion': 'O', 'lines': 'O', 'and': 'O', 'abstract': 'O', 'symbols': 'O', 'are': 'O', 'often': 'O', 'employed': 'O', '.': 'O'}",
         "sentence": "Cartooning techniques such as motion lines and abstract symbols are often employed.",
+        "stems": [
+            "cartoon",
+            "techniqu",
+            "motion",
+            "line",
+            "abstract",
+            "symbol",
+            "often",
+            "employ"
+        ],
         "synonyms": [
             "cartoon",
             "technique",
@@ -66263,7 +68809,7 @@
             "often",
             "use"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cartooning",
                 "VBG"

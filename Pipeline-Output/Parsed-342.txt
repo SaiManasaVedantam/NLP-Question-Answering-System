@@ -194,6 +194,17 @@
         ],
         "ner_tag": "{'East': 'LOCATION', 'Prussia': 'LOCATION', 'enclosed': 'O', 'the': 'O', 'bulk': 'O', 'of': 'O', 'ancestral': 'O', 'lands': 'O', 'Baltic': 'MISC', 'Old': 'MISC', 'Prussians': 'MISC', '.': 'O'}",
         "sentence": "East Prussia enclosed the bulk of the ancestral lands of the Baltic Old Prussians.",
+        "stems": [
+            "east",
+            "prussia",
+            "enclos",
+            "bulk",
+            "ancestr",
+            "land",
+            "baltic",
+            "old",
+            "prussian"
+        ],
         "synonyms": [
             "east",
             "Prussia",
@@ -205,7 +216,7 @@
             "Old",
             "Prussian"
         ],
-        "tagged": [
+        "tags": [
             [
                 "east",
                 "JJ"
@@ -458,6 +469,16 @@
         ],
         "ner_tag": "{'During': 'O', 'the': 'O', '13th': 'DATE', 'century': 'DATE', ',': 'O', 'native': 'O', 'Prussians': 'MISC', 'were': 'O', 'conquered': 'O', 'by': 'O', 'crusading': 'O', 'Teutonic': 'O', 'Knights': 'O', '.': 'O'}",
         "sentence": "During the 13th century, the native Prussians were conquered by the crusading Teutonic Knights.",
+        "stems": [
+            "13th",
+            "centuri",
+            "nativ",
+            "prussian",
+            "conquer",
+            "crusad",
+            "teuton",
+            "knight"
+        ],
         "synonyms": [
             "thirteenth",
             "century",
@@ -468,7 +489,7 @@
             "Teutonic",
             "knight"
         ],
-        "tagged": [
+        "tags": [
             [
                 "13th",
                 "JJ"
@@ -676,6 +697,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'indigenous': 'O', 'Balts': 'MISC', 'who': 'O', 'survived': 'O', 'the': 'O', 'conquest': 'O', 'were': 'O', 'gradually': 'O', 'converted': 'O', 'to': 'O', 'Christianity': 'RELIGION', '.': 'O'}",
         "sentence": "The indigenous Balts who survived the conquest were gradually converted to Christianity.",
+        "stems": [
+            "indigen",
+            "balt",
+            "surviv",
+            "conquest",
+            "gradual",
+            "convert",
+            "christian"
+        ],
         "synonyms": [
             "autochthonal",
             "balts",
@@ -685,7 +715,7 @@
             "convert",
             "Christianity"
         ],
-        "tagged": [
+        "tags": [
             [
                 "indigenous",
                 "JJ"
@@ -1031,6 +1061,21 @@
         ],
         "ner_tag": "{'Because': 'O', 'of': 'O', 'Germanization': 'O', 'and': 'O', 'colonisation': 'O', 'over': 'O', 'the': 'O', 'following': 'DATE', 'centuries': 'DATE', ',': 'O', 'Germans': 'MISC', 'became': 'O', 'dominant': 'O', 'ethnic': 'O', 'group': 'O', 'while': 'O', 'Poles': 'O', 'Lithuanians': 'MISC', 'formed': 'O', 'minorities': 'O', '.': 'O'}",
         "sentence": "Because of Germanization and colonisation over the following centuries, Germans became the dominant ethnic group, while Poles and Lithuanians formed minorities.",
+        "stems": [
+            "german",
+            "colonis",
+            "follow",
+            "centuri",
+            "german",
+            "becam",
+            "domin",
+            "ethnic",
+            "group",
+            "pole",
+            "lithuanian",
+            "form",
+            "minor"
+        ],
         "synonyms": [
             "germanization",
             "colonization",
@@ -1046,7 +1091,7 @@
             "shape",
             "minority"
         ],
-        "tagged": [
+        "tags": [
             [
                 "germanization",
                 "NN"
@@ -1344,6 +1389,17 @@
         ],
         "ner_tag": "{'From': 'O', 'the': 'O', '13th': 'DATE', 'century': 'DATE', ',': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'was': 'O', 'part': 'O', 'of': 'O', 'monastic': 'O', 'state': 'O', 'Teutonic': 'O', 'Knights': 'O', '.': 'O'}",
         "sentence": "From the 13th century, East Prussia was part of the monastic state of the Teutonic Knights.",
+        "stems": [
+            "13th",
+            "centuri",
+            "east",
+            "prussia",
+            "part",
+            "monast",
+            "state",
+            "teuton",
+            "knight"
+        ],
         "synonyms": [
             "thirteenth",
             "century",
@@ -1355,7 +1411,7 @@
             "Teutonic",
             "knight"
         ],
-        "tagged": [
+        "tags": [
             [
                 "13th",
                 "JJ"
@@ -1630,6 +1686,16 @@
         ],
         "ner_tag": "{'After': 'O', 'the': 'O', 'Second': 'ORDINAL', 'Peace': 'O', 'of': 'O', 'Thorn': 'LOCATION', 'in': 'O', '1466': 'DATE', 'it': 'O', 'became': 'O', 'a': 'O', 'fief': 'O', 'Kingdom': 'O', 'Poland': 'COUNTRY', '.': 'O'}",
         "sentence": "After the Second Peace of Thorn in 1466 it became a fief of the Kingdom of Poland.",
+        "stems": [
+            "second",
+            "peac",
+            "thorn",
+            "1466",
+            "becam",
+            "fief",
+            "kingdom",
+            "poland"
+        ],
         "synonyms": [
             "second_gear",
             "peace",
@@ -1640,7 +1706,7 @@
             "kingdom",
             "Poland"
         ],
-        "tagged": [
+        "tags": [
             [
                 "second",
                 "JJ"
@@ -1886,6 +1952,15 @@
         ],
         "ner_tag": "{'In': 'O', '1525': 'DATE', ',': 'O', 'with': 'O', 'the': 'O', 'Prussian': 'MISC', 'Homage': 'MISC', 'province': 'O', 'became': 'O', 'Duchy': 'O', 'of': 'O', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "In 1525, with the Prussian Homage, the province became the Duchy of Prussia.",
+        "stems": [
+            "1525",
+            "prussian",
+            "homag",
+            "provinc",
+            "becam",
+            "duchi",
+            "prussia"
+        ],
         "synonyms": [
             "1525",
             "Prussian",
@@ -1895,7 +1970,7 @@
             "duchy",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1525",
                 "CD"
@@ -2127,6 +2202,17 @@
         ],
         "ner_tag": "{'The': 'O', 'Old': 'MISC', 'Prussian': 'MISC', 'language': 'O', 'had': 'O', 'become': 'O', 'extinct': 'O', 'by': 'O', 'the': 'O', '17th': 'ORDINAL', 'or': 'O', 'early': 'DATE', '18th': 'DATE', 'century': 'DATE', '.': 'O'}",
         "sentence": "The Old Prussian language had become extinct by the 17th or early 18th century.",
+        "stems": [
+            "old",
+            "prussian",
+            "languag",
+            "becom",
+            "extinct",
+            "17th",
+            "earli",
+            "18th",
+            "centuri"
+        ],
         "synonyms": [
             "Old",
             "Prussian",
@@ -2138,7 +2224,7 @@
             "eighteenth",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "old",
                 "JJ"
@@ -2551,6 +2637,22 @@
         ],
         "ner_tag": "{'Because': 'O', 'the': 'O', 'duchy': 'O', 'was': 'O', 'outside': 'O', 'of': 'CITY', 'core': 'O', 'Holy': 'O', 'Roman': 'O', 'Empire': 'O', ',': 'O', 'prince': 'O', '-': 'O', 'electors': 'O', 'Brandenburg': 'CITY', 'were': 'O', 'able': 'O', 'to': 'O', 'proclaim': 'O', 'themselves': 'O', 'King': 'CITY', 'Prussia': 'CITY', 'beginning': 'DATE', 'in': 'DATE', '1701': 'DATE', '.': 'O'}",
         "sentence": "Because the duchy was outside of the core Holy Roman Empire, the prince-electors of Brandenburg were able to proclaim themselves King of Prussia beginning in 1701.",
+        "stems": [
+            "duchi",
+            "outsid",
+            "core",
+            "holi",
+            "roman",
+            "empir",
+            "prince-elector",
+            "brandenburg",
+            "abl",
+            "proclaim",
+            "king",
+            "prussia",
+            "begin",
+            "1701"
+        ],
         "synonyms": [
             "duchy",
             "outside",
@@ -2567,7 +2669,7 @@
             "begin",
             "1701"
         ],
-        "tagged": [
+        "tags": [
             [
                 "duchy",
                 "JJ"
@@ -3261,6 +3363,30 @@
         ],
         "ner_tag": "{'After': 'O', 'the': 'DATE', 'annexation': 'O', 'of': 'O', 'most': 'O', 'western': 'O', 'Royal': 'LOCATION', 'Prussia': 'LOCATION', 'in': 'O', 'First': 'ORDINAL', 'Partition': 'O', 'Polish': 'COUNTRY', '-': 'COUNTRY', 'Lithuanian': 'COUNTRY', 'Commonwealth': 'COUNTRY', '1772': 'DATE', ',': 'O', 'eastern': 'O', '(': 'O', 'ducal': 'O', ')': 'O', 'was': 'O', 'connected': 'O', 'by': 'O', 'land': 'O', 'with': 'O', 'rest': 'O', 'Prussian': 'MISC', 'state': 'O', 'and': 'O', 'reorganized': 'O', 'as': 'O', 'a': 'O', 'province': 'O', 'following': 'DATE', 'year': 'DATE', '1773': 'DATE', '.': 'O'}",
         "sentence": "After the annexation of most of western Royal Prussia in the First Partition of the Polish-Lithuanian Commonwealth in 1772, eastern (ducal) Prussia was connected by land with the rest of the Prussian state and was reorganized as a province the following year (1773).",
+        "stems": [
+            "annex",
+            "western",
+            "royal",
+            "prussia",
+            "first",
+            "partit",
+            "polish-lithuanian",
+            "commonwealth",
+            "1772",
+            "eastern",
+            "ducal",
+            "prussia",
+            "connect",
+            "land",
+            "rest",
+            "prussian",
+            "state",
+            "reorgan",
+            "provinc",
+            "follow",
+            "year",
+            "1773"
+        ],
         "synonyms": [
             "annexation",
             "western",
@@ -3285,7 +3411,7 @@
             "year",
             "1773"
         ],
-        "tagged": [
+        "tags": [
             [
                 "annexation",
                 "NN"
@@ -3676,6 +3802,19 @@
         ],
         "ner_tag": "{'Between': 'O', '1829': 'DATE', 'and': 'O', '1878': 'DATE', ',': 'O', 'the': 'O', 'Province': 'O', 'of': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'was': 'O', 'joined': 'O', 'with': 'O', 'West': 'LOCATION', 'to': 'O', 'form': 'O', '.': 'O'}",
         "sentence": "Between 1829 and 1878, the Province of East Prussia was joined with West Prussia to form the Province of Prussia.",
+        "stems": [
+            "1829",
+            "1878",
+            "provinc",
+            "east",
+            "prussia",
+            "join",
+            "west",
+            "prussia",
+            "form",
+            "provinc",
+            "prussia"
+        ],
         "synonyms": [
             "1829",
             "1878",
@@ -3689,7 +3828,7 @@
             "state",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1829",
                 "CD"
@@ -3979,6 +4118,17 @@
         ],
         "ner_tag": "{'The': 'O', 'Kingdom': 'O', 'of': 'O', 'Prussia': 'LOCATION', 'became': 'O', 'the': 'O', 'leading': 'O', 'state': 'O', 'German': 'NATIONALITY', 'Empire': 'O', 'after': 'O', 'its': 'O', 'creation': 'O', 'in': 'O', '1871': 'DATE', '.': 'O'}",
         "sentence": "The Kingdom of Prussia became the leading state of the German Empire after its creation in 1871.",
+        "stems": [
+            "kingdom",
+            "prussia",
+            "becam",
+            "lead",
+            "state",
+            "german",
+            "empir",
+            "creation",
+            "1871"
+        ],
         "synonyms": [
             "kingdom",
             "Prussia",
@@ -3990,7 +4140,7 @@
             "universe",
             "1871"
         ],
-        "tagged": [
+        "tags": [
             [
                 "kingdom",
                 "NN"
@@ -4695,6 +4845,38 @@
         ],
         "ner_tag": "{'However': 'O', ',': 'O', 'the': 'O', 'Treaty': 'O', 'of': 'O', 'Versailles': 'CITY', 'following': 'O', 'World': 'MISC', 'War': 'CAUSE_OF_DEATH', 'I': 'O', 'granted': 'O', 'West': 'LOCATION', 'Prussia': 'LOCATION', 'to': 'O', 'Poland': 'COUNTRY', 'and': 'O', 'made': 'O', 'East': 'LOCATION', 'an': 'O', 'exclave': 'O', 'Weimar': 'CITY', 'Germany': 'COUNTRY', '(': 'O', 'new': 'O', 'Polish': 'NATIONALITY', 'Corridor': 'MISC', 'separating': 'O', 'from': 'O', 'rest': 'O', ')': 'O', 'while': 'O', 'Memel': 'PERSON', 'Territory': 'PERSON', 'was': 'O', 'detached': 'O', 'annexed': 'O', 'by': 'O', 'Lithuania': 'COUNTRY', 'in': 'O', '1923': 'DATE', '.': 'O'}",
         "sentence": "However, the Treaty of Versailles following World War I granted West Prussia to Poland and made East Prussia an exclave of Weimar Germany (the new Polish Corridor separating East Prussia from the rest of Germany), while the Memel Territory was detached and was annexed by Lithuania in 1923.",
+        "stems": [
+            "howev",
+            "treati",
+            "versail",
+            "follow",
+            "world",
+            "war",
+            "grant",
+            "west",
+            "prussia",
+            "poland",
+            "made",
+            "east",
+            "prussia",
+            "exclav",
+            "weimar",
+            "germani",
+            "new",
+            "polish",
+            "corridor",
+            "separ",
+            "east",
+            "prussia",
+            "rest",
+            "germani",
+            "memel",
+            "territori",
+            "detach",
+            "annex",
+            "lithuania",
+            "1923"
+        ],
         "synonyms": [
             "however",
             "treaty",
@@ -4727,7 +4909,7 @@
             "Lithuania",
             "1923"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -5658,6 +5840,43 @@
         ],
         "ner_tag": "{'Following': 'O', 'Nazi': 'IDEOLOGY', 'Germany': 'COUNTRY', \"'s\": 'LOCATION', 'defeat': 'O', 'in': 'O', 'World': 'MISC', 'War': 'CAUSE_OF_DEATH', 'II': 'MISC', '1945': 'DATE', ',': 'O', 'war': 'O', '-': 'MISC', 'torn': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'was': 'O', 'divided': 'O', 'at': 'O', 'Joseph': 'PERSON', 'Stalin': 'PERSON', 'insistence': 'O', 'between': 'O', 'the': 'O', 'Soviet': 'LOCATION', 'Union': 'CITY', '(': 'O', 'Kaliningrad': 'CITY', 'Oblast': 'LOCATION', 'Russian': 'NATIONALITY', 'SFSR': 'O', 'and': 'O', 'constituent': 'O', 'counties': 'O', 'of': 'COUNTRY', 'Klaipėda': 'LOCATION', 'Region': 'LOCATION', 'Lithuanian': 'NATIONALITY', 'SSR': 'MISC', ')': 'O', 'People': 'LOCATION', 'Republic': 'COUNTRY', 'Poland': 'COUNTRY', 'Warmian': 'MISC', 'Masurian': 'MISC', 'Voivodeship': 'MISC', '.': 'O'}",
         "sentence": "Following Nazi Germany's defeat in World War II in 1945, war-torn East Prussia was divided at Joseph Stalin's insistence between the Soviet Union (the Kaliningrad Oblast in the Russian SFSR and the constituent counties of the Klaipėda Region in the Lithuanian SSR) and the People's Republic of Poland (the Warmian-Masurian Voivodeship).",
+        "stems": [
+            "follow",
+            "nazi",
+            "germani",
+            "'s",
+            "defeat",
+            "world",
+            "war",
+            "ii",
+            "1945",
+            "war-torn",
+            "east",
+            "prussia",
+            "divid",
+            "joseph",
+            "stalin",
+            "'s",
+            "insist",
+            "soviet",
+            "union",
+            "kaliningrad",
+            "oblast",
+            "russian",
+            "sfsr",
+            "constitu",
+            "counti",
+            "klaipėda",
+            "region",
+            "lithuanian",
+            "ssr",
+            "peopl",
+            "'s",
+            "republ",
+            "poland",
+            "warmian-masurian",
+            "voivodeship"
+        ],
         "synonyms": [
             "take_after",
             "nazi",
@@ -5695,7 +5914,7 @@
             "warmian-masurian",
             "voivodeship"
         ],
-        "tagged": [
+        "tags": [
             [
                 "following",
                 "VBG"
@@ -5998,6 +6217,14 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'capital': 'O', 'city': 'O', 'Königsberg': 'LOCATION', 'was': 'O', 'renamed': 'O', 'Kaliningrad': 'CITY', 'in': 'O', '1946': 'DATE', '.': 'O'}",
         "sentence": "The capital city Königsberg was renamed Kaliningrad in 1946.",
+        "stems": [
+            "capit",
+            "citi",
+            "königsberg",
+            "renam",
+            "kaliningrad",
+            "1946"
+        ],
         "synonyms": [
             "Das_Kapital",
             "city",
@@ -6006,7 +6233,7 @@
             "kaliningrad",
             "1946"
         ],
-        "tagged": [
+        "tags": [
             [
                 "capital",
                 "NN"
@@ -6363,6 +6590,22 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'German': 'NATIONALITY', 'population': 'O', 'of': 'O', 'the': 'O', 'province': 'O', 'was': 'O', 'largely': 'O', 'evacuated': 'O', 'during': 'O', 'war': 'CAUSE_OF_DEATH', 'or': 'O', 'expelled': 'O', 'shortly': 'O', 'thereafter': 'O', 'in': 'O', 'expulsion': 'O', 'Germans': 'MISC', 'after': 'O', 'World': 'MISC', 'War': 'CAUSE_OF_DEATH', 'II': 'MISC', '.': 'O'}",
         "sentence": "The German population of the province was largely evacuated during the war or expelled shortly thereafter in the expulsion of Germans after World War II.",
+        "stems": [
+            "german",
+            "popul",
+            "provinc",
+            "larg",
+            "evacu",
+            "war",
+            "expel",
+            "shortli",
+            "thereaft",
+            "expuls",
+            "german",
+            "world",
+            "war",
+            "ii"
+        ],
         "synonyms": [
             "German",
             "population",
@@ -6379,7 +6622,7 @@
             "war",
             "two"
         ],
-        "tagged": [
+        "tags": [
             [
                 "german",
                 "JJ"
@@ -6784,6 +7027,23 @@
         "meronyms": [],
         "ner_tag": "{'An': 'O', 'estimated': 'O', '300,000': 'NUMBER', '(': 'O', 'around': 'O', 'one': 'NUMBER', 'fifth': 'ORDINAL', 'of': 'O', 'the': 'O', 'population': 'O', ')': 'O', 'died': 'O', 'either': 'O', 'in': 'O', 'war': 'CAUSE_OF_DEATH', 'time': 'O', 'bombings': 'O', 'raids': 'O', 'or': 'O', 'battles': 'O', 'to': 'O', 'defend': 'O', 'province': 'O', '.': 'O'}",
         "sentence": "An estimated 300,000 (around one fifth of the population) died either in war time bombings raids or in the battles to defend the province.",
+        "stems": [
+            "estim",
+            "300,000",
+            "around",
+            "one",
+            "fifth",
+            "popul",
+            "die",
+            "either",
+            "war",
+            "time",
+            "bomb",
+            "raid",
+            "battl",
+            "defend",
+            "provinc"
+        ],
         "synonyms": [
             "estimate",
             "300,000",
@@ -6801,7 +7061,7 @@
             "defend",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "estimated",
                 "VBN"
@@ -7339,6 +7599,29 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Upon': 'O', 'the': 'O', 'invitation': 'O', 'of': 'O', 'Duke': 'PERSON', 'Konrad': 'PERSON', 'I': 'PERSON', 'Masovia': 'PERSON', ',': 'O', 'Teutonic': 'O', 'Knights': 'O', 'took': 'O', 'possession': 'O', 'Prussia': 'LOCATION', 'in': 'O', '13th': 'DATE', 'century': 'DATE', 'and': 'O', 'created': 'O', 'a': 'O', 'monastic': 'O', 'state': 'O', 'to': 'O', 'administer': 'O', 'conquered': 'O', 'Old': 'MISC', 'Prussians': 'MISC', '.': 'O'}",
         "sentence": "[citation needed] Upon the invitation of Duke Konrad I of Masovia, the Teutonic Knights took possession of Prussia in the 13th century and created a monastic state to administer the conquered Old Prussians.",
+        "stems": [
+            "citat",
+            "need",
+            "upon",
+            "invit",
+            "duke",
+            "konrad",
+            "masovia",
+            "teuton",
+            "knight",
+            "took",
+            "possess",
+            "prussia",
+            "13th",
+            "centuri",
+            "creat",
+            "monast",
+            "state",
+            "administ",
+            "conquer",
+            "old",
+            "prussian"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -7362,7 +7645,7 @@
             "Old",
             "Prussian"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -7679,6 +7962,16 @@
         "meronyms": [],
         "ner_tag": "{'Local': 'O', 'Old': 'MISC', '-': 'MISC', 'Prussian': 'MISC', '(': 'O', 'north': 'O', ')': 'O', 'and': 'O', 'Polish': 'NATIONALITY', 'south': 'O', 'toponyms': 'O', 'were': 'O', 'gradually': 'O', 'Germanised': 'O', '.': 'O'}",
         "sentence": "Local Old-Prussian (north) and Polish (south) toponyms were gradually Germanised.",
+        "stems": [
+            "local",
+            "old-prussian",
+            "north",
+            "polish",
+            "south",
+            "toponym",
+            "gradual",
+            "germanis"
+        ],
         "synonyms": [
             "local_anesthetic",
             "old-prussian",
@@ -7689,7 +7982,7 @@
             "gradually",
             "germanised"
         ],
-        "tagged": [
+        "tags": [
             [
                 "local",
                 "JJ"
@@ -8562,6 +8855,40 @@
         ],
         "ner_tag": "{'The': 'O', 'Knights': 'O', \"'\": 'O', 'expansionist': 'O', 'policies': 'O', ',': 'O', 'including': 'O', 'occupation': 'O', 'of': 'O', 'Polish': 'MISC', 'Pomerania': 'O', 'with': 'O', 'Gdańsk': 'LOCATION', '/': 'O', 'Danzig': 'PERSON', 'and': 'O', 'western': 'O', 'Lithuania': 'COUNTRY', 'brought': 'O', 'them': 'O', 'into': 'O', 'conflict': 'O', 'the': 'O', 'Kingdom': 'LOCATION', 'Poland': 'COUNTRY', 'embroiled': 'O', 'in': 'O', 'several': 'O', 'wars': 'O', 'culminating': 'O', '-': 'MISC', 'Lithuanian': 'MISC', 'Teutonic': 'MISC', 'War': 'CAUSE_OF_DEATH', 'whereby': 'O', 'united': 'O', 'armies': 'O', 'defeated': 'O', 'Order': 'O', 'at': 'O', 'Battle': 'O', 'Grunwald': 'PERSON', '(': 'O', 'Tannenberg': 'LOCATION', ')': 'O', '1410': 'DATE', '.': 'O'}",
         "sentence": "The Knights' expansionist policies, including occupation of Polish Pomerania with Gdańsk/Danzig and western Lithuania, brought them into conflict with the Kingdom of Poland and embroiled them in several wars, culminating in the Polish-Lithuanian-Teutonic War, whereby the united armies of Poland and Lithuania, defeated the Teutonic Order at the Battle of Grunwald (Tannenberg) in 1410.",
+        "stems": [
+            "knight",
+            "expansionist",
+            "polici",
+            "includ",
+            "occup",
+            "polish",
+            "pomerania",
+            "gdańsk/danzig",
+            "western",
+            "lithuania",
+            "brought",
+            "conflict",
+            "kingdom",
+            "poland",
+            "embroil",
+            "sever",
+            "war",
+            "culmin",
+            "polish-lithuanian-teuton",
+            "war",
+            "wherebi",
+            "unit",
+            "armi",
+            "poland",
+            "lithuania",
+            "defeat",
+            "teuton",
+            "order",
+            "battl",
+            "grunwald",
+            "tannenberg",
+            "1410"
+        ],
         "synonyms": [
             "knight",
             "expansionist",
@@ -8596,7 +8923,7 @@
             "Tannenberg",
             "1410"
         ],
-        "tagged": [
+        "tags": [
             [
                 "knights",
                 "NNS"
@@ -9158,6 +9485,25 @@
         ],
         "ner_tag": "{'Its': 'O', 'defeat': 'O', 'was': 'O', 'formalised': 'O', 'in': 'O', 'the': 'O', 'Second': 'DATE', 'Treaty': 'MISC', 'of': 'MISC', 'Thorn': 'MISC', '1466': 'DATE', 'ending': 'O', 'Thirteen': 'DURATION', 'Years': 'DURATION', \"'\": 'MISC', 'War': 'CAUSE_OF_DEATH', ',': 'O', 'and': 'O', 'leaving': 'O', 'former': 'O', 'Polish': 'NATIONALITY', 'region': 'O', 'Pomerania': 'ORGANIZATION', '/': 'ORGANIZATION', 'Pomerelia': 'ORGANIZATION', 'under': 'O', 'control': 'O', '.': 'O'}",
         "sentence": "Its defeat was formalised in the Second Treaty of Thorn in 1466 ending the Thirteen Years' War, and leaving the former Polish region Pomerania/Pomerelia under Polish control.",
+        "stems": [
+            "defeat",
+            "formalis",
+            "second",
+            "treati",
+            "thorn",
+            "1466",
+            "end",
+            "thirteen",
+            "year",
+            "war",
+            "leav",
+            "former",
+            "polish",
+            "region",
+            "pomerania/pomerelia",
+            "polish",
+            "control"
+        ],
         "synonyms": [
             "get_the_better_of",
             "validate",
@@ -9177,7 +9523,7 @@
             "polish",
             "master"
         ],
-        "tagged": [
+        "tags": [
             [
                 "defeat",
                 "NN"
@@ -9408,6 +9754,14 @@
         ],
         "ner_tag": "{'Together': 'O', 'with': 'O', 'Warmia': 'LOCATION', 'it': 'O', 'formed': 'O', 'the': 'O', 'province': 'O', 'of': 'O', 'Royal': 'LOCATION', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "Together with Warmia it formed the province of Royal Prussia.",
+        "stems": [
+            "togeth",
+            "warmia",
+            "form",
+            "provinc",
+            "royal",
+            "prussia"
+        ],
         "synonyms": [
             "in_concert",
             "warmia",
@@ -9416,7 +9770,7 @@
             "royal",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "together",
                 "RB"
@@ -9627,6 +9981,14 @@
         ],
         "ner_tag": "{'Eastern': 'O', 'Prussia': 'LOCATION', 'remained': 'O', 'under': 'O', 'the': 'O', 'Knights': 'O', ',': 'O', 'but': 'O', 'as': 'O', 'a': 'O', 'fief': 'O', 'of': 'O', 'Poland': 'COUNTRY', '.': 'O'}",
         "sentence": "Eastern Prussia remained under the Knights, but as a fief of Poland.",
+        "stems": [
+            "eastern",
+            "prussia",
+            "remain",
+            "knight",
+            "fief",
+            "poland"
+        ],
         "synonyms": [
             "eastern",
             "Prussia",
@@ -9635,7 +9997,7 @@
             "fief",
             "Poland"
         ],
-        "tagged": [
+        "tags": [
             [
                 "eastern",
                 "JJ"
@@ -10036,6 +10398,23 @@
         ],
         "ner_tag": "{'1466': 'DATE', 'and': 'O', '1525': 'DATE', 'arrangements': 'O', 'by': 'O', 'kings': 'O', 'of': 'O', 'Poland': 'COUNTRY', 'were': 'O', 'not': 'O', 'verified': 'O', 'the': 'O', 'Holy': 'O', 'Roman': 'O', 'Empire': 'O', 'as': 'O', 'well': 'O', 'previous': 'O', 'gains': 'O', 'Teutonic': 'O', 'Knights': 'O', '.': 'O'}",
         "sentence": "1466 and 1525 arrangements by kings of Poland were not verified by the Holy Roman Empire as well as the previous gains of the Teutonic Knights were not verified.",
+        "stems": [
+            "1466",
+            "1525",
+            "arrang",
+            "king",
+            "poland",
+            "verifi",
+            "holi",
+            "roman",
+            "empir",
+            "well",
+            "previou",
+            "gain",
+            "teuton",
+            "knight",
+            "verifi"
+        ],
         "synonyms": [
             "1466",
             "1525",
@@ -10053,7 +10432,7 @@
             "knight",
             "verify"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1466",
                 "CD"
@@ -10496,6 +10875,25 @@
         ],
         "ner_tag": "{'The': 'O', 'Teutonic': 'O', 'Order': 'O', 'lost': 'O', 'eastern': 'O', 'Prussia': 'LOCATION', 'when': 'O', 'Grand': 'O', 'Master': 'O', 'Albert': 'PERSON', 'of': 'O', 'Brandenburg': 'LOCATION', '-': 'LOCATION', 'Ansbach': 'LOCATION', 'converted': 'O', 'to': 'O', 'Lutheranism': 'RELIGION', 'and': 'O', 'secularized': 'O', 'the': 'O', 'Prussian': 'MISC', 'branch': 'O', 'in': 'O', '1525': 'DATE', '.': 'O'}",
         "sentence": "The Teutonic Order lost eastern Prussia when Grand Master Albert of Brandenburg-Ansbach converted to Lutheranism and secularized the Prussian branch of the Teutonic Order in 1525.",
+        "stems": [
+            "teuton",
+            "order",
+            "lost",
+            "eastern",
+            "prussia",
+            "grand",
+            "master",
+            "albert",
+            "brandenburg-ansbach",
+            "convert",
+            "lutheran",
+            "secular",
+            "prussian",
+            "branch",
+            "teuton",
+            "order",
+            "1525"
+        ],
         "synonyms": [
             "Teutonic",
             "rate",
@@ -10515,7 +10913,7 @@
             "rate",
             "1525"
         ],
-        "tagged": [
+        "tags": [
             [
                 "teutonic",
                 "JJ"
@@ -10901,6 +11299,19 @@
         ],
         "ner_tag": "{'Albert': 'PERSON', 'established': 'O', 'himself': 'O', 'as': 'O', 'the': 'O', 'first': 'ORDINAL', 'duke': 'TITLE', 'of': 'O', 'Duchy': 'O', 'Prussia': 'LOCATION', 'and': 'O', 'a': 'O', 'vassal': 'O', 'Polish': 'NATIONALITY', 'crown': 'O', 'by': 'O', 'Prussian': 'O', 'Homage': 'O', '.': 'O'}",
         "sentence": "Albert established himself as the first duke of the Duchy of Prussia and a vassal of the Polish crown by the Prussian Homage.",
+        "stems": [
+            "albert",
+            "establish",
+            "first",
+            "duke",
+            "duchi",
+            "prussia",
+            "vassal",
+            "polish",
+            "crown",
+            "prussian",
+            "homag"
+        ],
         "synonyms": [
             "Albert",
             "established",
@@ -10914,7 +11325,7 @@
             "Prussian",
             "court"
         ],
-        "tagged": [
+        "tags": [
             [
                 "albert",
                 "RB"
@@ -11389,6 +11800,25 @@
         ],
         "ner_tag": "{'Walter': 'PERSON', 'von': 'PERSON', 'Cronberg': 'PERSON', ',': 'O', 'the': 'O', 'next': 'O', 'Grand': 'MISC', 'Master': 'MISC', 'was': 'O', 'enfeoffed': 'O', 'with': 'O', 'title': 'O', 'to': 'O', 'Prussia': 'LOCATION', 'after': 'O', 'Diet': 'O', 'of': 'O', 'Augsburg': 'CITY', 'in': 'O', '1530': 'DATE', 'but': 'O', 'Order': 'O', 'never': 'O', 'regained': 'O', 'possession': 'O', 'territory': 'O', '.': 'O'}",
         "sentence": "Walter von Cronberg, the next Grand Master, was enfeoffed with the title to Prussia after the Diet of Augsburg in 1530, but the Order never regained possession of the territory.",
+        "stems": [
+            "walter",
+            "von",
+            "cronberg",
+            "next",
+            "grand",
+            "master",
+            "enfeof",
+            "titl",
+            "prussia",
+            "diet",
+            "augsburg",
+            "1530",
+            "order",
+            "never",
+            "regain",
+            "possess",
+            "territori"
+        ],
         "synonyms": [
             "Walter",
             "von",
@@ -11408,7 +11838,7 @@
             "possession",
             "territory"
         ],
-        "tagged": [
+        "tags": [
             [
                 "walter",
                 "NN"
@@ -11811,6 +12241,21 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '1569': 'DATE', 'the': 'O', 'Hohenzollern': 'O', 'prince': 'O', '-': 'O', 'electors': 'O', 'of': 'O', 'Margraviate': 'O', 'Brandenburg': 'CITY', 'became': 'O', 'co-regents': 'O', 'with': 'O', 'Albert': 'PERSON', \"'s\": 'O', 'son': 'O', ',': 'O', 'feeble': 'O', 'minded': 'O', 'Frederick': 'PERSON', '.': 'O'}",
         "sentence": "In 1569 the Hohenzollern prince-electors of the Margraviate of Brandenburg became co-regents with Albert's son, the feeble-minded Albert Frederick.",
+        "stems": [
+            "1569",
+            "hohenzollern",
+            "prince-elector",
+            "margravi",
+            "brandenburg",
+            "becam",
+            "co-reg",
+            "albert",
+            "'s",
+            "son",
+            "feeble-mind",
+            "albert",
+            "frederick"
+        ],
         "synonyms": [
             "1569",
             "Hohenzollern",
@@ -11826,7 +12271,7 @@
             "Albert",
             "Frederick"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1569",
                 "CD"
@@ -12185,6 +12630,21 @@
         ],
         "ner_tag": "{'The': 'O', 'Administrator': 'TITLE', 'of': 'O', 'Prussia': 'LOCATION', ',': 'O', 'the': 'O', 'grandmaster': 'O', 'Teutonic': 'MISC', 'Order': 'O', 'Maximilian': 'PERSON', 'III': 'PERSON', 'son': 'O', 'emperor': 'TITLE', 'II': 'PERSON', 'died': 'O', 'in': 'O', '1618': 'DATE', '.': 'O'}",
         "sentence": "The Administrator of Prussia, the grandmaster of the Teutonic Order Maximilian III, son of emperor Maximilian II died in 1618.",
+        "stems": [
+            "administr",
+            "prussia",
+            "grandmast",
+            "teuton",
+            "order",
+            "maximilian",
+            "iii",
+            "son",
+            "emperor",
+            "maximilian",
+            "ii",
+            "die",
+            "1618"
+        ],
         "synonyms": [
             "administrator",
             "Prussia",
@@ -12200,7 +12660,7 @@
             "die",
             "1618"
         ],
-        "tagged": [
+        "tags": [
             [
                 "administrator",
                 "NN"
@@ -12602,6 +13062,21 @@
         ],
         "ner_tag": "{'When': 'O', 'Maximilian': 'PERSON', 'died': 'O', ',': 'O', 'Albert': 'PERSON', \"'s\": 'O', 'line': 'O', 'out': 'O', 'and': 'O', 'the': 'O', 'Duchy': 'O', 'of': 'O', 'Prussia': 'O', 'passed': 'O', 'to': 'O', 'Electors': 'O', 'Brandenburg': 'O', 'forming': 'O', '-': 'O', '.': 'O'}",
         "sentence": "When Maximilian died, Albert's line died out, and the Duchy of Prussia passed to the Electors of Brandenburg, forming Brandenburg-Prussia.",
+        "stems": [
+            "maximilian",
+            "die",
+            "albert",
+            "'s",
+            "line",
+            "die",
+            "duchi",
+            "prussia",
+            "pass",
+            "elector",
+            "brandenburg",
+            "form",
+            "brandenburg-prussia"
+        ],
         "synonyms": [
             "maximilian",
             "die",
@@ -12617,7 +13092,7 @@
             "shape",
             "brandenburg-prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "maximilian",
                 "JJ"
@@ -13446,6 +13921,43 @@
         ],
         "ner_tag": "{'Taking': 'O', 'advantage': 'O', 'of': 'O', 'the': 'O', 'Swedish': 'NATIONALITY', 'invasion': 'O', 'Poland': 'COUNTRY', 'in': 'O', '1655': 'DATE', ',': 'O', 'and': 'O', 'instead': 'O', 'fulfilling': 'O', 'his': 'O', 'vassal': 'O', \"'s\": 'O', 'duties': 'O', 'towards': 'O', 'Polish': 'NATIONALITY', 'Kingdom': 'O', 'by': 'O', 'joining': 'O', 'forces': 'O', 'with': 'O', 'Swedes': 'MISC', 'subsequent': 'O', 'treaties': 'O', 'Wehlau': 'LOCATION', 'Labiau': 'LOCATION', 'Oliva': 'PERSON', 'Elector': 'O', 'Duke': 'PERSON', 'Frederick': 'PERSON', 'William': 'PERSON', 'succeeded': 'O', 'revoking': 'O', 'king': 'TITLE', 'sovereignty': 'O', 'over': 'O', 'Duchy': 'O', 'Prussia': 'LOCATION', '1660': 'DATE', '.': 'O'}",
         "sentence": "Taking advantage of the Swedish invasion of Poland in 1655, and instead of fulfilling his vassal's duties towards the Polish Kingdom, by joining forces with the Swedes and subsequent treaties of Wehlau, Labiau, and Oliva, Elector and Duke Frederick William succeeded in revoking king of Poland's sovereignty over the Duchy of Prussia in 1660.",
+        "stems": [
+            "take",
+            "advantag",
+            "swedish",
+            "invas",
+            "poland",
+            "1655",
+            "instead",
+            "fulfil",
+            "vassal",
+            "'s",
+            "duti",
+            "toward",
+            "polish",
+            "kingdom",
+            "join",
+            "forc",
+            "swede",
+            "subsequ",
+            "treati",
+            "wehlau",
+            "labiau",
+            "oliva",
+            "elector",
+            "duke",
+            "frederick",
+            "william",
+            "succeed",
+            "revok",
+            "king",
+            "poland",
+            "'s",
+            "sovereignti",
+            "duchi",
+            "prussia",
+            "1660"
+        ],
         "synonyms": [
             "take",
             "advantage",
@@ -13483,7 +13995,7 @@
             "Prussia",
             "1660"
         ],
-        "tagged": [
+        "tags": [
             [
                 "taking",
                 "VBG"
@@ -13809,6 +14321,15 @@
         ],
         "ner_tag": "{'The': 'O', 'absolutist': 'O', 'elector': 'O', 'also': 'O', 'subdued': 'O', 'the': 'O', 'noble': 'O', 'estates': 'O', 'of': 'O', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "The absolutist elector also subdued the noble estates of Prussia.",
+        "stems": [
+            "absolutist",
+            "elector",
+            "also",
+            "subdu",
+            "nobl",
+            "estat",
+            "prussia"
+        ],
         "synonyms": [
             "absolutist",
             "voter",
@@ -13818,7 +14339,7 @@
             "estate_of_the_realm",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "absolutist",
                 "NN"
@@ -14313,6 +14834,26 @@
         ],
         "ner_tag": "{'Although': 'O', 'Brandenburg': 'PERSON', 'was': 'O', 'a': 'O', 'part': 'O', 'of': 'O', 'the': 'O', 'Holy': 'O', 'Roman': 'O', 'Empire': 'O', ',': 'O', 'Prussian': 'MISC', 'lands': 'O', 'were': 'O', 'not': 'O', 'within': 'O', 'and': 'O', 'with': 'O', 'administration': 'O', 'by': 'O', 'Teutonic': 'ORGANIZATION', 'Order': 'ORGANIZATION', 'grandmasters': 'O', 'under': 'O', 'jurisdiction': 'O', 'Emperor': 'TITLE', '.': 'O'}",
         "sentence": "Although Brandenburg was a part of the Holy Roman Empire, the Prussian lands were not within the Holy Roman Empire and were with the administration by the Teutonic Order grandmasters under jurisdiction of the Emperor.",
+        "stems": [
+            "although",
+            "brandenburg",
+            "part",
+            "holi",
+            "roman",
+            "empir",
+            "prussian",
+            "land",
+            "within",
+            "holi",
+            "roman",
+            "empir",
+            "administr",
+            "teuton",
+            "order",
+            "grandmast",
+            "jurisdict",
+            "emperor"
+        ],
         "synonyms": [
             "although",
             "Brandenburg",
@@ -14333,7 +14874,7 @@
             "legal_power",
             "emperor_butterfly"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -14811,6 +15352,25 @@
         ],
         "ner_tag": "{'In': 'O', 'return': 'O', 'for': 'O', 'supporting': 'O', 'Emperor': 'TITLE', 'Leopold': 'PERSON', 'I': 'O', 'in': 'O', 'the': 'O', 'War': 'CAUSE_OF_DEATH', 'of': 'O', 'Spanish': 'NATIONALITY', 'Succession': 'MISC', ',': 'O', 'Elector': 'O', 'Frederick': 'PERSON', 'III': 'PERSON', 'was': 'O', 'allowed': 'O', 'to': 'O', 'crown': 'O', 'himself': 'O', '``': 'O', 'King': 'TITLE', 'Prussia': 'LOCATION', \"''\": 'O', '1701': 'DATE', '.': 'O'}",
         "sentence": "In return for supporting Emperor Leopold I in the War of the Spanish Succession, Elector Frederick III was allowed to crown himself \"King in Prussia\" in 1701.",
+        "stems": [
+            "return",
+            "support",
+            "emperor",
+            "leopold",
+            "war",
+            "spanish",
+            "success",
+            "elector",
+            "frederick",
+            "iii",
+            "allow",
+            "crown",
+            "``",
+            "king",
+            "prussia",
+            "''",
+            "1701"
+        ],
         "synonyms": [
             "revert",
             "support",
@@ -14830,7 +15390,7 @@
             "''",
             "1701"
         ],
-        "tagged": [
+        "tags": [
             [
                 "return",
                 "NN"
@@ -15124,6 +15684,17 @@
         ],
         "ner_tag": "{'The': 'O', 'new': 'O', 'kingdom': 'O', 'ruled': 'O', 'by': 'O', 'the': 'O', 'Hohenzollern': 'O', 'dynasty': 'O', 'became': 'O', 'known': 'O', 'as': 'O', 'Kingdom': 'O', 'of': 'O', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "The new kingdom ruled by the Hohenzollern dynasty became known as the Kingdom of Prussia.",
+        "stems": [
+            "new",
+            "kingdom",
+            "rule",
+            "hohenzollern",
+            "dynasti",
+            "becam",
+            "known",
+            "kingdom",
+            "prussia"
+        ],
         "synonyms": [
             "newfangled",
             "kingdom",
@@ -15135,7 +15706,7 @@
             "kingdom",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "new",
                 "JJ"
@@ -15422,6 +15993,18 @@
         ],
         "ner_tag": "{'The': 'O', 'designation': 'O', '``': 'O', 'Kingdom': 'O', 'of': 'O', 'Prussia': 'LOCATION', \"''\": 'O', 'was': 'O', 'gradually': 'O', 'applied': 'O', 'to': 'O', 'the': 'O', 'various': 'O', 'lands': 'O', 'Brandenburg': 'LOCATION', '-': 'LOCATION', '.': 'O'}",
         "sentence": "The designation \"Kingdom of Prussia\" was gradually applied to the various lands of Brandenburg-Prussia.",
+        "stems": [
+            "design",
+            "``",
+            "kingdom",
+            "prussia",
+            "''",
+            "gradual",
+            "appli",
+            "variou",
+            "land",
+            "brandenburg-prussia"
+        ],
         "synonyms": [
             "appointment",
             "``",
@@ -15434,7 +16017,7 @@
             "state",
             "brandenburg-prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "designation",
                 "NN"
@@ -15906,6 +16489,27 @@
         ],
         "ner_tag": "{'To': 'O', 'differentiate': 'O', 'from': 'O', 'the': 'O', 'larger': 'O', 'entity': 'O', ',': 'O', 'former': 'O', 'Duchy': 'O', 'of': 'O', 'Prussia': 'O', 'became': 'O', 'known': 'O', 'as': 'O', 'Altpreußen': 'O', '(': 'O', '``': 'O', 'Old': 'O', \"''\": 'O', ')': 'O', 'province': 'O', 'or': 'O', 'East': 'O', '.': 'O'}",
         "sentence": "To differentiate from the larger entity, the former Duchy of Prussia became known as Altpreußen (\"Old Prussia\"), the province of Prussia, or \"East Prussia\".",
+        "stems": [
+            "differenti",
+            "larger",
+            "entiti",
+            "former",
+            "duchi",
+            "prussia",
+            "becam",
+            "known",
+            "altpreußen",
+            "``",
+            "old",
+            "prussia",
+            "''",
+            "provinc",
+            "prussia",
+            "``",
+            "east",
+            "prussia",
+            "''"
+        ],
         "synonyms": [
             "speciate",
             "large",
@@ -15927,7 +16531,7 @@
             "Prussia",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "differentiate",
                 "NN"
@@ -16373,6 +16977,23 @@
         ],
         "ner_tag": "{'Approximately': 'O', 'one': 'ORDINAL', '-': 'ORDINAL', 'third': 'ORDINAL', 'of': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', \"'s\": 'O', 'population': 'O', 'died': 'O', 'in': 'O', 'the': 'O', 'plague': 'CAUSE_OF_DEATH', 'and': 'O', 'famine': 'O', '1709': 'DATE', '–': 'O', '1711': 'DATE', ',': 'O', 'including': 'O', 'last': 'O', 'speakers': 'O', 'Old': 'MISC', 'Prussian': 'MISC', '.': 'O'}",
         "sentence": "Approximately one-third of East Prussia's population died in the plague and famine of 1709–1711, including the last speakers of Old Prussian.",
+        "stems": [
+            "approxim",
+            "one-third",
+            "east",
+            "prussia",
+            "'s",
+            "popul",
+            "die",
+            "plagu",
+            "famin",
+            "1709–1711",
+            "includ",
+            "last",
+            "speaker",
+            "old",
+            "prussian"
+        ],
         "synonyms": [
             "approximately",
             "one-third",
@@ -16390,7 +17011,7 @@
             "Old",
             "Prussian"
         ],
-        "tagged": [
+        "tags": [
             [
                 "approximately",
                 "RB"
@@ -16804,6 +17425,25 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'plague': 'CAUSE_OF_DEATH', ',': 'O', 'probably': 'O', 'brought': 'O', 'by': 'O', 'foreign': 'O', 'troops': 'O', 'during': 'O', 'the': 'O', 'Great': 'MISC', 'Northern': 'MISC', 'War': 'CAUSE_OF_DEATH', 'killed': 'O', '250,000': 'NUMBER', 'East': 'MISC', 'Prussians': 'MISC', 'especially': 'O', 'in': 'O', 'province': 'O', \"'s\": 'O', 'eastern': 'O', 'regions': 'O', '.': 'O'}",
         "sentence": "The plague, probably brought by foreign troops during the Great Northern War, killed 250,000 East Prussians, especially in the province's eastern regions.",
+        "stems": [
+            "plagu",
+            "probabl",
+            "brought",
+            "foreign",
+            "troop",
+            "great",
+            "northern",
+            "war",
+            "kill",
+            "250,000",
+            "east",
+            "prussian",
+            "especi",
+            "provinc",
+            "'s",
+            "eastern",
+            "region"
+        ],
         "synonyms": [
             "plague",
             "probably",
@@ -16823,7 +17463,7 @@
             "eastern",
             "region"
         ],
-        "tagged": [
+        "tags": [
             [
                 "plague",
                 "NN"
@@ -17121,6 +17761,19 @@
         ],
         "ner_tag": "{'Crown': 'TITLE', 'Prince': 'TITLE', 'Frederick': 'PERSON', 'William': 'PERSON', 'I': 'O', 'led': 'O', 'the': 'O', 'rebuilding': 'O', 'of': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', ',': 'O', 'founding': 'O', 'numerous': 'O', 'towns': 'O', '.': 'O'}",
         "sentence": "Crown Prince Frederick William I led the rebuilding of East Prussia, founding numerous towns.",
+        "stems": [
+            "crown",
+            "princ",
+            "frederick",
+            "william",
+            "led",
+            "rebuild",
+            "east",
+            "prussia",
+            "found",
+            "numer",
+            "town"
+        ],
         "synonyms": [
             "peak",
             "prince",
@@ -17134,7 +17787,7 @@
             "numerous",
             "township"
         ],
-        "tagged": [
+        "tags": [
             [
                 "crown",
                 "JJ"
@@ -17423,6 +18076,18 @@
         ],
         "ner_tag": "{'Thousands': 'O', 'of': 'O', 'Protestants': 'O', 'expelled': 'O', 'from': 'O', 'the': 'O', 'Archbishopric': 'O', 'Salzburg': 'CITY', 'were': 'O', 'allowed': 'O', 'to': 'O', 'settle': 'O', 'in': 'O', 'depleted': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "Thousands of Protestants expelled from the Archbishopric of Salzburg were allowed to settle in depleted East Prussia.",
+        "stems": [
+            "thousand",
+            "protest",
+            "expel",
+            "archbishopr",
+            "salzburg",
+            "allow",
+            "settl",
+            "deplet",
+            "east",
+            "prussia"
+        ],
         "synonyms": [
             "thousand",
             "Protestant_Church",
@@ -17435,7 +18100,7 @@
             "east",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "thousands",
                 "NNS"
@@ -17681,6 +18346,16 @@
         ],
         "ner_tag": "{'The': 'O', 'province': 'O', 'was': 'O', 'overrun': 'O', 'by': 'O', 'Imperial': 'ORGANIZATION', 'Russian': 'NATIONALITY', 'troops': 'O', 'during': 'O', 'the': 'DURATION', 'Seven': 'DURATION', 'Years': 'DURATION', \"'\": 'MISC', 'War': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "The province was overrun by Imperial Russian troops during the Seven Years' War.",
+        "stems": [
+            "provinc",
+            "overrun",
+            "imperi",
+            "russian",
+            "troop",
+            "seven",
+            "year",
+            "war"
+        ],
         "synonyms": [
             "state",
             "invade",
@@ -17691,7 +18366,7 @@
             "year",
             "war"
         ],
-        "tagged": [
+        "tags": [
             [
                 "province",
                 "NN"
@@ -17992,6 +18667,21 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'PERSON', '1772': 'DATE', 'First': 'ORDINAL', 'Partition': 'O', 'of': 'O', 'Poland': 'COUNTRY', ',': 'O', 'Prussian': 'MISC', 'king': 'TITLE', 'Frederick': 'PERSON', 'Great': 'PERSON', 'annexed': 'O', 'neighboring': 'O', 'Royal': 'LOCATION', 'Prussia': 'LOCATION', 'i.e': 'O', '.': 'O'}",
         "sentence": "In the 1772 First Partition of Poland, the Prussian king Frederick the Great annexed neighboring Royal Prussia, i.e.",
+        "stems": [
+            "1772",
+            "first",
+            "partit",
+            "poland",
+            "prussian",
+            "king",
+            "frederick",
+            "great",
+            "annex",
+            "neighbor",
+            "royal",
+            "prussia",
+            "i.e"
+        ],
         "synonyms": [
             "1772",
             "first_gear",
@@ -18007,7 +18697,7 @@
             "Prussia",
             "i.e"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1772",
                 "CD"
@@ -18637,6 +19327,33 @@
         ],
         "ner_tag": "{'the': 'O', 'Polish': 'NATIONALITY', 'voivodeships': 'O', 'of': 'O', 'Pomerania': 'LOCATION', '(': 'O', 'Gdańsk': 'LOCATION', 'or': 'O', 'Pomerelia': 'O', ')': 'O', ',': 'O', 'Malbork': 'CITY', 'Chełmno': 'PERSON', 'and': 'O', 'Prince': 'O', '-': 'O', 'Bishopric': 'O', 'Warmia': 'LOCATION', 'thereby': 'O', 'bridging': 'O', '``': 'O', 'Corridor': 'O', \"''\": 'O', 'between': 'O', 'his': 'O', 'Prussian': 'MISC', 'Farther': 'MISC', 'Pomeranian': 'MISC', 'lands': 'O', 'cutting': 'O', 'remaining': 'O', 'Poland': 'COUNTRY', 'off': 'O', 'Baltic': 'LOCATION', 'Coast': 'LOCATION', '.': 'O'}",
         "sentence": "the Polish voivodeships of Pomerania (Gdańsk Pomerania or Pomerelia), Malbork, Chełmno and the Prince-Bishopric of Warmia, thereby bridging the \"Polish Corridor\" between his Prussian and Farther Pomeranian lands and cutting remaining Poland off the Baltic Coast.",
+        "stems": [
+            "polish",
+            "voivodeship",
+            "pomerania",
+            "gdańsk",
+            "pomerania",
+            "pomerelia",
+            "malbork",
+            "chełmno",
+            "prince-bishopr",
+            "warmia",
+            "therebi",
+            "bridg",
+            "``",
+            "polish",
+            "corridor",
+            "''",
+            "prussian",
+            "farther",
+            "pomeranian",
+            "land",
+            "cut",
+            "remain",
+            "poland",
+            "baltic",
+            "coast"
+        ],
         "synonyms": [
             "polish",
             "voivodeships",
@@ -18664,7 +19381,7 @@
             "Baltic",
             "slide"
         ],
-        "tagged": [
+        "tags": [
             [
                 "polish",
                 "JJ"
@@ -19143,6 +19860,23 @@
         ],
         "ner_tag": "{'The': 'O', 'territory': 'O', 'of': 'O', 'Warmia': 'LOCATION', 'was': 'O', 'incorporated': 'O', 'into': 'O', 'the': 'O', 'lands': 'O', 'former': 'O', 'Ducal': 'LOCATION', 'Prussia': 'LOCATION', ',': 'O', 'which': 'O', 'by': 'O', 'administrative': 'O', 'deed': 'O', '31': 'DATE', 'January': 'DATE', '1773': 'DATE', 'were': 'O', 'named': 'O', 'East': 'LOCATION', '.': 'O'}",
         "sentence": "The territory of Warmia was incorporated into the lands of former Ducal Prussia, which, by administrative deed of 31 January 1773 were named East Prussia.",
+        "stems": [
+            "territori",
+            "warmia",
+            "incorpor",
+            "land",
+            "former",
+            "ducal",
+            "prussia",
+            "administr",
+            "deed",
+            "31",
+            "januari",
+            "1773",
+            "name",
+            "east",
+            "prussia"
+        ],
         "synonyms": [
             "territory",
             "warmia",
@@ -19160,7 +19894,7 @@
             "east",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "territory",
                 "NN"
@@ -19614,6 +20348,26 @@
         ],
         "ner_tag": "{'The': 'O', 'former': 'O', 'Polish': 'NATIONALITY', 'Pomerelian': 'MISC', 'lands': 'O', 'beyond': 'O', 'the': 'O', 'Vistula': 'LOCATION', 'River': 'TITLE', 'together': 'O', 'with': 'O', 'Malbork': 'PERSON', 'and': 'O', 'Chełmno': 'O', 'Land': 'O', 'formed': 'O', 'Province': 'O', 'of': 'O', 'West': 'LOCATION', 'Prussia': 'LOCATION', 'its': 'O', 'capital': 'O', 'at': 'O', 'Marienwerder': 'LOCATION', '(': 'O', 'Kwidzyn': 'CITY', ')': 'O', '.': 'O'}",
         "sentence": "The former Polish Pomerelian lands beyond the Vistula River together with Malbork and Chełmno Land formed the Province of West Prussia with its capital at Marienwerder (Kwidzyn).",
+        "stems": [
+            "former",
+            "polish",
+            "pomerelian",
+            "land",
+            "beyond",
+            "vistula",
+            "river",
+            "togeth",
+            "malbork",
+            "chełmno",
+            "land",
+            "form",
+            "provinc",
+            "west",
+            "prussia",
+            "capit",
+            "marienwerd",
+            "kwidzyn"
+        ],
         "synonyms": [
             "former",
             "polish",
@@ -19634,7 +20388,7 @@
             "marienwerder",
             "kwidzyn"
         ],
-        "tagged": [
+        "tags": [
             [
                 "former",
                 "JJ"
@@ -20068,6 +20822,25 @@
         ],
         "ner_tag": "{'The': 'O', 'Polish': 'ORGANIZATION', 'Partition': 'ORGANIZATION', 'Sejm': 'ORGANIZATION', 'ratified': 'O', 'the': 'O', 'cession': 'O', 'on': 'O', '30': 'DATE', 'September': 'DATE', '1773': 'DATE', ',': 'O', 'whereafter': 'O', 'Frederick': 'PERSON', 'officially': 'O', 'went': 'O', 'to': 'O', 'call': 'O', 'himself': 'O', 'a': 'O', 'King': 'TITLE', '``': 'O', 'of': 'O', \"''\": 'O', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "The Polish Partition Sejm ratified the cession on 30 September 1773, whereafter Frederick officially went on to call himself a King \"of\" Prussia.",
+        "stems": [
+            "polish",
+            "partit",
+            "sejm",
+            "ratifi",
+            "cession",
+            "30",
+            "septemb",
+            "1773",
+            "whereaft",
+            "frederick",
+            "offici",
+            "went",
+            "call",
+            "king",
+            "``",
+            "''",
+            "prussia"
+        ],
         "synonyms": [
             "polish",
             "partition",
@@ -20087,7 +20860,7 @@
             "''",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "polish",
                 "JJ"
@@ -20872,6 +21645,37 @@
         "meronyms": [],
         "ner_tag": "{'After': 'O', 'the': 'O', 'disastrous': 'O', 'defeat': 'O', 'of': 'O', 'Prussian': 'MISC', 'Army': 'ORGANIZATION', 'at': 'O', 'Battle': 'O', 'Jena': 'O', '-': 'O', 'Auerstedt': 'O', 'in': 'O', '1806': 'DATE', ',': 'O', 'Napoleon': 'PERSON', 'occupied': 'O', 'Berlin': 'CITY', 'and': 'O', 'had': 'O', 'officials': 'O', 'General': 'TITLE', 'Directory': 'MISC', 'swear': 'O', 'an': 'O', 'oath': 'O', 'allegiance': 'O', 'to': 'O', 'him': 'O', 'while': 'O', 'King': 'TITLE', 'Frederick': 'PERSON', 'William': 'PERSON', 'III': 'PERSON', 'his': 'O', 'consort': 'O', 'Louise': 'PERSON', 'fled': 'O', 'via': 'O', 'Königsberg': 'LOCATION', 'Curonian': 'MISC', 'Spit': 'MISC', 'Memel': 'PERSON', '.': 'O'}",
         "sentence": "After the disastrous defeat of the Prussian Army at the Battle of Jena-Auerstedt in 1806, Napoleon occupied Berlin and had the officials of the Prussian General Directory swear an oath of allegiance to him, while King Frederick William III and his consort Louise fled via Königsberg and the Curonian Spit to Memel.",
+        "stems": [
+            "disastr",
+            "defeat",
+            "prussian",
+            "armi",
+            "battl",
+            "jena-auerstedt",
+            "1806",
+            "napoleon",
+            "occupi",
+            "berlin",
+            "offici",
+            "prussian",
+            "gener",
+            "directori",
+            "swear",
+            "oath",
+            "allegi",
+            "king",
+            "frederick",
+            "william",
+            "iii",
+            "consort",
+            "louis",
+            "fled",
+            "via",
+            "königsberg",
+            "curonian",
+            "spit",
+            "memel"
+        ],
         "synonyms": [
             "black",
             "get_the_better_of",
@@ -20903,7 +21707,7 @@
             "spit",
             "Klaipeda"
         ],
-        "tagged": [
+        "tags": [
             [
                 "disastrous",
                 "JJ"
@@ -21436,6 +22240,27 @@
         ],
         "ner_tag": "{'The': 'O', 'French': 'NATIONALITY', 'troops': 'O', 'immediately': 'O', 'took': 'O', 'up': 'O', 'pursuit': 'O', 'but': 'O', 'were': 'O', 'delayed': 'O', 'in': 'O', 'the': 'O', 'Battle': 'O', 'of': 'O', 'Eylau': 'O', 'on': 'O', '9': 'DATE', 'February': 'DATE', '1807': 'DATE', 'by': 'O', 'an': 'O', 'East': 'MISC', 'Prussian': 'MISC', 'contingent': 'O', 'under': 'O', 'General': 'TITLE', 'Anton': 'PERSON', 'Wilhelm': 'PERSON', 'von': 'PERSON', \"L'Estocq\": 'PERSON', '.': 'O'}",
         "sentence": "The French troops immediately took up pursuit but were delayed in the Battle of Eylau on 9 February 1807 by an East Prussian contingent under General Anton Wilhelm von L'Estocq.",
+        "stems": [
+            "french",
+            "troop",
+            "immedi",
+            "took",
+            "pursuit",
+            "delay",
+            "battl",
+            "eylau",
+            "9",
+            "februari",
+            "1807",
+            "east",
+            "prussian",
+            "conting",
+            "gener",
+            "anton",
+            "wilhelm",
+            "von",
+            "l'estocq"
+        ],
         "synonyms": [
             "French",
             "troop",
@@ -21457,7 +22282,7 @@
             "von",
             "l'estocq"
         ],
-        "tagged": [
+        "tags": [
             [
                 "french",
                 "JJ"
@@ -22146,6 +22971,34 @@
         "meronyms": [],
         "ner_tag": "{'Napoleon': 'PERSON', 'had': 'O', 'to': 'O', 'stay': 'O', 'at': 'O', 'the': 'O', 'Finckenstein': 'LOCATION', 'Palace': 'LOCATION', ',': 'O', 'but': 'O', 'in': 'O', 'May': 'DATE', 'after': 'O', 'a': 'O', 'siege': 'O', 'of': 'O', '75': 'DURATION', 'days': 'DURATION', 'his': 'O', 'troops': 'O', 'led': 'O', 'by': 'O', 'Marshal': 'TITLE', 'François': 'PERSON', 'Joseph': 'PERSON', 'Lefebvre': 'PERSON', 'were': 'O', 'able': 'O', 'capture': 'O', 'city': 'O', 'Danzig': 'PERSON', 'which': 'O', 'been': 'O', 'tenaciously': 'O', 'defended': 'O', 'General': 'TITLE', 'Count': 'TITLE', 'Friedrich': 'PERSON', 'Adolf': 'PERSON', 'von': 'PERSON', 'Kalkreuth': 'PERSON', '.': 'O'}",
         "sentence": "Napoleon had to stay at the Finckenstein Palace, but in May, after a siege of 75 days, his troops led by Marshal François Joseph Lefebvre were able to capture the city Danzig, which had been tenaciously defended by General Count Friedrich Adolf von Kalkreuth.",
+        "stems": [
+            "napoleon",
+            "stay",
+            "finckenstein",
+            "palac",
+            "may",
+            "sieg",
+            "75",
+            "day",
+            "troop",
+            "led",
+            "marshal",
+            "françoi",
+            "joseph",
+            "lefebvr",
+            "abl",
+            "captur",
+            "citi",
+            "danzig",
+            "tenaci",
+            "defend",
+            "gener",
+            "count",
+            "friedrich",
+            "adolf",
+            "von",
+            "kalkreuth"
+        ],
         "synonyms": [
             "Napoleon",
             "stay",
@@ -22174,7 +23027,7 @@
             "von",
             "kalkreuth"
         ],
-        "tagged": [
+        "tags": [
             [
                 "napoleon",
                 "NN"
@@ -22571,6 +23424,18 @@
         ],
         "ner_tag": "{'On': 'O', '14': 'DATE', 'June': 'DATE', ',': 'O', 'Napoleon': 'PERSON', 'ended': 'O', 'the': 'O', 'War': 'CAUSE_OF_DEATH', 'of': 'O', 'Fourth': 'ORDINAL', 'Coalition': 'O', 'with': 'O', 'his': 'O', 'victory': 'O', 'at': 'O', 'Battle': 'O', 'Friedland': 'PERSON', '.': 'O'}",
         "sentence": "On 14 June, Napoleon ended the War of the Fourth Coalition with his victory at the Battle of Friedland.",
+        "stems": [
+            "14",
+            "june",
+            "napoleon",
+            "end",
+            "war",
+            "fourth",
+            "coalit",
+            "victori",
+            "battl",
+            "friedland"
+        ],
         "synonyms": [
             "fourteen",
             "June",
@@ -22583,7 +23448,7 @@
             "battle",
             "friedland"
         ],
-        "tagged": [
+        "tags": [
             [
                 "14",
                 "CD"
@@ -22951,6 +23816,23 @@
         ],
         "ner_tag": "{'Frederick': 'PERSON', 'William': 'PERSON', 'and': 'O', 'Queen': 'PERSON', 'Louise': 'PERSON', 'met': 'O', 'with': 'O', 'Napoleon': 'PERSON', 'for': 'O', 'peace': 'O', 'negotiations': 'O', ',': 'O', 'on': 'O', '9': 'DATE', 'July': 'DATE', 'the': 'O', 'Prussian': 'MISC', 'king': 'TITLE', 'signed': 'O', 'Treaty': 'O', 'of': 'O', 'Tilsit': 'O', '.': 'O'}",
         "sentence": "Frederick William and Queen Louise met with Napoleon for peace negotiations, and on 9 July the Prussian king signed the Treaty of Tilsit.",
+        "stems": [
+            "frederick",
+            "william",
+            "queen",
+            "louis",
+            "met",
+            "napoleon",
+            "peac",
+            "negoti",
+            "9",
+            "juli",
+            "prussian",
+            "king",
+            "sign",
+            "treati",
+            "tilsit"
+        ],
         "synonyms": [
             "Frederick",
             "william",
@@ -22968,7 +23850,7 @@
             "treaty",
             "tilsit"
         ],
-        "tagged": [
+        "tags": [
             [
                 "frederick",
                 "JJ"
@@ -23599,6 +24481,37 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'succeeding': 'O', 'Prussian': 'MISC', 'reforms': 'O', 'instigated': 'O', 'by': 'O', 'Heinrich': 'PERSON', 'Friedrich': 'PERSON', 'Karl': 'PERSON', 'vom': 'O', 'und': 'O', 'zum': 'O', 'Stein': 'PERSON', 'and': 'O', 'August': 'PERSON', 'von': 'PERSON', 'Hardenberg': 'PERSON', 'included': 'O', 'the': 'O', 'implementation': 'O', 'of': 'O', 'an': 'O', 'Oberlandesgericht': 'MISC', 'appellation': 'O', 'court': 'O', 'at': 'O', 'Königsberg': 'LOCATION', ',': 'O', 'a': 'O', 'municipal': 'O', 'corporation': 'O', 'economic': 'O', 'freedom': 'O', 'as': 'O', 'well': 'O', 'emancipation': 'O', 'serfs': 'O', 'Jews': 'MISC', '.': 'O'}",
         "sentence": "The succeeding Prussian reforms instigated by Heinrich Friedrich Karl vom und zum Stein and Karl August von Hardenberg included the implementation of an Oberlandesgericht appellation court at Königsberg, a municipal corporation, economic freedom as well as emancipation of the serfs and Jews.",
+        "stems": [
+            "succeed",
+            "prussian",
+            "reform",
+            "instig",
+            "heinrich",
+            "friedrich",
+            "karl",
+            "vom",
+            "und",
+            "zum",
+            "stein",
+            "karl",
+            "august",
+            "von",
+            "hardenberg",
+            "includ",
+            "implement",
+            "oberlandesgericht",
+            "appel",
+            "court",
+            "königsberg",
+            "municip",
+            "corpor",
+            "econom",
+            "freedom",
+            "well",
+            "emancip",
+            "serf",
+            "jew"
+        ],
         "synonyms": [
             "succeed",
             "Prussian",
@@ -23630,7 +24543,7 @@
             "serf",
             "Jew"
         ],
-        "tagged": [
+        "tags": [
             [
                 "succeeding",
                 "VBG"
@@ -24122,6 +25035,21 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'course': 'O', 'of': 'O', 'Prussian': 'MISC', 'restoration': 'O', 'by': 'O', '1815': 'DATE', 'Congress': 'ORGANIZATION', 'Vienna': 'ORGANIZATION', ',': 'O', 'East': 'MISC', 'territories': 'O', 'were': 'O', 're-arranged': 'O', 'in': 'O', 'Regierungsbezirke': 'O', 'Gumbinnen': 'LOCATION', 'and': 'O', 'Königsberg': 'LOCATION', '.': 'O'}",
         "sentence": "In the course of the Prussian restoration by the 1815 Congress of Vienna, the East Prussian territories were re-arranged in the Regierungsbezirke of Gumbinnen and Königsberg.",
+        "stems": [
+            "cours",
+            "prussian",
+            "restor",
+            "1815",
+            "congress",
+            "vienna",
+            "east",
+            "prussian",
+            "territori",
+            "re-arrang",
+            "regierungsbezirk",
+            "gumbinnen",
+            "königsberg"
+        ],
         "synonyms": [
             "path",
             "Prussian",
@@ -24137,7 +25065,7 @@
             "gumbinnen",
             "königsberg"
         ],
-        "tagged": [
+        "tags": [
             [
                 "course",
                 "NN"
@@ -24408,6 +25336,17 @@
         ],
         "ner_tag": "{'From': 'O', '1905': 'DATE', ',': 'O', 'the': 'O', 'southern': 'O', 'districts': 'O', 'of': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'formed': 'O', 'separate': 'O', 'Regierungsbezirk': 'O', 'Allenstein': 'PERSON', '.': 'O'}",
         "sentence": "From 1905, the southern districts of East Prussia formed the separate Regierungsbezirk of Allenstein.",
+        "stems": [
+            "1905",
+            "southern",
+            "district",
+            "east",
+            "prussia",
+            "form",
+            "separ",
+            "regierungsbezirk",
+            "allenstein"
+        ],
         "synonyms": [
             "1905",
             "southern",
@@ -24419,7 +25358,7 @@
             "regierungsbezirk",
             "allenstein"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1905",
                 "CD"
@@ -24827,6 +25766,23 @@
         ],
         "ner_tag": "{'East': 'O', 'and': 'O', 'West': 'LOCATION', 'Prussia': 'LOCATION', 'were': 'O', 'first': 'ORDINAL', 'united': 'O', 'in': 'O', 'personal': 'O', 'union': 'O', '1824': 'DATE', ',': 'O', 'then': 'O', 'merged': 'O', 'a': 'O', 'real': 'O', '1829': 'DATE', 'to': 'O', 'form': 'O', 'the': 'O', 'Province': 'O', 'of': 'O', '.': 'O'}",
         "sentence": "East and West Prussia were first united in personal union in 1824, and then merged in a real union in 1829 to form the Province of Prussia.",
+        "stems": [
+            "east",
+            "west",
+            "prussia",
+            "first",
+            "unit",
+            "person",
+            "union",
+            "1824",
+            "merg",
+            "real",
+            "union",
+            "1829",
+            "form",
+            "provinc",
+            "prussia"
+        ],
         "synonyms": [
             "east",
             "west",
@@ -24844,7 +25800,7 @@
             "state",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "east",
                 "JJ"
@@ -25125,6 +26081,17 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'united': 'O', 'province': 'O', 'was': 'O', 'again': 'O', 'split': 'O', 'into': 'O', 'separate': 'O', 'East': 'O', 'and': 'O', 'West': 'MISC', 'Prussian': 'MISC', 'provinces': 'O', 'in': 'O', '1878': 'DATE', '.': 'O'}",
         "sentence": "The united province was again split into separate East and West Prussian provinces in 1878.",
+        "stems": [
+            "unit",
+            "provinc",
+            "split",
+            "separ",
+            "east",
+            "west",
+            "prussian",
+            "provinc",
+            "1878"
+        ],
         "synonyms": [
             "united",
             "state",
@@ -25136,7 +26103,7 @@
             "state",
             "1878"
         ],
-        "tagged": [
+        "tags": [
             [
                 "united",
                 "JJ"
@@ -25517,6 +26484,22 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'population': 'O', 'of': 'O', 'the': 'O', 'province': 'O', 'in': 'O', '1900': 'DATE', 'was': 'O', '1,996,626': 'NUMBER', 'people': 'O', ',': 'O', 'with': 'O', 'a': 'O', 'religious': 'O', 'makeup': 'O', '1,698,465': 'NUMBER', 'Protestants': 'O', '269,196': 'NUMBER', 'Roman': 'MISC', 'Catholics': 'MISC', 'and': 'O', '13,877': 'NUMBER', 'Jews': 'MISC', '.': 'O'}",
         "sentence": "The population of the province in 1900 was 1,996,626 people, with a religious makeup of 1,698,465 Protestants, 269,196 Roman Catholics, and 13,877 Jews.",
+        "stems": [
+            "popul",
+            "provinc",
+            "1900",
+            "1,996,626",
+            "peopl",
+            "religi",
+            "makeup",
+            "1,698,465",
+            "protest",
+            "269,196",
+            "roman",
+            "cathol",
+            "13,877",
+            "jew"
+        ],
         "synonyms": [
             "population",
             "state",
@@ -25533,7 +26516,7 @@
             "13,877",
             "Jew"
         ],
-        "tagged": [
+        "tags": [
             [
                 "population",
                 "NN"
@@ -25827,6 +26810,19 @@
         ],
         "ner_tag": "{'The': 'O', 'Low': 'MISC', 'Prussian': 'MISC', 'dialect': 'O', 'predominated': 'O', 'in': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', ',': 'O', 'although': 'O', 'High': 'MISC', 'was': 'O', 'spoken': 'O', 'Warmia': 'LOCATION', '.': 'O'}",
         "sentence": "The Low Prussian dialect predominated in East Prussia, although High Prussian was spoken in Warmia.",
+        "stems": [
+            "low",
+            "prussian",
+            "dialect",
+            "predomin",
+            "east",
+            "prussia",
+            "although",
+            "high",
+            "prussian",
+            "spoken",
+            "warmia"
+        ],
         "synonyms": [
             "moo",
             "Prussian",
@@ -25840,7 +26836,7 @@
             "speak",
             "warmia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "low",
                 "JJ"
@@ -26133,6 +27129,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'numbers': 'O', 'of': 'O', 'Masurians': 'MISC', ',': 'O', 'Kursenieki': 'PERSON', 'and': 'O', 'Prussian': 'MISC', 'Lithuanians': 'MISC', 'decreased': 'O', 'over': 'O', 'time': 'O', 'due': 'O', 'to': 'O', 'the': 'O', 'process': 'O', 'Germanization': 'O', '.': 'O'}",
         "sentence": "The numbers of Masurians, Kursenieki and Prussian Lithuanians decreased over time due to the process of Germanization.",
+        "stems": [
+            "number",
+            "masurian",
+            "kursenieki",
+            "prussian",
+            "lithuanian",
+            "decreas",
+            "time",
+            "due",
+            "process",
+            "german"
+        ],
         "synonyms": [
             "phone_number",
             "masurians",
@@ -26145,7 +27153,7 @@
             "work",
             "germanization"
         ],
-        "tagged": [
+        "tags": [
             [
                 "numbers",
                 "NNS"
@@ -26808,6 +27816,32 @@
         ],
         "ner_tag": "{'The': 'O', 'Polish': 'NATIONALITY', '-': 'MISC', 'speaking': 'MISC', 'population': 'O', 'concentrated': 'O', 'in': 'O', 'the': 'O', 'south': 'O', 'of': 'O', 'province': 'O', '(': 'O', 'Masuria': 'LOCATION', 'and': 'O', 'Warmia': 'LOCATION', ')': 'O', 'all': 'O', 'German': 'NATIONALITY', 'geographic': 'O', 'atlases': 'O', 'at': 'O', 'start': 'DATE', '20th': 'DATE', 'century': 'DATE', 'showed': 'O', 'southern': 'O', 'part': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'as': 'O', 'with': 'O', 'number': 'O', 'Poles': 'MISC', 'estimated': 'O', 'time': 'DATE', 'to': 'O', 'be': 'O', '300,000': 'NUMBER', '.': 'O'}",
         "sentence": "The Polish-speaking population concentrated in the south of the province (Masuria and Warmia) and all German geographic atlases at the start of 20th century showed the southern part of East Prussia as Polish with the number of Poles estimated at the time to be 300,000.",
+        "stems": [
+            "polish-speak",
+            "popul",
+            "concentr",
+            "south",
+            "provinc",
+            "masuria",
+            "warmia",
+            "german",
+            "geograph",
+            "atlas",
+            "start",
+            "20th",
+            "centuri",
+            "show",
+            "southern",
+            "part",
+            "east",
+            "prussia",
+            "polish",
+            "number",
+            "pole",
+            "estim",
+            "time",
+            "300,000"
+        ],
         "synonyms": [
             "polish-speaking",
             "population",
@@ -26834,7 +27868,7 @@
             "time",
             "300,000"
         ],
-        "tagged": [
+        "tags": [
             [
                 "polish-speaking",
                 "JJ"
@@ -27252,6 +28286,20 @@
         ],
         "ner_tag": "{'Kursenieki': 'O', 'inhabited': 'O', 'the': 'O', 'areas': 'O', 'around': 'O', 'Curonian': 'MISC', 'lagoon': 'MISC', ',': 'O', 'while': 'O', 'Lithuanian': 'MISC', '-': 'MISC', 'speaking': 'MISC', 'Prussians': 'MISC', 'concentrated': 'O', 'in': 'O', 'northeast': 'O', '(': 'O', 'Lithuania': 'COUNTRY', 'Minor': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Kursenieki inhabited the areas around the Curonian lagoon, while Lithuanian-speaking Prussians concentrated in the northeast in (Lithuania Minor).",
+        "stems": [
+            "kursenieki",
+            "inhabit",
+            "area",
+            "around",
+            "curonian",
+            "lagoon",
+            "lithuanian-speak",
+            "prussian",
+            "concentr",
+            "northeast",
+            "lithuania",
+            "minor"
+        ],
         "synonyms": [
             "kursenieki",
             "populate",
@@ -27266,7 +28314,7 @@
             "Lithuania",
             "minor"
         ],
-        "tagged": [
+        "tags": [
             [
                 "kursenieki",
                 "NN"
@@ -27612,6 +28660,22 @@
         ],
         "ner_tag": "{'The': 'O', 'Old': 'MISC', 'Prussian': 'MISC', 'ethnic': 'O', 'group': 'O', 'became': 'O', 'completely': 'O', 'Germanized': 'MISC', 'over': 'O', 'time': 'O', 'and': 'O', 'the': 'DATE', 'language': 'O', 'died': 'O', 'out': 'O', 'in': 'O', '18th': 'DATE', 'century': 'DATE', '.': 'O'}",
         "sentence": "The Old Prussian ethnic group became completely Germanized over time and the Old Prussian language died out in the 18th century.",
+        "stems": [
+            "old",
+            "prussian",
+            "ethnic",
+            "group",
+            "becam",
+            "complet",
+            "german",
+            "time",
+            "old",
+            "prussian",
+            "languag",
+            "die",
+            "18th",
+            "centuri"
+        ],
         "synonyms": [
             "Old",
             "Prussian",
@@ -27628,7 +28692,7 @@
             "eighteenth",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "old",
                 "JJ"
@@ -27994,6 +29058,20 @@
         ],
         "ner_tag": "{'At': 'O', 'the': 'O', 'beginning': 'O', 'of': 'O', 'World': 'MISC', 'War': 'CAUSE_OF_DEATH', 'I': 'O', ',': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'became': 'O', 'a': 'O', 'theatre': 'O', 'war': 'CAUSE_OF_DEATH', 'when': 'O', 'Russian': 'NATIONALITY', 'Empire': 'MISC', 'invaded': 'O', 'country': 'O', '.': 'O'}",
         "sentence": "At the beginning of World War I, East Prussia became a theatre of war when the Russian Empire invaded the country.",
+        "stems": [
+            "begin",
+            "world",
+            "war",
+            "east",
+            "prussia",
+            "becam",
+            "theatr",
+            "war",
+            "russian",
+            "empir",
+            "invad",
+            "countri"
+        ],
         "synonyms": [
             "begin",
             "world",
@@ -28008,7 +29086,7 @@
             "invade",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "beginning",
                 "VBG"
@@ -28425,6 +29503,24 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Russian': 'ORGANIZATION', 'Army': 'ORGANIZATION', 'encountered': 'O', 'at': 'O', 'first': 'ORDINAL', 'little': 'O', 'resistance': 'O', 'because': 'O', 'the': 'O', 'bulk': 'O', 'of': 'O', 'German': 'ORGANIZATION', 'had': 'O', 'been': 'O', 'directed': 'O', 'towards': 'O', 'Western': 'ORGANIZATION', 'Front': 'ORGANIZATION', 'according': 'O', 'to': 'O', 'Schlieffen': 'O', 'Plan': 'O', '.': 'O'}",
         "sentence": "The Russian Army encountered at first little resistance because the bulk of the German Army had been directed towards the Western Front according to the Schlieffen Plan.",
+        "stems": [
+            "russian",
+            "armi",
+            "encount",
+            "first",
+            "littl",
+            "resist",
+            "bulk",
+            "german",
+            "armi",
+            "direct",
+            "toward",
+            "western",
+            "front",
+            "accord",
+            "schlieffen",
+            "plan"
+        ],
         "synonyms": [
             "Russian",
             "army",
@@ -28443,7 +29539,7 @@
             "schlieffen",
             "plan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "russian",
                 "JJ"
@@ -29036,6 +30132,28 @@
         "meronyms": [],
         "ner_tag": "{'Despite': 'O', 'early': 'O', 'success': 'O', 'and': 'O', 'the': 'O', 'capture': 'O', 'of': 'MISC', 'towns': 'O', 'Rastenburg': 'LOCATION', 'Gumbinnen': 'PERSON', ',': 'O', 'in': 'O', 'Battle': 'MISC', 'Tannenberg': 'LOCATION', '1914': 'DATE', 'Second': 'DATE', 'Masurian': 'MISC', 'Lakes': 'MISC', '1915': 'DATE', 'Russians': 'MISC', 'were': 'O', 'decisively': 'O', 'defeated': 'O', 'forced': 'O', 'to': 'O', 'retreat': 'O', '.': 'O'}",
         "sentence": "Despite early success and the capture of the towns of Rastenburg and Gumbinnen, in the Battle of Tannenberg in 1914 and the Second Battle of the Masurian Lakes in 1915, the Russians were decisively defeated and forced to retreat.",
+        "stems": [
+            "despit",
+            "earli",
+            "success",
+            "captur",
+            "town",
+            "rastenburg",
+            "gumbinnen",
+            "battl",
+            "tannenberg",
+            "1914",
+            "second",
+            "battl",
+            "masurian",
+            "lake",
+            "1915",
+            "russian",
+            "decis",
+            "defeat",
+            "forc",
+            "retreat"
+        ],
         "synonyms": [
             "contempt",
             "early",
@@ -29058,7 +30176,7 @@
             "wedge",
             "retreat"
         ],
-        "tagged": [
+        "tags": [
             [
                 "despite",
                 "IN"
@@ -29330,6 +30448,15 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Russians': 'MISC', 'were': 'O', 'followed': 'O', 'by': 'O', 'the': 'O', 'German': 'ORGANIZATION', 'Army': 'ORGANIZATION', 'advancing': 'O', 'into': 'O', 'Russian': 'NATIONALITY', 'territory': 'O', '.': 'O'}",
         "sentence": "The Russians were followed by the German Army advancing into Russian territory.",
+        "stems": [
+            "russian",
+            "follow",
+            "german",
+            "armi",
+            "advanc",
+            "russian",
+            "territori"
+        ],
         "synonyms": [
             "Russian",
             "take_after",
@@ -29339,7 +30466,7 @@
             "Russian",
             "territory"
         ],
-        "tagged": [
+        "tags": [
             [
                 "russians",
                 "NNS"
@@ -29584,6 +30711,17 @@
         ],
         "ner_tag": "{'With': 'O', 'the': 'O', 'forced': 'O', 'abdication': 'O', 'of': 'O', 'Emperor': 'TITLE', 'William': 'PERSON', 'II': 'PERSON', 'in': 'O', '1918': 'DATE', ',': 'O', 'Germany': 'COUNTRY', 'became': 'O', 'a': 'O', 'republic': 'O', '.': 'O'}",
         "sentence": "With the forced abdication of Emperor William II in 1918, Germany became a republic.",
+        "stems": [
+            "forc",
+            "abdic",
+            "emperor",
+            "william",
+            "ii",
+            "1918",
+            "germani",
+            "becam",
+            "republ"
+        ],
         "synonyms": [
             "wedge",
             "abdication",
@@ -29595,7 +30733,7 @@
             "become",
             "republic"
         ],
-        "tagged": [
+        "tags": [
             [
                 "forced",
                 "VBN"
@@ -30121,6 +31259,28 @@
         ],
         "ner_tag": "{'Most': 'O', 'of': 'O', 'West': 'LOCATION', 'Prussia': 'LOCATION', 'and': 'O', 'the': 'O', 'former': 'O', 'Prussian': 'O', 'Province': 'O', 'Posen': 'PERSON', ',': 'O', 'territories': 'O', 'annexed': 'O', 'by': 'O', 'in': 'O', '18th': 'DATE', 'century': 'DATE', 'Partitions': 'O', 'Poland': 'COUNTRY', 'were': 'O', 'ceded': 'O', 'to': 'O', 'Second': 'ORDINAL', 'Polish': 'NATIONALITY', 'Republic': 'O', 'according': 'O', 'Treaty': 'O', 'Versailles': 'CITY', '.': 'O'}",
         "sentence": "Most of West Prussia and the former Prussian Province of Posen, territories annexed by Prussia in the 18th century Partitions of Poland, were ceded to the Second Polish Republic according to the Treaty of Versailles.",
+        "stems": [
+            "west",
+            "prussia",
+            "former",
+            "prussian",
+            "provinc",
+            "posen",
+            "territori",
+            "annex",
+            "prussia",
+            "18th",
+            "centuri",
+            "partit",
+            "poland",
+            "cede",
+            "second",
+            "polish",
+            "republ",
+            "accord",
+            "treati",
+            "versail"
+        ],
         "synonyms": [
             "west",
             "Prussia",
@@ -30143,7 +31303,7 @@
             "treaty",
             "Versailles"
         ],
-        "tagged": [
+        "tags": [
             [
                 "west",
                 "JJS"
@@ -30404,6 +31564,15 @@
         ],
         "ner_tag": "{'East': 'LOCATION', 'Prussia': 'LOCATION', 'became': 'O', 'an': 'O', 'exclave': 'O', ',': 'O', 'being': 'O', 'separated': 'O', 'from': 'O', 'mainland': 'O', 'Germany': 'COUNTRY', '.': 'O'}",
         "sentence": "East Prussia became an exclave, being separated from mainland Germany.",
+        "stems": [
+            "east",
+            "prussia",
+            "becam",
+            "exclav",
+            "separ",
+            "mainland",
+            "germani"
+        ],
         "synonyms": [
             "east",
             "Prussia",
@@ -30413,7 +31582,7 @@
             "mainland",
             "Germany"
         ],
-        "tagged": [
+        "tags": [
             [
                 "east",
                 "JJ"
@@ -30759,6 +31928,19 @@
         ],
         "ner_tag": "{'After': 'O', 'the': 'O', 'Treaty': 'O', 'of': 'O', 'Versailles': 'CITY', ',': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'was': 'O', 'separated': 'O', 'from': 'O', 'Germany': 'COUNTRY', 'as': 'O', 'an': 'O', 'exclave': 'O', ';': 'O', 'Memelland': 'LOCATION', 'also': 'O', 'province': 'O', '.': 'O'}",
         "sentence": "After the Treaty of Versailles, East Prussia was separated from Germany as an exclave; the Memelland was also separated from the province.",
+        "stems": [
+            "treati",
+            "versail",
+            "east",
+            "prussia",
+            "separ",
+            "germani",
+            "exclav",
+            "memelland",
+            "also",
+            "separ",
+            "provinc"
+        ],
         "synonyms": [
             "treaty",
             "Versailles",
@@ -30772,7 +31954,7 @@
             "separate",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "treaty",
                 "NN"
@@ -31259,6 +32441,28 @@
         ],
         "ner_tag": "{'Because': 'O', 'most': 'O', 'of': 'O', 'West': 'LOCATION', 'Prussia': 'LOCATION', 'became': 'O', 'part': 'O', 'the': 'O', 'Second': 'ORDINAL', 'Polish': 'NATIONALITY', 'Republic': 'O', 'as': 'O', 'Corridor': 'MISC', ',': 'O', 'formerly': 'O', 'Prussian': 'LOCATION', 'Marienwerder': 'LOCATION', 'region': 'O', 'East': 'LOCATION', '(': 'O', 'Regierungsbezirk': 'O', 'Westpreußen': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Because most of West Prussia became part of the Second Polish Republic as the Polish Corridor, the formerly West Prussian Marienwerder region became part of East Prussia (as Regierungsbezirk Westpreußen).",
+        "stems": [
+            "west",
+            "prussia",
+            "becam",
+            "part",
+            "second",
+            "polish",
+            "republ",
+            "polish",
+            "corridor",
+            "formerli",
+            "west",
+            "prussian",
+            "marienwerd",
+            "region",
+            "becam",
+            "part",
+            "east",
+            "prussia",
+            "regierungsbezirk",
+            "westpreußen"
+        ],
         "synonyms": [
             "west",
             "Prussia",
@@ -31281,7 +32485,7 @@
             "regierungsbezirk",
             "westpreußen"
         ],
-        "tagged": [
+        "tags": [
             [
                 "west",
                 "JJ"
@@ -31554,6 +32758,17 @@
         "meronyms": [],
         "ner_tag": "{'Also': 'O', 'Soldau': 'LOCATION', 'district': 'O', 'in': 'O', 'Allenstein': 'LOCATION', 'region': 'O', 'was': 'O', 'part': 'O', 'of': 'O', 'Second': 'TITLE', 'Polish': 'NATIONALITY', 'Republic': 'LOCATION', '.': 'O'}",
         "sentence": "Also Soldau district in Allenstein region was part of Second Polish Republic.",
+        "stems": [
+            "also",
+            "soldau",
+            "district",
+            "allenstein",
+            "region",
+            "part",
+            "second",
+            "polish",
+            "republ"
+        ],
         "synonyms": [
             "besides",
             "soldau",
@@ -31565,7 +32780,7 @@
             "polish",
             "republic"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -31805,6 +33020,17 @@
         ],
         "ner_tag": "{'The': 'O', 'Seedienst': 'O', 'Ostpreußen': 'O', 'was': 'O', 'established': 'O', 'to': 'O', 'provide': 'O', 'an': 'O', 'independent': 'RELIGION', 'transport': 'O', 'service': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "The Seedienst Ostpreußen was established to provide an independent transport service to East Prussia.",
+        "stems": [
+            "seedienst",
+            "ostpreußen",
+            "establish",
+            "provid",
+            "independ",
+            "transport",
+            "servic",
+            "east",
+            "prussia"
+        ],
         "synonyms": [
             "seedienst",
             "ostpreußen",
@@ -31816,7 +33042,7 @@
             "east",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "seedienst",
                 "NN"
@@ -32007,6 +33233,16 @@
         "meronyms": [],
         "ner_tag": "{'Erich': 'PERSON', 'Koch': 'PERSON', 'headed': 'O', 'the': 'O', 'East': 'MISC', 'Prussian': 'MISC', 'Nazi': 'IDEOLOGY', 'party': 'O', 'from': 'O', '1928': 'DATE', '.': 'O'}",
         "sentence": "Erich Koch headed the East Prussian Nazi party from 1928.",
+        "stems": [
+            "erich",
+            "koch",
+            "head",
+            "east",
+            "prussian",
+            "nazi",
+            "parti",
+            "1928"
+        ],
         "synonyms": [
             "erich",
             "Koch",
@@ -32017,7 +33253,7 @@
             "party",
             "1928"
         ],
-        "tagged": [
+        "tags": [
             [
                 "erich",
                 "JJ"
@@ -32149,12 +33385,17 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'led': 'O', 'the': 'O', 'district': 'O', 'from': 'O', '1932': 'DATE', '.': 'O'}",
         "sentence": "He led the district from 1932.",
+        "stems": [
+            "led",
+            "district",
+            "1932"
+        ],
         "synonyms": [
             "run",
             "zone",
             "1932"
         ],
-        "tagged": [
+        "tags": [
             [
                 "led",
                 "VBN"
@@ -32472,6 +33713,20 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'period': 'O', 'was': 'O', 'characterized': 'O', 'by': 'O', 'efforts': 'O', 'to': 'O', 'collectivize': 'O', 'the': 'O', 'local': 'O', 'agriculture': 'O', 'and': 'O', 'ruthlessness': 'O', 'in': 'O', 'dealing': 'O', 'with': 'O', 'his': 'O', 'critics': 'O', 'inside': 'O', 'outside': 'O', 'Party': 'ORGANIZATION', '.': 'O'}",
         "sentence": "This period was characterized by efforts to collectivize the local agriculture and ruthlessness in dealing with his critics inside and outside the Party.",
+        "stems": [
+            "period",
+            "character",
+            "effort",
+            "collectiv",
+            "local",
+            "agricultur",
+            "ruthless",
+            "deal",
+            "critic",
+            "insid",
+            "outsid",
+            "parti"
+        ],
         "synonyms": [
             "period",
             "qualify",
@@ -32486,7 +33741,7 @@
             "outside",
             "party"
         ],
-        "tagged": [
+        "tags": [
             [
                 "period",
                 "NN"
@@ -32768,6 +34023,16 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'also': 'O', 'had': 'O', 'long': 'O', '-': 'O', 'term': 'O', 'plans': 'O', 'for': 'O', 'mass': 'O', 'scale': 'O', 'industrialization': 'IDEOLOGY', 'of': 'O', 'the': 'O', 'largely': 'O', 'agricultural': 'O', 'province': 'O', '.': 'O'}",
         "sentence": "He also had long-term plans for mass-scale industrialization of the largely agricultural province.",
+        "stems": [
+            "also",
+            "long-term",
+            "plan",
+            "mass-scal",
+            "industri",
+            "larg",
+            "agricultur",
+            "provinc"
+        ],
         "synonyms": [
             "besides",
             "long-run",
@@ -32778,7 +34043,7 @@
             "agricultural",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -32951,6 +34216,14 @@
         "meronyms": [],
         "ner_tag": "{'These': 'O', 'actions': 'O', 'made': 'O', 'him': 'O', 'unpopular': 'O', 'among': 'O', 'the': 'O', 'local': 'O', 'peasants': 'O', '.': 'O'}",
         "sentence": "These actions made him unpopular among the local peasants.",
+        "stems": [
+            "action",
+            "made",
+            "unpopular",
+            "among",
+            "local",
+            "peasant"
+        ],
         "synonyms": [
             "natural_process",
             "take",
@@ -32959,7 +34232,7 @@
             "local_anesthetic",
             "peasant"
         ],
-        "tagged": [
+        "tags": [
             [
                 "actions",
                 "NNS"
@@ -33182,6 +34455,17 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '1932': 'DATE', 'the': 'O', 'local': 'O', 'paramilitary': 'O', 'SA': 'ORGANIZATION', 'had': 'O', 'already': 'O', 'started': 'O', 'to': 'O', 'terrorise': 'O', 'their': 'O', 'political': 'O', 'opponents': 'O', '.': 'O'}",
         "sentence": "In 1932 the local paramilitary SA had already started to terrorise their political opponents.",
+        "stems": [
+            "1932",
+            "local",
+            "paramilitari",
+            "sa",
+            "alreadi",
+            "start",
+            "terroris",
+            "polit",
+            "oppon"
+        ],
         "synonyms": [
             "1932",
             "local_anesthetic",
@@ -33193,7 +34477,7 @@
             "political",
             "opposition"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1932",
                 "CD"
@@ -33591,6 +34875,19 @@
         ],
         "ner_tag": "{'On': 'O', 'the': 'O', 'night': 'DATE', 'of': 'O', '31': 'DATE', 'July': 'DATE', '1932': 'DATE', 'there': 'O', 'was': 'O', 'a': 'O', 'bomb': 'O', 'attack': 'CAUSE_OF_DEATH', 'on': 'O', 'headquarters': 'O', 'Social': 'MISC', 'Democrats': 'IDEOLOGY', 'in': 'O', 'Königsberg': 'LOCATION', ',': 'O', 'Otto': 'O', '-': 'O', 'Braun': 'O', 'House': 'O', '.': 'O'}",
         "sentence": "On the night of 31 July 1932 there was a bomb attack on the headquarters of the Social Democrats in Königsberg, the Otto-Braun-House.",
+        "stems": [
+            "night",
+            "31",
+            "juli",
+            "1932",
+            "bomb",
+            "attack",
+            "headquart",
+            "social",
+            "democrat",
+            "königsberg",
+            "otto-braun-hous"
+        ],
         "synonyms": [
             "night",
             "thirty-one",
@@ -33604,7 +34901,7 @@
             "königsberg",
             "otto-braun-house"
         ],
-        "tagged": [
+        "tags": [
             [
                 "night",
                 "NN"
@@ -34119,6 +35416,33 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'Communist': 'IDEOLOGY', 'politician': 'TITLE', 'Gustav': 'PERSON', 'Sauf': 'PERSON', 'was': 'O', 'killed': 'O', ';': 'O', 'the': 'O', 'executive': 'TITLE', 'editor': 'TITLE', 'of': 'O', 'Social': 'ORGANIZATION', 'Democrat': 'ORGANIZATION', '``': 'O', 'Königsberger': 'O', 'Volkszeitung': 'O', \"''\": 'O', ',': 'O', 'Otto': 'PERSON', 'Wyrgatsch': 'PERSON', 'and': 'O', 'German': 'NATIONALITY', 'People': 'ORGANIZATION', \"'s\": 'ORGANIZATION', 'Party': 'ORGANIZATION', 'Max': 'PERSON', 'von': 'PERSON', 'Bahrfeldt': 'PERSON', 'were': 'O', 'severely': 'O', 'injured': 'O', '.': 'O'}",
         "sentence": "The Communist politician Gustav Sauf was killed; the executive editor of the Social Democrat \"Königsberger Volkszeitung\", Otto Wyrgatsch, and the German People's Party politician Max von Bahrfeldt were severely injured.",
+        "stems": [
+            "communist",
+            "politician",
+            "gustav",
+            "sauf",
+            "kill",
+            "execut",
+            "editor",
+            "social",
+            "democrat",
+            "``",
+            "königsberg",
+            "volkszeitung",
+            "''",
+            "otto",
+            "wyrgatsch",
+            "german",
+            "peopl",
+            "'s",
+            "parti",
+            "politician",
+            "max",
+            "von",
+            "bahrfeldt",
+            "sever",
+            "injur"
+        ],
         "synonyms": [
             "communist",
             "politician",
@@ -34146,7 +35470,7 @@
             "sternly",
             "injured"
         ],
-        "tagged": [
+        "tags": [
             [
                 "communist",
                 "JJ"
@@ -34569,6 +35893,21 @@
         ],
         "ner_tag": "{'Members': 'O', 'of': 'O', 'the': 'O', 'Reichsbanner': 'O', 'were': 'O', 'attacked': 'O', 'and': 'O', 'local': 'O', 'Chairman': 'TITLE', 'Lötzen': 'LOCATION', ',': 'O', 'Kurt': 'PERSON', 'Kotzan': 'PERSON', 'was': 'O', 'murdered': 'O', 'on': 'O', '6': 'DATE', 'August': 'DATE', '1932': 'DATE', '.': 'O'}",
         "sentence": "Members of the Reichsbanner were attacked and the local Reichsbanner Chairman of Lötzen, Kurt Kotzan, was murdered on 6 August 1932.",
+        "stems": [
+            "member",
+            "reichsbann",
+            "attack",
+            "local",
+            "reichsbann",
+            "chairman",
+            "lötzen",
+            "kurt",
+            "kotzan",
+            "murder",
+            "6",
+            "august",
+            "1932"
+        ],
         "synonyms": [
             "penis",
             "reichsbanner",
@@ -34584,7 +35923,7 @@
             "august",
             "1932"
         ],
-        "tagged": [
+        "tags": [
             [
                 "members",
                 "NNS"
@@ -35418,6 +36757,47 @@
         ],
         "ner_tag": "{'Through': 'O', 'publicly': 'O', 'funded': 'O', 'emergency': 'O', 'relief': 'O', 'programs': 'O', 'concentrating': 'O', 'on': 'O', 'agricultural': 'O', 'land': 'O', '-': 'O', 'improvement': 'O', 'projects': 'O', 'and': 'O', 'road': 'O', 'construction': 'O', ',': 'O', 'the': 'O', '``': 'O', 'Erich': 'PERSON', 'Koch': 'PERSON', 'Plan': 'O', \"''\": 'O', 'for': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'allegedly': 'O', 'made': 'O', 'province': 'O', 'free': 'O', 'of': 'O', 'unemployment': 'O', ';': 'O', 'August': 'DATE', '16': 'DATE', '1933': 'DATE', 'reported': 'O', 'to': 'O', 'Hitler': 'PERSON', 'that': 'O', 'had': 'O', 'been': 'O', 'banished': 'O', 'entirely': 'O', 'from': 'O', 'a': 'O', 'feat': 'O', 'gained': 'O', 'admiration': 'O', 'throughout': 'O', 'Reich': 'PERSON', '.': 'O'}",
         "sentence": "Through publicly funded emergency relief programs concentrating on agricultural land-improvement projects and road construction, the \"Erich Koch Plan\" for East Prussia allegedly made the province free of unemployment; on August 16, 1933 Koch reported to Hitler that unemployment had been banished entirely from East Prussia, a feat that gained admiration throughout the Reich.",
+        "stems": [
+            "publicli",
+            "fund",
+            "emerg",
+            "relief",
+            "program",
+            "concentr",
+            "agricultur",
+            "land-improv",
+            "project",
+            "road",
+            "construct",
+            "``",
+            "erich",
+            "koch",
+            "plan",
+            "''",
+            "east",
+            "prussia",
+            "allegedli",
+            "made",
+            "provinc",
+            "free",
+            "unemploy",
+            "august",
+            "16",
+            "1933",
+            "koch",
+            "report",
+            "hitler",
+            "unemploy",
+            "banish",
+            "entir",
+            "east",
+            "prussia",
+            "feat",
+            "gain",
+            "admir",
+            "throughout",
+            "reich"
+        ],
         "synonyms": [
             "publicly",
             "fund",
@@ -35459,7 +36839,7 @@
             "throughout",
             "Reich"
         ],
-        "tagged": [
+        "tags": [
             [
                 "publicly",
                 "RB"
@@ -36027,6 +37407,25 @@
         "meronyms": [],
         "ner_tag": "{'Koch': 'PERSON', \"'s\": 'O', 'industrialization': 'IDEOLOGY', 'plans': 'O', 'led': 'O', 'him': 'O', 'into': 'O', 'conflict': 'O', 'with': 'O', 'R.': 'PERSON', 'Walther': 'PERSON', 'Darré': 'PERSON', ',': 'O', 'who': 'O', 'held': 'O', 'the': 'O', 'office': 'O', 'of': 'O', 'Reich': 'O', 'Peasant': 'O', 'Leader': 'TITLE', '(': 'O', 'Reichsbauernführer': 'O', ')': 'O', 'and': 'O', 'Minister': 'TITLE', 'Agriculture': 'O', '.': 'O'}",
         "sentence": "Koch's industrialization plans led him into conflict with R. Walther Darré, who held the office of the Reich Peasant Leader (Reichsbauernführer) and Minister of Agriculture.",
+        "stems": [
+            "koch",
+            "'s",
+            "industri",
+            "plan",
+            "led",
+            "conflict",
+            "r.",
+            "walther",
+            "darré",
+            "held",
+            "offic",
+            "reich",
+            "peasant",
+            "leader",
+            "reichsbauernführ",
+            "minist",
+            "agricultur"
+        ],
         "synonyms": [
             "Koch",
             "'s",
@@ -36046,7 +37445,7 @@
             "minister",
             "agribusiness"
         ],
-        "tagged": [
+        "tags": [
             [
                 "koch",
                 "NN"
@@ -36358,6 +37757,18 @@
         ],
         "ner_tag": "{'Darré': 'PERSON', ',': 'O', 'a': 'O', 'neopaganist': 'O', 'rural': 'O', 'romantic': 'O', 'wanted': 'O', 'to': 'O', 'enforce': 'O', 'his': 'O', 'vision': 'O', 'of': 'O', 'an': 'O', 'agricultural': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "Darré, a neopaganist rural romantic, wanted to enforce his vision of an agricultural East Prussia.",
+        "stems": [
+            "darré",
+            "neopaganist",
+            "rural",
+            "romant",
+            "want",
+            "enforc",
+            "vision",
+            "agricultur",
+            "east",
+            "prussia"
+        ],
         "synonyms": [
             "darré",
             "neopaganist",
@@ -36370,7 +37781,7 @@
             "east",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "darré",
                 "JJ"
@@ -36629,6 +38040,18 @@
         ],
         "ner_tag": "{'When': 'O', 'his': 'O', '``': 'O', 'Land': 'O', \"''\": 'O', 'representatives': 'O', 'challenged': 'O', 'Koch': 'PERSON', \"'s\": 'O', 'plans': 'O', ',': 'O', 'had': 'O', 'them': 'O', 'arrested': 'O', '.': 'O'}",
         "sentence": "When his \"Land\" representatives challenged Koch's plans, Koch had them arrested.",
+        "stems": [
+            "``",
+            "land",
+            "''",
+            "repres",
+            "challeng",
+            "koch",
+            "'s",
+            "plan",
+            "koch",
+            "arrest"
+        ],
         "synonyms": [
             "``",
             "state",
@@ -36641,7 +38064,7 @@
             "Koch",
             "check"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -37314,6 +38737,31 @@
         ],
         "ner_tag": "{'In': 'O', '1938': 'DATE', 'the': 'O', 'Nazis': 'ORGANIZATION', 'altered': 'O', 'about': 'O', 'one': 'ORDINAL', '-': 'ORDINAL', 'third': 'ORDINAL', 'of': 'O', 'toponyms': 'O', 'area': 'O', ',': 'O', 'eliminating': 'O', 'Germanizing': 'LOCATION', 'or': 'O', 'simplifying': 'O', 'a': 'O', 'number': 'O', 'Old': 'MISC', 'Prussian': 'MISC', 'names': 'O', 'as': 'O', 'well': 'O', 'those': 'O', 'Polish': 'NATIONALITY', 'Lithuanian': 'NATIONALITY', 'originating': 'O', 'from': 'O', 'colonists': 'O', 'and': 'O', 'refugees': 'O', 'to': 'O', 'Prussia': 'LOCATION', 'during': 'O', 'after': 'O', 'Protestant': 'RELIGION', 'Reformation': 'O', '.': 'O'}",
         "sentence": "In 1938 the Nazis altered about one-third of the toponyms of the area, eliminating, Germanizing, or simplifying a number of Old Prussian names, as well as those Polish or Lithuanian names originating from colonists and refugees to Prussia during and after the Protestant Reformation.",
+        "stems": [
+            "1938",
+            "nazi",
+            "alter",
+            "one-third",
+            "toponym",
+            "area",
+            "elimin",
+            "german",
+            "simplifi",
+            "number",
+            "old",
+            "prussian",
+            "name",
+            "well",
+            "polish",
+            "lithuanian",
+            "name",
+            "origin",
+            "colonist",
+            "refuge",
+            "prussia",
+            "protest",
+            "reform"
+        ],
         "synonyms": [
             "1938",
             "nazi",
@@ -37339,7 +38787,7 @@
             "Protestant_Church",
             "Reformation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1938",
                 "CD"
@@ -37817,6 +39265,25 @@
         ],
         "ner_tag": "{'More': 'O', 'than': 'O', '1,500': 'NUMBER', 'places': 'O', 'were': 'O', 'ordered': 'O', 'to': 'O', 'be': 'O', 'renamed': 'O', 'by': 'O', '16': 'DATE', 'July': 'DATE', '1938': 'DATE', 'following': 'O', 'a': 'O', 'decree': 'O', 'issued': 'O', 'Gauleiter': 'O', 'and': 'O', 'Oberpräsident': 'O', 'Erich': 'PERSON', 'Koch': 'PERSON', 'initiated': 'O', 'Adolf': 'PERSON', 'Hitler': 'PERSON', '.': 'O'}",
         "sentence": "More than 1,500 places were ordered to be renamed by 16 July 1938 following a decree issued by Gauleiter and Oberpräsident Erich Koch and initiated by Adolf Hitler.",
+        "stems": [
+            "1,500",
+            "place",
+            "order",
+            "renam",
+            "16",
+            "juli",
+            "1938",
+            "follow",
+            "decre",
+            "issu",
+            "gauleit",
+            "oberpräsid",
+            "erich",
+            "koch",
+            "initi",
+            "adolf",
+            "hitler"
+        ],
         "synonyms": [
             "1,500",
             "topographic_point",
@@ -37836,7 +39303,7 @@
             "adolf",
             "Hitler"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1,500",
                 "CD"
@@ -38251,6 +39718,21 @@
         ],
         "ner_tag": "{'Many': 'O', 'who': 'O', 'would': 'O', 'not': 'O', 'cooperate': 'O', 'with': 'O', 'the': 'O', 'rulers': 'O', 'of': 'O', 'Nazi': 'IDEOLOGY', 'Germany': 'COUNTRY', 'were': 'O', 'sent': 'O', 'to': 'O', 'concentration': 'O', 'camps': 'O', 'and': 'O', 'held': 'O', 'prisoner': 'O', 'there': 'O', 'until': 'O', 'their': 'O', 'death': 'O', 'or': 'O', 'liberation': 'O', '.': 'O'}",
         "sentence": "Many who would not cooperate with the rulers of Nazi Germany were sent to concentration camps and held prisoner there until their death or liberation.",
+        "stems": [
+            "mani",
+            "would",
+            "cooper",
+            "ruler",
+            "nazi",
+            "germani",
+            "sent",
+            "concentr",
+            "camp",
+            "held",
+            "prison",
+            "death",
+            "liber"
+        ],
         "synonyms": [
             "many",
             "would",
@@ -38266,7 +39748,7 @@
             "end",
             "liberation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -38968,6 +40450,35 @@
         ],
         "ner_tag": "{'In': 'O', '1939': 'DATE', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'had': 'O', '2.49': 'NUMBER', 'million': 'NUMBER', 'inhabitants': 'O', ',': 'O', '85': 'PERCENT', '%': 'PERCENT', 'of': 'O', 'them': 'O', 'ethnic': 'O', 'Germans': 'MISC', 'the': 'O', 'others': 'O', 'Poles': 'O', 'in': 'O', 'south': 'O', 'who': 'O', 'according': 'O', 'to': 'O', 'Polish': 'NATIONALITY', 'estimates': 'O', 'numbered': 'O', 'interwar': 'O', 'period': 'O', 'around': 'O', '300,000': 'NUMBER', '-': 'NUMBER', '350,000': 'NUMBER', 'Latvian': 'NATIONALITY', 'speaking': 'O', 'Kursenieki': 'O', 'and': 'O', 'Lietuvininkai': 'PERSON', 'spoke': 'O', 'Lithuanian': 'NATIONALITY', 'northeast': 'O', '.': 'O'}",
         "sentence": "In 1939 East Prussia had 2.49 million inhabitants, 85% of them ethnic Germans, the others Poles in the south who, according to Polish estimates numbered in the interwar period around 300,000-350,000, the Latvian speaking Kursenieki, and Lietuvininkai who spoke Lithuanian in the northeast.",
+        "stems": [
+            "1939",
+            "east",
+            "prussia",
+            "2.49",
+            "million",
+            "inhabit",
+            "85",
+            "ethnic",
+            "german",
+            "other",
+            "pole",
+            "south",
+            "accord",
+            "polish",
+            "estim",
+            "number",
+            "interwar",
+            "period",
+            "around",
+            "300,000-350,000",
+            "latvian",
+            "speak",
+            "kursenieki",
+            "lietuvininkai",
+            "spoke",
+            "lithuanian",
+            "northeast"
+        ],
         "synonyms": [
             "1939",
             "east",
@@ -38997,7 +40508,7 @@
             "Lithuanian",
             "northeast"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1939",
                 "CD"
@@ -39515,6 +41026,23 @@
         ],
         "ner_tag": "{'Most': 'O', 'German': 'NATIONALITY', 'East': 'MISC', 'Prussians': 'MISC', ',': 'O', 'Masurians': 'O', 'Kursieniki': 'LOCATION', 'and': 'O', 'Lietuvininkai': 'PERSON', 'were': 'O', 'Lutheran': 'RELIGION', 'while': 'O', 'the': 'O', 'population': 'O', 'of': 'O', 'Ermland': 'LOCATION', 'was': 'O', 'mainly': 'O', 'Roman': 'RELIGION', 'Catholic': 'RELIGION', 'due': 'O', 'to': 'O', 'history': 'O', 'its': 'O', 'bishopric': 'O', '.': 'O'}",
         "sentence": "Most German East Prussians, Masurians, Kursieniki, and Lietuvininkai were Lutheran, while the population of Ermland was mainly Roman Catholic due to the history of its bishopric.",
+        "stems": [
+            "german",
+            "east",
+            "prussian",
+            "masurian",
+            "kursieniki",
+            "lietuvininkai",
+            "lutheran",
+            "popul",
+            "ermland",
+            "mainli",
+            "roman",
+            "cathol",
+            "due",
+            "histori",
+            "bishopr"
+        ],
         "synonyms": [
             "German",
             "east",
@@ -39532,7 +41060,7 @@
             "history",
             "diocese"
         ],
-        "tagged": [
+        "tags": [
             [
                 "german",
                 "JJ"
@@ -39894,6 +41422,20 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'East': 'ORGANIZATION', 'Prussian': 'ORGANIZATION', 'Jewish': 'ORGANIZATION', 'Congregation': 'ORGANIZATION', 'declined': 'O', 'from': 'O', 'about': 'O', '9,000': 'NUMBER', 'in': 'O', '1933': 'DATE', 'to': 'O', '3,000': 'NUMBER', '1939': 'DATE', ',': 'O', 'as': 'O', 'most': 'O', 'fled': 'O', 'Nazi': 'IDEOLOGY', 'rule': 'O', '.': 'O'}",
         "sentence": "The East Prussian Jewish Congregation declined from about 9,000 in 1933 to 3,000 in 1939, as most fled from Nazi rule.",
+        "stems": [
+            "east",
+            "prussian",
+            "jewish",
+            "congreg",
+            "declin",
+            "9,000",
+            "1933",
+            "3,000",
+            "1939",
+            "fled",
+            "nazi",
+            "rule"
+        ],
         "synonyms": [
             "east",
             "Prussian",
@@ -39908,7 +41450,7 @@
             "nazi",
             "rule"
         ],
-        "tagged": [
+        "tags": [
             [
                 "east",
                 "JJ"
@@ -40120,6 +41662,13 @@
         "meronyms": [],
         "ner_tag": "{'Those': 'O', 'who': 'O', 'remained': 'O', 'were': 'O', 'later': 'O', 'deported': 'O', 'and': 'O', 'killed': 'O', 'in': 'O', 'the': 'O', 'Holocaust': 'O', '.': 'O'}",
         "sentence": "Those who remained were later deported and killed in the Holocaust.",
+        "stems": [
+            "remain",
+            "later",
+            "deport",
+            "kill",
+            "holocaust"
+        ],
         "synonyms": [
             "stay",
             "subsequently",
@@ -40127,7 +41676,7 @@
             "kill",
             "Holocaust"
         ],
-        "tagged": [
+        "tags": [
             [
                 "remained",
                 "VBN"
@@ -40346,6 +41895,16 @@
         ],
         "ner_tag": "{'In': 'O', '1939': 'DATE', 'the': 'O', 'Regierungsbezirk': 'PERSON', 'Zichenau': 'PERSON', 'was': 'O', 'annexed': 'O', 'by': 'O', 'Germany': 'COUNTRY', 'and': 'O', 'incorporated': 'O', 'into': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "In 1939 the Regierungsbezirk Zichenau was annexed by Germany and incorporated into East Prussia.",
+        "stems": [
+            "1939",
+            "regierungsbezirk",
+            "zichenau",
+            "annex",
+            "germani",
+            "incorpor",
+            "east",
+            "prussia"
+        ],
         "synonyms": [
             "1939",
             "regierungsbezirk",
@@ -40356,7 +41915,7 @@
             "east",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1939",
                 "CD"
@@ -40526,13 +42085,19 @@
         "meronyms": [],
         "ner_tag": "{'Parts': 'O', 'of': 'O', 'it': 'O', 'were': 'O', 'transferred': 'O', 'to': 'O', 'other': 'O', 'regions': 'O', ',': 'O', 'e.g': 'O', '.': 'O'}",
         "sentence": "Parts of it were transferred to other regions, e.g.",
+        "stems": [
+            "part",
+            "transfer",
+            "region",
+            "e.g"
+        ],
         "synonyms": [
             "part",
             "transfer",
             "region",
             "e.g"
         ],
-        "tagged": [
+        "tags": [
             [
                 "parts",
                 "NNS"
@@ -40677,6 +42242,14 @@
         "meronyms": [],
         "ner_tag": "{'Suwałki': 'O', 'to': 'O', 'Regierungsbezirk': 'PERSON', 'Gumbinnen': 'PERSON', 'and': 'O', 'Soldau': 'LOCATION', 'Allenstein': 'PERSON', '.': 'O'}",
         "sentence": "Suwałki to Regierungsbezirk Gumbinnen and Soldau to Regierungsbezirk Allenstein.",
+        "stems": [
+            "suwałki",
+            "regierungsbezirk",
+            "gumbinnen",
+            "soldau",
+            "regierungsbezirk",
+            "allenstein"
+        ],
         "synonyms": [
             "suwałki",
             "regierungsbezirk",
@@ -40685,7 +42258,7 @@
             "regierungsbezirk",
             "allenstein"
         ],
-        "tagged": [
+        "tags": [
             [
                 "suwałki",
                 "NN"
@@ -41241,6 +42814,33 @@
         ],
         "ner_tag": "{'Despite': 'O', 'Nazi': 'IDEOLOGY', 'propaganda': 'O', 'presenting': 'O', 'all': 'O', 'of': 'O', 'the': 'O', 'regions': 'O', 'annexed': 'O', 'as': 'O', 'possessing': 'O', 'significant': 'O', 'German': 'NATIONALITY', 'populations': 'O', 'that': 'O', 'wanted': 'O', 'reunification': 'O', 'with': 'O', 'Germany': 'COUNTRY', ',': 'O', 'Reich': 'PERSON', \"'s\": 'O', 'statistics': 'O', 'late': 'DATE', '1939': 'DATE', 'show': 'O', 'only': 'O', '31,000': 'NUMBER', 'out': 'O', '994,092': 'NUMBER', 'people': 'O', 'in': 'O', 'this': 'O', 'territory': 'O', 'were': 'O', 'ethnic': 'O', 'Germans': 'MISC', '.': 'O'}",
         "sentence": "Despite Nazi propaganda presenting all of the regions annexed as possessing significant German populations that wanted reunification with Germany, the Reich's statistics of late 1939 show that only 31,000 out of 994,092 people in this territory were ethnic Germans.",
+        "stems": [
+            "despit",
+            "nazi",
+            "propaganda",
+            "present",
+            "region",
+            "annex",
+            "possess",
+            "signific",
+            "german",
+            "popul",
+            "want",
+            "reunif",
+            "germani",
+            "reich",
+            "'s",
+            "statist",
+            "late",
+            "1939",
+            "show",
+            "31,000",
+            "994,092",
+            "peopl",
+            "territori",
+            "ethnic",
+            "german"
+        ],
         "synonyms": [
             "contempt",
             "nazi",
@@ -41268,7 +42868,7 @@
             "ethnic",
             "German"
         ],
-        "tagged": [
+        "tags": [
             [
                 "despite",
                 "IN"
@@ -41804,6 +43404,28 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Following': 'O', 'Nazi': 'IDEOLOGY', 'Germany': 'COUNTRY', \"'s\": 'O', 'defeat': 'O', 'in': 'O', 'World': 'MISC', 'War': 'CAUSE_OF_DEATH', 'II': 'MISC', '1945': 'DATE', ',': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'was': 'O', 'partitioned': 'O', 'between': 'O', 'Poland': 'COUNTRY', 'and': 'O', 'the': 'O', 'Soviet': 'LOCATION', 'Union': 'CITY', 'according': 'O', 'to': 'O', 'Potsdam': 'ORGANIZATION', 'Conference': 'ORGANIZATION', '.': 'O'}",
         "sentence": "[citation needed] Following Nazi Germany's defeat in World War II in 1945, East Prussia was partitioned between Poland and the Soviet Union according to the Potsdam Conference.",
+        "stems": [
+            "citat",
+            "need",
+            "follow",
+            "nazi",
+            "germani",
+            "'s",
+            "defeat",
+            "world",
+            "war",
+            "ii",
+            "1945",
+            "east",
+            "prussia",
+            "partit",
+            "poland",
+            "soviet",
+            "union",
+            "accord",
+            "potsdam",
+            "confer"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -41826,7 +43448,7 @@
             "Potsdam",
             "conference"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -42399,6 +44021,28 @@
         ],
         "ner_tag": "{'Southern': 'LOCATION', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'was': 'O', 'placed': 'O', 'under': 'O', 'Polish': 'NATIONALITY', 'administration': 'O', ',': 'O', 'while': 'O', 'northern': 'O', 'divided': 'O', 'between': 'O', 'the': 'O', 'Soviet': 'MISC', 'republics': 'O', 'of': 'O', 'Russia': 'COUNTRY', '(': 'O', 'Kaliningrad': 'CITY', 'Oblast': 'LOCATION', ')': 'O', 'and': 'O', 'Lithuania': 'COUNTRY', 'constituent': 'O', 'counties': 'O', 'Klaipėda': 'LOCATION', 'Region': 'LOCATION', '.': 'O'}",
         "sentence": "Southern East Prussia was placed under Polish administration, while northern East Prussia was divided between the Soviet republics of Russia (the Kaliningrad Oblast) and Lithuania (the constituent counties of the Klaipėda Region).",
+        "stems": [
+            "southern",
+            "east",
+            "prussia",
+            "place",
+            "polish",
+            "administr",
+            "northern",
+            "east",
+            "prussia",
+            "divid",
+            "soviet",
+            "republ",
+            "russia",
+            "kaliningrad",
+            "oblast",
+            "lithuania",
+            "constitu",
+            "counti",
+            "klaipėda",
+            "region"
+        ],
         "synonyms": [
             "southern",
             "east",
@@ -42421,7 +44065,7 @@
             "klaipėda",
             "region"
         ],
-        "tagged": [
+        "tags": [
             [
                 "southern",
                 "JJ"
@@ -42648,6 +44292,13 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'city': 'O', 'of': 'O', 'Königsberg': 'LOCATION', 'was': 'O', 'renamed': 'O', 'Kaliningrad': 'CITY', 'in': 'O', '1946': 'DATE', '.': 'O'}",
         "sentence": "The city of Königsberg was renamed Kaliningrad in 1946.",
+        "stems": [
+            "citi",
+            "königsberg",
+            "renam",
+            "kaliningrad",
+            "1946"
+        ],
         "synonyms": [
             "city",
             "königsberg",
@@ -42655,7 +44306,7 @@
             "kaliningrad",
             "1946"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -43066,6 +44717,23 @@
         ],
         "ner_tag": "{'The': 'O', 'German': 'NATIONALITY', 'population': 'O', 'of': 'O', 'the': 'O', 'province': 'O', 'largely': 'O', 'evacuated': 'O', 'during': 'O', 'war': 'CAUSE_OF_DEATH', ',': 'O', 'but': 'O', 'several': 'O', 'hundreds': 'O', 'thousands': 'O', 'died': 'O', 'years': 'DATE', '1944': 'DATE', '–': 'O', '46': 'NUMBER', 'and': 'O', 'remainder': 'O', 'were': 'O', 'subsequently': 'O', 'expelled': 'O', '.': 'O'}",
         "sentence": "The German population of the province largely evacuated during the war, but several hundreds of thousands died during the years 1944–46 and the remainder were subsequently expelled.",
+        "stems": [
+            "german",
+            "popul",
+            "provinc",
+            "larg",
+            "evacu",
+            "war",
+            "sever",
+            "hundr",
+            "thousand",
+            "die",
+            "year",
+            "1944–46",
+            "remaind",
+            "subsequ",
+            "expel"
+        ],
         "synonyms": [
             "German",
             "population",
@@ -43083,7 +44751,7 @@
             "subsequently",
             "oust"
         ],
-        "tagged": [
+        "tags": [
             [
                 "german",
                 "JJ"
@@ -43509,6 +45177,22 @@
         ],
         "ner_tag": "{'Shortly': 'O', 'after': 'O', 'the': 'O', 'end': 'O', 'of': 'O', 'war': 'CAUSE_OF_DEATH', 'in': 'O', 'May': 'DATE', '1945': 'DATE', ',': 'O', 'Germans': 'MISC', 'who': 'O', 'had': 'O', 'fled': 'O', 'early': 'DATE', 'tried': 'O', 'to': 'O', 'return': 'O', 'their': 'O', 'homes': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', '.': 'O'}",
         "sentence": "Shortly after the end of the war in May 1945, Germans who had fled in early 1945 tried to return to their homes in East Prussia.",
+        "stems": [
+            "shortli",
+            "end",
+            "war",
+            "may",
+            "1945",
+            "german",
+            "fled",
+            "earli",
+            "1945",
+            "tri",
+            "return",
+            "home",
+            "east",
+            "prussia"
+        ],
         "synonyms": [
             "shortly",
             "goal",
@@ -43525,7 +45209,7 @@
             "east",
             "Prussia"
         ],
-        "tagged": [
+        "tags": [
             [
                 "shortly",
                 "RB"
@@ -43813,6 +45497,17 @@
         ],
         "ner_tag": "{'An': 'O', 'estimated': 'O', 'number': 'O', 'of': 'DATE', '800,000': 'NUMBER', 'Germans': 'MISC', 'were': 'O', 'living': 'O', 'in': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'during': 'O', 'the': 'DATE', 'summer': 'DATE', '1945': 'DATE', '.': 'O'}",
         "sentence": "An estimated number of 800,000 Germans were living in East Prussia during the summer of 1945.",
+        "stems": [
+            "estim",
+            "number",
+            "800,000",
+            "german",
+            "live",
+            "east",
+            "prussia",
+            "summer",
+            "1945"
+        ],
         "synonyms": [
             "estimate",
             "phone_number",
@@ -43824,7 +45519,7 @@
             "summer",
             "1945"
         ],
-        "tagged": [
+        "tags": [
             [
                 "estimated",
                 "VBN"
@@ -44209,6 +45904,22 @@
         ],
         "ner_tag": "{'Many': 'O', 'more': 'O', 'were': 'O', 'prevented': 'O', 'from': 'O', 'returning': 'O', ',': 'O', '[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'and': 'O', 'the': 'O', 'German': 'NATIONALITY', 'population': 'O', 'of': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'was': 'O', 'almost': 'O', 'completely': 'O', 'expelled': 'O', 'by': 'O', 'communist': 'IDEOLOGY', 'regimes': 'O', '.': 'O'}",
         "sentence": "Many more were prevented from returning,[citation needed] and the German population of East Prussia was almost completely expelled by the communist regimes.",
+        "stems": [
+            "mani",
+            "prevent",
+            "return",
+            "citat",
+            "need",
+            "german",
+            "popul",
+            "east",
+            "prussia",
+            "almost",
+            "complet",
+            "expel",
+            "communist",
+            "regim"
+        ],
         "synonyms": [
             "many",
             "prevent",
@@ -44225,7 +45936,7 @@
             "communist",
             "regimen"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -44762,6 +46473,26 @@
         "meronyms": [],
         "ner_tag": "{'During': 'O', 'the': 'O', 'war': 'CAUSE_OF_DEATH', 'and': 'O', 'for': 'O', 'some': 'O', 'time': 'O', 'thereafter': 'O', '45': 'NUMBER', 'camps': 'O', 'were': 'O', 'established': 'O', 'about': 'O', '200,000': 'NUMBER', '-': 'NUMBER', '250,000': 'NUMBER', 'forced': 'O', 'labourers': 'O', ',': 'O', 'vast': 'O', 'majority': 'O', 'of': 'O', 'whom': 'O', 'deported': 'O', 'to': 'O', 'Soviet': 'LOCATION', 'Union': 'CITY', 'including': 'O', 'Gulag': 'O', 'camp': 'O', 'system': 'O', '.': 'O'}",
         "sentence": "During the war and for some time thereafter 45 camps were established for about 200,000-250,000 forced labourers, the vast majority of whom were deported to the Soviet Union, including the Gulag camp system.",
+        "stems": [
+            "war",
+            "time",
+            "thereaft",
+            "45",
+            "camp",
+            "establish",
+            "200,000-250,000",
+            "forc",
+            "labour",
+            "vast",
+            "major",
+            "deport",
+            "soviet",
+            "union",
+            "includ",
+            "gulag",
+            "camp",
+            "system"
+        ],
         "synonyms": [
             "war",
             "time",
@@ -44782,7 +46513,7 @@
             "clique",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "war",
                 "NN"
@@ -45070,6 +46801,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'largest': 'O', 'camp': 'O', 'with': 'O', 'about': 'O', '48,000': 'NUMBER', 'inmates': 'O', 'was': 'O', 'established': 'O', 'at': 'O', 'Deutsch': 'LOCATION', 'Eylau': 'LOCATION', '(': 'O', 'Iława': 'LOCATION', ')': 'O', '.': 'O'}",
         "sentence": "The largest camp with about 48,000 inmates was established at Deutsch Eylau (Iława).",
+        "stems": [
+            "largest",
+            "camp",
+            "48,000",
+            "inmat",
+            "establish",
+            "deutsch",
+            "eylau",
+            "iława"
+        ],
         "synonyms": [
             "large",
             "clique",
@@ -45080,7 +46821,7 @@
             "eylau",
             "iława"
         ],
-        "tagged": [
+        "tags": [
             [
                 "largest",
                 "JJS"
@@ -45385,6 +47126,19 @@
         "meronyms": [],
         "ner_tag": "{'Orphaned': 'O', 'children': 'O', 'who': 'O', 'were': 'O', 'left': 'O', 'behind': 'O', 'in': 'O', 'the': 'O', 'zone': 'O', 'occupied': 'O', 'by': 'O', 'Soviet': 'LOCATION', 'Union': 'CITY', 'referred': 'O', 'to': 'O', 'as': 'O', 'Wolf': 'PERSON', '.': 'O'}",
         "sentence": "Orphaned children who were left behind in the zone occupied by the Soviet Union were referred to as Wolf children.",
+        "stems": [
+            "orphan",
+            "children",
+            "left",
+            "behind",
+            "zone",
+            "occupi",
+            "soviet",
+            "union",
+            "refer",
+            "wolf",
+            "children"
+        ],
         "synonyms": [
             "orphaned",
             "child",
@@ -45398,7 +47152,7 @@
             "wolf",
             "child"
         ],
-        "tagged": [
+        "tags": [
             [
                 "orphaned",
                 "VBN"
@@ -45745,6 +47499,22 @@
         ],
         "ner_tag": "{'Representatives': 'O', 'of': 'O', 'the': 'O', 'Polish': 'NATIONALITY', 'government': 'O', 'officially': 'O', 'took': 'O', 'over': 'O', 'civilian': 'O', 'administration': 'O', 'southern': 'O', 'part': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'on': 'O', '23': 'DATE', 'May': 'DATE', '1945': 'DATE', '.': 'O'}",
         "sentence": "Representatives of the Polish government officially took over the civilian administration of the southern part of East Prussia on 23 May 1945.",
+        "stems": [
+            "repres",
+            "polish",
+            "govern",
+            "offici",
+            "took",
+            "civilian",
+            "administr",
+            "southern",
+            "part",
+            "east",
+            "prussia",
+            "23",
+            "may",
+            "1945"
+        ],
         "synonyms": [
             "representative",
             "polish",
@@ -45761,7 +47531,7 @@
             "whitethorn",
             "1945"
         ],
-        "tagged": [
+        "tags": [
             [
                 "representatives",
                 "NNS"
@@ -46398,6 +48168,33 @@
         ],
         "ner_tag": "{'Subsequently': 'O', 'Polish': 'NATIONALITY', 'expatriates': 'O', 'from': 'O', 'lands': 'O', 'annexed': 'O', 'by': 'O', 'the': 'O', 'Soviet': 'LOCATION', 'Union': 'CITY', 'as': 'O', 'well': 'O', 'Ukrainians': 'MISC', 'and': 'O', 'Lemkos': 'PERSON', 'southern': 'O', 'Poland': 'COUNTRY', ',': 'O', 'expelled': 'O', 'in': 'O', 'Operation': 'O', 'Vistula': 'O', '1947': 'DATE', 'were': 'O', 'settled': 'O', 'part': 'O', 'of': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'now': 'DATE', 'Warmian': 'PERSON', '-': 'PERSON', 'Masurian': 'PERSON', 'Voivodeship': 'PERSON', '.': 'O'}",
         "sentence": "Subsequently Polish expatriates from Polish lands annexed by the Soviet Union as well as Ukrainians and Lemkos from southern Poland, expelled in Operation Vistula in 1947, were settled in the southern part of East Prussia, now the Polish Warmian-Masurian Voivodeship.",
+        "stems": [
+            "subsequ",
+            "polish",
+            "expatri",
+            "polish",
+            "land",
+            "annex",
+            "soviet",
+            "union",
+            "well",
+            "ukrainian",
+            "lemko",
+            "southern",
+            "poland",
+            "expel",
+            "oper",
+            "vistula",
+            "1947",
+            "settl",
+            "southern",
+            "part",
+            "east",
+            "prussia",
+            "polish",
+            "warmian-masurian",
+            "voivodeship"
+        ],
         "synonyms": [
             "subsequently",
             "polish",
@@ -46425,7 +48222,7 @@
             "warmian-masurian",
             "voivodeship"
         ],
-        "tagged": [
+        "tags": [
             [
                 "subsequently",
                 "RB"
@@ -46965,6 +48762,25 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '1950': 'DATE', 'the': 'O', 'Olsztyn': 'PERSON', 'Voivodeship': 'PERSON', 'counted': 'O', '689,000': 'NUMBER', 'inhabitants': 'O', ',': 'O', '22.6': 'PERCENT', '%': 'PERCENT', 'of': 'O', 'them': 'O', 'coming': 'O', 'from': 'O', 'areas': 'O', 'annexed': 'O', 'by': 'O', 'Soviet': 'LOCATION', 'Union': 'CITY', '10': 'PERCENT', 'Ukrainians': 'MISC', 'and': 'O', '18.5': 'PERCENT', 'pre-war': 'O', '.': 'O'}",
         "sentence": "In 1950 the Olsztyn Voivodeship counted 689,000 inhabitants, 22.6% of them coming from areas annexed by the Soviet Union, 10% Ukrainians, and 18.5% of them pre-war inhabitants.",
+        "stems": [
+            "1950",
+            "olsztyn",
+            "voivodeship",
+            "count",
+            "689,000",
+            "inhabit",
+            "22.6",
+            "come",
+            "area",
+            "annex",
+            "soviet",
+            "union",
+            "10",
+            "ukrainian",
+            "18.5",
+            "pre-war",
+            "inhabit"
+        ],
         "synonyms": [
             "1950",
             "olsztyn",
@@ -46984,7 +48800,7 @@
             "pre-war",
             "inhabitant"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1950",
                 "CD"
@@ -47721,6 +49537,37 @@
         ],
         "ner_tag": "{'The': 'O', 'remaining': 'O', 'pre-war': 'O', 'population': 'O', 'was': 'O', 'treated': 'O', 'as': 'O', 'Germanized': 'O', 'Poles': 'O', 'and': 'O', 'a': 'O', 'policy': 'O', 'of': 'O', 're-Polonization': 'MISC', 'pursued': 'O', 'throughout': 'O', 'the': 'DATE', 'country': 'O', 'Most': 'O', 'these': 'O', '``': 'O', 'Autochthones': 'O', \"''\": 'O', 'chose': 'O', 'to': 'O', 'emigrate': 'O', 'West': 'LOCATION', 'Germany': 'COUNTRY', 'from': 'O', '1950s': 'DATE', 'through': 'O', '1970s': 'DATE', '(': 'O', 'between': 'O', '1970': 'DATE', '1988': 'DATE', '55,227': 'NUMBER', 'persons': 'O', 'Warmia': 'LOCATION', 'Masuria': 'LOCATION', 'moved': 'O', 'Western': 'LOCATION', ')': 'O', '.': 'O'}",
         "sentence": "The remaining pre-war population was treated as Germanized Poles and a policy of re-Polonization was pursued throughout the country Most of these \"Autochthones\" chose to emigrate to West Germany from the 1950s through 1970s (between 1970 and 1988 55,227 persons from Warmia and Masuria moved to Western Germany).",
+        "stems": [
+            "remain",
+            "pre-war",
+            "popul",
+            "treat",
+            "german",
+            "pole",
+            "polici",
+            "re-polon",
+            "pursu",
+            "throughout",
+            "countri",
+            "``",
+            "autochthon",
+            "''",
+            "chose",
+            "emigr",
+            "west",
+            "germani",
+            "1950",
+            "1970",
+            "1970",
+            "1988",
+            "55,227",
+            "person",
+            "warmia",
+            "masuria",
+            "move",
+            "western",
+            "germani"
+        ],
         "synonyms": [
             "stay",
             "pre-war",
@@ -47752,7 +49599,7 @@
             "western",
             "Germany"
         ],
-        "tagged": [
+        "tags": [
             [
                 "remaining",
                 "VBG"
@@ -48093,6 +49940,16 @@
         "meronyms": [],
         "ner_tag": "{'Local': 'O', 'toponyms': 'O', 'were': 'O', 'Polonised': 'O', 'by': 'O', 'the': 'ORGANIZATION', 'Polish': 'ORGANIZATION', 'Commission': 'ORGANIZATION', 'for': 'ORGANIZATION', 'Determination': 'ORGANIZATION', 'of': 'ORGANIZATION', 'Place': 'ORGANIZATION', 'Names': 'ORGANIZATION', '.': 'O'}",
         "sentence": "Local toponyms were Polonised by the Polish Commission for the Determination of Place Names.",
+        "stems": [
+            "local",
+            "toponym",
+            "polonis",
+            "polish",
+            "commiss",
+            "determin",
+            "place",
+            "name"
+        ],
         "synonyms": [
             "local_anesthetic",
             "place_name",
@@ -48103,7 +49960,7 @@
             "topographic_point",
             "name_calling"
         ],
-        "tagged": [
+        "tags": [
             [
                 "local",
                 "JJ"
@@ -48559,6 +50416,28 @@
         ],
         "ner_tag": "{'In': 'O', 'April': 'DATE', '1946': 'DATE', ',': 'O', 'northern': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'became': 'O', 'an': 'O', 'official': 'O', 'province': 'O', 'of': 'O', 'the': 'O', 'Russian': 'NATIONALITY', 'SFSR': 'O', 'as': 'O', '``': 'O', 'Kyonigsbergskaya': 'O', 'Oblast': 'O', \"''\": 'O', 'with': 'O', 'Memel': 'PERSON', 'Territory': 'PERSON', 'becoming': 'O', 'part': 'O', 'Lithuanian': 'NATIONALITY', 'SSR': 'O', '.': 'O'}",
         "sentence": "In April 1946, northern East Prussia became an official province of the Russian SFSR as the \"Kyonigsbergskaya Oblast\", with the Memel Territory becoming part of the Lithuanian SSR.",
+        "stems": [
+            "april",
+            "1946",
+            "northern",
+            "east",
+            "prussia",
+            "becam",
+            "offici",
+            "provinc",
+            "russian",
+            "sfsr",
+            "``",
+            "kyonigsbergskaya",
+            "oblast",
+            "''",
+            "memel",
+            "territori",
+            "becom",
+            "part",
+            "lithuanian",
+            "ssr"
+        ],
         "synonyms": [
             "April",
             "1946",
@@ -48581,7 +50460,7 @@
             "Lithuanian",
             "ssr"
         ],
-        "tagged": [
+        "tags": [
             [
                 "april",
                 "NN"
@@ -48985,6 +50864,22 @@
         ],
         "ner_tag": "{'In': 'O', 'June': 'DATE', '1946': 'DATE', '114,070': 'NUMBER', 'German': 'NATIONALITY', 'and': 'O', '41,029': 'NUMBER', 'Soviet': 'MISC', 'citizens': 'O', 'were': 'O', 'registered': 'O', 'in': 'O', 'the': 'O', 'Oblast': 'O', ',': 'O', 'with': 'O', 'an': 'O', 'unknown': 'O', 'number': 'O', 'of': 'O', 'disregarded': 'O', 'unregistered': 'O', 'persons': 'O', '.': 'O'}",
         "sentence": "In June 1946 114,070 German and 41,029 Soviet citizens were registered in the Oblast, with an unknown number of disregarded unregistered persons.",
+        "stems": [
+            "june",
+            "1946",
+            "114,070",
+            "german",
+            "41,029",
+            "soviet",
+            "citizen",
+            "regist",
+            "oblast",
+            "unknown",
+            "number",
+            "disregard",
+            "unregist",
+            "person"
+        ],
         "synonyms": [
             "June",
             "1946",
@@ -49001,7 +50896,7 @@
             "unregistered",
             "person"
         ],
-        "tagged": [
+        "tags": [
             [
                 "june",
                 "NN"
@@ -49397,6 +51292,22 @@
         ],
         "ner_tag": "{'In': 'O', 'July': 'DATE', 'of': 'O', 'that': 'O', 'year': 'DURATION', ',': 'O', 'the': 'O', 'historic': 'O', 'city': 'O', 'Königsberg': 'LOCATION', 'was': 'O', 'renamed': 'O', 'Kaliningrad': 'CITY', 'to': 'O', 'honour': 'O', 'Mikhail': 'PERSON', 'Kalinin': 'PERSON', 'and': 'O', 'area': 'O', 'named': 'O', 'Oblast': 'LOCATION', '.': 'O'}",
         "sentence": "In July of that year, the historic city of Königsberg was renamed Kaliningrad to honour Mikhail Kalinin and the area named the Kaliningrad Oblast.",
+        "stems": [
+            "juli",
+            "year",
+            "histor",
+            "citi",
+            "königsberg",
+            "renam",
+            "kaliningrad",
+            "honour",
+            "mikhail",
+            "kalinin",
+            "area",
+            "name",
+            "kaliningrad",
+            "oblast"
+        ],
         "synonyms": [
             "July",
             "year",
@@ -49413,7 +51324,7 @@
             "kaliningrad",
             "oblast"
         ],
-        "tagged": [
+        "tags": [
             [
                 "july",
                 "NN"
@@ -49852,6 +51763,26 @@
         ],
         "ner_tag": "{'Between': 'O', '24': 'DATE', 'August': 'DATE', 'and': 'O', '26': 'DATE', 'October': 'DATE', '1948': 'DATE', '21': 'NUMBER', 'transports': 'O', 'with': 'O', 'in': 'O', 'total': 'O', '42,094': 'NUMBER', 'Germans': 'MISC', 'left': 'O', 'the': 'O', 'Oblast': 'LOCATION', 'to': 'O', 'Soviet': 'LOCATION', 'Occupation': 'LOCATION', 'Zone': 'LOCATION', '(': 'O', 'which': 'O', 'became': 'O', 'East': 'COUNTRY', 'Germany': 'COUNTRY', ')': 'O', '.': 'O'}",
         "sentence": "Between 24 August and 26 October 1948 21 transports with in total 42,094 Germans left the Oblast to the Soviet Occupation Zone (which became East Germany).",
+        "stems": [
+            "24",
+            "august",
+            "26",
+            "octob",
+            "1948",
+            "21",
+            "transport",
+            "total",
+            "42,094",
+            "german",
+            "left",
+            "oblast",
+            "soviet",
+            "occup",
+            "zone",
+            "becam",
+            "east",
+            "germani"
+        ],
         "synonyms": [
             "twenty-four",
             "august",
@@ -49872,7 +51803,7 @@
             "east",
             "Germany"
         ],
-        "tagged": [
+        "tags": [
             [
                 "24",
                 "CD"
@@ -50224,6 +52155,20 @@
         ],
         "ner_tag": "{'The': 'O', 'last': 'O', 'remaining': 'O', 'Germans': 'MISC', 'left': 'O', 'in': 'O', 'November': 'DATE', '1949': 'DATE', '(': 'O', '1,401': 'NUMBER', 'persons': 'O', ')': 'O', 'and': 'O', 'January': 'DATE', '1950': 'DATE', '7': 'NUMBER', '.': 'O'}",
         "sentence": "The last remaining Germans left in November 1949 (1,401 persons) and January 1950 (7 persons).",
+        "stems": [
+            "last",
+            "remain",
+            "german",
+            "left",
+            "novemb",
+            "1949",
+            "1,401",
+            "person",
+            "januari",
+            "1950",
+            "7",
+            "person"
+        ],
         "synonyms": [
             "last",
             "stay",
@@ -50238,7 +52183,7 @@
             "seven",
             "person"
         ],
-        "tagged": [
+        "tags": [
             [
                 "last",
                 "JJ"
@@ -50502,6 +52447,17 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'similar': 'O', 'fate': 'O', 'befell': 'O', 'the': 'O', 'Curonians': 'MISC', 'who': 'O', 'lived': 'O', 'in': 'O', 'area': 'O', 'around': 'O', 'Curonian': 'LOCATION', 'Lagoon': 'LOCATION', '.': 'O'}",
         "sentence": "A similar fate befell the Curonians who lived in the area around the Curonian Lagoon.",
+        "stems": [
+            "similar",
+            "fate",
+            "befel",
+            "curonian",
+            "live",
+            "area",
+            "around",
+            "curonian",
+            "lagoon"
+        ],
         "synonyms": [
             "similar",
             "destiny",
@@ -50513,7 +52469,7 @@
             "curonian",
             "lagoon"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similar",
                 "JJ"
@@ -50886,6 +52842,22 @@
         ],
         "ner_tag": "{'While': 'O', 'many': 'O', 'fled': 'O', 'from': 'O', 'the': 'O', 'Red': 'ORGANIZATION', 'Army': 'ORGANIZATION', 'during': 'O', 'evacuation': 'O', 'of': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', ',': 'O', 'Curonians': 'MISC', 'that': 'O', 'remained': 'O', 'behind': 'O', 'were': 'O', 'subsequently': 'O', 'expelled': 'O', 'by': 'O', 'Soviet': 'LOCATION', 'Union': 'CITY', '.': 'O'}",
         "sentence": "While many fled from the Red Army during the evacuation of East Prussia, Curonians that remained behind were subsequently expelled by the Soviet Union.",
+        "stems": [
+            "mani",
+            "fled",
+            "red",
+            "armi",
+            "evacu",
+            "east",
+            "prussia",
+            "curonian",
+            "remain",
+            "behind",
+            "subsequ",
+            "expel",
+            "soviet",
+            "union"
+        ],
         "synonyms": [
             "many",
             "flee",
@@ -50902,7 +52874,7 @@
             "soviet",
             "union"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -51103,6 +53075,14 @@
         "meronyms": [],
         "ner_tag": "{'Only': 'O', '219': 'NUMBER', 'lived': 'O', 'along': 'O', 'the': 'O', 'Curonian': 'MISC', 'Spit': 'MISC', 'in': 'O', '1955': 'DATE', '.': 'O'}",
         "sentence": "Only 219 lived along the Curonian Spit in 1955.",
+        "stems": [
+            "219",
+            "live",
+            "along",
+            "curonian",
+            "spit",
+            "1955"
+        ],
         "synonyms": [
             "219",
             "live",
@@ -51111,7 +53091,7 @@
             "spit",
             "1955"
         ],
-        "tagged": [
+        "tags": [
             [
                 "219",
                 "CD"
@@ -51344,6 +53324,16 @@
         "meronyms": [],
         "ner_tag": "{'Many': 'O', 'had': 'O', 'German': 'NATIONALITY', 'names': 'O', 'such': 'O', 'as': 'O', 'Fritz': 'PERSON', 'or': 'O', 'Hans': 'PERSON', ',': 'O', 'a': 'O', 'cause': 'O', 'for': 'O', 'anti-German': 'MISC', 'discrimination': 'O', '.': 'O'}",
         "sentence": "Many had German names such as Fritz or Hans, a cause for anti-German discrimination.",
+        "stems": [
+            "mani",
+            "german",
+            "name",
+            "fritz",
+            "han",
+            "caus",
+            "anti-german",
+            "discrimin"
+        ],
         "synonyms": [
             "many",
             "German",
@@ -51354,7 +53344,7 @@
             "anti-german",
             "discrimination"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -51507,6 +53497,13 @@
         ],
         "ner_tag": "{'The': 'O', 'Soviet': 'MISC', 'authorities': 'O', 'considered': 'O', 'the': 'O', 'Curonians': 'MISC', 'fascists': 'O', '.': 'O'}",
         "sentence": "The Soviet authorities considered the Curonians fascists.",
+        "stems": [
+            "soviet",
+            "author",
+            "consid",
+            "curonian",
+            "fascist"
+        ],
         "synonyms": [
             "soviet",
             "government",
@@ -51514,7 +53511,7 @@
             "curonians",
             "fascist"
         ],
-        "tagged": [
+        "tags": [
             [
                 "soviet",
                 "JJ"
@@ -51800,6 +53797,17 @@
         ],
         "ner_tag": "{'Because': 'O', 'of': 'O', 'this': 'O', 'discrimination': 'O', ',': 'O', 'many': 'O', 'immigrated': 'O', 'to': 'O', 'West': 'LOCATION', 'Germany': 'COUNTRY', 'in': 'O', '1958': 'DATE', 'where': 'O', 'the': 'O', 'majority': 'O', 'Curonians': 'MISC', 'now': 'DATE', 'live': 'O', '.': 'O'}",
         "sentence": "Because of this discrimination, many immigrated to West Germany in 1958, where the majority of Curonians now live.",
+        "stems": [
+            "discrimin",
+            "mani",
+            "immigr",
+            "west",
+            "germani",
+            "1958",
+            "major",
+            "curonian",
+            "live"
+        ],
         "synonyms": [
             "discrimination",
             "many",
@@ -51811,7 +53819,7 @@
             "curonians",
             "live"
         ],
-        "tagged": [
+        "tags": [
             [
                 "discrimination",
                 "NN"
@@ -52120,6 +54128,18 @@
         "meronyms": [],
         "ner_tag": "{'After': 'O', 'the': 'O', 'expulsion': 'O', 'of': 'O', 'German': 'NATIONALITY', 'population': 'O', 'ethnic': 'O', 'Russians': 'MISC', ',': 'O', 'Belarusians': 'MISC', 'and': 'O', 'Ukrainians': 'MISC', 'were': 'O', 'settled': 'O', 'in': 'O', 'northern': 'O', 'part': 'O', '.': 'O'}",
         "sentence": "After the expulsion of the German population ethnic Russians, Belarusians, and Ukrainians were settled in the northern part.",
+        "stems": [
+            "expuls",
+            "german",
+            "popul",
+            "ethnic",
+            "russian",
+            "belarusian",
+            "ukrainian",
+            "settl",
+            "northern",
+            "part"
+        ],
         "synonyms": [
             "extrusion",
             "German",
@@ -52132,7 +54152,7 @@
             "Northern",
             "part"
         ],
-        "tagged": [
+        "tags": [
             [
                 "expulsion",
                 "JJ"
@@ -52433,6 +54453,17 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'Soviet': 'MISC', 'part': 'O', 'of': 'O', 'region': 'O', ',': 'O', 'a': 'O', 'policy': 'O', 'eliminating': 'O', 'all': 'O', 'remnants': 'O', 'German': 'NATIONALITY', 'history': 'O', 'was': 'O', 'pursued': 'O', '.': 'O'}",
         "sentence": "In the Soviet part of the region, a policy of eliminating all remnants of German history was pursued.",
+        "stems": [
+            "soviet",
+            "part",
+            "region",
+            "polici",
+            "elimin",
+            "remnant",
+            "german",
+            "histori",
+            "pursu"
+        ],
         "synonyms": [
             "soviet",
             "part",
@@ -52444,7 +54475,7 @@
             "history",
             "pursued"
         ],
-        "tagged": [
+        "tags": [
             [
                 "soviet",
                 "JJ"
@@ -52638,6 +54669,15 @@
         "meronyms": [],
         "ner_tag": "{'All': 'O', 'German': 'NATIONALITY', 'place': 'O', 'names': 'O', 'were': 'O', 'replaced': 'O', 'by': 'O', 'new': 'O', 'Russian': 'NATIONALITY', '.': 'O'}",
         "sentence": "All German place names were replaced by new Russian names.",
+        "stems": [
+            "german",
+            "place",
+            "name",
+            "replac",
+            "new",
+            "russian",
+            "name"
+        ],
         "synonyms": [
             "German",
             "topographic_point",
@@ -52647,7 +54687,7 @@
             "Russian",
             "name_calling"
         ],
-        "tagged": [
+        "tags": [
             [
                 "german",
                 "JJ"
@@ -52960,6 +55000,19 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'exclave': 'O', 'was': 'O', 'a': 'O', 'military': 'O', 'zone': 'O', ',': 'O', 'which': 'O', 'closed': 'O', 'to': 'O', 'foreigners': 'O', ';': 'O', 'Soviet': 'MISC', 'citizens': 'O', 'could': 'O', 'only': 'O', 'enter': 'O', 'with': 'O', 'special': 'O', 'permission': 'O', '.': 'O'}",
         "sentence": "The exclave was a military zone, which was closed to foreigners; Soviet citizens could only enter with special permission.",
+        "stems": [
+            "exclav",
+            "militari",
+            "zone",
+            "close",
+            "foreign",
+            "soviet",
+            "citizen",
+            "could",
+            "enter",
+            "special",
+            "permiss"
+        ],
         "synonyms": [
             "exclave",
             "military",
@@ -52973,7 +55026,7 @@
             "special",
             "license"
         ],
-        "tagged": [
+        "tags": [
             [
                 "exclave",
                 "JJ"
@@ -53373,6 +55426,23 @@
         ],
         "ner_tag": "{'In': 'O', '1967': 'DATE', 'the': 'O', 'remnants': 'O', 'of': 'O', 'Königsberg': 'LOCATION', 'Castle': 'LOCATION', 'were': 'O', 'demolished': 'O', 'on': 'O', 'orders': 'O', 'Leonid': 'PERSON', 'Brezhnev': 'PERSON', 'to': 'O', 'make': 'O', 'way': 'O', 'for': 'O', 'a': 'O', 'new': 'O', '``': 'O', 'House': 'O', 'Soviets': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "In 1967 the remnants of Königsberg Castle were demolished on the orders of Leonid Brezhnev to make way for a new \"House of the Soviets\".",
+        "stems": [
+            "1967",
+            "remnant",
+            "königsberg",
+            "castl",
+            "demolish",
+            "order",
+            "leonid",
+            "brezhnev",
+            "make",
+            "way",
+            "new",
+            "``",
+            "hous",
+            "soviet",
+            "''"
+        ],
         "synonyms": [
             "1967",
             "leftover",
@@ -53390,7 +55460,7 @@
             "soviet",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1967",
                 "CD"
@@ -54011,6 +56081,34 @@
         ],
         "ner_tag": "{'Although': 'O', 'the': 'O', '1945': 'DATE', '–': 'O', '1949': 'DATE', 'expulsion': 'O', 'of': 'O', 'Germans': 'MISC', 'from': 'O', 'northern': 'O', 'part': 'O', 'former': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'was': 'O', 'often': 'O', 'conducted': 'O', 'in': 'O', 'a': 'O', 'violent': 'O', 'and': 'O', 'aggressive': 'O', 'way': 'O', 'by': 'O', 'Soviet': 'MISC', 'officials': 'O', ',': 'O', 'present': 'DATE', 'Russian': 'NATIONALITY', 'inhabitants': 'O', 'Kaliningrad': 'CITY', 'Oblast': 'LOCATION', 'have': 'O', 'much': 'O', 'less': 'O', 'animosity': 'O', 'towards': 'O', '.': 'O'}",
         "sentence": "Although the 1945–1949 expulsion of Germans from the northern part of former East Prussia was often conducted in a violent and aggressive way by Soviet officials, the present Russian inhabitants of the Kaliningrad Oblast have much less animosity towards Germans.",
+        "stems": [
+            "although",
+            "1945–1949",
+            "expuls",
+            "german",
+            "northern",
+            "part",
+            "former",
+            "east",
+            "prussia",
+            "often",
+            "conduct",
+            "violent",
+            "aggress",
+            "way",
+            "soviet",
+            "offici",
+            "present",
+            "russian",
+            "inhabit",
+            "kaliningrad",
+            "oblast",
+            "much",
+            "less",
+            "animos",
+            "toward",
+            "german"
+        ],
         "synonyms": [
             "although",
             "1945–1949",
@@ -54039,7 +56137,7 @@
             "towards",
             "German"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -54499,6 +56597,23 @@
         "meronyms": [],
         "ner_tag": "{'German': 'NATIONALITY', 'names': 'O', 'have': 'O', 'been': 'O', 'revived': 'O', 'in': 'O', 'commercial': 'O', 'Russian': 'NATIONALITY', 'trade': 'O', 'and': 'O', 'there': 'O', 'is': 'O', 'sometimes': 'O', 'talk': 'O', 'of': 'O', 'reverting': 'O', 'Kaliningrad': 'CITY', \"'s\": 'O', 'name': 'O', 'to': 'O', 'its': 'O', 'historic': 'O', 'Königsberg': 'LOCATION', '.': 'O'}",
         "sentence": "German names have been revived in commercial Russian trade and there is sometimes talk of reverting Kaliningrad's name to its historic name of Königsberg.",
+        "stems": [
+            "german",
+            "name",
+            "reviv",
+            "commerci",
+            "russian",
+            "trade",
+            "sometim",
+            "talk",
+            "revert",
+            "kaliningrad",
+            "'s",
+            "name",
+            "histor",
+            "name",
+            "königsberg"
+        ],
         "synonyms": [
             "German",
             "name_calling",
@@ -54516,7 +56631,7 @@
             "name",
             "königsberg"
         ],
-        "tagged": [
+        "tags": [
             [
                 "german",
                 "JJ"
@@ -54935,6 +57050,22 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'city': 'O', 'centre': 'O', 'of': 'O', 'Kaliningrad': 'CITY', 'was': 'O', 'completely': 'O', 'rebuilt': 'O', ',': 'O', 'as': 'O', 'British': 'NATIONALITY', 'bombs': 'O', 'in': 'O', '1944': 'DATE', 'and': 'O', 'the': 'O', 'Soviet': 'MISC', 'siege': 'O', '1945': 'DATE', 'had': 'O', 'left': 'O', 'it': 'O', 'nothing': 'O', 'but': 'O', 'ruins': 'O', '.': 'O'}",
         "sentence": "The city centre of Kaliningrad was completely rebuilt, as British bombs in 1944 and the Soviet siege in 1945 had left it in nothing but ruins.",
+        "stems": [
+            "citi",
+            "centr",
+            "kaliningrad",
+            "complet",
+            "rebuilt",
+            "british",
+            "bomb",
+            "1944",
+            "soviet",
+            "sieg",
+            "1945",
+            "left",
+            "noth",
+            "ruin"
+        ],
         "synonyms": [
             "city",
             "Centre",
@@ -54951,7 +57082,7 @@
             "nothing",
             "ruin"
         ],
-        "tagged": [
+        "tags": [
             [
                 "city",
                 "NN"
@@ -55636,6 +57767,34 @@
         ],
         "ner_tag": "{'Since': 'O', '1875': 'DATE', ',': 'O', 'with': 'O', 'the': 'O', 'strengthening': 'O', 'of': 'O', 'self': 'O', '-': 'O', 'rule': 'O', 'urban': 'O', 'and': 'O', 'rural': 'O', 'districts': 'O', '(': 'O', 'Kreise': 'LOCATION', ')': 'O', 'within': 'O', 'each': 'O', 'province': 'O', 'sometimes': 'O', 'governorate': 'O', 'formed': 'O', 'a': 'O', 'corporation': 'O', 'common': 'O', 'tasks': 'O', 'assets': 'O', 'schools': 'O', 'traffic': 'O', 'installations': 'O', 'hospitals': 'O', 'cultural': 'O', 'institutions': 'O', 'jails': 'O', 'etc': 'O', '.': 'O'}",
         "sentence": "Since 1875, with the strengthening of self-rule, the urban and rural districts (Kreise) within each province (sometimes within each governorate) formed a corporation with common tasks and assets (schools, traffic installations, hospitals, cultural institutions, jails etc.)",
+        "stems": [
+            "sinc",
+            "1875",
+            "strengthen",
+            "self-rul",
+            "urban",
+            "rural",
+            "district",
+            "kreis",
+            "within",
+            "provinc",
+            "sometim",
+            "within",
+            "governor",
+            "form",
+            "corpor",
+            "common",
+            "task",
+            "asset",
+            "school",
+            "traffic",
+            "instal",
+            "hospit",
+            "cultur",
+            "institut",
+            "jail",
+            "etc"
+        ],
         "synonyms": [
             "since",
             "1875",
@@ -55664,7 +57823,7 @@
             "jail",
             "etc"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -55902,13 +58061,19 @@
         "meronyms": [],
         "ner_tag": "{'called': 'O', 'the': 'O', 'Provinzialverband': 'O', '(': 'O', 'provincial': 'O', 'association': 'O', ')': 'O', '.': 'O'}",
         "sentence": "called the Provinzialverband (provincial association).",
+        "stems": [
+            "call",
+            "provinzialverband",
+            "provinci",
+            "associ"
+        ],
         "synonyms": [
             "visit",
             "provinzialverband",
             "provincial",
             "association"
         ],
-        "tagged": [
+        "tags": [
             [
                 "called",
                 "VBN"
@@ -56238,6 +58403,21 @@
         "meronyms": [],
         "ner_tag": "{'Initially': 'O', 'the': 'O', 'assemblies': 'O', 'of': 'O', 'urban': 'O', 'and': 'O', 'rural': 'O', 'districts': 'O', 'elected': 'O', 'representatives': 'O', 'for': 'O', 'provincial': 'O', 'diets': 'O', '(': 'O', 'Provinziallandtage': 'O', ')': 'O', ',': 'O', 'which': 'O', 'were': 'O', 'thus': 'O', 'indirectly': 'O', '.': 'O'}",
         "sentence": "Initially the assemblies of the urban and rural districts elected representatives for the provincial diets (Provinziallandtage), which were thus indirectly elected.",
+        "stems": [
+            "initi",
+            "assembl",
+            "urban",
+            "rural",
+            "district",
+            "elect",
+            "repres",
+            "provinci",
+            "diet",
+            "provinziallandtag",
+            "thu",
+            "indirectli",
+            "elect"
+        ],
         "synonyms": [
             "initially",
             "forum",
@@ -56253,7 +58433,7 @@
             "indirectly",
             "elect"
         ],
-        "tagged": [
+        "tags": [
             [
                 "initially",
                 "RB"
@@ -56736,6 +58916,21 @@
         "meronyms": [],
         "ner_tag": "{'As': 'O', 'of': 'O', '1919': 'DATE', 'the': 'O', 'provincial': 'O', 'diets': 'O', '(': 'O', 'or': 'O', 'as': 'O', 'to': 'O', 'governorate': 'O', ',': 'O', 'so': 'O', '-': 'O', 'called': 'O', 'Kommunallandtage': 'O', ')': 'O', 'were': 'O', 'directly': 'O', 'elected': 'O', 'by': 'O', 'citizens': 'O', 'provinces': 'O', 'governorates': 'O', 'respectively': 'O', '.': 'O'}",
         "sentence": "As of 1919 the provincial diets (or as to governorate diets, the so-called Kommunallandtage) were directly elected by the citizens of the provinces (or governorates, respectively).",
+        "stems": [
+            "1919",
+            "provinci",
+            "diet",
+            "governor",
+            "diet",
+            "so-cal",
+            "kommunallandtag",
+            "directli",
+            "elect",
+            "citizen",
+            "provinc",
+            "governor",
+            "respect"
+        ],
         "synonyms": [
             "1919",
             "provincial",
@@ -56751,7 +58946,7 @@
             "governorates",
             "respectively"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1919",
                 "CD"
@@ -56976,6 +59171,15 @@
         "meronyms": [],
         "ner_tag": "{'These': 'O', 'parliaments': 'O', 'legislated': 'O', 'within': 'O', 'the': 'O', 'competences': 'O', 'transferred': 'O', 'to': 'O', 'provincial': 'O', 'associations': 'O', '.': 'O'}",
         "sentence": "These parliaments legislated within the competences transferred to the provincial associations.",
+        "stems": [
+            "parliament",
+            "legisl",
+            "within",
+            "compet",
+            "transfer",
+            "provinci",
+            "associ"
+        ],
         "synonyms": [
             "parliament",
             "legislate",
@@ -56985,7 +59189,7 @@
             "provincial",
             "association"
         ],
-        "tagged": [
+        "tags": [
             [
                 "parliaments",
                 "NNS"
@@ -57596,6 +59800,33 @@
         ],
         "ner_tag": "{'The': 'O', 'provincial': 'O', 'diet': 'O', 'of': 'O', 'East': 'LOCATION', 'Prussia': 'LOCATION', 'elected': 'O', 'a': 'O', 'executive': 'TITLE', 'body': 'O', '(': 'O', 'government': 'O', ')': 'O', ',': 'O', 'the': 'DATE', 'committee': 'O', 'Provinzialausschuss': 'O', 'and': 'O', 'head': 'O', 'province': 'O', 'Landeshauptmann': 'O', '``': 'O', 'Land': 'O', 'Captain': 'TITLE', \"''\": 'O', ';': 'O', 'till': 'O', '1880s': 'DATE', 'titled': 'O', 'Landdirektor': 'O', 'land': 'O', 'director': 'TITLE', '.': 'O'}",
         "sentence": "The provincial diet of East Prussia elected a provincial executive body (government), the provincial committee (Provinzialausschuss), and a head of province, the Landeshauptmann (\"Land Captain\"; till the 1880s titled Landdirektor, land director).",
+        "stems": [
+            "provinci",
+            "diet",
+            "east",
+            "prussia",
+            "elect",
+            "provinci",
+            "execut",
+            "bodi",
+            "govern",
+            "provinci",
+            "committe",
+            "provinzialausschuss",
+            "head",
+            "provinc",
+            "landeshauptmann",
+            "``",
+            "land",
+            "captain",
+            "''",
+            "till",
+            "1880",
+            "titl",
+            "landdirektor",
+            "land",
+            "director"
+        ],
         "synonyms": [
             "provincial",
             "diet",
@@ -57623,7 +59854,7 @@
             "state",
             "film_director"
         ],
-        "tagged": [
+        "tags": [
             [
                 "provincial",
                 "JJ"

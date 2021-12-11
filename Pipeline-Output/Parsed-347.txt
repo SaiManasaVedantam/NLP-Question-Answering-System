@@ -278,6 +278,20 @@
         ],
         "ner_tag": "{'Diarrhea': 'MISC', ',': 'O', 'also': 'O', 'spelled': 'O', 'diarrhoea': 'CAUSE_OF_DEATH', 'is': 'O', 'the': 'O', 'condition': 'O', 'of': 'O', 'having': 'O', 'at': 'O', 'least': 'O', 'three': 'NUMBER', 'loose': 'O', 'or': 'O', 'liquid': 'O', 'bowel': 'O', 'movements': 'O', 'each': 'SET', 'day': 'SET', '.': 'O'}",
         "sentence": "Diarrhea, also spelled diarrhoea, is the condition of having at least three loose or liquid bowel movements each day.",
+        "stems": [
+            "diarrhea",
+            "also",
+            "spell",
+            "diarrhoea",
+            "condit",
+            "least",
+            "three",
+            "loos",
+            "liquid",
+            "bowel",
+            "movement",
+            "day"
+        ],
         "synonyms": [
             "diarrhea",
             "besides",
@@ -292,7 +306,7 @@
             "movement",
             "sidereal_day"
         ],
-        "tagged": [
+        "tags": [
             [
                 "diarrhea",
                 "NN"
@@ -570,6 +584,16 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'often': 'O', 'lasts': 'O', 'for': 'O', 'a': 'DURATION', 'few': 'DURATION', 'days': 'DURATION', 'and': 'O', 'can': 'O', 'result': 'O', 'in': 'O', 'dehydration': 'O', 'due': 'O', 'to': 'O', 'fluid': 'O', 'loss': 'O', '.': 'O'}",
         "sentence": "It often lasts for a few days and can result in dehydration due to fluid loss.",
+        "stems": [
+            "often",
+            "last",
+            "day",
+            "result",
+            "dehydr",
+            "due",
+            "fluid",
+            "loss"
+        ],
         "synonyms": [
             "often",
             "last",
@@ -580,7 +604,7 @@
             "fluid",
             "loss"
         ],
-        "tagged": [
+        "tags": [
             [
                 "often",
                 "RB"
@@ -852,6 +876,18 @@
         "meronyms": [],
         "ner_tag": "{'Signs': 'O', 'of': 'O', 'dehydration': 'O', 'often': 'O', 'begin': 'O', 'with': 'O', 'loss': 'O', 'the': 'O', 'normal': 'O', 'stretchiness': 'O', 'skin': 'O', 'and': 'O', 'irritable': 'O', 'behaviour': 'O', '.': 'O'}",
         "sentence": "Signs of dehydration often begin with loss of the normal stretchiness of the skin and irritable behaviour.",
+        "stems": [
+            "sign",
+            "dehydr",
+            "often",
+            "begin",
+            "loss",
+            "normal",
+            "stretchi",
+            "skin",
+            "irrit",
+            "behaviour"
+        ],
         "synonyms": [
             "signboard",
             "dehydration",
@@ -864,7 +900,7 @@
             "irritable",
             "demeanor"
         ],
-        "tagged": [
+        "tags": [
             [
                 "signs",
                 "NNS"
@@ -1262,6 +1298,21 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'can': 'O', 'progress': 'O', 'to': 'O', 'decreased': 'O', 'urination': 'O', ',': 'O', 'loss': 'O', 'of': 'O', 'skin': 'O', 'color': 'O', 'a': 'O', 'fast': 'O', 'heart': 'O', 'rate': 'O', 'and': 'O', 'decrease': 'O', 'in': 'O', 'responsiveness': 'O', 'as': 'O', 'it': 'O', 'becomes': 'O', 'more': 'O', 'severe': 'O', '.': 'O'}",
         "sentence": "This can progress to decreased urination, loss of skin color, a fast heart rate, and a decrease in responsiveness as it becomes more severe.",
+        "stems": [
+            "progress",
+            "decreas",
+            "urin",
+            "loss",
+            "skin",
+            "color",
+            "fast",
+            "heart",
+            "rate",
+            "decreas",
+            "respons",
+            "becom",
+            "sever"
+        ],
         "synonyms": [
             "progress",
             "decreased",
@@ -1277,7 +1328,7 @@
             "become",
             "severe"
         ],
-        "tagged": [
+        "tags": [
             [
                 "progress",
                 "NN"
@@ -1545,6 +1596,16 @@
         ],
         "ner_tag": "{'Loose': 'O', 'but': 'O', 'non-watery': 'O', 'stools': 'O', 'in': 'O', 'babies': 'O', 'who': 'O', 'are': 'O', 'breastfed': 'O', ',': 'O', 'however': 'O', 'may': 'O', 'be': 'O', 'normal': 'O', '.': 'O'}",
         "sentence": "Loose but non-watery stools in babies who are breastfed, however, may be normal.",
+        "stems": [
+            "loos",
+            "non-wateri",
+            "stool",
+            "babi",
+            "breastf",
+            "howev",
+            "may",
+            "normal"
+        ],
         "synonyms": [
             "loose",
             "non-watery",
@@ -1555,7 +1616,7 @@
             "whitethorn",
             "normal"
         ],
-        "tagged": [
+        "tags": [
             [
                 "loose",
                 "JJ"
@@ -1937,6 +1998,20 @@
         ],
         "ner_tag": "{'The': 'O', 'most': 'O', 'common': 'O', 'cause': 'O', 'is': 'O', 'an': 'O', 'infection': 'CAUSE_OF_DEATH', 'of': 'O', 'the': 'O', 'intestines': 'O', 'due': 'O', 'to': 'O', 'either': 'O', 'a': 'O', 'virus': 'O', ',': 'O', 'bacteria': 'O', 'or': 'O', 'parasite': 'O', ';': 'O', 'condition': 'O', 'known': 'O', 'as': 'O', 'gastroenteritis': 'O', '.': 'O'}",
         "sentence": "The most common cause is an infection of the intestines due to either a virus, bacteria, or parasite; a condition known as gastroenteritis.",
+        "stems": [
+            "common",
+            "caus",
+            "infect",
+            "intestin",
+            "due",
+            "either",
+            "viru",
+            "bacteria",
+            "parasit",
+            "condit",
+            "known",
+            "gastroenter"
+        ],
         "synonyms": [
             "park",
             "lawsuit",
@@ -1951,7 +2026,7 @@
             "know",
             "gastroenteritis"
         ],
-        "tagged": [
+        "tags": [
             [
                 "common",
                 "JJ"
@@ -2328,6 +2403,19 @@
         ],
         "ner_tag": "{'These': 'O', 'infections': 'CAUSE_OF_DEATH', 'are': 'O', 'often': 'O', 'acquired': 'O', 'from': 'O', 'food': 'O', 'or': 'O', 'water': 'O', 'that': 'O', 'has': 'O', 'been': 'O', 'contaminated': 'O', 'by': 'O', 'stool': 'O', ',': 'O', 'directly': 'O', 'another': 'O', 'person': 'O', 'who': 'O', 'is': 'O', 'infected': 'O', '.': 'O'}",
         "sentence": "These infections are often acquired from food or water that has been contaminated by stool, or directly from another person who is infected.",
+        "stems": [
+            "infect",
+            "often",
+            "acquir",
+            "food",
+            "water",
+            "contamin",
+            "stool",
+            "directli",
+            "anoth",
+            "person",
+            "infect"
+        ],
         "synonyms": [
             "infection",
             "often",
@@ -2341,7 +2429,7 @@
             "person",
             "infect"
         ],
-        "tagged": [
+        "tags": [
             [
                 "infections",
                 "NNS"
@@ -2792,6 +2880,25 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'may': 'O', 'be': 'O', 'divided': 'O', 'into': 'O', 'three': 'NUMBER', 'types': 'O', ':': 'O', 'short': 'O', 'duration': 'O', 'watery': 'O', 'diarrhea': 'O', ',': 'O', 'bloody': 'O', 'and': 'O', 'if': 'O', 'it': 'O', 'lasts': 'O', 'for': 'O', 'more': 'DURATION', 'than': 'DURATION', 'two': 'DURATION', 'weeks': 'DURATION', 'persistent': 'O', '.': 'O'}",
         "sentence": "It may be divided into three types: short duration watery diarrhea, short duration bloody diarrhea, and if it lasts for more than two weeks, persistent diarrhea.",
+        "stems": [
+            "may",
+            "divid",
+            "three",
+            "type",
+            "short",
+            "durat",
+            "wateri",
+            "diarrhea",
+            "short",
+            "durat",
+            "bloodi",
+            "diarrhea",
+            "last",
+            "two",
+            "week",
+            "persist",
+            "diarrhea"
+        ],
         "synonyms": [
             "whitethorn",
             "separate",
@@ -2811,7 +2918,7 @@
             "persistent",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "may",
                 "MD"
@@ -3186,6 +3293,20 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'short': 'O', 'duration': 'O', 'watery': 'O', 'diarrhea': 'O', 'may': 'O', 'be': 'O', 'due': 'O', 'to': 'O', 'an': 'O', 'infection': 'CAUSE_OF_DEATH', 'by': 'O', 'cholera': 'CAUSE_OF_DEATH', ',': 'O', 'although': 'O', 'this': 'O', 'is': 'O', 'rare': 'O', 'in': 'O', 'the': 'O', 'developed': 'O', 'world': 'O', '.': 'O'}",
         "sentence": "The short duration watery diarrhea may be due to an infection by cholera, although this is rare in the developed world.",
+        "stems": [
+            "short",
+            "durat",
+            "wateri",
+            "diarrhea",
+            "may",
+            "due",
+            "infect",
+            "cholera",
+            "although",
+            "rare",
+            "develop",
+            "world"
+        ],
         "synonyms": [
             "shortstop",
             "duration",
@@ -3200,7 +3321,7 @@
             "grow",
             "world"
         ],
-        "tagged": [
+        "tags": [
             [
                 "short",
                 "JJ"
@@ -3404,6 +3525,13 @@
         ],
         "ner_tag": "{'If': 'O', 'blood': 'O', 'is': 'O', 'present': 'DATE', 'it': 'O', 'also': 'O', 'known': 'O', 'as': 'O', 'dysentery': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "If blood is present it is also known as dysentery.",
+        "stems": [
+            "blood",
+            "present",
+            "also",
+            "known",
+            "dysenteri"
+        ],
         "synonyms": [
             "rake",
             "stage",
@@ -3411,7 +3539,7 @@
             "know",
             "dysentery"
         ],
-        "tagged": [
+        "tags": [
             [
                 "blood",
                 "NN"
@@ -3842,6 +3970,27 @@
         ],
         "ner_tag": "{'A': 'O', 'number': 'O', 'of': 'O', 'non-infectious': 'O', 'causes': 'O', 'may': 'O', 'also': 'O', 'result': 'O', 'in': 'O', 'diarrhea': 'O', ',': 'O', 'including': 'O', 'hyperthyroidism': 'O', 'lactose': 'O', 'intolerance': 'O', 'inflammatory': 'O', 'bowel': 'O', 'disease': 'CAUSE_OF_DEATH', 'a': 'O', 'medications': 'O', 'and': 'O', 'irritable': 'O', 'syndrome': 'O', '.': 'O'}",
         "sentence": "A number of non-infectious causes may also result in diarrhea, including hyperthyroidism, lactose intolerance, inflammatory bowel disease, a number of medications, and irritable bowel syndrome.",
+        "stems": [
+            "number",
+            "non-infecti",
+            "caus",
+            "may",
+            "also",
+            "result",
+            "diarrhea",
+            "includ",
+            "hyperthyroid",
+            "lactos",
+            "intoler",
+            "inflammatori",
+            "bowel",
+            "diseas",
+            "number",
+            "medic",
+            "irrit",
+            "bowel",
+            "syndrom"
+        ],
         "synonyms": [
             "phone_number",
             "non-infectious",
@@ -3863,7 +4012,7 @@
             "intestine",
             "syndrome"
         ],
-        "tagged": [
+        "tags": [
             [
                 "number",
                 "NN"
@@ -4154,6 +4303,15 @@
         ],
         "ner_tag": "{'In': 'O', 'most': 'O', 'cases': 'O', ',': 'O', 'stool': 'O', 'cultures': 'O', 'are': 'O', 'not': 'O', 'required': 'O', 'to': 'O', 'confirm': 'O', 'the': 'O', 'exact': 'O', 'cause': 'O', '.': 'O'}",
         "sentence": "In most cases, stool cultures are not required to confirm the exact cause.",
+        "stems": [
+            "case",
+            "stool",
+            "cultur",
+            "requir",
+            "confirm",
+            "exact",
+            "caus"
+        ],
         "synonyms": [
             "subject",
             "toilet",
@@ -4163,7 +4321,7 @@
             "exact",
             "lawsuit"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cases",
                 "NNS"
@@ -4449,6 +4607,19 @@
         ],
         "ner_tag": "{'Prevention': 'O', 'of': 'O', 'infectious': 'O', 'diarrhea': 'O', 'is': 'O', 'by': 'O', 'improved': 'O', 'sanitation': 'O', ',': 'O', 'clean': 'O', 'drinking': 'O', 'water': 'O', 'and': 'O', 'hand': 'O', 'washing': 'O', 'with': 'O', 'soap': 'O', '.': 'O'}",
         "sentence": "Prevention of infectious diarrhea is by improved sanitation, clean drinking water, and hand washing with soap.",
+        "stems": [
+            "prevent",
+            "infecti",
+            "diarrhea",
+            "improv",
+            "sanit",
+            "clean",
+            "drink",
+            "water",
+            "hand",
+            "wash",
+            "soap"
+        ],
         "synonyms": [
             "prevention",
             "infectious",
@@ -4462,7 +4633,7 @@
             "wash",
             "soap"
         ],
-        "tagged": [
+        "tags": [
             [
                 "prevention",
                 "NN"
@@ -4711,6 +4882,16 @@
         ],
         "ner_tag": "{'Breastfeeding': 'O', 'for': 'O', 'at': 'DURATION', 'least': 'DURATION', 'six': 'DURATION', 'months': 'DURATION', 'is': 'O', 'also': 'O', 'recommended': 'O', 'as': 'O', 'vaccination': 'O', 'against': 'O', 'rotavirus': 'O', '.': 'O'}",
         "sentence": "Breastfeeding for at least six months is also recommended as is vaccination against rotavirus.",
+        "stems": [
+            "breastfeed",
+            "least",
+            "six",
+            "month",
+            "also",
+            "recommend",
+            "vaccin",
+            "rotaviru"
+        ],
         "synonyms": [
             "breastfeed",
             "least",
@@ -4721,7 +4902,7 @@
             "vaccination",
             "rotavirus"
         ],
-        "tagged": [
+        "tags": [
             [
                 "breastfeeding",
                 "VBG"
@@ -5078,6 +5259,20 @@
         ],
         "ner_tag": "{'Oral': 'O', 'rehydration': 'O', 'solution': 'O', '(': 'O', 'ORS': 'O', ')': 'O', ',': 'O', 'which': 'O', 'is': 'O', 'clean': 'O', 'water': 'O', 'with': 'O', 'modest': 'O', 'amounts': 'O', 'of': 'O', 'salts': 'O', 'and': 'O', 'sugar': 'O', 'the': 'O', 'treatment': 'O', 'choice': 'O', '.': 'O'}",
         "sentence": "Oral rehydration solution (ORS), which is clean water with modest amounts of salts and sugar, is the treatment of choice.",
+        "stems": [
+            "oral",
+            "rehydr",
+            "solut",
+            "or",
+            "clean",
+            "water",
+            "modest",
+            "amount",
+            "salt",
+            "sugar",
+            "treatment",
+            "choic"
+        ],
         "synonyms": [
             "oral",
             "rehydration",
@@ -5092,7 +5287,7 @@
             "treatment",
             "option"
         ],
-        "tagged": [
+        "tags": [
             [
                 "oral",
                 "JJ"
@@ -5237,13 +5432,19 @@
         "meronyms": [],
         "ner_tag": "{'Zinc': 'O', 'tablets': 'O', 'are': 'O', 'also': 'O', 'recommended': 'O', '.': 'O'}",
         "sentence": "Zinc tablets are also recommended.",
+        "stems": [
+            "zinc",
+            "tablet",
+            "also",
+            "recommend"
+        ],
         "synonyms": [
             "zinc",
             "tablet",
             "besides",
             "commend"
         ],
-        "tagged": [
+        "tags": [
             [
                 "zinc",
                 "NN"
@@ -5480,6 +5681,17 @@
         ],
         "ner_tag": "{'These': 'O', 'treatments': 'O', 'have': 'O', 'been': 'O', 'estimated': 'O', 'to': 'O', 'saved': 'O', '50': 'NUMBER', 'million': 'NUMBER', 'children': 'O', 'in': 'O', 'the': 'DURATION', 'past': 'DURATION', '25': 'DURATION', 'years': 'DURATION', '.': 'O'}",
         "sentence": "These treatments have been estimated to have saved 50 million children in the past 25 years.",
+        "stems": [
+            "treatment",
+            "estim",
+            "save",
+            "50",
+            "million",
+            "children",
+            "past",
+            "25",
+            "year"
+        ],
         "synonyms": [
             "treatment",
             "estimate",
@@ -5491,7 +5703,7 @@
             "twenty-five",
             "year"
         ],
-        "tagged": [
+        "tags": [
             [
                 "treatments",
                 "NNS"
@@ -5803,6 +6015,18 @@
         "meronyms": [],
         "ner_tag": "{'When': 'O', 'people': 'O', 'have': 'O', 'diarrhea': 'O', 'it': 'O', 'is': 'O', 'recommended': 'O', 'that': 'O', 'they': 'O', 'continue': 'O', 'to': 'O', 'eat': 'O', 'healthy': 'O', 'food': 'O', 'and': 'O', 'babies': 'O', 'be': 'O', 'breastfed': 'O', '.': 'O'}",
         "sentence": "When people have diarrhea it is recommended that they continue to eat healthy food and babies continue to be breastfed.",
+        "stems": [
+            "peopl",
+            "diarrhea",
+            "recommend",
+            "continu",
+            "eat",
+            "healthi",
+            "food",
+            "babi",
+            "continu",
+            "breastf"
+        ],
         "synonyms": [
             "people",
             "diarrhea",
@@ -5815,7 +6039,7 @@
             "stay",
             "breastfed"
         ],
-        "tagged": [
+        "tags": [
             [
                 "people",
                 "NNS"
@@ -6035,6 +6259,15 @@
         ],
         "ner_tag": "{'If': 'O', 'commercial': 'O', 'ORS': 'O', 'are': 'O', 'not': 'O', 'available': 'O', ',': 'O', 'homemade': 'O', 'solutions': 'O', 'may': 'O', 'be': 'O', 'used': 'O', '.': 'O'}",
         "sentence": "If commercial ORS are not available, homemade solutions may be used.",
+        "stems": [
+            "commerci",
+            "or",
+            "avail",
+            "homemad",
+            "solut",
+            "may",
+            "use"
+        ],
         "synonyms": [
             "commercial",
             "Oregon",
@@ -6044,7 +6277,7 @@
             "whitethorn",
             "use"
         ],
-        "tagged": [
+        "tags": [
             [
                 "commercial",
                 "JJ"
@@ -6237,6 +6470,14 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'those': 'O', 'with': 'O', 'severe': 'O', 'dehydration': 'O', ',': 'O', 'intravenous': 'O', 'fluids': 'O', 'may': 'O', 'be': 'O', 'required': 'O', '.': 'O'}",
         "sentence": "In those with severe dehydration, intravenous fluids may be required.",
+        "stems": [
+            "sever",
+            "dehydr",
+            "intraven",
+            "fluid",
+            "may",
+            "requir"
+        ],
         "synonyms": [
             "severe",
             "dehydration",
@@ -6245,7 +6486,7 @@
             "whitethorn",
             "want"
         ],
-        "tagged": [
+        "tags": [
             [
                 "severe",
                 "JJ"
@@ -6451,6 +6692,14 @@
         "meronyms": [],
         "ner_tag": "{'Most': 'O', 'cases': 'O', ';': 'O', 'however': 'O', ',': 'O', 'can': 'O', 'be': 'O', 'managed': 'O', 'well': 'O', 'with': 'O', 'fluids': 'O', 'by': 'O', 'mouth': 'O', '.': 'O'}",
         "sentence": "Most cases; however, can be managed well with fluids by mouth.",
+        "stems": [
+            "case",
+            "howev",
+            "manag",
+            "well",
+            "fluid",
+            "mouth"
+        ],
         "synonyms": [
             "subject",
             "however",
@@ -6459,7 +6708,7 @@
             "fluid",
             "mouthpiece"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cases",
                 "NNS"
@@ -7035,6 +7284,27 @@
         ],
         "ner_tag": "{'Antibiotics': 'MISC', ',': 'O', 'while': 'O', 'rarely': 'O', 'used': 'O', 'may': 'O', 'be': 'O', 'recommended': 'O', 'in': 'O', 'a': 'O', 'few': 'O', 'cases': 'O', 'such': 'O', 'as': 'O', 'those': 'O', 'who': 'O', 'have': 'O', 'bloody': 'O', 'diarrhea': 'O', 'and': 'O', 'high': 'O', 'fever': 'CAUSE_OF_DEATH', 'with': 'O', 'severe': 'O', 'following': 'O', 'travelling': 'O', 'grow': 'O', 'specific': 'O', 'bacteria': 'O', 'or': 'O', 'parasites': 'O', 'their': 'O', 'stool': 'O', '.': 'O'}",
         "sentence": "Antibiotics, while rarely used, may be recommended in a few cases such as those who have bloody diarrhea and a high fever, those with severe diarrhea following travelling, and those who grow specific bacteria or parasites in their stool.",
+        "stems": [
+            "antibiot",
+            "rare",
+            "use",
+            "may",
+            "recommend",
+            "case",
+            "bloodi",
+            "diarrhea",
+            "high",
+            "fever",
+            "sever",
+            "diarrhea",
+            "follow",
+            "travel",
+            "grow",
+            "specif",
+            "bacteria",
+            "parasit",
+            "stool"
+        ],
         "synonyms": [
             "antibiotic",
             "rarely",
@@ -7056,7 +7326,7 @@
             "parasite",
             "toilet"
         ],
-        "tagged": [
+        "tags": [
             [
                 "antibiotics",
                 "NNS"
@@ -7398,6 +7668,18 @@
         ],
         "ner_tag": "{'Loperamide': 'O', 'may': 'O', 'help': 'O', 'decrease': 'O', 'the': 'O', 'number': 'O', 'of': 'O', 'bowel': 'O', 'movement': 'O', 'but': 'O', 'is': 'O', 'not': 'O', 'recommended': 'O', 'in': 'O', 'those': 'O', 'with': 'O', 'severe': 'O', 'disease': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "Loperamide may help decrease the number of bowel movement but is not recommended in those with severe disease.",
+        "stems": [
+            "loperamid",
+            "may",
+            "help",
+            "decreas",
+            "number",
+            "bowel",
+            "movement",
+            "recommend",
+            "sever",
+            "diseas"
+        ],
         "synonyms": [
             "loperamide",
             "whitethorn",
@@ -7410,7 +7692,7 @@
             "severe",
             "disease"
         ],
-        "tagged": [
+        "tags": [
             [
                 "loperamide",
                 "NN"
@@ -7623,6 +7905,16 @@
         ],
         "ner_tag": "{'About': 'O', '1.7': 'NUMBER', 'to': 'O', '5': 'MONEY', 'billion': 'MONEY', 'cases': 'O', 'of': 'O', 'diarrhea': 'O', 'occur': 'O', 'per': 'O', 'year': 'DURATION', '.': 'O'}",
         "sentence": "About 1.7 to 5 billion cases of diarrhea occur per year.",
+        "stems": [
+            "1.7",
+            "5",
+            "billion",
+            "case",
+            "diarrhea",
+            "occur",
+            "per",
+            "year"
+        ],
         "synonyms": [
             "1.7",
             "five",
@@ -7633,7 +7925,7 @@
             "per",
             "year"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1.7",
                 "CD"
@@ -7937,6 +8229,19 @@
         ],
         "ner_tag": "{'It': 'O', 'is': 'O', 'most': 'O', 'common': 'O', 'in': 'O', 'developing': 'O', 'countries': 'O', ',': 'O', 'where': 'O', 'young': 'O', 'children': 'O', 'get': 'O', 'diarrhea': 'O', 'on': 'O', 'average': 'O', 'three': 'NUMBER', 'times': 'O', 'a': 'DURATION', 'year': 'DURATION', '.': 'O'}",
         "sentence": "It is most common in developing countries, where young children get diarrhea on average three times a year.",
+        "stems": [
+            "common",
+            "develop",
+            "countri",
+            "young",
+            "children",
+            "get",
+            "diarrhea",
+            "averag",
+            "three",
+            "time",
+            "year"
+        ],
         "synonyms": [
             "park",
             "grow",
@@ -7950,7 +8255,7 @@
             "times",
             "year"
         ],
-        "tagged": [
+        "tags": [
             [
                 "common",
                 "JJ"
@@ -8247,6 +8552,19 @@
         "meronyms": [],
         "ner_tag": "{'Total': 'O', 'deaths': 'O', 'from': 'O', 'diarrhea': 'O', 'are': 'O', 'estimated': 'O', 'at': 'O', '1.26': 'MONEY', 'million': 'NUMBER', 'in': 'O', '2013': 'DATE', '–': 'O', 'down': 'O', '2.58': 'NUMBER', '1990': 'DATE', '.': 'O'}",
         "sentence": "Total deaths from diarrhea are estimated at 1.26 million in 2013 – down from 2.58 million in 1990.",
+        "stems": [
+            "total",
+            "death",
+            "diarrhea",
+            "estim",
+            "1.26",
+            "million",
+            "2013",
+            "–",
+            "2.58",
+            "million",
+            "1990"
+        ],
         "synonyms": [
             "sum",
             "end",
@@ -8260,7 +8578,7 @@
             "million",
             "1990"
         ],
-        "tagged": [
+        "tags": [
             [
                 "total",
                 "JJ"
@@ -8624,6 +8942,19 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '2012': 'DATE', ',': 'O', 'it': 'O', 'is': 'O', 'the': 'O', 'second': 'ORDINAL', 'most': 'O', 'common': 'O', 'cause': 'O', 'of': 'O', 'deaths': 'O', 'in': 'O', 'children': 'O', 'younger': 'O', 'than': 'O', 'five': 'NUMBER', '(': 'O', '0.76': 'NUMBER', 'million': 'NUMBER', 'or': 'O', '11': 'PERCENT', '%': 'PERCENT', ')': 'O', '.': 'O'}",
         "sentence": "In 2012, it is the second most common cause of deaths in children younger than five (0.76 million or 11%).",
+        "stems": [
+            "2012",
+            "second",
+            "common",
+            "caus",
+            "death",
+            "children",
+            "younger",
+            "five",
+            "0.76",
+            "million",
+            "11"
+        ],
         "synonyms": [
             "2012",
             "second_gear",
@@ -8637,7 +8968,7 @@
             "million",
             "eleven"
         ],
-        "tagged": [
+        "tags": [
             [
                 "2012",
                 "CD"
@@ -9018,6 +9349,21 @@
         ],
         "ner_tag": "{'Frequent': 'O', 'episodes': 'O', 'of': 'O', 'diarrhea': 'O', 'are': 'O', 'also': 'O', 'a': 'O', 'common': 'O', 'cause': 'O', 'malnutrition': 'CAUSE_OF_DEATH', 'and': 'O', 'the': 'O', 'most': 'O', 'in': 'O', 'those': 'O', 'younger': 'O', 'than': 'O', 'five': 'DURATION', 'years': 'DURATION', 'age': 'O', '.': 'O'}",
         "sentence": "Frequent episodes of diarrhea are also a common cause of malnutrition and the most common cause in those younger than five years of age.",
+        "stems": [
+            "frequent",
+            "episod",
+            "diarrhea",
+            "also",
+            "common",
+            "caus",
+            "malnutrit",
+            "common",
+            "caus",
+            "younger",
+            "five",
+            "year",
+            "age"
+        ],
         "synonyms": [
             "patronize",
             "sequence",
@@ -9033,7 +9379,7 @@
             "year",
             "old_age"
         ],
-        "tagged": [
+        "tags": [
             [
                 "frequent",
                 "JJ"
@@ -9301,6 +9647,18 @@
         ],
         "ner_tag": "{'Other': 'O', 'long': 'O', 'term': 'O', 'problems': 'O', 'that': 'O', 'can': 'O', 'result': 'O', 'include': 'O', 'stunted': 'O', 'growth': 'O', 'and': 'O', 'poor': 'O', 'intellectual': 'O', 'development': 'O', '.': 'O'}",
         "sentence": "Other long term problems that can result include stunted growth and poor intellectual development.",
+        "stems": [
+            "long",
+            "term",
+            "problem",
+            "result",
+            "includ",
+            "stunt",
+            "growth",
+            "poor",
+            "intellectu",
+            "develop"
+        ],
         "synonyms": [
             "long",
             "terminus",
@@ -9313,7 +9671,7 @@
             "intellectual",
             "growth"
         ],
-        "tagged": [
+        "tags": [
             [
                 "long",
                 "JJ"
@@ -9627,6 +9985,16 @@
         "meronyms": [],
         "ner_tag": "{'Secretory': 'O', 'diarrhea': 'O', 'means': 'O', 'that': 'O', 'there': 'O', 'is': 'O', 'an': 'O', 'increase': 'O', 'in': 'O', 'the': 'O', 'active': 'O', 'secretion': 'O', ',': 'O', 'or': 'O', 'inhibition': 'O', 'of': 'O', 'absorption': 'O', '.': 'O'}",
         "sentence": "Secretory diarrhea means that there is an increase in the active secretion, or there is an inhibition of absorption.",
+        "stems": [
+            "secretori",
+            "diarrhea",
+            "mean",
+            "increas",
+            "activ",
+            "secret",
+            "inhibit",
+            "absorpt"
+        ],
         "synonyms": [
             "secretory",
             "diarrhea",
@@ -9637,7 +10005,7 @@
             "prohibition",
             "absorption"
         ],
-        "tagged": [
+        "tags": [
             [
                 "secretory",
                 "NN"
@@ -9779,12 +10147,17 @@
         "meronyms": [],
         "ner_tag": "{'There': 'O', 'is': 'O', 'little': 'O', 'to': 'O', 'no': 'O', 'structural': 'O', 'damage': 'O', '.': 'O'}",
         "sentence": "There is little to no structural damage.",
+        "stems": [
+            "littl",
+            "structur",
+            "damag"
+        ],
         "synonyms": [
             "little",
             "structural",
             "wrong"
         ],
-        "tagged": [
+        "tags": [
             [
                 "little",
                 "JJ"
@@ -10109,6 +10482,20 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'most': 'O', 'common': 'O', 'cause': 'O', 'of': 'O', 'this': 'O', 'type': 'O', 'diarrhea': 'O', 'is': 'O', 'a': 'O', 'cholera': 'CAUSE_OF_DEATH', 'toxin': 'O', 'that': 'O', 'stimulates': 'O', 'the': 'O', 'secretion': 'O', 'anions': 'O', ',': 'O', 'especially': 'O', 'chloride': 'O', 'ions': 'O', '.': 'O'}",
         "sentence": "The most common cause of this type of diarrhea is a cholera toxin that stimulates the secretion of anions, especially chloride ions.",
+        "stems": [
+            "common",
+            "caus",
+            "type",
+            "diarrhea",
+            "cholera",
+            "toxin",
+            "stimul",
+            "secret",
+            "anion",
+            "especi",
+            "chlorid",
+            "ion"
+        ],
         "synonyms": [
             "park",
             "lawsuit",
@@ -10123,7 +10510,7 @@
             "chloride",
             "ion"
         ],
-        "tagged": [
+        "tags": [
             [
                 "common",
                 "JJ"
@@ -10448,6 +10835,17 @@
         ],
         "ner_tag": "{'Therefore': 'O', ',': 'O', 'to': 'O', 'maintain': 'O', 'a': 'O', 'charge': 'O', 'balance': 'O', 'in': 'O', 'the': 'O', 'lumen': 'O', 'sodium': 'O', 'is': 'O', 'carried': 'O', 'with': 'O', 'it': 'O', 'along': 'O', 'water': 'O', '.': 'O'}",
         "sentence": "Therefore, to maintain a charge balance in the lumen, sodium is carried with it, along with water.",
+        "stems": [
+            "therefor",
+            "maintain",
+            "charg",
+            "balanc",
+            "lumen",
+            "sodium",
+            "carri",
+            "along",
+            "water"
+        ],
         "synonyms": [
             "therefore",
             "keep",
@@ -10459,7 +10857,7 @@
             "along",
             "water_system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "therefore",
                 "RB"
@@ -10711,6 +11109,17 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'this': 'O', 'type': 'O', 'of': 'O', 'diarrhea': 'O', 'intestinal': 'O', 'fluid': 'O', 'secretion': 'O', 'is': 'O', 'isotonic': 'O', 'with': 'O', 'plasma': 'O', 'even': 'O', 'during': 'O', 'fasting': 'O', '.': 'O'}",
         "sentence": "In this type of diarrhea intestinal fluid secretion is isotonic with plasma even during fasting.",
+        "stems": [
+            "type",
+            "diarrhea",
+            "intestin",
+            "fluid",
+            "secret",
+            "isoton",
+            "plasma",
+            "even",
+            "fast"
+        ],
         "synonyms": [
             "type",
             "diarrhea",
@@ -10722,7 +11131,7 @@
             "tied",
             "fast"
         ],
-        "tagged": [
+        "tags": [
             [
                 "type",
                 "NN"
@@ -10912,6 +11321,13 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'continues': 'O', 'even': 'O', 'when': 'O', 'there': 'O', 'is': 'O', 'no': 'O', 'oral': 'O', 'food': 'O', 'intake': 'O', '.': 'O'}",
         "sentence": "It continues even when there is no oral food intake.",
+        "stems": [
+            "continu",
+            "even",
+            "oral",
+            "food",
+            "intak"
+        ],
         "synonyms": [
             "stay",
             "tied",
@@ -10919,7 +11335,7 @@
             "food",
             "intake"
         ],
-        "tagged": [
+        "tags": [
             [
                 "continues",
                 "VBZ"
@@ -11121,6 +11537,15 @@
         ],
         "ner_tag": "{'Osmotic': 'MISC', 'diarrhea': 'MISC', 'occurs': 'O', 'when': 'O', 'too': 'O', 'much': 'O', 'water': 'O', 'is': 'O', 'drawn': 'O', 'into': 'O', 'the': 'O', 'bowels': 'O', '.': 'O'}",
         "sentence": "Osmotic diarrhea occurs when too much water is drawn into the bowels.",
+        "stems": [
+            "osmot",
+            "diarrhea",
+            "occur",
+            "much",
+            "water",
+            "drawn",
+            "bowel"
+        ],
         "synonyms": [
             "osmotic",
             "diarrhea",
@@ -11130,7 +11555,7 @@
             "trace",
             "intestine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "osmotic",
                 "JJ"
@@ -11513,6 +11938,22 @@
         ],
         "ner_tag": "{'If': 'O', 'a': 'O', 'person': 'O', 'drinks': 'O', 'solutions': 'O', 'with': 'O', 'excessive': 'O', 'sugar': 'O', 'or': 'O', 'salt': 'O', ',': 'O', 'these': 'O', 'can': 'O', 'draw': 'O', 'water': 'O', 'from': 'O', 'the': 'O', 'body': 'O', 'into': 'O', 'bowel': 'O', 'and': 'O', 'cause': 'O', 'osmotic': 'O', 'diarrhea': 'O', '.': 'O'}",
         "sentence": "If a person drinks solutions with excessive sugar or excessive salt, these can draw water from the body into the bowel and cause osmotic diarrhea.",
+        "stems": [
+            "person",
+            "drink",
+            "solut",
+            "excess",
+            "sugar",
+            "excess",
+            "salt",
+            "draw",
+            "water",
+            "bodi",
+            "bowel",
+            "caus",
+            "osmot",
+            "diarrhea"
+        ],
         "synonyms": [
             "person",
             "toast",
@@ -11529,7 +11970,7 @@
             "osmotic",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "person",
                 "NN"
@@ -12010,6 +12451,23 @@
         ],
         "ner_tag": "{'Osmotic': 'MISC', 'diarrhea': 'MISC', 'can': 'O', 'also': 'O', 'be': 'O', 'the': 'O', 'result': 'O', 'of': 'O', 'maldigestion': 'O', '(': 'O', 'e.g.': 'O', ',': 'O', 'pancreatic': 'O', 'disease': 'CAUSE_OF_DEATH', 'or': 'O', 'Coeliac': 'MISC', ')': 'O', 'in': 'O', 'which': 'O', 'nutrients': 'O', 'are': 'O', 'left': 'O', 'lumen': 'O', 'to': 'O', 'pull': 'O', 'water': 'O', '.': 'O'}",
         "sentence": "Osmotic diarrhea can also be the result of maldigestion (e.g., pancreatic disease or Coeliac disease), in which the nutrients are left in the lumen to pull in water.",
+        "stems": [
+            "osmot",
+            "diarrhea",
+            "also",
+            "result",
+            "maldigest",
+            "e.g.",
+            "pancreat",
+            "diseas",
+            "coeliac",
+            "diseas",
+            "nutrient",
+            "left",
+            "lumen",
+            "pull",
+            "water"
+        ],
         "synonyms": [
             "osmotic",
             "diarrhea",
@@ -12027,7 +12485,7 @@
             "wrench",
             "water_system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "osmotic",
                 "JJ"
@@ -12385,6 +12843,17 @@
         ],
         "ner_tag": "{'Or': 'O', 'it': 'O', 'can': 'O', 'be': 'O', 'caused': 'O', 'by': 'O', 'osmotic': 'O', 'laxatives': 'O', '(': 'O', 'which': 'O', 'work': 'O', 'to': 'O', 'alleviate': 'O', 'constipation': 'O', 'drawing': 'O', 'water': 'O', 'into': 'O', 'the': 'O', 'bowels': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Or it can be caused by osmotic laxatives (which work to alleviate constipation by drawing water into the bowels).",
+        "stems": [
+            "caus",
+            "osmot",
+            "lax",
+            "work",
+            "allevi",
+            "constip",
+            "draw",
+            "water",
+            "bowel"
+        ],
         "synonyms": [
             "induce",
             "osmotic",
@@ -12396,7 +12865,7 @@
             "water_system",
             "intestine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "caused",
                 "VBN"
@@ -12737,6 +13206,21 @@
         ],
         "ner_tag": "{'In': 'O', 'healthy': 'O', 'individuals': 'O', ',': 'O', 'too': 'O', 'much': 'O', 'magnesium': 'O', 'or': 'O', 'vitamin': 'O', 'C': 'O', 'undigested': 'O', 'lactose': 'O', 'can': 'O', 'produce': 'O', 'osmotic': 'O', 'diarrhea': 'O', 'and': 'O', 'distention': 'O', 'of': 'O', 'the': 'O', 'bowel': 'O', '.': 'O'}",
         "sentence": "In healthy individuals, too much magnesium or vitamin C or undigested lactose can produce osmotic diarrhea and distention of the bowel.",
+        "stems": [
+            "healthi",
+            "individu",
+            "much",
+            "magnesium",
+            "vitamin",
+            "c",
+            "undigest",
+            "lactos",
+            "produc",
+            "osmot",
+            "diarrhea",
+            "distent",
+            "bowel"
+        ],
         "synonyms": [
             "healthy",
             "person",
@@ -12752,7 +13236,7 @@
             "distention",
             "intestine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "healthy",
                 "JJ"
@@ -13074,6 +13558,19 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'person': 'O', 'who': 'O', 'has': 'O', 'lactose': 'O', 'intolerance': 'O', 'can': 'O', 'have': 'O', 'difficulty': 'O', 'absorbing': 'O', 'after': 'O', 'an': 'O', 'extraordinarily': 'O', 'high': 'O', 'intake': 'O', 'of': 'O', 'dairy': 'O', 'products': 'O', '.': 'O'}",
         "sentence": "A person who has lactose intolerance can have difficulty absorbing lactose after an extraordinarily high intake of dairy products.",
+        "stems": [
+            "person",
+            "lactos",
+            "intoler",
+            "difficulti",
+            "absorb",
+            "lactos",
+            "extraordinarili",
+            "high",
+            "intak",
+            "dairi",
+            "product"
+        ],
         "synonyms": [
             "person",
             "lactose",
@@ -13087,7 +13584,7 @@
             "dairy",
             "product"
         ],
-        "tagged": [
+        "tags": [
             [
                 "person",
                 "NN"
@@ -13342,6 +13839,17 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'persons': 'O', 'who': 'O', 'have': 'O', 'fructose': 'O', 'malabsorption': 'O', ',': 'O', 'excess': 'O', 'intake': 'O', 'can': 'O', 'also': 'O', 'cause': 'O', 'diarrhea': 'O', '.': 'O'}",
         "sentence": "In persons who have fructose malabsorption, excess fructose intake can also cause diarrhea.",
+        "stems": [
+            "person",
+            "fructos",
+            "malabsorpt",
+            "excess",
+            "fructos",
+            "intak",
+            "also",
+            "caus",
+            "diarrhea"
+        ],
         "synonyms": [
             "person",
             "fructose",
@@ -13353,7 +13861,7 @@
             "lawsuit",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "persons",
                 "NNS"
@@ -13666,6 +14174,19 @@
         "meronyms": [],
         "ner_tag": "{'High': 'O', '-': 'O', 'fructose': 'O', 'foods': 'O', 'that': 'O', 'also': 'O', 'have': 'O', 'a': 'O', 'high': 'O', 'glucose': 'O', 'content': 'O', 'are': 'O', 'more': 'O', 'absorbable': 'O', 'and': 'O', 'less': 'O', 'likely': 'O', 'to': 'O', 'cause': 'O', 'diarrhea': 'O', '.': 'O'}",
         "sentence": "High-fructose foods that also have a high glucose content are more absorbable and less likely to cause diarrhea.",
+        "stems": [
+            "high-fructos",
+            "food",
+            "also",
+            "high",
+            "glucos",
+            "content",
+            "absorb",
+            "less",
+            "like",
+            "caus",
+            "diarrhea"
+        ],
         "synonyms": [
             "high-fructose",
             "food",
@@ -13679,7 +14200,7 @@
             "lawsuit",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "high-fructose",
                 "JJ"
@@ -14144,6 +14665,24 @@
         "meronyms": [],
         "ner_tag": "{'Sugar': 'O', 'alcohols': 'O', 'such': 'O', 'as': 'O', 'sorbitol': 'O', '(': 'O', 'often': 'O', 'found': 'O', 'in': 'O', 'sugar': 'O', '-': 'O', 'free': 'O', 'foods': 'O', ')': 'O', 'are': 'O', 'difficult': 'O', 'for': 'O', 'the': 'O', 'body': 'O', 'to': 'O', 'absorb': 'O', 'and': 'O', ',': 'O', 'large': 'O', 'amounts': 'O', 'may': 'O', 'lead': 'O', 'osmotic': 'O', 'diarrhea': 'O', '.': 'O'}",
         "sentence": "Sugar alcohols such as sorbitol (often found in sugar-free foods) are difficult for the body to absorb and, in large amounts, may lead to osmotic diarrhea.",
+        "stems": [
+            "sugar",
+            "alcohol",
+            "sorbitol",
+            "often",
+            "found",
+            "sugar-fre",
+            "food",
+            "difficult",
+            "bodi",
+            "absorb",
+            "larg",
+            "amount",
+            "may",
+            "lead",
+            "osmot",
+            "diarrhea"
+        ],
         "synonyms": [
             "sugar",
             "alcohol",
@@ -14162,7 +14701,7 @@
             "osmotic",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sugar",
                 "NN"
@@ -14425,6 +14964,15 @@
         ],
         "ner_tag": "{'In': 'O', 'most': 'O', 'of': 'O', 'these': 'O', 'cases': 'O', ',': 'O', 'osmotic': 'O', 'diarrhea': 'O', 'stops': 'O', 'when': 'O', 'offending': 'O', 'agent': 'O', '(': 'O', 'e.g': 'O', '.': 'O'}",
         "sentence": "In most of these cases, osmotic diarrhea stops when offending agent (e.g.",
+        "stems": [
+            "case",
+            "osmot",
+            "diarrhea",
+            "stop",
+            "offend",
+            "agent",
+            "e.g"
+        ],
         "synonyms": [
             "subject",
             "osmotic",
@@ -14434,7 +14982,7 @@
             "agent",
             "e.g"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cases",
                 "NNS"
@@ -14560,12 +15108,17 @@
         "meronyms": [],
         "ner_tag": "{'milk': 'O', ',': 'O', 'sorbitol': 'O', ')': 'O', 'is': 'O', 'stopped': 'O', '.': 'O'}",
         "sentence": "milk, sorbitol) is stopped.",
+        "stems": [
+            "milk",
+            "sorbitol",
+            "stop"
+        ],
         "synonyms": [
             "milk",
             "sorbitol",
             "stopped"
         ],
-        "tagged": [
+        "tags": [
             [
                 "milk",
                 "NN"
@@ -15030,6 +15583,26 @@
         "meronyms": [],
         "ner_tag": "{'Inflammatory': 'O', 'diarrhea': 'O', 'occurs': 'O', 'when': 'O', 'there': 'O', 'is': 'O', 'damage': 'O', 'to': 'O', 'the': 'O', 'mucosal': 'O', 'lining': 'O', 'or': 'O', 'brush': 'O', 'border': 'O', ',': 'O', 'which': 'O', 'leads': 'O', 'a': 'O', 'passive': 'O', 'loss': 'O', 'of': 'O', 'protein': 'O', '-': 'O', 'rich': 'O', 'fluids': 'O', 'and': 'O', 'decreased': 'O', 'ability': 'O', 'absorb': 'O', 'these': 'O', 'lost': 'O', '.': 'O'}",
         "sentence": "Inflammatory diarrhea occurs when there is damage to the mucosal lining or brush border, which leads to a passive loss of protein-rich fluids and a decreased ability to absorb these lost fluids.",
+        "stems": [
+            "inflammatori",
+            "diarrhea",
+            "occur",
+            "damag",
+            "mucos",
+            "line",
+            "brush",
+            "border",
+            "lead",
+            "passiv",
+            "loss",
+            "protein-rich",
+            "fluid",
+            "decreas",
+            "abil",
+            "absorb",
+            "lost",
+            "fluid"
+        ],
         "synonyms": [
             "inflammatory",
             "diarrhea",
@@ -15050,7 +15623,7 @@
             "suffer",
             "fluid"
         ],
-        "tagged": [
+        "tags": [
             [
                 "inflammatory",
                 "NN"
@@ -15426,6 +15999,17 @@
         "meronyms": [],
         "ner_tag": "{'Features': 'O', 'of': 'O', 'all': 'O', 'three': 'NUMBER', 'the': 'O', 'other': 'O', 'types': 'O', 'diarrhea': 'O', '[': 'O', 'clarification': 'O', 'needed': 'O', ']': 'O', 'can': 'O', 'be': 'O', 'found': 'O', 'in': 'O', 'this': 'O', 'type': 'O', '.': 'O'}",
         "sentence": "Features of all three of the other types of diarrhea[clarification needed] can be found in this type of diarrhea.",
+        "stems": [
+            "featur",
+            "three",
+            "type",
+            "diarrhea",
+            "clarif",
+            "need",
+            "found",
+            "type",
+            "diarrhea"
+        ],
         "synonyms": [
             "have",
             "trey",
@@ -15437,7 +16021,7 @@
             "type",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "features",
                 "NNS"
@@ -15773,6 +16357,20 @@
         ],
         "ner_tag": "{'It': 'O', 'can': 'O', 'be': 'O', 'caused': 'O', 'by': 'O', 'bacterial': 'O', 'infections': 'CAUSE_OF_DEATH', ',': 'O', 'viral': 'O', 'parasitic': 'O', 'or': 'O', 'autoimmune': 'O', 'problems': 'O', 'such': 'O', 'as': 'O', 'inflammatory': 'O', 'bowel': 'O', 'diseases': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "It can be caused by bacterial infections, viral infections, parasitic infections, or autoimmune problems such as inflammatory bowel diseases.",
+        "stems": [
+            "caus",
+            "bacteri",
+            "infect",
+            "viral",
+            "infect",
+            "parasit",
+            "infect",
+            "autoimmun",
+            "problem",
+            "inflammatori",
+            "bowel",
+            "diseas"
+        ],
         "synonyms": [
             "induce",
             "bacterial",
@@ -15787,7 +16385,7 @@
             "intestine",
             "disease"
         ],
-        "tagged": [
+        "tags": [
             [
                 "caused",
                 "VBN"
@@ -16026,6 +16624,14 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'can': 'O', 'also': 'O', 'be': 'O', 'caused': 'O', 'by': 'O', 'tuberculosis': 'CAUSE_OF_DEATH', ',': 'O', 'colon': 'CAUSE_OF_DEATH', 'cancer': 'CAUSE_OF_DEATH', 'and': 'O', 'enteritis': 'O', '.': 'O'}",
         "sentence": "It can also be caused by tuberculosis, colon cancer, and enteritis.",
+        "stems": [
+            "also",
+            "caus",
+            "tuberculosi",
+            "colon",
+            "cancer",
+            "enter"
+        ],
         "synonyms": [
             "besides",
             "induce",
@@ -16034,7 +16640,7 @@
             "Cancer",
             "enteritis"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -16307,6 +16913,19 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Diarrheal': 'CAUSE_OF_DEATH', 'disease': 'CAUSE_OF_DEATH', 'may': 'O', 'have': 'O', 'a': 'O', 'negative': 'O', 'impact': 'O', 'on': 'O', 'both': 'O', 'physical': 'O', 'fitness': 'O', 'and': 'O', 'mental': 'O', 'development': 'O', '.': 'O'}",
         "sentence": "[citation needed] Diarrheal disease may have a negative impact on both physical fitness and mental development.",
+        "stems": [
+            "citat",
+            "need",
+            "diarrheal",
+            "diseas",
+            "may",
+            "neg",
+            "impact",
+            "physic",
+            "fit",
+            "mental",
+            "develop"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -16320,7 +16939,7 @@
             "mental",
             "growth"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -16740,6 +17359,26 @@
         ],
         "ner_tag": "{'``': 'O', 'Early': 'O', 'childhood': 'O', 'malnutrition': 'CAUSE_OF_DEATH', 'resulting': 'O', 'from': 'O', 'any': 'O', 'cause': 'O', 'reduces': 'O', 'physical': 'O', 'fitness': 'O', 'and': 'O', 'work': 'O', 'productivity': 'O', 'in': 'O', 'adults': 'O', ',': 'O', \"''\": 'O', 'diarrhea': 'O', 'is': 'O', 'a': 'O', 'primary': 'O', 'of': 'O', '.': 'O'}",
         "sentence": "\"Early childhood malnutrition resulting from any cause reduces physical fitness and work productivity in adults,\" and diarrhea is a primary cause of childhood malnutrition.",
+        "stems": [
+            "``",
+            "earli",
+            "childhood",
+            "malnutrit",
+            "result",
+            "caus",
+            "reduc",
+            "physic",
+            "fit",
+            "work",
+            "product",
+            "adult",
+            "''",
+            "diarrhea",
+            "primari",
+            "caus",
+            "childhood",
+            "malnutrit"
+        ],
         "synonyms": [
             "``",
             "early",
@@ -16760,7 +17399,7 @@
             "childhood",
             "malnutrition"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -17470,6 +18109,34 @@
         ],
         "ner_tag": "{'Further': 'O', ',': 'O', 'evidence': 'O', 'suggests': 'O', 'that': 'O', 'diarrheal': 'CAUSE_OF_DEATH', 'disease': 'CAUSE_OF_DEATH', 'has': 'O', 'significant': 'O', 'impacts': 'O', 'on': 'O', 'mental': 'O', 'development': 'O', 'and': 'O', 'health': 'O', ';': 'O', 'it': 'O', 'been': 'O', 'shown': 'O', 'even': 'O', 'when': 'O', 'controlling': 'O', 'for': 'O', 'helminth': 'O', 'infection': 'CAUSE_OF_DEATH', 'early': 'O', 'breastfeeding': 'O', 'children': 'O', 'who': 'O', 'had': 'O', 'experienced': 'O', 'severe': 'O', 'diarrhea': 'O', 'significantly': 'O', 'lower': 'O', 'scores': 'O', 'a': 'O', 'series': 'O', 'of': 'O', 'tests': 'O', 'intelligence': 'O', '.': 'O'}",
         "sentence": "Further, evidence suggests that diarrheal disease has significant impacts on mental development and health; it has been shown that, even when controlling for helminth infection and early breastfeeding, children who had experienced severe diarrhea had significantly lower scores on a series of tests of intelligence.",
+        "stems": [
+            "evid",
+            "suggest",
+            "diarrheal",
+            "diseas",
+            "signific",
+            "impact",
+            "mental",
+            "develop",
+            "health",
+            "shown",
+            "even",
+            "control",
+            "helminth",
+            "infect",
+            "earli",
+            "breastfeed",
+            "children",
+            "experienc",
+            "sever",
+            "diarrhea",
+            "significantli",
+            "lower",
+            "score",
+            "seri",
+            "test",
+            "intellig"
+        ],
         "synonyms": [
             "testify",
             "suggest",
@@ -17498,7 +18165,7 @@
             "test",
             "intelligence"
         ],
-        "tagged": [
+        "tags": [
             [
                 "evidence",
                 "NN"
@@ -18176,6 +18843,33 @@
         ],
         "ner_tag": "{'Another': 'O', 'possible': 'O', 'cause': 'O', 'of': 'O', 'diarrhea': 'O', 'is': 'O', 'irritable': 'O', 'bowel': 'O', 'syndrome': 'O', '(': 'O', 'IBS': 'ORGANIZATION', ')': 'O', ',': 'O', 'which': 'O', 'usually': 'O', 'presents': 'O', 'with': 'O', 'abdominal': 'O', 'discomfort': 'O', 'relieved': 'O', 'by': 'O', 'defecation': 'O', 'and': 'O', 'unusual': 'O', 'stool': 'O', 'or': 'O', 'constipation': 'O', 'for': 'O', 'at': 'DURATION', 'least': 'DURATION', '3': 'DURATION', 'days': 'DURATION', 'a': 'DURATION', 'week': 'DURATION', 'over': 'O', 'the': 'DURATION', 'previous': 'DURATION', 'months': 'DURATION', '.': 'O'}",
         "sentence": "Another possible cause of diarrhea is irritable bowel syndrome (IBS), which usually presents with abdominal discomfort relieved by defecation and unusual stool (diarrhea or constipation) for at least 3 days a week over the previous 3 months.",
+        "stems": [
+            "anoth",
+            "possibl",
+            "caus",
+            "diarrhea",
+            "irrit",
+            "bowel",
+            "syndrom",
+            "ib",
+            "usual",
+            "present",
+            "abdomin",
+            "discomfort",
+            "reliev",
+            "defec",
+            "unusu",
+            "stool",
+            "diarrhea",
+            "constip",
+            "least",
+            "3",
+            "day",
+            "week",
+            "previou",
+            "3",
+            "month"
+        ],
         "synonyms": [
             "another",
             "potential",
@@ -18203,7 +18897,7 @@
             "three",
             "month"
         ],
-        "tagged": [
+        "tags": [
             [
                 "another",
                 "DT"
@@ -18701,6 +19395,22 @@
         ],
         "ner_tag": "{'Symptoms': 'O', 'of': 'O', 'diarrhea': 'O', '-': 'O', 'predominant': 'O', 'IBS': 'ORGANIZATION', 'can': 'O', 'be': 'O', 'managed': 'O', 'through': 'O', 'a': 'O', 'combination': 'O', 'dietary': 'O', 'changes': 'O', ',': 'O', 'soluble': 'O', 'fiber': 'O', 'supplements': 'O', 'and': 'O', '/': 'O', 'or': 'O', 'medications': 'O', 'such': 'O', 'as': 'O', 'loperamide': 'O', 'codeine': 'O', '.': 'O'}",
         "sentence": "Symptoms of diarrhea-predominant IBS can be managed through a combination of dietary changes, soluble fiber supplements, and/or medications such as loperamide or codeine.",
+        "stems": [
+            "symptom",
+            "diarrhea-predomin",
+            "ib",
+            "manag",
+            "combin",
+            "dietari",
+            "chang",
+            "solubl",
+            "fiber",
+            "supplement",
+            "and/or",
+            "medic",
+            "loperamid",
+            "codein"
+        ],
         "synonyms": [
             "symptom",
             "diarrhea-predominant",
@@ -18717,7 +19427,7 @@
             "loperamide",
             "codeine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "symptoms",
                 "NNS"
@@ -19049,6 +19759,19 @@
         "meronyms": [],
         "ner_tag": "{'About': 'O', '30': 'PERCENT', '%': 'PERCENT', 'of': 'O', 'patients': 'O', 'with': 'O', 'diarrhea': 'O', '-': 'O', 'predominant': 'O', 'IBS': 'ORGANIZATION', 'have': 'O', 'bile': 'O', 'acid': 'O', 'malabsorption': 'O', 'diagnosed': 'O', 'an': 'O', 'abnormal': 'O', 'SeHCAT': 'O', 'test': 'O', '.': 'O'}",
         "sentence": "About 30% of patients with diarrhea-predominant IBS have bile acid malabsorption diagnosed with an abnormal SeHCAT test.",
+        "stems": [
+            "30",
+            "patient",
+            "diarrhea-predomin",
+            "ib",
+            "bile",
+            "acid",
+            "malabsorpt",
+            "diagnos",
+            "abnorm",
+            "sehcat",
+            "test"
+        ],
         "synonyms": [
             "thirty",
             "patient",
@@ -19062,7 +19785,7 @@
             "sehcat",
             "test"
         ],
-        "tagged": [
+        "tags": [
             [
                 "30",
                 "CD"
@@ -19310,6 +20033,15 @@
         "meronyms": [],
         "ner_tag": "{'Poverty': 'O', 'is': 'O', 'a': 'O', 'good': 'O', 'indicator': 'O', 'of': 'O', 'the': 'O', 'rate': 'O', 'infectious': 'O', 'diarrhea': 'O', 'in': 'O', 'population': 'O', '.': 'O'}",
         "sentence": "Poverty is a good indicator of the rate of infectious diarrhea in a population.",
+        "stems": [
+            "poverti",
+            "good",
+            "indic",
+            "rate",
+            "infecti",
+            "diarrhea",
+            "popul"
+        ],
         "synonyms": [
             "poverty",
             "well",
@@ -19319,7 +20051,7 @@
             "diarrhea",
             "population"
         ],
-        "tagged": [
+        "tags": [
             [
                 "poverty",
                 "NN"
@@ -19603,6 +20335,16 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'association': 'O', 'does': 'O', 'not': 'O', 'stem': 'O', 'from': 'O', 'poverty': 'O', 'itself': 'O', ',': 'O', 'but': 'O', 'rather': 'O', 'the': 'O', 'conditions': 'O', 'under': 'O', 'which': 'O', 'impoverished': 'O', 'people': 'O', 'live': 'O', '.': 'O'}",
         "sentence": "This association does not stem from poverty itself, but rather from the conditions under which impoverished people live.",
+        "stems": [
+            "associ",
+            "stem",
+            "poverti",
+            "rather",
+            "condit",
+            "impoverish",
+            "peopl",
+            "live"
+        ],
         "synonyms": [
             "association",
             "stem_turn",
@@ -19613,7 +20355,7 @@
             "people",
             "live"
         ],
-        "tagged": [
+        "tags": [
             [
                 "association",
                 "NN"
@@ -19886,6 +20628,17 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'absence': 'O', 'of': 'O', 'certain': 'O', 'resources': 'O', 'compromises': 'O', 'the': 'O', 'ability': 'O', 'poor': 'O', 'to': 'O', 'defend': 'O', 'themselves': 'O', 'against': 'O', 'infectious': 'O', 'diarrhea': 'O', '.': 'O'}",
         "sentence": "The absence of certain resources compromises the ability of the poor to defend themselves against infectious diarrhea.",
+        "stems": [
+            "absenc",
+            "certain",
+            "resourc",
+            "compromis",
+            "abil",
+            "poor",
+            "defend",
+            "infecti",
+            "diarrhea"
+        ],
         "synonyms": [
             "absence",
             "sealed",
@@ -19897,7 +20650,7 @@
             "infectious",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "absence",
                 "NN"
@@ -20671,6 +21424,40 @@
         ],
         "ner_tag": "{'``': 'O', 'Poverty': 'O', 'is': 'O', 'associated': 'O', 'with': 'O', 'poor': 'O', 'housing': 'O', ',': 'O', 'crowding': 'O', 'dirt': 'O', 'floors': 'O', 'lack': 'O', 'of': 'O', 'access': 'O', 'to': 'O', 'clean': 'O', 'water': 'O', 'or': 'O', 'sanitary': 'O', 'disposal': 'O', 'fecal': 'O', 'waste': 'O', '(': 'O', 'sanitation': 'O', ')': 'O', 'cohabitation': 'O', 'domestic': 'O', 'animals': 'O', 'that': 'O', 'may': 'O', 'carry': 'O', 'human': 'O', 'pathogens': 'O', 'and': 'O', 'a': 'O', 'refrigerated': 'O', 'storage': 'O', 'for': 'O', 'food': 'O', 'all': 'O', 'which': 'O', 'increase': 'O', 'the': 'O', 'frequency': 'O', 'diarrhea': 'O', '...': 'O'}",
         "sentence": "\"Poverty is associated with poor housing, crowding, dirt floors, lack of access to clean water or to sanitary disposal of fecal waste (sanitation), cohabitation with domestic animals that may carry human pathogens, and a lack of refrigerated storage for food, all of which increase the frequency of diarrhea...",
+        "stems": [
+            "``",
+            "poverti",
+            "associ",
+            "poor",
+            "hous",
+            "crowd",
+            "dirt",
+            "floor",
+            "lack",
+            "access",
+            "clean",
+            "water",
+            "sanitari",
+            "dispos",
+            "fecal",
+            "wast",
+            "sanit",
+            "cohabit",
+            "domest",
+            "anim",
+            "may",
+            "carri",
+            "human",
+            "pathogen",
+            "lack",
+            "refriger",
+            "storag",
+            "food",
+            "increas",
+            "frequenc",
+            "diarrhea",
+            "..."
+        ],
         "synonyms": [
             "``",
             "poverty",
@@ -20705,7 +21492,7 @@
             "diarrhea",
             "..."
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -21247,6 +22034,25 @@
         "meronyms": [],
         "ner_tag": "{'Poverty': 'O', 'also': 'O', 'restricts': 'O', 'the': 'O', 'ability': 'O', 'to': 'O', 'provide': 'O', 'age': 'O', '-': 'O', 'appropriate': 'O', ',': 'O', 'nutritionally': 'O', 'balanced': 'O', 'diets': 'O', 'or': 'O', 'modify': 'O', 'when': 'O', 'diarrhea': 'O', 'develops': 'O', 'so': 'O', 'as': 'O', 'mitigate': 'O', 'and': 'O', 'repair': 'O', 'nutrient': 'O', 'losses': 'O', '.': 'O'}",
         "sentence": "Poverty also restricts the ability to provide age-appropriate, nutritionally balanced diets or to modify diets when diarrhea develops so as to mitigate and repair nutrient losses.",
+        "stems": [
+            "poverti",
+            "also",
+            "restrict",
+            "abil",
+            "provid",
+            "age-appropri",
+            "nutrit",
+            "balanc",
+            "diet",
+            "modifi",
+            "diet",
+            "diarrhea",
+            "develop",
+            "mitig",
+            "repair",
+            "nutrient",
+            "loss"
+        ],
         "synonyms": [
             "poverty",
             "besides",
@@ -21266,7 +22072,7 @@
             "nutrient",
             "loss"
         ],
-        "tagged": [
+        "tags": [
             [
                 "poverty",
                 "NN"
@@ -21577,6 +22383,17 @@
         ],
         "ner_tag": "{'The': 'O', 'impact': 'O', 'is': 'O', 'exacerbated': 'O', 'by': 'O', 'the': 'O', 'lack': 'O', 'of': 'O', 'adequate': 'O', ',': 'O', 'available': 'O', 'and': 'O', 'affordable': 'O', 'medical': 'O', 'care': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "The impact is exacerbated by the lack of adequate, available, and affordable medical care.\"",
+        "stems": [
+            "impact",
+            "exacerb",
+            "lack",
+            "adequ",
+            "avail",
+            "afford",
+            "medic",
+            "care",
+            "''"
+        ],
         "synonyms": [
             "impact",
             "worsen",
@@ -21588,7 +22405,7 @@
             "care",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "impact",
                 "NN"
@@ -21841,6 +22658,17 @@
         "meronyms": [],
         "ner_tag": "{'Proper': 'O', 'nutrition': 'O', 'is': 'O', 'important': 'O', 'for': 'O', 'health': 'O', 'and': 'O', 'functioning': 'O', ',': 'O', 'including': 'O', 'the': 'O', 'prevention': 'O', 'of': 'O', 'infectious': 'O', 'diarrhea': 'O', '.': 'O'}",
         "sentence": "Proper nutrition is important for health and functioning, including the prevention of infectious diarrhea.",
+        "stems": [
+            "proper",
+            "nutrit",
+            "import",
+            "health",
+            "function",
+            "includ",
+            "prevent",
+            "infecti",
+            "diarrhea"
+        ],
         "synonyms": [
             "proper",
             "nutriment",
@@ -21852,7 +22680,7 @@
             "infectious",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "proper",
                 "JJ"
@@ -22107,6 +22935,16 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'is': 'O', 'especially': 'O', 'important': 'O', 'to': 'O', 'young': 'O', 'children': 'O', 'who': 'O', 'do': 'O', 'not': 'O', 'have': 'O', 'a': 'O', 'fully': 'O', 'developed': 'O', 'immune': 'O', 'system': 'O', '.': 'O'}",
         "sentence": "It is especially important to young children who do not have a fully developed immune system.",
+        "stems": [
+            "especi",
+            "import",
+            "young",
+            "children",
+            "fulli",
+            "develop",
+            "immun",
+            "system"
+        ],
         "synonyms": [
             "specially",
             "important",
@@ -22117,7 +22955,7 @@
             "immune",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "especially",
                 "RB"
@@ -22594,6 +23432,27 @@
         ],
         "ner_tag": "{'Zinc': 'O', 'deficiency': 'O', ',': 'O', 'a': 'O', 'condition': 'O', 'often': 'O', 'found': 'O', 'in': 'O', 'children': 'O', 'developing': 'O', 'countries': 'O', 'can': 'O', 'even': 'O', 'mild': 'O', 'cases': 'O', 'have': 'O', 'significant': 'O', 'impact': 'O', 'on': 'O', 'the': 'O', 'development': 'O', 'and': 'O', 'proper': 'O', 'functioning': 'O', 'of': 'O', 'human': 'O', 'immune': 'O', 'system': 'O', '.': 'O'}",
         "sentence": "Zinc deficiency, a condition often found in children in developing countries can, even in mild cases, have a significant impact on the development and proper functioning of the human immune system.",
+        "stems": [
+            "zinc",
+            "defici",
+            "condit",
+            "often",
+            "found",
+            "children",
+            "develop",
+            "countri",
+            "even",
+            "mild",
+            "case",
+            "signific",
+            "impact",
+            "develop",
+            "proper",
+            "function",
+            "human",
+            "immun",
+            "system"
+        ],
         "synonyms": [
             "zinc",
             "lack",
@@ -22615,7 +23474,7 @@
             "immune",
             "system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "zinc",
                 "NN"
@@ -22958,6 +23817,20 @@
         "meronyms": [],
         "ner_tag": "{'Indeed': 'O', ',': 'O', 'this': 'O', 'relationship': 'O', 'between': 'O', 'zinc': 'O', 'deficiency': 'O', 'reduced': 'O', 'immune': 'O', 'functioning': 'O', 'corresponds': 'O', 'with': 'O', 'an': 'O', 'increased': 'O', 'severity': 'O', 'of': 'O', 'infectious': 'O', 'diarrhea': 'O', '.': 'O'}",
         "sentence": "Indeed, this relationship between zinc deficiency reduced immune functioning corresponds with an increased severity of infectious diarrhea.",
+        "stems": [
+            "inde",
+            "relationship",
+            "zinc",
+            "defici",
+            "reduc",
+            "immun",
+            "function",
+            "correspond",
+            "increas",
+            "sever",
+            "infecti",
+            "diarrhea"
+        ],
         "synonyms": [
             "indeed",
             "relationship",
@@ -22972,7 +23845,7 @@
             "infectious",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "indeed",
                 "RB"
@@ -23356,6 +24229,21 @@
         "meronyms": [],
         "ner_tag": "{'Children': 'O', 'who': 'O', 'have': 'O', 'lowered': 'O', 'levels': 'O', 'of': 'O', 'zinc': 'O', 'a': 'O', 'greater': 'O', 'number': 'O', 'instances': 'O', 'diarrhea': 'O', ',': 'O', 'severe': 'O', 'and': 'O', 'associated': 'O', 'with': 'O', 'fever': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "Children who have lowered levels of zinc have a greater number of instances of diarrhea, severe diarrhea, and diarrhea associated with fever.",
+        "stems": [
+            "children",
+            "lower",
+            "level",
+            "zinc",
+            "greater",
+            "number",
+            "instanc",
+            "diarrhea",
+            "sever",
+            "diarrhea",
+            "diarrhea",
+            "associ",
+            "fever"
+        ],
         "synonyms": [
             "child",
             "lower",
@@ -23371,7 +24259,7 @@
             "associate",
             "fever"
         ],
-        "tagged": [
+        "tags": [
             [
                 "children",
                 "NNS"
@@ -23895,6 +24783,24 @@
         ],
         "ner_tag": "{'Similarly': 'O', ',': 'O', 'vitamin': 'O', 'A': 'O', 'deficiency': 'O', 'can': 'O', 'cause': 'O', 'an': 'O', 'increase': 'O', 'in': 'O', 'the': 'O', 'severity': 'O', 'of': 'O', 'diarrheal': 'O', 'episodes': 'O', 'however': 'O', 'there': 'O', 'is': 'O', 'some': 'O', 'discrepancy': 'O', 'when': 'O', 'it': 'O', 'comes': 'O', 'to': 'O', 'impact': 'O', 'on': 'O', 'rate': 'O', 'disease': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "Similarly, vitamin A deficiency can cause an increase in the severity of diarrheal episodes, however there is some discrepancy when it comes to the impact of vitamin A deficiency on the rate of disease.",
+        "stems": [
+            "similarli",
+            "vitamin",
+            "defici",
+            "caus",
+            "increas",
+            "sever",
+            "diarrheal",
+            "episod",
+            "howev",
+            "discrep",
+            "come",
+            "impact",
+            "vitamin",
+            "defici",
+            "rate",
+            "diseas"
+        ],
         "synonyms": [
             "similarly",
             "vitamin",
@@ -23913,7 +24819,7 @@
             "rate",
             "disease"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similarly",
                 "RB"
@@ -24369,6 +25275,21 @@
         ],
         "ner_tag": "{'While': 'O', 'some': 'O', 'argue': 'O', 'that': 'O', 'a': 'O', 'relationship': 'O', 'does': 'O', 'not': 'O', 'exist': 'O', 'between': 'O', 'the': 'O', 'rate': 'O', 'of': 'O', 'disease': 'CAUSE_OF_DEATH', 'and': 'O', 'vitamin': 'O', 'A': 'O', 'status': 'O', ',': 'O', 'others': 'O', 'suggest': 'O', 'an': 'O', 'increase': 'O', 'in': 'O', 'associated': 'O', 'with': 'O', 'deficiency': 'O', '.': 'O'}",
         "sentence": "While some argue that a relationship does not exist between the rate of disease and vitamin A status, others suggest an increase in the rate associated with deficiency.",
+        "stems": [
+            "argu",
+            "relationship",
+            "exist",
+            "rate",
+            "diseas",
+            "vitamin",
+            "statu",
+            "other",
+            "suggest",
+            "increas",
+            "rate",
+            "associ",
+            "defici"
+        ],
         "synonyms": [
             "argue",
             "relationship",
@@ -24384,7 +25305,7 @@
             "associate",
             "lack"
         ],
-        "tagged": [
+        "tags": [
             [
                 "argue",
                 "NN"
@@ -24781,6 +25702,24 @@
         ],
         "ner_tag": "{'Given': 'O', 'that': 'O', 'estimates': 'O', 'suggest': 'O', '127': 'NUMBER', 'million': 'NUMBER', 'preschool': 'O', 'children': 'O', 'worldwide': 'O', 'are': 'O', 'vitamin': 'O', 'A': 'O', 'deficient': 'O', ',': 'O', 'this': 'O', 'population': 'O', 'has': 'O', 'the': 'O', 'potential': 'O', 'for': 'O', 'increased': 'O', 'risk': 'O', 'of': 'O', 'disease': 'CAUSE_OF_DEATH', 'contraction': 'O', '.': 'O'}",
         "sentence": "Given that estimates suggest 127 million preschool children worldwide are vitamin A deficient, this population has the potential for increased risk of disease contraction.",
+        "stems": [
+            "given",
+            "estim",
+            "suggest",
+            "127",
+            "million",
+            "preschool",
+            "children",
+            "worldwid",
+            "vitamin",
+            "defici",
+            "popul",
+            "potenti",
+            "increas",
+            "risk",
+            "diseas",
+            "contract"
+        ],
         "synonyms": [
             "given",
             "estimate",
@@ -24799,7 +25738,7 @@
             "disease",
             "contraction"
         ],
-        "tagged": [
+        "tags": [
             [
                 "given",
                 "VBN"
@@ -25131,6 +26070,20 @@
         "meronyms": [],
         "ner_tag": "{'According': 'O', 'to': 'O', 'two': 'NUMBER', 'researchers': 'O', ',': 'O', 'Nesse': 'PERSON', 'and': 'O', 'Williams': 'PERSON', 'diarrhea': 'O', 'may': 'O', 'function': 'O', 'as': 'O', 'an': 'O', 'evolved': 'O', 'expulsion': 'O', 'defense': 'O', 'mechanism': 'O', '.': 'O'}",
         "sentence": "According to two researchers, Nesse and Williams, diarrhea may function as an evolved expulsion defense mechanism.",
+        "stems": [
+            "accord",
+            "two",
+            "research",
+            "ness",
+            "william",
+            "diarrhea",
+            "may",
+            "function",
+            "evolv",
+            "expuls",
+            "defens",
+            "mechan"
+        ],
         "synonyms": [
             "harmonize",
             "two",
@@ -25145,7 +26098,7 @@
             "defensive_structure",
             "mechanism"
         ],
-        "tagged": [
+        "tags": [
             [
                 "according",
                 "VBG"
@@ -25415,6 +26368,13 @@
         "meronyms": [],
         "ner_tag": "{'As': 'O', 'a': 'O', 'result': 'O', ',': 'O', 'if': 'O', 'it': 'O', 'is': 'O', 'stopped': 'O', 'there': 'O', 'might': 'O', 'be': 'O', 'delay': 'O', 'in': 'O', 'recovery': 'O', '.': 'O'}",
         "sentence": "As a result, if it is stopped, there might be a delay in recovery.",
+        "stems": [
+            "result",
+            "stop",
+            "might",
+            "delay",
+            "recoveri"
+        ],
         "synonyms": [
             "solution",
             "stopped",
@@ -25422,7 +26382,7 @@
             "delay",
             "recovery"
         ],
-        "tagged": [
+        "tags": [
             [
                 "result",
                 "NN"
@@ -25924,6 +26884,28 @@
         "meronyms": [],
         "ner_tag": "{'They': 'O', 'cite': 'O', 'in': 'O', 'support': 'O', 'of': 'O', 'this': 'O', 'argument': 'O', 'research': 'O', 'published': 'O', '1973': 'DATE', 'that': 'O', 'found': 'O', 'treating': 'O', 'Shigella': 'MISC', 'with': 'O', 'the': 'O', 'anti-diarrhea': 'O', 'drug': 'O', '(': 'O', 'Co-phenotrope': 'MISC', ',': 'O', 'Lomotil': 'LOCATION', ')': 'O', 'caused': 'O', 'people': 'O', 'to': 'O', 'stay': 'O', 'feverish': 'O', 'twice': 'O', 'as': 'O', 'long': 'O', 'those': 'O', 'not': 'O', 'so': 'O', 'treated': 'O', '.': 'O'}",
         "sentence": "They cite in support of this argument research published in 1973 that found that treating Shigella with the anti-diarrhea drug (Co-phenotrope, Lomotil) caused people to stay feverish twice as long as those not so treated.",
+        "stems": [
+            "cite",
+            "support",
+            "argument",
+            "research",
+            "publish",
+            "1973",
+            "found",
+            "treat",
+            "shigella",
+            "anti-diarrhea",
+            "drug",
+            "co-phenotrop",
+            "lomotil",
+            "caus",
+            "peopl",
+            "stay",
+            "feverish",
+            "twice",
+            "long",
+            "treat"
+        ],
         "synonyms": [
             "quote",
             "support",
@@ -25946,7 +26928,7 @@
             "long",
             "treated"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cite",
                 "JJ"
@@ -26238,6 +27220,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'researchers': 'O', 'indeed': 'O', 'themselves': 'O', 'observed': 'O', 'that': 'O', ':': 'O', '``': 'O', 'Lomotil': 'O', 'may': 'O', 'be': 'O', 'contraindicated': 'O', 'in': 'O', 'shigellosis': 'O', '.': 'O'}",
         "sentence": "The researchers indeed themselves observed that: \"Lomotil may be contraindicated in shigellosis.",
+        "stems": [
+            "research",
+            "inde",
+            "observ",
+            "``",
+            "lomotil",
+            "may",
+            "contraind",
+            "shigellosi"
+        ],
         "synonyms": [
             "research_worker",
             "indeed",
@@ -26248,7 +27240,7 @@
             "contraindicate",
             "shigellosis"
         ],
-        "tagged": [
+        "tags": [
             [
                 "researchers",
                 "NNS"
@@ -26404,6 +27396,14 @@
         "meronyms": [],
         "ner_tag": "{'Diarrhea': 'O', 'may': 'O', 'represent': 'O', 'a': 'O', 'defense': 'O', 'mechanism': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "Diarrhea may represent a defense mechanism\".",
+        "stems": [
+            "diarrhea",
+            "may",
+            "repres",
+            "defens",
+            "mechan",
+            "''"
+        ],
         "synonyms": [
             "diarrhea",
             "whitethorn",
@@ -26412,7 +27412,7 @@
             "mechanism",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "diarrhea",
                 "NN"
@@ -26636,6 +27636,16 @@
         ],
         "ner_tag": "{'Basic': 'O', 'sanitation': 'O', 'techniques': 'O', 'can': 'O', 'have': 'O', 'a': 'O', 'profound': 'O', 'effect': 'O', 'on': 'O', 'the': 'O', 'transmission': 'O', 'of': 'O', 'diarrheal': 'CAUSE_OF_DEATH', 'disease': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "Basic sanitation techniques can have a profound effect on the transmission of diarrheal disease.",
+        "stems": [
+            "basic",
+            "sanit",
+            "techniqu",
+            "profound",
+            "effect",
+            "transmiss",
+            "diarrheal",
+            "diseas"
+        ],
         "synonyms": [
             "basic",
             "sanitation",
@@ -26646,7 +27656,7 @@
             "diarrheal",
             "disease"
         ],
-        "tagged": [
+        "tags": [
             [
                 "basic",
                 "JJ"
@@ -27062,6 +28072,22 @@
         ],
         "ner_tag": "{'The': 'O', 'implementation': 'O', 'of': 'O', 'hand': 'O', 'washing': 'O', 'using': 'O', 'soap': 'O', 'and': 'O', 'water': 'O', ',': 'O', 'for': 'O', 'example': 'O', 'has': 'O', 'been': 'O', 'experimentally': 'O', 'shown': 'O', 'to': 'O', 'reduce': 'O', 'the': 'O', 'incidence': 'O', 'disease': 'CAUSE_OF_DEATH', 'by': 'O', 'approximately': 'O', '42': 'NUMBER', '–': 'O', '48': 'PERCENT', '%': 'PERCENT', '.': 'O'}",
         "sentence": "The implementation of hand washing using soap and water, for example, has been experimentally shown to reduce the incidence of disease by approximately 42–48%.",
+        "stems": [
+            "implement",
+            "hand",
+            "wash",
+            "use",
+            "soap",
+            "water",
+            "exampl",
+            "experiment",
+            "shown",
+            "reduc",
+            "incid",
+            "diseas",
+            "approxim",
+            "42–48"
+        ],
         "synonyms": [
             "implementation",
             "hand",
@@ -27078,7 +28104,7 @@
             "approximately",
             "42–48"
         ],
-        "tagged": [
+        "tags": [
             [
                 "implementation",
                 "NN"
@@ -27766,6 +28792,33 @@
         ],
         "ner_tag": "{'Hand': 'O', 'washing': 'O', 'in': 'O', 'developing': 'O', 'countries': 'O', ',': 'O', 'however': 'O', 'is': 'O', 'compromised': 'O', 'by': 'O', 'poverty': 'O', 'as': 'O', 'acknowledged': 'O', 'the': 'O', 'CDC': 'ORGANIZATION', ':': 'O', '``': 'O', 'Handwashing': 'O', 'integral': 'O', 'to': 'O', 'disease': 'CAUSE_OF_DEATH', 'prevention': 'O', 'all': 'O', 'parts': 'O', 'of': 'O', 'world': 'O', ';': 'O', 'access': 'O', 'soap': 'O', 'and': 'O', 'water': 'O', 'limited': 'O', 'a': 'O', 'number': 'O', 'less': 'O', 'developed': 'O', '.': 'O'}",
         "sentence": "Hand washing in developing countries, however, is compromised by poverty as acknowledged by the CDC: \"Handwashing is integral to disease prevention in all parts of the world; however, access to soap and water is limited in a number of less developed countries.",
+        "stems": [
+            "hand",
+            "wash",
+            "develop",
+            "countri",
+            "howev",
+            "compromis",
+            "poverti",
+            "acknowledg",
+            "cdc",
+            "``",
+            "handwash",
+            "integr",
+            "diseas",
+            "prevent",
+            "part",
+            "world",
+            "howev",
+            "access",
+            "soap",
+            "water",
+            "limit",
+            "number",
+            "less",
+            "develop",
+            "countri"
+        ],
         "synonyms": [
             "hired_hand",
             "wash",
@@ -27793,7 +28846,7 @@
             "grow",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "hand",
                 "NN"
@@ -28151,6 +29204,19 @@
         ],
         "ner_tag": "{'This': 'O', 'lack': 'O', 'of': 'O', 'access': 'O', 'is': 'O', 'one': 'NUMBER', 'many': 'O', 'challenges': 'O', 'to': 'O', 'proper': 'O', 'hygiene': 'O', 'in': 'O', 'less': 'O', 'developed': 'O', 'countries': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "This lack of access is one of many challenges to proper hygiene in less developed countries.\"",
+        "stems": [
+            "lack",
+            "access",
+            "one",
+            "mani",
+            "challeng",
+            "proper",
+            "hygien",
+            "less",
+            "develop",
+            "countri",
+            "''"
+        ],
         "synonyms": [
             "miss",
             "access",
@@ -28164,7 +29230,7 @@
             "state",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "lack",
                 "NN"
@@ -28417,6 +29483,17 @@
         "meronyms": [],
         "ner_tag": "{'Solutions': 'O', 'to': 'O', 'this': 'O', 'barrier': 'O', 'require': 'O', 'the': 'O', 'implementation': 'O', 'of': 'O', 'educational': 'O', 'programs': 'O', 'that': 'O', 'encourage': 'O', 'sanitary': 'O', 'behaviours': 'O', '.': 'O'}",
         "sentence": "Solutions to this barrier require the implementation of educational programs that encourage sanitary behaviours.",
+        "stems": [
+            "solut",
+            "barrier",
+            "requir",
+            "implement",
+            "educ",
+            "program",
+            "encourag",
+            "sanitari",
+            "behaviour"
+        ],
         "synonyms": [
             "solution",
             "barrier",
@@ -28428,7 +29505,7 @@
             "sanitary",
             "demeanor"
         ],
-        "tagged": [
+        "tags": [
             [
                 "solutions",
                 "NNS"
@@ -28913,6 +29990,29 @@
         ],
         "ner_tag": "{'Given': 'O', 'that': 'O', 'water': 'O', 'contamination': 'O', 'is': 'O', 'a': 'O', 'major': 'O', 'means': 'O', 'of': 'O', 'transmitting': 'O', 'diarrheal': 'CAUSE_OF_DEATH', 'disease': 'CAUSE_OF_DEATH', ',': 'O', 'efforts': 'O', 'to': 'O', 'provide': 'O', 'clean': 'O', 'supply': 'O', 'and': 'O', 'improved': 'O', 'sanitation': 'O', 'have': 'O', 'the': 'O', 'potential': 'O', 'dramatically': 'O', 'cut': 'O', 'rate': 'O', 'incidence': 'O', '.': 'O'}",
         "sentence": "Given that water contamination is a major means of transmitting diarrheal disease, efforts to provide clean water supply and improved sanitation have the potential to dramatically cut the rate of disease incidence.",
+        "stems": [
+            "given",
+            "water",
+            "contamin",
+            "major",
+            "mean",
+            "transmit",
+            "diarrheal",
+            "diseas",
+            "effort",
+            "provid",
+            "clean",
+            "water",
+            "suppli",
+            "improv",
+            "sanit",
+            "potenti",
+            "dramat",
+            "cut",
+            "rate",
+            "diseas",
+            "incid"
+        ],
         "synonyms": [
             "given",
             "water_system",
@@ -28936,7 +30036,7 @@
             "disease",
             "incidence"
         ],
-        "tagged": [
+        "tags": [
             [
                 "given",
                 "VBN"
@@ -29442,6 +30542,24 @@
         ],
         "ner_tag": "{'In': 'O', 'fact': 'O', ',': 'O', 'it': 'O', 'has': 'O', 'been': 'O', 'proposed': 'O', 'that': 'O', 'we': 'O', 'might': 'O', 'expect': 'O', 'an': 'O', '88': 'PERCENT', '%': 'PERCENT', 'reduction': 'O', 'in': 'O', 'child': 'O', 'mortality': 'O', 'resulting': 'O', 'from': 'O', 'diarrheal': 'CAUSE_OF_DEATH', 'disease': 'CAUSE_OF_DEATH', 'as': 'O', 'a': 'O', 'result': 'O', 'of': 'O', 'improved': 'O', 'water': 'O', 'sanitation': 'O', 'and': 'O', 'hygiene': 'O', '.': 'O'}",
         "sentence": "In fact, it has been proposed that we might expect an 88% reduction in child mortality resulting from diarrheal disease as a result of improved water sanitation and hygiene.",
+        "stems": [
+            "fact",
+            "propos",
+            "might",
+            "expect",
+            "88",
+            "reduct",
+            "child",
+            "mortal",
+            "result",
+            "diarrheal",
+            "diseas",
+            "result",
+            "improv",
+            "water",
+            "sanit",
+            "hygien"
+        ],
         "synonyms": [
             "fact",
             "propose",
@@ -29460,7 +30578,7 @@
             "sanitation",
             "hygiene"
         ],
-        "tagged": [
+        "tags": [
             [
                 "fact",
                 "NN"
@@ -30046,6 +31164,28 @@
         ],
         "ner_tag": "{'Similarly': 'O', ',': 'O', 'a': 'O', 'meta': 'O', '-': 'O', 'analysis': 'O', 'of': 'O', 'numerous': 'O', 'studies': 'O', 'on': 'O', 'improving': 'O', 'water': 'O', 'supply': 'O', 'and': 'O', 'sanitation': 'O', 'shows': 'O', '22': 'NUMBER', '–': 'O', '27': 'PERCENT', '%': 'PERCENT', 'reduction': 'O', 'in': 'O', 'disease': 'CAUSE_OF_DEATH', 'incidence': 'O', '21': 'NUMBER', '30': 'PERCENT', 'mortality': 'O', 'rate': 'O', 'associated': 'O', 'with': 'O', 'diarrheal': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "Similarly, a meta-analysis of numerous studies on improving water supply and sanitation shows a 22–27% reduction in disease incidence, and a 21–30% reduction in mortality rate associated with diarrheal disease.",
+        "stems": [
+            "similarli",
+            "meta-analysi",
+            "numer",
+            "studi",
+            "improv",
+            "water",
+            "suppli",
+            "sanit",
+            "show",
+            "22–27",
+            "reduct",
+            "diseas",
+            "incid",
+            "21–30",
+            "reduct",
+            "mortal",
+            "rate",
+            "associ",
+            "diarrheal",
+            "diseas"
+        ],
         "synonyms": [
             "similarly",
             "meta-analysis",
@@ -30068,7 +31208,7 @@
             "diarrheal",
             "disease"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similarly",
                 "RB"
@@ -30475,6 +31615,22 @@
         ],
         "ner_tag": "{'Immunization': 'O', 'against': 'O', 'the': 'O', 'pathogens': 'O', 'that': 'O', 'cause': 'O', 'diarrheal': 'CAUSE_OF_DEATH', 'disease': 'CAUSE_OF_DEATH', 'is': 'O', 'a': 'O', 'viable': 'O', 'prevention': 'O', 'strategy': 'O', ',': 'O', 'however': 'O', 'it': 'O', 'does': 'O', 'require': 'O', 'targeting': 'O', 'certain': 'O', 'for': 'O', 'vaccination': 'O', '.': 'O'}",
         "sentence": "Immunization against the pathogens that cause diarrheal disease is a viable prevention strategy, however it does require targeting certain pathogens for vaccination.",
+        "stems": [
+            "immun",
+            "pathogen",
+            "caus",
+            "diarrheal",
+            "diseas",
+            "viabl",
+            "prevent",
+            "strategi",
+            "howev",
+            "requir",
+            "target",
+            "certain",
+            "pathogen",
+            "vaccin"
+        ],
         "synonyms": [
             "immunization",
             "pathogen",
@@ -30491,7 +31647,7 @@
             "pathogen",
             "vaccination"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immunization",
                 "NN"
@@ -31353,6 +32509,39 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'case': 'O', 'of': 'O', 'Rotavirus': 'MISC', ',': 'O', 'which': 'O', 'was': 'O', 'responsible': 'O', 'for': 'O', 'around': 'O', '6': 'PERCENT', '%': 'PERCENT', 'diarrheal': 'CAUSE_OF_DEATH', 'episodes': 'O', 'and': 'O', '20': 'PERCENT', 'disease': 'CAUSE_OF_DEATH', 'deaths': 'O', 'in': 'O', 'children': 'O', 'developing': 'O', 'countries': 'O', 'use': 'O', 'a': 'O', 'vaccine': 'O', 'trials': 'O', '1985': 'DATE', 'yielded': 'O', 'slight': 'O', '(': 'O', '2': 'PERCENT', '-': 'PERCENT', '3': 'PERCENT', ')': 'O', 'decrease': 'O', 'total': 'O', 'incidence': 'O', 'while': 'O', 'reducing': 'O', 'overall': 'O', 'mortality': 'O', 'by': 'O', '10': 'PERCENT', '.': 'O'}",
         "sentence": "In the case of Rotavirus, which was responsible for around 6% of diarrheal episodes and 20% of diarrheal disease deaths in the children of developing countries, use of a Rotavirus vaccine in trials in 1985 yielded a slight (2-3%) decrease in total diarrheal disease incidence, while reducing overall mortality by 6-10%.",
+        "stems": [
+            "case",
+            "rotaviru",
+            "respons",
+            "around",
+            "6",
+            "diarrheal",
+            "episod",
+            "20",
+            "diarrheal",
+            "diseas",
+            "death",
+            "children",
+            "develop",
+            "countri",
+            "use",
+            "rotaviru",
+            "vaccin",
+            "trial",
+            "1985",
+            "yield",
+            "slight",
+            "2-3",
+            "decreas",
+            "total",
+            "diarrheal",
+            "diseas",
+            "incid",
+            "reduc",
+            "overal",
+            "mortal",
+            "6-10"
+        ],
         "synonyms": [
             "subject",
             "rotavirus",
@@ -31386,7 +32575,7 @@
             "mortality",
             "6-10"
         ],
-        "tagged": [
+        "tags": [
             [
                 "case",
                 "NN"
@@ -31986,6 +33175,28 @@
         ],
         "ner_tag": "{'Similarly': 'O', ',': 'O', 'a': 'O', 'Cholera': 'CAUSE_OF_DEATH', 'vaccine': 'O', 'showed': 'O', 'strong': 'O', 'reduction': 'O', 'in': 'O', 'morbidity': 'O', 'and': 'O', 'mortality': 'O', 'though': 'O', 'the': 'O', 'overall': 'O', 'impact': 'O', 'of': 'O', 'vaccination': 'O', 'was': 'O', 'minimal': 'O', 'as': 'O', 'is': 'O', 'not': 'O', 'one': 'NUMBER', 'major': 'O', 'causative': 'O', 'pathogens': 'O', 'diarrheal': 'CAUSE_OF_DEATH', 'disease': 'CAUSE_OF_DEATH', '.': 'O'}",
         "sentence": "Similarly, a Cholera vaccine showed a strong reduction in morbidity and mortality, though the overall impact of vaccination was minimal as Cholera is not one of the major causative pathogens of diarrheal disease.",
+        "stems": [
+            "similarli",
+            "cholera",
+            "vaccin",
+            "show",
+            "strong",
+            "reduct",
+            "morbid",
+            "mortal",
+            "though",
+            "overal",
+            "impact",
+            "vaccin",
+            "minim",
+            "cholera",
+            "one",
+            "major",
+            "caus",
+            "pathogen",
+            "diarrheal",
+            "diseas"
+        ],
         "synonyms": [
             "similarly",
             "cholera",
@@ -32008,7 +33219,7 @@
             "diarrheal",
             "disease"
         ],
-        "tagged": [
+        "tags": [
             [
                 "similarly",
                 "RB"
@@ -32583,6 +33794,26 @@
         ],
         "ner_tag": "{'Since': 'O', 'this': 'O', 'time': 'O', ',': 'O', 'more': 'O', 'effective': 'O', 'vaccines': 'O', 'have': 'O', 'been': 'O', 'developed': 'O', 'that': 'O', 'the': 'O', 'potential': 'O', 'to': 'O', 'save': 'O', 'many': 'O', 'thousands': 'O', 'of': 'O', 'lives': 'O', 'in': 'O', 'developing': 'O', 'nations': 'O', 'while': 'O', 'reducing': 'O', 'overall': 'O', 'cost': 'O', 'treatment': 'O', 'and': 'O', 'costs': 'O', 'society': 'O', '.': 'O'}",
         "sentence": "Since this time, more effective vaccines have been developed that have the potential to save many thousands of lives in developing nations, while reducing the overall cost of treatment, and the costs to society.",
+        "stems": [
+            "sinc",
+            "time",
+            "effect",
+            "vaccin",
+            "develop",
+            "potenti",
+            "save",
+            "mani",
+            "thousand",
+            "live",
+            "develop",
+            "nation",
+            "reduc",
+            "overal",
+            "cost",
+            "treatment",
+            "cost",
+            "societi"
+        ],
         "synonyms": [
             "since",
             "time",
@@ -32603,7 +33834,7 @@
             "price",
             "society"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -32883,6 +34114,17 @@
         ],
         "ner_tag": "{'Dietary': 'O', 'deficiencies': 'O', 'in': 'O', 'developing': 'O', 'countries': 'O', 'can': 'O', 'be': 'O', 'combated': 'O', 'by': 'O', 'promoting': 'O', 'better': 'O', 'eating': 'O', 'practices': 'O', '.': 'O'}",
         "sentence": "Dietary deficiencies in developing countries can be combated by promoting better eating practices.",
+        "stems": [
+            "dietari",
+            "defici",
+            "develop",
+            "countri",
+            "combat",
+            "promot",
+            "better",
+            "eat",
+            "practic"
+        ],
         "synonyms": [
             "dietary",
             "lack",
@@ -32894,7 +34136,7 @@
             "eat",
             "rehearse"
         ],
-        "tagged": [
+        "tags": [
             [
                 "dietary",
                 "JJ"
@@ -33058,13 +34300,19 @@
         "meronyms": [],
         "ner_tag": "{'Supplementation': 'O', 'with': 'O', 'vitamin': 'O', 'A': 'O', 'and': 'O', '/': 'O', 'or': 'O', 'zinc': 'O', '.': 'O'}",
         "sentence": "Supplementation with vitamin A and/or zinc.",
+        "stems": [
+            "supplement",
+            "vitamin",
+            "and/or",
+            "zinc"
+        ],
         "synonyms": [
             "supplement",
             "vitamin",
             "and/or",
             "zinc"
         ],
-        "tagged": [
+        "tags": [
             [
                 "supplementation",
                 "NN"
@@ -33345,6 +34593,21 @@
         ],
         "ner_tag": "{'Zinc': 'O', 'supplementation': 'O', 'proved': 'O', 'successful': 'O', 'showing': 'O', 'a': 'O', 'significant': 'O', 'decrease': 'O', 'in': 'O', 'the': 'O', 'incidence': 'O', 'of': 'O', 'diarrheal': 'CAUSE_OF_DEATH', 'disease': 'CAUSE_OF_DEATH', 'compared': 'O', 'to': 'O', 'control': 'O', 'group': 'O', '.': 'O'}",
         "sentence": "Zinc supplementation proved successful showing a significant decrease in the incidence of diarrheal disease compared to a control group.",
+        "stems": [
+            "zinc",
+            "supplement",
+            "prove",
+            "success",
+            "show",
+            "signific",
+            "decreas",
+            "incid",
+            "diarrheal",
+            "diseas",
+            "compar",
+            "control",
+            "group"
+        ],
         "synonyms": [
             "zinc",
             "supplement",
@@ -33360,7 +34623,7 @@
             "master",
             "group"
         ],
-        "tagged": [
+        "tags": [
             [
                 "zinc",
                 "NN"
@@ -33648,6 +34911,17 @@
         ],
         "ner_tag": "{'The': 'O', 'majority': 'O', 'of': 'O', 'the': 'O', 'literature': 'O', 'suggests': 'O', 'that': 'O', 'vitamin': 'O', 'A': 'O', 'supplementation': 'O', 'is': 'O', 'advantageous': 'O', 'in': 'O', 'reducing': 'O', 'disease': 'CAUSE_OF_DEATH', 'incidence': 'O', '.': 'O'}",
         "sentence": "The majority of the literature suggests that vitamin A supplementation is advantageous in reducing disease incidence.",
+        "stems": [
+            "major",
+            "literatur",
+            "suggest",
+            "vitamin",
+            "supplement",
+            "advantag",
+            "reduc",
+            "diseas",
+            "incid"
+        ],
         "synonyms": [
             "majority",
             "literature",
@@ -33659,7 +34933,7 @@
             "disease",
             "incidence"
         ],
-        "tagged": [
+        "tags": [
             [
                 "majority",
                 "NN"
@@ -34265,6 +35539,31 @@
         ],
         "ner_tag": "{'Development': 'O', 'of': 'O', 'a': 'O', 'supplementation': 'O', 'strategy': 'O', 'should': 'O', 'take': 'O', 'into': 'O', 'consideration': 'O', 'the': 'O', 'fact': 'O', 'that': 'O', 'vitamin': 'O', 'A': 'O', 'was': 'O', 'less': 'O', 'effective': 'O', 'in': 'O', 'reducing': 'O', 'diarrhea': 'O', 'incidence': 'O', 'when': 'O', 'compared': 'O', 'to': 'O', 'and': 'O', 'zinc': 'O', ',': 'O', 'latter': 'O', 'estimated': 'O', 'be': 'O', 'significantly': 'O', 'more': 'O', 'cost': 'O', '.': 'O'}",
         "sentence": "Development of a supplementation strategy should take into consideration the fact that vitamin A supplementation was less effective in reducing diarrhea incidence when compared to vitamin A and zinc supplementation, and that the latter strategy was estimated to be significantly more cost effective.",
+        "stems": [
+            "develop",
+            "supplement",
+            "strategi",
+            "take",
+            "consider",
+            "fact",
+            "vitamin",
+            "supplement",
+            "less",
+            "effect",
+            "reduc",
+            "diarrhea",
+            "incid",
+            "compar",
+            "vitamin",
+            "zinc",
+            "supplement",
+            "latter",
+            "strategi",
+            "estim",
+            "significantli",
+            "cost",
+            "effect"
+        ],
         "synonyms": [
             "growth",
             "supplement",
@@ -34290,7 +35589,7 @@
             "price",
             "effective"
         ],
-        "tagged": [
+        "tags": [
             [
                 "development",
                 "NN"
@@ -34623,6 +35922,17 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'many': 'O', 'cases': 'O', 'of': 'O', 'diarrhea': 'O', ',': 'O', 'replacing': 'O', 'lost': 'O', 'fluid': 'O', 'and': 'O', 'salts': 'O', 'is': 'O', 'the': 'O', 'only': 'O', 'treatment': 'O', 'needed': 'O', '.': 'O'}",
         "sentence": "In many cases of diarrhea, replacing lost fluid and salts is the only treatment needed.",
+        "stems": [
+            "mani",
+            "case",
+            "diarrhea",
+            "replac",
+            "lost",
+            "fluid",
+            "salt",
+            "treatment",
+            "need"
+        ],
         "synonyms": [
             "many",
             "subject",
@@ -34634,7 +35944,7 @@
             "treatment",
             "need"
         ],
-        "tagged": [
+        "tags": [
             [
                 "many",
                 "JJ"
@@ -34902,6 +36212,18 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'is': 'O', 'usually': 'O', 'by': 'O', 'mouth': 'O', '–': 'O', 'oral': 'O', 'rehydration': 'O', 'therapy': 'O', 'or': 'O', ',': 'O', 'in': 'O', 'severe': 'O', 'cases': 'O', 'intravenously': 'O', '.': 'O'}",
         "sentence": "This is usually by mouth – oral rehydration therapy – or, in severe cases, intravenously.",
+        "stems": [
+            "usual",
+            "mouth",
+            "–",
+            "oral",
+            "rehydr",
+            "therapi",
+            "–",
+            "sever",
+            "case",
+            "intraven"
+        ],
         "synonyms": [
             "normally",
             "mouthpiece",
@@ -34914,7 +36236,7 @@
             "subject",
             "intravenously"
         ],
-        "tagged": [
+        "tags": [
             [
                 "usually",
                 "RB"
@@ -35120,6 +36442,14 @@
         "meronyms": [],
         "ner_tag": "{'Diet': 'O', 'restrictions': 'O', 'such': 'O', 'as': 'O', 'the': 'O', 'BRAT': 'O', 'diet': 'O', 'are': 'O', 'no': 'O', 'longer': 'O', 'recommended': 'O', '.': 'O'}",
         "sentence": "Diet restrictions such as the BRAT diet are no longer recommended.",
+        "stems": [
+            "diet",
+            "restrict",
+            "brat",
+            "diet",
+            "longer",
+            "recommend"
+        ],
         "synonyms": [
             "diet",
             "restriction",
@@ -35128,7 +36458,7 @@
             "longer",
             "commend"
         ],
-        "tagged": [
+        "tags": [
             [
                 "diet",
                 "JJ"
@@ -35423,6 +36753,16 @@
         "meronyms": [],
         "ner_tag": "{'Research': 'O', 'does': 'O', 'not': 'O', 'support': 'O', 'the': 'O', 'limiting': 'O', 'of': 'O', 'milk': 'O', 'to': 'O', 'children': 'O', 'as': 'O', 'doing': 'O', 'so': 'O', 'has': 'O', 'no': 'O', 'effect': 'O', 'on': 'O', 'duration': 'O', 'diarrhea': 'O', '.': 'O'}",
         "sentence": "Research does not support the limiting of milk to children as doing so has no effect on duration of diarrhea.",
+        "stems": [
+            "research",
+            "support",
+            "limit",
+            "milk",
+            "children",
+            "effect",
+            "durat",
+            "diarrhea"
+        ],
         "synonyms": [
             "research",
             "support",
@@ -35433,7 +36773,7 @@
             "duration",
             "diarrhea"
         ],
-        "tagged": [
+        "tags": [
             [
                 "research",
                 "NN"
@@ -36001,6 +37341,32 @@
         "meronyms": [],
         "ner_tag": "{'To': 'O', 'the': 'O', 'contrary': 'O', ',': 'O', 'WHO': 'ORGANIZATION', 'recommends': 'O', 'that': 'O', 'children': 'O', 'with': 'O', 'diarrhea': 'O', 'continue': 'O', 'to': 'O', 'eat': 'O', 'as': 'O', 'sufficient': 'O', 'nutrients': 'O', 'are': 'O', 'usually': 'O', 'still': 'O', 'absorbed': 'O', 'support': 'O', 'continued': 'O', 'growth': 'O', 'and': 'O', 'weight': 'O', 'gain': 'O', 'continuing': 'O', 'also': 'O', 'speeds': 'O', 'up': 'O', 'recovery': 'O', 'of': 'O', 'normal': 'O', 'intestinal': 'O', 'functioning': 'O', '.': 'O'}",
         "sentence": "To the contrary, WHO recommends that children with diarrhea continue to eat as sufficient nutrients are usually still absorbed to support continued growth and weight gain, and that continuing to eat also speeds up recovery of normal intestinal functioning.",
+        "stems": [
+            "contrari",
+            "recommend",
+            "children",
+            "diarrhea",
+            "continu",
+            "eat",
+            "suffici",
+            "nutrient",
+            "usual",
+            "still",
+            "absorb",
+            "support",
+            "continu",
+            "growth",
+            "weight",
+            "gain",
+            "continu",
+            "eat",
+            "also",
+            "speed",
+            "recoveri",
+            "normal",
+            "intestin",
+            "function"
+        ],
         "synonyms": [
             "reverse",
             "commend",
@@ -36027,7 +37393,7 @@
             "intestinal",
             "serve"
         ],
-        "tagged": [
+        "tags": [
             [
                 "contrary",
                 "JJ"
@@ -36322,6 +37688,16 @@
         ],
         "ner_tag": "{'CDC': 'ORGANIZATION', 'recommends': 'O', 'that': 'O', 'children': 'O', 'and': 'O', 'adults': 'O', 'with': 'O', 'cholera': 'CAUSE_OF_DEATH', 'also': 'O', 'continue': 'O', 'to': 'O', 'eat': 'O', '.': 'O'}",
         "sentence": "CDC recommends that children and adults with cholera also continue to eat.",
+        "stems": [
+            "cdc",
+            "recommend",
+            "children",
+            "adult",
+            "cholera",
+            "also",
+            "continu",
+            "eat"
+        ],
         "synonyms": [
             "Center_for_Disease_Control_and_Prevention",
             "commend",
@@ -36332,7 +37708,7 @@
             "stay",
             "eat"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cdc",
                 "NN"
@@ -36639,6 +38015,19 @@
         ],
         "ner_tag": "{'Oral': 'O', 'rehydration': 'O', 'solution': 'O', '(': 'O', 'ORS': 'O', ')': 'O', 'a': 'O', 'slightly': 'O', 'sweetened': 'O', 'and': 'O', 'salty': 'O', 'water': 'O', 'can': 'O', 'be': 'O', 'used': 'O', 'to': 'O', 'prevent': 'O', 'dehydration': 'O', '.': 'O'}",
         "sentence": "Oral rehydration solution (ORS) (a slightly sweetened and salty water) can be used to prevent dehydration.",
+        "stems": [
+            "oral",
+            "rehydr",
+            "solut",
+            "or",
+            "slightli",
+            "sweeten",
+            "salti",
+            "water",
+            "use",
+            "prevent",
+            "dehydr"
+        ],
         "synonyms": [
             "oral",
             "rehydration",
@@ -36652,7 +38041,7 @@
             "prevent",
             "dehydration"
         ],
-        "tagged": [
+        "tags": [
             [
                 "oral",
                 "JJ"
@@ -37004,6 +38393,22 @@
         ],
         "ner_tag": "{'Standard': 'O', 'home': 'O', 'solutions': 'O', 'such': 'O', 'as': 'O', 'salted': 'O', 'rice': 'O', 'water': 'O', ',': 'O', 'yogurt': 'O', 'drinks': 'O', 'vegetable': 'O', 'and': 'O', 'chicken': 'O', 'soups': 'O', 'with': 'O', 'salt': 'O', 'can': 'O', 'be': 'O', 'given': 'O', '.': 'O'}",
         "sentence": "Standard home solutions such as salted rice water, salted yogurt drinks, vegetable and chicken soups with salt can be given.",
+        "stems": [
+            "standard",
+            "home",
+            "solut",
+            "salt",
+            "rice",
+            "water",
+            "salt",
+            "yogurt",
+            "drink",
+            "veget",
+            "chicken",
+            "soup",
+            "salt",
+            "given"
+        ],
         "synonyms": [
             "standard",
             "home_plate",
@@ -37020,7 +38425,7 @@
             "salt",
             "given"
         ],
-        "tagged": [
+        "tags": [
             [
                 "standard",
                 "JJ"
@@ -37780,6 +39185,36 @@
         ],
         "ner_tag": "{'Home': 'O', 'solutions': 'O', 'such': 'O', 'as': 'O', 'water': 'O', 'in': 'O', 'which': 'O', 'cereal': 'O', 'has': 'O', 'been': 'O', 'cooked': 'O', ',': 'O', 'unsalted': 'O', 'soup': 'O', 'green': 'O', 'coconut': 'O', 'weak': 'O', 'tea': 'O', '(': 'O', 'unsweetened': 'O', ')': 'O', 'and': 'NUMBER', 'fresh': 'O', 'fruit': 'O', 'juices': 'O', 'can': 'O', 'have': 'O', 'from': 'O', 'half': 'O', 'a': 'O', 'teaspoon': 'O', 'to': 'NUMBER', 'full': 'O', 'of': 'O', 'salt': 'O', 'one': 'NUMBER', '-': 'NUMBER', 'a-half': 'NUMBER', 'three': 'NUMBER', 'grams': 'O', 'added': 'O', 'per': 'O', 'liter': 'O', '.': 'O'}",
         "sentence": "Home solutions such as water in which cereal has been cooked, unsalted soup, green coconut water, weak tea (unsweetened), and unsweetened fresh fruit juices can have from half a teaspoon to full teaspoon of salt (from one-and-a-half to three grams) added per liter.",
+        "stems": [
+            "home",
+            "solut",
+            "water",
+            "cereal",
+            "cook",
+            "unsalt",
+            "soup",
+            "green",
+            "coconut",
+            "water",
+            "weak",
+            "tea",
+            "unsweeten",
+            "unsweeten",
+            "fresh",
+            "fruit",
+            "juic",
+            "half",
+            "teaspoon",
+            "full",
+            "teaspoon",
+            "salt",
+            "one-and-a-half",
+            "three",
+            "gram",
+            "ad",
+            "per",
+            "liter"
+        ],
         "synonyms": [
             "home_plate",
             "solution",
@@ -37810,7 +39245,7 @@
             "per",
             "liter"
         ],
-        "tagged": [
+        "tags": [
             [
                 "home",
                 "NN"
@@ -38111,6 +39546,16 @@
         ],
         "ner_tag": "{'Clean': 'O', 'plain': 'O', 'water': 'O', 'can': 'O', 'also': 'O', 'be': 'O', 'one': 'NUMBER', 'of': 'O', 'several': 'O', 'fluids': 'O', 'given': 'O', '.': 'O'}",
         "sentence": "Clean plain water can also be one of several fluids given.",
+        "stems": [
+            "clean",
+            "plain",
+            "water",
+            "also",
+            "one",
+            "sever",
+            "fluid",
+            "given"
+        ],
         "synonyms": [
             "clean_and_jerk",
             "knit",
@@ -38121,7 +39566,7 @@
             "fluid",
             "given"
         ],
-        "tagged": [
+        "tags": [
             [
                 "clean",
                 "JJ"
@@ -38440,6 +39885,19 @@
         "meronyms": [],
         "ner_tag": "{'There': 'O', 'are': 'O', 'commercial': 'O', 'solutions': 'O', 'such': 'O', 'as': 'O', 'Pedialyte': 'O', ',': 'O', 'and': 'O', 'relief': 'O', 'agencies': 'O', 'UNICEF': 'ORGANIZATION', 'widely': 'O', 'distribute': 'O', 'packets': 'O', 'of': 'O', 'salts': 'O', 'sugar': 'O', '.': 'O'}",
         "sentence": "There are commercial solutions such as Pedialyte, and relief agencies such as UNICEF widely distribute packets of salts and sugar.",
+        "stems": [
+            "commerci",
+            "solut",
+            "pedialyt",
+            "relief",
+            "agenc",
+            "unicef",
+            "wide",
+            "distribut",
+            "packet",
+            "salt",
+            "sugar"
+        ],
         "synonyms": [
             "commercial",
             "solution",
@@ -38453,7 +39911,7 @@
             "salt",
             "sugar"
         ],
-        "tagged": [
+        "tags": [
             [
                 "commercial",
                 "JJ"
@@ -39026,6 +40484,33 @@
         ],
         "ner_tag": "{'A': 'O', 'WHO': 'O', 'publication': 'O', 'for': 'O', 'physicians': 'O', 'recommends': 'O', 'a': 'O', 'homemade': 'O', 'ORS': 'O', 'consisting': 'O', 'of': 'O', 'one': 'NUMBER', 'liter': 'O', 'water': 'O', 'with': 'O', 'teaspoon': 'O', 'salt': 'O', '(': 'O', '3': 'NUMBER', 'grams': 'O', ')': 'O', 'and': 'O', 'two': 'NUMBER', 'tablespoons': 'O', 'sugar': 'O', '18': 'NUMBER', 'added': 'O', 'approximately': 'O', 'the': 'O', '``': 'O', 'taste': 'O', 'tears': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "A WHO publication for physicians recommends a homemade ORS consisting of one liter water with one teaspoon salt (3 grams) and two tablespoons sugar (18 grams) added (approximately the \"taste of tears\").",
+        "stems": [
+            "public",
+            "physician",
+            "recommend",
+            "homemad",
+            "or",
+            "consist",
+            "one",
+            "liter",
+            "water",
+            "one",
+            "teaspoon",
+            "salt",
+            "3",
+            "gram",
+            "two",
+            "tablespoon",
+            "sugar",
+            "18",
+            "gram",
+            "ad",
+            "approxim",
+            "``",
+            "tast",
+            "tear",
+            "''"
+        ],
         "synonyms": [
             "publication",
             "doctor",
@@ -39053,7 +40538,7 @@
             "tear",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "publication",
                 "NN"
@@ -39612,6 +41097,25 @@
         "meronyms": [],
         "ner_tag": "{'Rehydration': 'O', 'Project': 'O', 'recommends': 'O', 'adding': 'O', 'the': 'O', 'same': 'O', 'amount': 'O', 'of': 'O', 'sugar': 'O', 'but': 'O', 'only': 'O', 'one': 'NUMBER', '-': 'NUMBER', 'half': 'NUMBER', 'a': 'O', 'teaspoon': 'O', 'salt': 'O', ',': 'O', 'stating': 'O', 'that': 'O', 'this': 'O', 'more': 'O', 'dilute': 'O', 'approach': 'O', 'is': 'O', 'less': 'O', 'risky': 'O', 'with': 'O', 'very': 'O', 'little': 'O', 'loss': 'O', 'effectiveness': 'O', '.': 'O'}",
         "sentence": "Rehydration Project recommends adding the same amount of sugar but only one-half a teaspoon of salt, stating that this more dilute approach is less risky with very little loss of effectiveness.",
+        "stems": [
+            "rehydr",
+            "project",
+            "recommend",
+            "ad",
+            "amount",
+            "sugar",
+            "one-half",
+            "teaspoon",
+            "salt",
+            "state",
+            "dilut",
+            "approach",
+            "less",
+            "riski",
+            "littl",
+            "loss",
+            "effect"
+        ],
         "synonyms": [
             "rehydration",
             "project",
@@ -39631,7 +41135,7 @@
             "loss",
             "potency"
         ],
-        "tagged": [
+        "tags": [
             [
                 "rehydration",
                 "NN"
@@ -39913,6 +41417,16 @@
         "meronyms": [],
         "ner_tag": "{'Both': 'O', 'agree': 'O', 'that': 'O', 'drinks': 'O', 'with': 'O', 'too': 'O', 'much': 'O', 'sugar': 'O', 'or': 'O', 'salt': 'O', 'can': 'O', 'make': 'O', 'dehydration': 'O', 'worse': 'O', '.': 'O'}",
         "sentence": "Both agree that drinks with too much sugar or salt can make dehydration worse.",
+        "stems": [
+            "agre",
+            "drink",
+            "much",
+            "sugar",
+            "salt",
+            "make",
+            "dehydr",
+            "wors"
+        ],
         "synonyms": [
             "agree",
             "toast",
@@ -39923,7 +41437,7 @@
             "dehydration",
             "worse"
         ],
-        "tagged": [
+        "tags": [
             [
                 "agree",
                 "JJ"
@@ -40360,6 +41874,25 @@
         ],
         "ner_tag": "{'Drinks': 'O', 'especially': 'O', 'high': 'O', 'in': 'O', 'simple': 'O', 'sugars': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'soft': 'O', 'drinks': 'O', 'and': 'O', 'fruit': 'O', 'juices': 'O', 'are': 'O', 'not': 'O', 'recommended': 'O', 'children': 'O', 'under': 'O', '5': 'DURATION', 'years': 'DURATION', 'of': 'O', 'age': 'O', 'they': 'O', 'may': 'O', 'increase': 'O', 'dehydration': 'O', '.': 'O'}",
         "sentence": "Drinks especially high in simple sugars, such as soft drinks and fruit juices, are not recommended in children under 5 years of age as they may increase dehydration.",
+        "stems": [
+            "drink",
+            "especi",
+            "high",
+            "simpl",
+            "sugar",
+            "soft",
+            "drink",
+            "fruit",
+            "juic",
+            "recommend",
+            "children",
+            "5",
+            "year",
+            "age",
+            "may",
+            "increas",
+            "dehydr"
+        ],
         "synonyms": [
             "toast",
             "specially",
@@ -40379,7 +41912,7 @@
             "increase",
             "dehydration"
         ],
-        "tagged": [
+        "tags": [
             [
                 "drinks",
                 "NNS"
@@ -40806,6 +42339,19 @@
         ],
         "ner_tag": "{'A': 'O', 'too': 'O', 'rich': 'O', 'solution': 'O', 'in': 'O', 'the': 'O', 'gut': 'O', 'draws': 'O', 'water': 'O', 'from': 'O', 'rest': 'O', 'of': 'O', 'body': 'O', ',': 'O', 'just': 'O', 'as': 'O', 'if': 'O', 'person': 'O', 'were': 'O', 'to': 'O', 'drink': 'O', 'sea': 'O', '.': 'O'}",
         "sentence": "A too rich solution in the gut draws water from the rest of the body, just as if the person were to drink sea water.",
+        "stems": [
+            "rich",
+            "solut",
+            "gut",
+            "draw",
+            "water",
+            "rest",
+            "bodi",
+            "person",
+            "drink",
+            "sea",
+            "water"
+        ],
         "synonyms": [
             "rich",
             "solution",
@@ -40819,7 +42365,7 @@
             "sea",
             "water_system"
         ],
-        "tagged": [
+        "tags": [
             [
                 "rich",
                 "JJ"
@@ -41114,6 +42660,18 @@
         ],
         "ner_tag": "{'Plain': 'O', 'water': 'O', 'may': 'O', 'be': 'O', 'used': 'O', 'if': 'O', 'more': 'O', 'specific': 'O', 'and': 'O', 'effective': 'O', 'ORT': 'O', 'preparations': 'O', 'are': 'O', 'unavailable': 'O', 'or': 'O', 'not': 'O', 'palatable': 'O', '.': 'O'}",
         "sentence": "Plain water may be used if more specific and effective ORT preparations are unavailable or are not palatable.",
+        "stems": [
+            "plain",
+            "water",
+            "may",
+            "use",
+            "specif",
+            "effect",
+            "ort",
+            "prepar",
+            "unavail",
+            "palat"
+        ],
         "synonyms": [
             "knit",
             "water_system",
@@ -41126,7 +42684,7 @@
             "unavailable",
             "palatable"
         ],
-        "tagged": [
+        "tags": [
             [
                 "plain",
                 "JJ"
@@ -41646,6 +43204,26 @@
         ],
         "ner_tag": "{'Additionally': 'O', ',': 'O', 'a': 'O', 'mix': 'O', 'of': 'O', 'both': 'O', 'plain': 'O', 'water': 'O', 'and': 'O', 'drinks': 'O', 'perhaps': 'O', 'too': 'O', 'rich': 'O', 'in': 'O', 'sugar': 'O', 'salt': 'O', 'can': 'O', 'alternatively': 'O', 'be': 'O', 'given': 'O', 'to': 'O', 'the': 'O', 'same': 'O', 'person': 'O', 'with': 'O', 'goal': 'O', 'providing': 'O', 'medium': 'O', 'amount': 'O', 'sodium': 'O', 'overall': 'O', '.': 'O'}",
         "sentence": "Additionally, a mix of both plain water and drinks perhaps too rich in sugar and salt can alternatively be given to the same person, with the goal of providing a medium amount of sodium overall.",
+        "stems": [
+            "addit",
+            "mix",
+            "plain",
+            "water",
+            "drink",
+            "perhap",
+            "rich",
+            "sugar",
+            "salt",
+            "altern",
+            "given",
+            "person",
+            "goal",
+            "provid",
+            "medium",
+            "amount",
+            "sodium",
+            "overal"
+        ],
         "synonyms": [
             "additionally",
             "shuffle",
@@ -41666,7 +43244,7 @@
             "sodium",
             "overall"
         ],
-        "tagged": [
+        "tags": [
             [
                 "additionally",
                 "RB"
@@ -41948,6 +43526,16 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'nasogastric': 'O', 'tube': 'O', 'can': 'O', 'be': 'O', 'used': 'O', 'in': 'O', 'young': 'O', 'children': 'O', 'to': 'O', 'administer': 'O', 'fluids': 'O', 'if': 'O', 'warranted': 'O', '.': 'O'}",
         "sentence": "A nasogastric tube can be used in young children to administer fluids if warranted.",
+        "stems": [
+            "nasogastr",
+            "tube",
+            "use",
+            "young",
+            "children",
+            "administ",
+            "fluid",
+            "warrant"
+        ],
         "synonyms": [
             "nasogastric",
             "tube",
@@ -41958,7 +43546,7 @@
             "fluid",
             "justify"
         ],
-        "tagged": [
+        "tags": [
             [
                 "nasogastric",
                 "JJ"
@@ -42145,6 +43733,13 @@
         "meronyms": [],
         "ner_tag": "{'WHO': 'O', 'recommends': 'O', 'a': 'O', 'child': 'O', 'with': 'O', 'diarrhea': 'O', 'continue': 'O', 'to': 'O', 'be': 'O', 'fed': 'O', '.': 'O'}",
         "sentence": "WHO recommends a child with diarrhea continue to be fed.",
+        "stems": [
+            "recommend",
+            "child",
+            "diarrhea",
+            "continu",
+            "fed"
+        ],
         "synonyms": [
             "commend",
             "child",
@@ -42152,7 +43747,7 @@
             "stay",
             "run"
         ],
-        "tagged": [
+        "tags": [
             [
                 "recommends",
                 "NNS"
@@ -42315,6 +43910,15 @@
         "meronyms": [],
         "ner_tag": "{'Continued': 'O', 'feeding': 'O', 'speeds': 'O', 'the': 'O', 'recovery': 'O', 'of': 'O', 'normal': 'O', 'intestinal': 'O', 'function': 'O', '.': 'O'}",
         "sentence": "Continued feeding speeds the recovery of normal intestinal function.",
+        "stems": [
+            "continu",
+            "feed",
+            "speed",
+            "recoveri",
+            "normal",
+            "intestin",
+            "function"
+        ],
         "synonyms": [
             "stay",
             "run",
@@ -42324,7 +43928,7 @@
             "intestinal",
             "serve"
         ],
-        "tagged": [
+        "tags": [
             [
                 "continued",
                 "JJ"
@@ -42619,6 +44223,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'contrast': 'O', ',': 'O', 'children': 'O', 'whose': 'O', 'food': 'O', 'is': 'O', 'restricted': 'O', 'have': 'O', 'diarrhea': 'O', 'of': 'O', 'longer': 'O', 'duration': 'O', 'and': 'O', 'recover': 'O', 'intestinal': 'O', 'function': 'O', 'more': 'O', 'slowly': 'O', '.': 'O'}",
         "sentence": "In contrast, children whose food is restricted have diarrhea of longer duration and recover intestinal function more slowly.",
+        "stems": [
+            "contrast",
+            "children",
+            "whose",
+            "food",
+            "restrict",
+            "diarrhea",
+            "longer",
+            "durat",
+            "recov",
+            "intestin",
+            "function",
+            "slowli"
+        ],
         "synonyms": [
             "line",
             "child",
@@ -42633,7 +44251,7 @@
             "serve",
             "slowly"
         ],
-        "tagged": [
+        "tags": [
             [
                 "contrast",
                 "NN"
@@ -42810,13 +44428,19 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'child': 'O', 'should': 'O', 'also': 'O', 'continue': 'O', 'to': 'O', 'be': 'O', 'breastfed': 'O', '.': 'O'}",
         "sentence": "A child should also continue to be breastfed.",
+        "stems": [
+            "child",
+            "also",
+            "continu",
+            "breastf"
+        ],
         "synonyms": [
             "child",
             "besides",
             "stay",
             "breastfed"
         ],
-        "tagged": [
+        "tags": [
             [
                 "child",
                 "NN"
@@ -43090,6 +44714,18 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'WHO': 'O', 'states': 'O', '``': 'O', 'Food': 'O', 'should': 'O', 'never': 'O', 'be': 'O', 'withheld': 'O', 'and': 'O', 'the': 'O', 'child': 'O', \"'s\": 'O', 'usual': 'O', 'foods': 'O', 'not': 'O', 'diluted': 'O', '.': 'O'}",
         "sentence": "The WHO states \"Food should never be withheld and the child's usual foods should not be diluted.",
+        "stems": [
+            "state",
+            "``",
+            "food",
+            "never",
+            "withheld",
+            "child",
+            "'s",
+            "usual",
+            "food",
+            "dilut"
+        ],
         "synonyms": [
             "state",
             "``",
@@ -43102,7 +44738,7 @@
             "food",
             "load"
         ],
-        "tagged": [
+        "tags": [
             [
                 "states",
                 "NNS"
@@ -43247,13 +44883,19 @@
         "meronyms": [],
         "ner_tag": "{'Breastfeeding': 'O', 'should': 'O', 'always': 'O', 'be': 'O', 'continued': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "Breastfeeding should always be continued.\"",
+        "stems": [
+            "breastfeed",
+            "alway",
+            "continu",
+            "''"
+        ],
         "synonyms": [
             "breastfeed",
             "constantly",
             "stay",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "breastfeeding",
                 "NN"
@@ -43465,6 +45107,15 @@
         "meronyms": [],
         "ner_tag": "{'And': 'O', 'in': 'O', 'the': 'O', 'specific': 'O', 'example': 'O', 'of': 'O', 'cholera': 'CAUSE_OF_DEATH', ',': 'O', 'CDC': 'ORGANIZATION', 'also': 'O', 'makes': 'O', 'same': 'O', 'recommendation': 'O', '.': 'O'}",
         "sentence": "And in the specific example of cholera, CDC also makes the same recommendation.",
+        "stems": [
+            "specif",
+            "exampl",
+            "cholera",
+            "cdc",
+            "also",
+            "make",
+            "recommend"
+        ],
         "synonyms": [
             "specific",
             "model",
@@ -43474,7 +45125,7 @@
             "take",
             "recommendation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "specific",
                 "JJ"
@@ -43850,6 +45501,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'young': 'O', 'children': 'O', 'who': 'O', 'are': 'O', 'not': 'O', 'breast': 'O', '-': 'O', 'fed': 'O', 'and': 'O', 'live': 'O', 'in': 'O', 'the': 'O', 'developed': 'O', 'world': 'O', ',': 'O', 'a': 'O', 'lactose': 'O', 'free': 'O', 'diet': 'O', 'may': 'O', 'be': 'O', 'useful': 'O', 'to': 'O', 'speed': 'O', 'recovery': 'O', '.': 'O'}",
         "sentence": "In young children who are not breast-fed and live in the developed world, a lactose-free diet may be useful to speed recovery.",
+        "stems": [
+            "young",
+            "children",
+            "breast-f",
+            "live",
+            "develop",
+            "world",
+            "lactose-fre",
+            "diet",
+            "may",
+            "use",
+            "speed",
+            "recoveri"
+        ],
         "synonyms": [
             "Young",
             "child",
@@ -43864,7 +45529,7 @@
             "speed",
             "recovery"
         ],
-        "tagged": [
+        "tags": [
             [
                 "young",
                 "JJ"
@@ -44191,6 +45856,19 @@
         "meronyms": [],
         "ner_tag": "{'While': 'O', 'antibiotics': 'O', 'are': 'O', 'beneficial': 'O', 'in': 'O', 'certain': 'O', 'types': 'O', 'of': 'O', 'acute': 'O', 'diarrhea': 'O', ',': 'O', 'they': 'O', 'usually': 'O', 'not': 'O', 'used': 'O', 'except': 'O', 'specific': 'O', 'situations': 'O', '.': 'O'}",
         "sentence": "While antibiotics are beneficial in certain types of acute diarrhea, they are usually not used except in specific situations.",
+        "stems": [
+            "antibiot",
+            "benefici",
+            "certain",
+            "type",
+            "acut",
+            "diarrhea",
+            "usual",
+            "use",
+            "except",
+            "specif",
+            "situat"
+        ],
         "synonyms": [
             "antibiotic",
             "beneficial",
@@ -44204,7 +45882,7 @@
             "specific",
             "situation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "antibiotics",
                 "NNS"
@@ -44554,6 +46232,22 @@
         "meronyms": [],
         "ner_tag": "{'There': 'O', 'are': 'O', 'concerns': 'O', 'that': 'O', 'antibiotics': 'O', 'may': 'O', 'increase': 'O', 'the': 'O', 'risk': 'O', 'of': 'O', 'hemolytic': 'O', 'uremic': 'O', 'syndrome': 'O', 'in': 'O', 'people': 'O', 'infected': 'O', 'with': 'O', 'Escherichia': 'O', 'coli': 'O', 'O157': 'O', ':': 'O', 'H7': 'O', '.': 'O'}",
         "sentence": "There are concerns that antibiotics may increase the risk of hemolytic uremic syndrome in people infected with Escherichia coli O157:H7.",
+        "stems": [
+            "concern",
+            "antibiot",
+            "may",
+            "increas",
+            "risk",
+            "hemolyt",
+            "urem",
+            "syndrom",
+            "peopl",
+            "infect",
+            "escherichia",
+            "coli",
+            "o157",
+            "h7"
+        ],
         "synonyms": [
             "concern",
             "antibiotic",
@@ -44570,7 +46264,7 @@
             "o157",
             "h7"
         ],
-        "tagged": [
+        "tags": [
             [
                 "concerns",
                 "NNS"
@@ -44808,6 +46502,14 @@
         ],
         "ner_tag": "{'In': 'O', 'resource': 'O', '-': 'O', 'poor': 'O', 'countries': 'O', ',': 'O', 'treatment': 'O', 'with': 'O', 'antibiotics': 'O', 'may': 'O', 'be': 'O', 'beneficial': 'O', '.': 'O'}",
         "sentence": "In resource-poor countries, treatment with antibiotics may be beneficial.",
+        "stems": [
+            "resource-poor",
+            "countri",
+            "treatment",
+            "antibiot",
+            "may",
+            "benefici"
+        ],
         "synonyms": [
             "resource-poor",
             "state",
@@ -44816,7 +46518,7 @@
             "whitethorn",
             "beneficial"
         ],
-        "tagged": [
+        "tags": [
             [
                 "resource-poor",
                 "JJ"
@@ -45006,6 +46708,15 @@
         "meronyms": [],
         "ner_tag": "{'However': 'O', ',': 'O', 'some': 'O', 'bacteria': 'O', 'are': 'O', 'developing': 'O', 'antibiotic': 'O', 'resistance': 'O', 'particularly': 'O', 'Shigella': 'LOCATION', '.': 'O'}",
         "sentence": "However, some bacteria are developing antibiotic resistance, particularly Shigella.",
+        "stems": [
+            "howev",
+            "bacteria",
+            "develop",
+            "antibiot",
+            "resist",
+            "particularli",
+            "shigella"
+        ],
         "synonyms": [
             "however",
             "bacteria",
@@ -45015,7 +46726,7 @@
             "particularly",
             "shigella"
         ],
-        "tagged": [
+        "tags": [
             [
                 "however",
                 "RB"
@@ -45346,6 +47057,20 @@
         "meronyms": [],
         "ner_tag": "{'Antibiotics': 'O', 'can': 'O', 'also': 'O', 'cause': 'O', 'diarrhea': 'O', ',': 'O', 'and': 'O', 'antibiotic': 'O', '-': 'O', 'associated': 'O', 'is': 'O', 'the': 'O', 'most': 'O', 'common': 'O', 'adverse': 'O', 'effect': 'O', 'of': 'O', 'treatment': 'O', 'with': 'O', 'general': 'TITLE', 'antibiotics': 'O', '.': 'O'}",
         "sentence": "Antibiotics can also cause diarrhea, and antibiotic-associated diarrhea is the most common adverse effect of treatment with general antibiotics.",
+        "stems": [
+            "antibiot",
+            "also",
+            "caus",
+            "diarrhea",
+            "antibiotic-associ",
+            "diarrhea",
+            "common",
+            "advers",
+            "effect",
+            "treatment",
+            "gener",
+            "antibiot"
+        ],
         "synonyms": [
             "antibiotic",
             "besides",
@@ -45360,7 +47085,7 @@
             "general",
             "antibiotic"
         ],
-        "tagged": [
+        "tags": [
             [
                 "antibiotics",
                 "NNS"

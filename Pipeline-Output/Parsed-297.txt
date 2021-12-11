@@ -405,6 +405,26 @@
         ],
         "ner_tag": "{'Cambridge': 'CITY', 'English': 'NATIONALITY', 'Dictionary': 'MISC', 'states': 'O', 'that': 'O', 'culture': 'O', 'is': 'O', ',': 'O', '``': 'O', 'the': 'O', 'way': 'O', 'of': 'O', 'life': 'O', 'especially': 'O', 'general': 'TITLE', 'customs': 'O', 'and': 'O', 'beliefs': 'O', 'a': 'O', 'particular': 'O', 'group': 'O', 'people': 'O', 'at': 'O', 'time': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "Cambridge English Dictionary states that culture is, \"the way of life, especially the general customs and beliefs, of a particular group of people at a particular time.\"",
+        "stems": [
+            "cambridg",
+            "english",
+            "dictionari",
+            "state",
+            "cultur",
+            "``",
+            "way",
+            "life",
+            "especi",
+            "gener",
+            "custom",
+            "belief",
+            "particular",
+            "group",
+            "peopl",
+            "particular",
+            "time",
+            "''"
+        ],
         "synonyms": [
             "Cambridge_University",
             "English",
@@ -425,7 +445,7 @@
             "time",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cambridge",
                 "NN"
@@ -1272,6 +1292,39 @@
         ],
         "ner_tag": "{'Terror': 'O', 'Management': 'O', 'Theory': 'O', 'posits': 'O', 'that': 'O', 'culture': 'O', 'is': 'O', 'a': 'O', 'series': 'O', 'of': 'O', 'activities': 'O', 'and': 'O', 'worldviews': 'O', 'provide': 'O', 'humans': 'O', 'with': 'O', 'the': 'O', 'illusion': 'O', 'being': 'O', 'individuals': 'O', 'value': 'O', 'in': 'O', 'world': 'O', 'meaning': 'O', '—': 'O', 'raising': 'O', 'themselves': 'O', 'above': 'O', 'merely': 'O', 'physical': 'O', 'aspects': 'O', 'existence': 'O', ',': 'O', 'order': 'O', 'to': 'O', 'deny': 'O', 'animal': 'O', 'insignificance': 'O', 'death': 'O', 'Homo': 'PERSON', 'Sapiens': 'PERSON', 'became': 'O', 'aware': 'O', 'when': 'O', 'they': 'O', 'acquired': 'O', 'larger': 'O', 'brain': 'O', '.': 'O'}",
         "sentence": "Terror Management Theory posits that culture is a series of activities and worldviews that provide humans with the illusion of being individuals of value in a world meaning—raising themselves above the merely physical aspects of existence, in order to deny the animal insignificance and death that Homo Sapiens became aware of when they acquired a larger brain.",
+        "stems": [
+            "terror",
+            "manag",
+            "theori",
+            "posit",
+            "cultur",
+            "seri",
+            "activ",
+            "worldview",
+            "provid",
+            "human",
+            "illus",
+            "individu",
+            "valu",
+            "world",
+            "meaning—rais",
+            "mere",
+            "physic",
+            "aspect",
+            "exist",
+            "order",
+            "deni",
+            "anim",
+            "insignific",
+            "death",
+            "homo",
+            "sapien",
+            "becam",
+            "awar",
+            "acquir",
+            "larger",
+            "brain"
+        ],
         "synonyms": [
             "terror",
             "management",
@@ -1305,7 +1358,7 @@
             "large",
             "mind"
         ],
-        "tagged": [
+        "tags": [
             [
                 "terror",
                 "NN"
@@ -1898,6 +1951,24 @@
         ],
         "ner_tag": "{'As': 'O', 'a': 'O', 'defining': 'O', 'aspect': 'O', 'of': 'O', 'what': 'O', 'it': 'O', 'means': 'O', 'to': 'O', 'be': 'O', 'human': 'O', ',': 'O', 'culture': 'O', 'is': 'O', 'central': 'O', 'concept': 'O', 'in': 'O', 'anthropology': 'O', 'encompassing': 'O', 'the': 'O', 'range': 'O', 'phenomena': 'O', 'that': 'O', 'are': 'O', 'transmitted': 'O', 'through': 'O', 'social': 'O', 'learning': 'O', 'societies': 'O', '.': 'O'}",
         "sentence": "As a defining aspect of what it means to be human, culture is a central concept in anthropology, encompassing the range of phenomena that are transmitted through social learning in human societies.",
+        "stems": [
+            "defin",
+            "aspect",
+            "mean",
+            "human",
+            "cultur",
+            "central",
+            "concept",
+            "anthropolog",
+            "encompass",
+            "rang",
+            "phenomena",
+            "transmit",
+            "social",
+            "learn",
+            "human",
+            "societi"
+        ],
         "synonyms": [
             "define",
             "view",
@@ -1916,7 +1987,7 @@
             "human",
             "society"
         ],
-        "tagged": [
+        "tags": [
             [
                 "defining",
                 "VBG"
@@ -2327,6 +2398,21 @@
         ],
         "ner_tag": "{'The': 'O', 'word': 'O', 'is': 'O', 'used': 'O', 'in': 'O', 'a': 'O', 'general': 'TITLE', 'sense': 'O', 'as': 'O', 'the': 'O', 'evolved': 'O', 'ability': 'O', 'to': 'O', 'categorize': 'O', 'and': 'O', 'represent': 'O', 'experiences': 'O', 'with': 'O', 'symbols': 'O', 'act': 'O', 'imaginatively': 'O', 'creatively': 'O', '.': 'O'}",
         "sentence": "The word is used in a general sense as the evolved ability to categorize and represent experiences with symbols and to act imaginatively and creatively.",
+        "stems": [
+            "word",
+            "use",
+            "gener",
+            "sens",
+            "evolv",
+            "abil",
+            "categor",
+            "repres",
+            "experi",
+            "symbol",
+            "act",
+            "imagin",
+            "creativ"
+        ],
         "synonyms": [
             "word",
             "use",
@@ -2342,7 +2428,7 @@
             "imaginatively",
             "creatively"
         ],
-        "tagged": [
+        "tags": [
             [
                 "word",
                 "NN"
@@ -2616,6 +2702,18 @@
         ],
         "ner_tag": "{'This': 'O', 'ability': 'O', 'arose': 'O', 'with': 'O', 'the': 'O', 'evolution': 'O', 'of': 'O', 'behavioral': 'O', 'modernity': 'O', 'in': 'O', 'humans': 'O', 'around': 'O', '50,000': 'DATE', 'years': 'DATE', 'ago': 'DATE', '.': 'O'}",
         "sentence": "This ability arose with the evolution of behavioral modernity in humans around 50,000 years ago.",
+        "stems": [
+            "abil",
+            "aros",
+            "evolut",
+            "behavior",
+            "modern",
+            "human",
+            "around",
+            "50,000",
+            "year",
+            "ago"
+        ],
         "synonyms": [
             "ability",
             "rebel",
@@ -2628,7 +2726,7 @@
             "year",
             "ago"
         ],
-        "tagged": [
+        "tags": [
             [
                 "ability",
                 "NN"
@@ -3076,6 +3174,26 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'This': 'O', 'capacity': 'O', 'is': 'O', 'often': 'O', 'thought': 'O', 'to': 'O', 'be': 'O', 'unique': 'O', 'humans': 'O', ',': 'O', 'although': 'O', 'some': 'O', 'other': 'O', 'species': 'O', 'have': 'O', 'demonstrated': 'O', 'similar': 'O', 'though': 'O', 'much': 'O', 'less': 'O', 'complex': 'O', 'abilities': 'O', 'for': 'O', 'social': 'O', 'learning': 'O', '.': 'O'}",
         "sentence": "[citation needed] This capacity is often thought to be unique to humans, although some other species have demonstrated similar, though much less complex abilities for social learning.",
+        "stems": [
+            "citat",
+            "need",
+            "capac",
+            "often",
+            "thought",
+            "uniqu",
+            "human",
+            "although",
+            "speci",
+            "demonstr",
+            "similar",
+            "though",
+            "much",
+            "less",
+            "complex",
+            "abil",
+            "social",
+            "learn"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -3096,7 +3214,7 @@
             "sociable",
             "learn"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -3650,6 +3768,28 @@
         "meronyms": [],
         "ner_tag": "{'It': 'O', 'is': 'O', 'also': 'O', 'used': 'O', 'to': 'O', 'denote': 'O', 'the': 'O', 'complex': 'O', 'networks': 'O', 'of': 'O', 'practices': 'O', 'and': 'O', 'accumulated': 'O', 'knowledge': 'O', 'ideas': 'O', 'that': 'O', 'transmitted': 'O', 'through': 'O', 'social': 'O', 'interaction': 'O', 'exist': 'O', 'in': 'O', 'specific': 'O', 'human': 'O', 'groups': 'O', ',': 'O', 'or': 'O', 'cultures': 'O', 'using': 'O', 'plural': 'O', 'form': 'O', '.': 'O'}",
         "sentence": "It is also used to denote the complex networks of practices and accumulated knowledge and ideas that is transmitted through social interaction and exist in specific human groups, or cultures, using the plural form.",
+        "stems": [
+            "also",
+            "use",
+            "denot",
+            "complex",
+            "network",
+            "practic",
+            "accumul",
+            "knowledg",
+            "idea",
+            "transmit",
+            "social",
+            "interact",
+            "exist",
+            "specif",
+            "human",
+            "group",
+            "cultur",
+            "use",
+            "plural",
+            "form"
+        ],
         "synonyms": [
             "besides",
             "use",
@@ -3672,7 +3812,7 @@
             "plural",
             "shape"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
@@ -4466,6 +4606,34 @@
         ],
         "ner_tag": "{'Some': 'O', 'aspects': 'O', 'of': 'O', 'human': 'O', 'behavior': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'language': 'O', 'social': 'O', 'practices': 'O', 'kinship': 'O', 'gender': 'O', 'and': 'O', 'marriage': 'O', 'expressive': 'O', 'forms': 'O', 'art': 'O', 'music': 'O', 'dance': 'O', 'ritual': 'O', 'religion': 'O', 'technologies': 'O', 'cooking': 'O', 'shelter': 'O', 'clothing': 'O', 'are': 'O', 'said': 'O', 'to': 'O', 'be': 'O', 'cultural': 'O', 'universals': 'O', 'found': 'O', 'in': 'O', 'all': 'O', 'societies': 'O', '.': 'O'}",
         "sentence": "Some aspects of human behavior, such as language, social practices such as kinship, gender and marriage, expressive forms such as art, music, dance, ritual, religion, and technologies such as cooking, shelter, clothing are said to be cultural universals, found in all human societies.",
+        "stems": [
+            "aspect",
+            "human",
+            "behavior",
+            "languag",
+            "social",
+            "practic",
+            "kinship",
+            "gender",
+            "marriag",
+            "express",
+            "form",
+            "art",
+            "music",
+            "danc",
+            "ritual",
+            "religion",
+            "technolog",
+            "cook",
+            "shelter",
+            "cloth",
+            "said",
+            "cultur",
+            "univers",
+            "found",
+            "human",
+            "societi"
+        ],
         "synonyms": [
             "view",
             "human",
@@ -4494,7 +4662,7 @@
             "human",
             "society"
         ],
-        "tagged": [
+        "tags": [
             [
                 "aspects",
                 "NNS"
@@ -5456,6 +5624,42 @@
         ],
         "ner_tag": "{'The': 'O', 'concept': 'O', 'material': 'O', 'culture': 'O', 'covers': 'O', 'the': 'O', 'physical': 'O', 'expressions': 'O', 'of': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'technology': 'O', 'architecture': 'O', 'and': 'O', 'art': 'O', 'whereas': 'O', 'immaterial': 'O', 'aspects': 'O', 'principles': 'O', 'social': 'O', 'organization': 'O', '(': 'O', 'including': 'O', 'practices': 'O', 'political': 'O', 'institutions': 'O', ')': 'O', 'mythology': 'O', 'philosophy': 'O', 'literature': 'O', 'both': 'O', 'written': 'O', 'oral': 'O', 'science': 'O', 'make': 'O', 'up': 'O', 'intangible': 'O', 'cultural': 'O', 'heritage': 'O', 'a': 'O', 'society': 'O', '.': 'O'}",
         "sentence": "The concept material culture covers the physical expressions of culture, such as technology, architecture and art, whereas the immaterial aspects of culture such as principles of social organization (including, practices of political organization and social institutions), mythology, philosophy, literature (both written and oral), and science make up the intangible cultural heritage of a society.",
+        "stems": [
+            "concept",
+            "materi",
+            "cultur",
+            "cover",
+            "physic",
+            "express",
+            "cultur",
+            "technolog",
+            "architectur",
+            "art",
+            "wherea",
+            "immateri",
+            "aspect",
+            "cultur",
+            "principl",
+            "social",
+            "organ",
+            "includ",
+            "practic",
+            "polit",
+            "organ",
+            "social",
+            "institut",
+            "mytholog",
+            "philosophi",
+            "literatur",
+            "written",
+            "oral",
+            "scienc",
+            "make",
+            "intang",
+            "cultur",
+            "heritag",
+            "societi"
+        ],
         "synonyms": [
             "concept",
             "material",
@@ -5492,7 +5696,7 @@
             "inheritance",
             "society"
         ],
-        "tagged": [
+        "tags": [
             [
                 "concept",
                 "NN"
@@ -6174,6 +6378,23 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'humanities': 'O', ',': 'O', 'one': 'NUMBER', 'sense': 'O', 'of': 'O', 'culture': 'O', 'as': 'O', 'an': 'O', 'attribute': 'O', 'individual': 'O', 'has': 'O', 'been': 'O', 'degree': 'O', 'to': 'O', 'which': 'O', 'they': 'O', 'have': 'O', 'cultivated': 'O', 'a': 'O', 'particular': 'O', 'level': 'O', 'sophistication': 'O', 'in': 'O', 'arts': 'O', 'sciences': 'O', 'education': 'O', 'or': 'O', 'manners': 'O', '.': 'O'}",
         "sentence": "In the humanities, one sense of culture, as an attribute of the individual, has been the degree to which they have cultivated a particular level of sophistication, in the arts, sciences, education, or manners.",
+        "stems": [
+            "human",
+            "one",
+            "sens",
+            "cultur",
+            "attribut",
+            "individu",
+            "degre",
+            "cultiv",
+            "particular",
+            "level",
+            "sophist",
+            "art",
+            "scienc",
+            "educ",
+            "manner"
+        ],
         "synonyms": [
             "world",
             "one",
@@ -6191,7 +6412,7 @@
             "education",
             "manner"
         ],
-        "tagged": [
+        "tags": [
             [
                 "humanities",
                 "NNS"
@@ -6501,6 +6722,19 @@
         ],
         "ner_tag": "{'The': 'O', 'level': 'O', 'of': 'O', 'cultural': 'O', 'sophistication': 'O', 'has': 'O', 'also': 'O', 'sometimes': 'O', 'been': 'O', 'seen': 'O', 'to': 'O', 'distinguish': 'O', 'civilizations': 'O', 'from': 'O', 'less': 'O', 'complex': 'O', 'societies': 'O', '.': 'O'}",
         "sentence": "The level of cultural sophistication has also sometimes been seen to distinguish civilizations from less complex societies.",
+        "stems": [
+            "level",
+            "cultur",
+            "sophist",
+            "also",
+            "sometim",
+            "seen",
+            "distinguish",
+            "civil",
+            "less",
+            "complex",
+            "societi"
+        ],
         "synonyms": [
             "tied",
             "cultural",
@@ -6514,7 +6748,7 @@
             "complex",
             "society"
         ],
-        "tagged": [
+        "tags": [
             [
                 "level",
                 "JJ"
@@ -7123,6 +7357,32 @@
         ],
         "ner_tag": "{'Such': 'O', 'hierarchical': 'O', 'perspectives': 'O', 'on': 'O', 'culture': 'O', 'are': 'O', 'also': 'O', 'found': 'O', 'in': 'O', 'class': 'O', '-': 'O', 'based': 'O', 'distinctions': 'O', 'between': 'O', 'a': 'O', 'high': 'O', 'of': 'O', 'the': 'O', 'social': 'O', 'elite': 'O', 'and': 'O', 'low': 'O', ',': 'O', 'popular': 'O', 'or': 'O', 'folk': 'O', 'lower': 'O', 'classes': 'O', 'distinguished': 'O', 'by': 'O', 'stratified': 'O', 'access': 'O', 'to': 'O', 'cultural': 'O', 'capital': 'O', '.': 'O'}",
         "sentence": "Such hierarchical perspectives on culture are also found in class-based distinctions between a high culture of the social elite and a low culture, popular culture or folk culture of the lower classes, distinguished by the stratified access to cultural capital.",
+        "stems": [
+            "hierarch",
+            "perspect",
+            "cultur",
+            "also",
+            "found",
+            "class-bas",
+            "distinct",
+            "high",
+            "cultur",
+            "social",
+            "elit",
+            "low",
+            "cultur",
+            "popular",
+            "cultur",
+            "folk",
+            "cultur",
+            "lower",
+            "class",
+            "distinguish",
+            "stratifi",
+            "access",
+            "cultur",
+            "capit"
+        ],
         "synonyms": [
             "hierarchical",
             "position",
@@ -7149,7 +7409,7 @@
             "cultural",
             "Das_Kapital"
         ],
-        "tagged": [
+        "tags": [
             [
                 "hierarchical",
                 "JJ"
@@ -7709,6 +7969,26 @@
         ],
         "ner_tag": "{'In': 'O', 'common': 'O', 'parlance': 'O', ',': 'O', 'culture': 'O', 'is': 'O', 'often': 'O', 'used': 'O', 'to': 'O', 'refer': 'O', 'specifically': 'O', 'the': 'O', 'symbolic': 'O', 'markers': 'O', 'by': 'O', 'ethnic': 'O', 'groups': 'O', 'distinguish': 'O', 'themselves': 'O', 'visibly': 'O', 'from': 'O', 'each': 'O', 'other': 'O', 'such': 'O', 'as': 'O', 'body': 'O', 'modification': 'O', 'clothing': 'O', 'or': 'O', 'jewelry': 'O', '.': 'O'}",
         "sentence": "In common parlance, culture is often used to refer specifically to the symbolic markers used by ethnic groups to distinguish themselves visibly from each other such as body modification, clothing or jewelry.",
+        "stems": [
+            "common",
+            "parlanc",
+            "cultur",
+            "often",
+            "use",
+            "refer",
+            "specif",
+            "symbol",
+            "marker",
+            "use",
+            "ethnic",
+            "group",
+            "distinguish",
+            "visibl",
+            "bodi",
+            "modif",
+            "cloth",
+            "jewelri"
+        ],
         "synonyms": [
             "park",
             "parlance",
@@ -7729,7 +8009,7 @@
             "clothing",
             "jewelry"
         ],
-        "tagged": [
+        "tags": [
             [
                 "common",
                 "JJ"
@@ -8165,6 +8445,23 @@
         ],
         "ner_tag": "{'[': 'O', 'dubious': 'O', '–': 'O', 'discuss': 'O', ']': 'O', 'Mass': 'STATE_OR_PROVINCE', 'culture': 'O', 'refers': 'O', 'to': 'O', 'the': 'DATE', 'mass': 'O', '-': 'O', 'produced': 'O', 'and': 'O', 'mediated': 'O', 'forms': 'O', 'of': 'O', 'consumer': 'O', 'that': 'O', 'emerged': 'O', 'in': 'O', '20th': 'DATE', 'century': 'DATE', '.': 'O'}",
         "sentence": "[dubious – discuss] Mass culture refers to the mass-produced and mass mediated forms of consumer culture that emerged in the 20th century.",
+        "stems": [
+            "dubiou",
+            "–",
+            "discuss",
+            "mass",
+            "cultur",
+            "refer",
+            "mass-produc",
+            "mass",
+            "mediat",
+            "form",
+            "consum",
+            "cultur",
+            "emerg",
+            "20th",
+            "centuri"
+        ],
         "synonyms": [
             "doubtful",
             "–",
@@ -8182,7 +8479,7 @@
             "twentieth",
             "century"
         ],
-        "tagged": [
+        "tags": [
             [
                 "dubious",
                 "JJ"
@@ -8838,6 +9135,31 @@
         ],
         "ner_tag": "{'Some': 'O', 'schools': 'O', 'of': 'O', 'philosophy': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'Marxism': 'IDEOLOGY', 'and': 'O', 'critical': 'O', 'theory': 'O', 'have': 'O', 'argued': 'O', 'that': 'O', 'culture': 'O', 'is': 'O', 'often': 'O', 'used': 'O', 'politically': 'O', 'a': 'O', 'tool': 'O', 'the': 'O', 'elites': 'O', 'to': 'O', 'manipulate': 'O', 'lower': 'O', 'classes': 'O', 'create': 'O', 'false': 'O', 'consciousness': 'O', 'perspectives': 'O', 'common': 'O', 'in': 'O', 'discipline': 'O', 'cultural': 'O', 'studies': 'O', '.': 'O'}",
         "sentence": "Some schools of philosophy, such as Marxism and critical theory, have argued that culture is often used politically as a tool of the elites to manipulate the lower classes and create a false consciousness, such perspectives common in the discipline of cultural studies.",
+        "stems": [
+            "school",
+            "philosophi",
+            "marxism",
+            "critic",
+            "theori",
+            "argu",
+            "cultur",
+            "often",
+            "use",
+            "polit",
+            "tool",
+            "elit",
+            "manipul",
+            "lower",
+            "class",
+            "creat",
+            "fals",
+            "conscious",
+            "perspect",
+            "common",
+            "disciplin",
+            "cultur",
+            "studi"
+        ],
         "synonyms": [
             "school",
             "philosophy",
@@ -8863,7 +9185,7 @@
             "cultural",
             "survey"
         ],
-        "tagged": [
+        "tags": [
             [
                 "schools",
                 "NNS"
@@ -9575,6 +9897,35 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'wider': 'O', 'social': 'O', 'sciences': 'O', ',': 'O', 'theoretical': 'O', 'perspective': 'O', 'of': 'O', 'cultural': 'O', 'materialism': 'O', 'holds': 'O', 'that': 'O', 'human': 'O', 'symbolic': 'O', 'culture': 'O', 'arises': 'O', 'from': 'O', 'material': 'O', 'conditions': 'O', 'life': 'O', 'as': 'O', 'humans': 'O', 'create': 'O', 'for': 'O', 'physical': 'O', 'survival': 'O', 'and': 'O', 'basis': 'O', 'is': 'O', 'found': 'O', 'in': 'O', 'evolved': 'O', 'biological': 'O', 'dispositions': 'O', '.': 'O'}",
         "sentence": "In the wider social sciences, the theoretical perspective of cultural materialism holds that human symbolic culture arises from the material conditions of human life, as humans create the conditions for physical survival, and that the basis of culture is found in evolved biological dispositions.",
+        "stems": [
+            "wider",
+            "social",
+            "scienc",
+            "theoret",
+            "perspect",
+            "cultur",
+            "materi",
+            "hold",
+            "human",
+            "symbol",
+            "cultur",
+            "aris",
+            "materi",
+            "condit",
+            "human",
+            "life",
+            "human",
+            "creat",
+            "condit",
+            "physic",
+            "surviv",
+            "basi",
+            "cultur",
+            "found",
+            "evolv",
+            "biolog",
+            "disposit"
+        ],
         "synonyms": [
             "wide",
             "sociable",
@@ -9604,7 +9955,7 @@
             "biological",
             "disposition"
         ],
-        "tagged": [
+        "tags": [
             [
                 "wider",
                 "RBR"
@@ -10167,6 +10518,23 @@
         ],
         "ner_tag": "{'When': 'O', 'used': 'O', 'as': 'O', 'a': 'O', 'count': 'TITLE', 'noun': 'O', '``': 'O', 'culture': 'O', \"''\": 'O', ',': 'O', 'is': 'O', 'the': 'O', 'set': 'O', 'of': 'O', 'customs': 'O', 'traditions': 'O', 'and': 'O', 'values': 'O', 'society': 'O', 'or': 'O', 'community': 'O', 'such': 'O', 'an': 'O', 'ethnic': 'O', 'group': 'O', 'nation': 'O', '.': 'O'}",
         "sentence": "When used as a count noun \"a culture\", is the set of customs, traditions and values of a society or community, such as an ethnic group or nation.",
+        "stems": [
+            "use",
+            "count",
+            "noun",
+            "``",
+            "cultur",
+            "''",
+            "set",
+            "custom",
+            "tradit",
+            "valu",
+            "societi",
+            "commun",
+            "ethnic",
+            "group",
+            "nation"
+        ],
         "synonyms": [
             "use",
             "count",
@@ -10184,7 +10552,7 @@
             "group",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "used",
                 "VBN"
@@ -10557,6 +10925,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'this': 'O', 'sense': 'O', ',': 'O', 'multiculturalism': 'O', 'is': 'O', 'a': 'O', 'concept': 'O', 'that': 'O', 'values': 'O', 'the': 'O', 'peaceful': 'O', 'coexistence': 'O', 'and': 'O', 'mutual': 'O', 'respect': 'O', 'between': 'O', 'different': 'O', 'cultures': 'O', 'inhabiting': 'O', 'same': 'O', 'territory': 'O', '.': 'O'}",
         "sentence": "In this sense, multiculturalism is a concept that values the peaceful coexistence and mutual respect between different cultures inhabiting the same territory.",
+        "stems": [
+            "sens",
+            "multicultur",
+            "concept",
+            "valu",
+            "peac",
+            "coexist",
+            "mutual",
+            "respect",
+            "differ",
+            "cultur",
+            "inhabit",
+            "territori"
+        ],
         "synonyms": [
             "sense",
             "multiculturalism",
@@ -10571,7 +10953,7 @@
             "populate",
             "territory"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sense",
                 "NN"
@@ -10914,6 +11296,22 @@
         ],
         "ner_tag": "{'Sometimes': 'O', '``': 'O', 'culture': 'O', \"''\": 'O', 'is': 'O', 'also': 'O', 'used': 'O', 'to': 'O', 'describe': 'O', 'specific': 'O', 'practices': 'O', 'within': 'O', 'a': 'O', 'subgroup': 'O', 'of': 'O', 'society': 'O', ',': 'O', 'subculture': 'O', '(': 'O', 'e.g': 'O', '.': 'O'}",
         "sentence": "Sometimes \"culture\" is also used to describe specific practices within a subgroup of a society, a subculture (e.g.",
+        "stems": [
+            "sometim",
+            "``",
+            "cultur",
+            "''",
+            "also",
+            "use",
+            "describ",
+            "specif",
+            "practic",
+            "within",
+            "subgroup",
+            "societi",
+            "subcultur",
+            "e.g"
+        ],
         "synonyms": [
             "sometimes",
             "``",
@@ -10930,7 +11328,7 @@
             "subculture",
             "e.g"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sometimes",
                 "RB"
@@ -11142,6 +11540,14 @@
         "meronyms": [],
         "ner_tag": "{'``': 'O', 'bro': 'O', 'culture': 'O', \"''\": 'O', ')': 'O', ',': 'O', 'or': 'O', 'a': 'O', 'counter': 'O', '.': 'O'}",
         "sentence": "\"bro culture\"), or a counter culture.",
+        "stems": [
+            "``",
+            "bro",
+            "cultur",
+            "''",
+            "counter",
+            "cultur"
+        ],
         "synonyms": [
             "``",
             "bro",
@@ -11150,7 +11556,7 @@
             "rejoinder",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -11654,6 +12060,30 @@
         ],
         "ner_tag": "{'Within': 'O', 'cultural': 'O', 'anthropology': 'O', ',': 'O', 'the': 'O', 'ideology': 'O', 'and': 'O', 'analytical': 'O', 'stance': 'O', 'of': 'O', 'relativism': 'O', 'holds': 'O', 'that': 'O', 'cultures': 'O', 'can': 'O', 'not': 'O', 'easily': 'O', 'be': 'O', 'objectively': 'O', 'ranked': 'O', 'or': 'O', 'evaluated': 'O', 'because': 'O', 'any': 'O', 'evaluation': 'O', 'is': 'O', 'necessarily': 'O', 'situated': 'O', 'within': 'O', 'value': 'O', 'system': 'O', 'a': 'O', 'given': 'O', 'culture': 'O', '.': 'O'}",
         "sentence": "Within cultural anthropology, the ideology and analytical stance of cultural relativism holds that cultures cannot easily be objectively ranked or evaluated because any evaluation is necessarily situated within the value system of a given culture.",
+        "stems": [
+            "within",
+            "cultur",
+            "anthropolog",
+            "ideolog",
+            "analyt",
+            "stanc",
+            "cultur",
+            "relativ",
+            "hold",
+            "cultur",
+            "easili",
+            "object",
+            "rank",
+            "evalu",
+            "evalu",
+            "necessarili",
+            "situat",
+            "within",
+            "valu",
+            "system",
+            "given",
+            "cultur"
+        ],
         "synonyms": [
             "inside",
             "cultural",
@@ -11678,7 +12108,7 @@
             "given",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "within",
                 "IN"
@@ -12530,6 +12960,42 @@
         ],
         "ner_tag": "{'The': 'O', 'modern': 'O', 'term': 'O', '``': 'O', 'culture': 'O', \"''\": 'O', 'is': 'O', 'based': 'O', 'on': 'O', 'a': 'O', 'used': 'O', 'by': 'O', 'the': 'O', 'Ancient': 'MISC', 'Roman': 'MISC', 'orator': 'O', 'Cicero': 'PERSON', 'in': 'O', 'his': 'O', 'Tusculanae': 'O', 'Disputationes': 'O', ',': 'O', 'where': 'O', 'he': 'O', 'wrote': 'O', 'of': 'O', 'cultivation': 'O', 'soul': 'O', 'or': 'O', 'cultura': 'O', 'animi': 'O', 'using': 'O', 'an': 'O', 'agricultural': 'O', 'metaphor': 'O', 'for': 'O', 'development': 'O', 'philosophical': 'O', 'understood': 'O', 'teleologically': 'O', 'as': 'O', 'highest': 'O', 'possible': 'O', 'ideal': 'O', 'human': 'O', '.': 'O'}",
         "sentence": "The modern term \"culture\" is based on a term used by the Ancient Roman orator Cicero in his Tusculanae Disputationes, where he wrote of a cultivation of the soul or \"cultura animi\", using an agricultural metaphor for the development of a philosophical soul, understood teleologically as the highest possible ideal for human development.",
+        "stems": [
+            "modern",
+            "term",
+            "``",
+            "cultur",
+            "''",
+            "base",
+            "term",
+            "use",
+            "ancient",
+            "roman",
+            "orat",
+            "cicero",
+            "tusculana",
+            "disputation",
+            "wrote",
+            "cultiv",
+            "soul",
+            "``",
+            "cultura",
+            "animi",
+            "''",
+            "use",
+            "agricultur",
+            "metaphor",
+            "develop",
+            "philosoph",
+            "soul",
+            "understood",
+            "teleolog",
+            "highest",
+            "possibl",
+            "ideal",
+            "human",
+            "develop"
+        ],
         "synonyms": [
             "Modern",
             "terminus",
@@ -12566,7 +13032,7 @@
             "human",
             "growth"
         ],
-        "tagged": [
+        "tags": [
             [
                 "modern",
                 "JJ"
@@ -13072,6 +13538,24 @@
         "meronyms": [],
         "ner_tag": "{'Samuel': 'PERSON', 'Pufendorf': 'PERSON', 'took': 'O', 'over': 'O', 'this': 'O', 'metaphor': 'O', 'in': 'O', 'a': 'O', 'modern': 'O', 'context': 'O', ',': 'O', 'meaning': 'O', 'something': 'O', 'similar': 'O', 'but': 'O', 'no': 'O', 'longer': 'O', 'assuming': 'O', 'that': 'O', 'philosophy': 'O', 'was': 'O', 'man': 'O', \"'s\": 'O', 'natural': 'O', 'perfection': 'O', '.': 'O'}",
         "sentence": "Samuel Pufendorf took over this metaphor in a modern context, meaning something similar, but no longer assuming that philosophy was man's natural perfection.",
+        "stems": [
+            "samuel",
+            "pufendorf",
+            "took",
+            "metaphor",
+            "modern",
+            "context",
+            "mean",
+            "someth",
+            "similar",
+            "longer",
+            "assum",
+            "philosophi",
+            "man",
+            "'s",
+            "natur",
+            "perfect"
+        ],
         "synonyms": [
             "Samuel",
             "pufendorf",
@@ -13090,7 +13574,7 @@
             "natural",
             "perfection"
         ],
-        "tagged": [
+        "tags": [
             [
                 "samuel",
                 "NN"
@@ -13588,6 +14072,24 @@
         ],
         "ner_tag": "{'His': 'O', 'use': 'O', ',': 'O', 'and': 'O', 'that': 'O', 'of': 'O', 'many': 'O', 'writers': 'O', 'after': 'O', 'him': 'O', '``': 'O', 'refers': 'O', 'to': 'O', 'all': 'O', 'the': 'O', 'ways': 'O', 'in': 'O', 'which': 'O', 'human': 'O', 'beings': 'O', 'overcome': 'O', 'their': 'O', 'original': 'O', 'barbarism': 'O', 'through': 'O', 'artifice': 'O', 'become': 'O', 'fully': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "His use, and that of many writers after him \"refers to all the ways in which human beings overcome their original barbarism, and through artifice, become fully human\".",
+        "stems": [
+            "use",
+            "mani",
+            "writer",
+            "``",
+            "refer",
+            "way",
+            "human",
+            "be",
+            "overcom",
+            "origin",
+            "barbar",
+            "artific",
+            "becom",
+            "fulli",
+            "human",
+            "''"
+        ],
         "synonyms": [
             "use",
             "many",
@@ -13606,7 +14108,7 @@
             "human",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "use",
                 "RB"
@@ -14069,6 +14571,27 @@
         ],
         "ner_tag": "{'Social': 'O', 'conflict': 'O', 'and': 'O', 'the': 'O', 'development': 'O', 'of': 'O', 'technologies': 'O', 'can': 'O', 'produce': 'O', 'changes': 'O', 'within': 'O', 'a': 'O', 'society': 'O', 'by': 'O', 'altering': 'O', 'social': 'O', 'dynamics': 'O', 'promoting': 'O', 'new': 'O', 'cultural': 'O', 'models': 'O', ',': 'O', 'spurring': 'O', 'or': 'O', 'enabling': 'O', 'generative': 'O', 'action': 'O', '.': 'O'}",
         "sentence": "Social conflict and the development of technologies can produce changes within a society by altering social dynamics and promoting new cultural models, and spurring or enabling generative action.",
+        "stems": [
+            "social",
+            "conflict",
+            "develop",
+            "technolog",
+            "produc",
+            "chang",
+            "within",
+            "societi",
+            "alter",
+            "social",
+            "dynam",
+            "promot",
+            "new",
+            "cultur",
+            "model",
+            "spur",
+            "enabl",
+            "gener",
+            "action"
+        ],
         "synonyms": [
             "sociable",
             "dispute",
@@ -14090,7 +14613,7 @@
             "generative",
             "natural_process"
         ],
-        "tagged": [
+        "tags": [
             [
                 "social",
                 "JJ"
@@ -14368,6 +14891,17 @@
         "meronyms": [],
         "ner_tag": "{'These': 'O', 'social': 'O', 'shifts': 'O', 'may': 'O', 'accompany': 'O', 'ideological': 'O', 'and': 'O', 'other': 'O', 'types': 'O', 'of': 'O', 'cultural': 'O', 'change': 'O', '.': 'O'}",
         "sentence": "These social shifts may accompany ideological shifts and other types of cultural change.",
+        "stems": [
+            "social",
+            "shift",
+            "may",
+            "accompani",
+            "ideolog",
+            "shift",
+            "type",
+            "cultur",
+            "chang"
+        ],
         "synonyms": [
             "sociable",
             "transformation",
@@ -14379,7 +14913,7 @@
             "cultural",
             "variety"
         ],
-        "tagged": [
+        "tags": [
             [
                 "social",
                 "JJ"
@@ -14750,6 +15284,23 @@
         ],
         "ner_tag": "{'For': 'O', 'example': 'O', ',': 'O', 'the': 'O', 'U.S.': 'COUNTRY', 'feminist': 'IDEOLOGY', 'movement': 'O', 'involved': 'O', 'new': 'O', 'practices': 'O', 'that': 'O', 'produced': 'O', 'a': 'O', 'shift': 'O', 'in': 'O', 'gender': 'O', 'relations': 'O', 'altering': 'O', 'both': 'O', 'and': 'O', 'economic': 'O', 'structures': 'O', '.': 'O'}",
         "sentence": "For example, the U.S. feminist movement involved new practices that produced a shift in gender relations, altering both gender and economic structures.",
+        "stems": [
+            "exampl",
+            "u.s.",
+            "feminist",
+            "movement",
+            "involv",
+            "new",
+            "practic",
+            "produc",
+            "shift",
+            "gender",
+            "relat",
+            "alter",
+            "gender",
+            "econom",
+            "structur"
+        ],
         "synonyms": [
             "model",
             "United_States_government",
@@ -14767,7 +15318,7 @@
             "economic",
             "structure"
         ],
-        "tagged": [
+        "tags": [
             [
                 "example",
                 "NN"
@@ -14956,6 +15507,14 @@
         "meronyms": [],
         "ner_tag": "{'Environmental': 'O', 'conditions': 'O', 'may': 'O', 'also': 'O', 'enter': 'O', 'as': 'O', 'factors': 'O', '.': 'O'}",
         "sentence": "Environmental conditions may also enter as factors.",
+        "stems": [
+            "environment",
+            "condit",
+            "may",
+            "also",
+            "enter",
+            "factor"
+        ],
         "synonyms": [
             "environmental",
             "stipulate",
@@ -14964,7 +15523,7 @@
             "record",
             "gene"
         ],
-        "tagged": [
+        "tags": [
             [
                 "environmental",
                 "JJ"
@@ -15544,6 +16103,31 @@
         ],
         "ner_tag": "{'For': 'O', 'example': 'O', ',': 'O', 'after': 'O', 'tropical': 'O', 'forests': 'O', 'returned': 'O', 'at': 'O', 'the': 'O', 'end': 'O', 'of': 'O', 'last': 'O', 'ice': 'O', 'age': 'O', 'plants': 'O', 'suitable': 'O', 'for': 'O', 'domestication': 'O', 'were': 'O', 'available': 'O', 'leading': 'O', 'to': 'O', 'invention': 'O', 'agriculture': 'O', 'which': 'O', 'in': 'O', 'turn': 'O', 'brought': 'O', 'about': 'O', 'many': 'O', 'cultural': 'O', 'innovations': 'O', 'and': 'O', 'shifts': 'O', 'social': 'O', 'dynamics': 'O', '.': 'O'}",
         "sentence": "For example, after tropical forests returned at the end of the last ice age, plants suitable for domestication were available, leading to the invention of agriculture, which in turn brought about many cultural innovations and shifts in social dynamics.",
+        "stems": [
+            "exampl",
+            "tropic",
+            "forest",
+            "return",
+            "end",
+            "last",
+            "ice",
+            "age",
+            "plant",
+            "suitabl",
+            "domest",
+            "avail",
+            "lead",
+            "invent",
+            "agricultur",
+            "turn",
+            "brought",
+            "mani",
+            "cultur",
+            "innov",
+            "shift",
+            "social",
+            "dynam"
+        ],
         "synonyms": [
             "model",
             "tropical",
@@ -15569,7 +16153,7 @@
             "sociable",
             "moral_force"
         ],
-        "tagged": [
+        "tags": [
             [
                 "example",
                 "NN"
@@ -15996,6 +16580,22 @@
         ],
         "ner_tag": "{'Cultures': 'O', 'are': 'O', 'externally': 'O', 'affected': 'O', 'via': 'O', 'contact': 'O', 'between': 'O', 'societies': 'O', ',': 'O', 'which': 'O', 'may': 'O', 'also': 'O', 'produce': 'O', '—': 'O', 'or': 'O', 'inhibit': 'O', 'social': 'O', 'shifts': 'O', 'and': 'O', 'changes': 'O', 'in': 'O', 'cultural': 'O', 'practices': 'O', '.': 'O'}",
         "sentence": "Cultures are externally affected via contact between societies, which may also produce—or inhibit—social shifts and changes in cultural practices.",
+        "stems": [
+            "cultur",
+            "extern",
+            "affect",
+            "via",
+            "contact",
+            "societi",
+            "may",
+            "also",
+            "produce—or",
+            "inhibit—soci",
+            "shift",
+            "chang",
+            "cultur",
+            "practic"
+        ],
         "synonyms": [
             "polish",
             "outwardly",
@@ -16012,7 +16612,7 @@
             "cultural",
             "rehearse"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cultures",
                 "NNS"
@@ -16258,6 +16858,17 @@
         ],
         "ner_tag": "{'War': 'CAUSE_OF_DEATH', 'or': 'O', 'competition': 'O', 'over': 'O', 'resources': 'O', 'may': 'O', 'impact': 'O', 'technological': 'O', 'development': 'O', 'social': 'O', 'dynamics': 'O', '.': 'O'}",
         "sentence": "War or competition over resources may impact technological development or social dynamics.",
+        "stems": [
+            "war",
+            "competit",
+            "resourc",
+            "may",
+            "impact",
+            "technolog",
+            "develop",
+            "social",
+            "dynam"
+        ],
         "synonyms": [
             "war",
             "contest",
@@ -16269,7 +16880,7 @@
             "sociable",
             "moral_force"
         ],
-        "tagged": [
+        "tags": [
             [
                 "war",
                 "NN"
@@ -16535,6 +17146,18 @@
         ],
         "ner_tag": "{'Additionally': 'O', ',': 'O', 'cultural': 'O', 'ideas': 'O', 'may': 'O', 'transfer': 'O', 'from': 'O', 'one': 'NUMBER', 'society': 'O', 'to': 'O', 'another': 'O', 'through': 'O', 'diffusion': 'O', 'or': 'O', 'acculturation': 'O', '.': 'O'}",
         "sentence": "Additionally, cultural ideas may transfer from one society to another, through diffusion or acculturation.",
+        "stems": [
+            "addit",
+            "cultur",
+            "idea",
+            "may",
+            "transfer",
+            "one",
+            "societi",
+            "anoth",
+            "diffus",
+            "accultur"
+        ],
         "synonyms": [
             "additionally",
             "cultural",
@@ -16547,7 +17170,7 @@
             "diffusion",
             "acculturation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "additionally",
                 "RB"
@@ -16856,6 +17479,18 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'diffusion': 'O', ',': 'O', 'the': 'O', 'form': 'O', 'of': 'O', 'something': 'O', '(': 'O', 'though': 'O', 'not': 'O', 'necessarily': 'O', 'its': 'O', 'meaning': 'O', ')': 'O', 'moves': 'O', 'from': 'O', 'one': 'NUMBER', 'culture': 'O', 'to': 'O', 'another': 'O', '.': 'O'}",
         "sentence": "In diffusion, the form of something (though not necessarily its meaning) moves from one culture to another.",
+        "stems": [
+            "diffus",
+            "form",
+            "someth",
+            "though",
+            "necessarili",
+            "mean",
+            "move",
+            "one",
+            "cultur",
+            "anoth"
+        ],
         "synonyms": [
             "diffusion",
             "shape",
@@ -16868,7 +17503,7 @@
             "polish",
             "another"
         ],
-        "tagged": [
+        "tags": [
             [
                 "diffusion",
                 "NN"
@@ -17165,6 +17800,18 @@
         ],
         "ner_tag": "{'For': 'O', 'example': 'O', ',': 'O', 'hamburgers': 'O', 'fast': 'O', 'food': 'O', 'in': 'O', 'the': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', 'seemed': 'O', 'exotic': 'O', 'when': 'O', 'introduced': 'O', 'into': 'O', 'China': 'COUNTRY', '.': 'O'}",
         "sentence": "For example, hamburgers, fast food in the United States, seemed exotic when introduced into China.",
+        "stems": [
+            "exampl",
+            "hamburg",
+            "fast",
+            "food",
+            "unit",
+            "state",
+            "seem",
+            "exot",
+            "introduc",
+            "china"
+        ],
         "synonyms": [
             "model",
             "hamburger",
@@ -17177,7 +17824,7 @@
             "precede",
             "Taiwan"
         ],
-        "tagged": [
+        "tags": [
             [
                 "example",
                 "NN"
@@ -17555,6 +18202,22 @@
         "meronyms": [],
         "ner_tag": "{'``': 'O', 'Stimulus': 'O', 'diffusion': 'O', \"''\": 'O', '(': 'O', 'the': 'O', 'sharing': 'O', 'of': 'O', 'ideas': 'O', ')': 'O', 'refers': 'O', 'to': 'O', 'an': 'O', 'element': 'O', 'one': 'NUMBER', 'culture': 'O', 'leading': 'O', 'invention': 'O', 'or': 'O', 'propagation': 'O', 'in': 'O', 'another': 'O', '.': 'O'}",
         "sentence": "\"Stimulus diffusion\" (the sharing of ideas) refers to an element of one culture leading to an invention or propagation in another.",
+        "stems": [
+            "``",
+            "stimulu",
+            "diffus",
+            "''",
+            "share",
+            "idea",
+            "refer",
+            "element",
+            "one",
+            "cultur",
+            "lead",
+            "invent",
+            "propag",
+            "anoth"
+        ],
         "synonyms": [
             "``",
             "stimulation",
@@ -17571,7 +18234,7 @@
             "propagation",
             "another"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -17919,6 +18582,21 @@
         "meronyms": [],
         "ner_tag": "{'``': 'O', 'Direct': 'O', 'Borrowing': 'O', \"''\": 'O', 'on': 'O', 'the': 'O', 'other': 'O', 'hand': 'O', 'tends': 'O', 'to': 'O', 'refer': 'O', 'technological': 'O', 'or': 'O', 'tangible': 'O', 'diffusion': 'O', 'from': 'O', 'one': 'NUMBER', 'culture': 'O', 'another': 'O', '.': 'O'}",
         "sentence": "\"Direct Borrowing\" on the other hand tends to refer to technological or tangible diffusion from one culture to another.",
+        "stems": [
+            "``",
+            "direct",
+            "borrow",
+            "''",
+            "hand",
+            "tend",
+            "refer",
+            "technolog",
+            "tangibl",
+            "diffus",
+            "one",
+            "cultur",
+            "anoth"
+        ],
         "synonyms": [
             "``",
             "target",
@@ -17934,7 +18612,7 @@
             "polish",
             "another"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -18329,6 +19007,21 @@
         ],
         "ner_tag": "{'Diffusion': 'O', 'of': 'O', 'innovations': 'O', 'theory': 'O', 'presents': 'O', 'a': 'O', 'research': 'O', '-': 'O', 'based': 'O', 'model': 'TITLE', 'why': 'O', 'and': 'O', 'when': 'O', 'individuals': 'O', 'cultures': 'O', 'adopt': 'O', 'new': 'O', 'ideas': 'O', ',': 'O', 'practices': 'O', 'products': 'O', '.': 'O'}",
         "sentence": "Diffusion of innovations theory presents a research-based model of why and when individuals and cultures adopt new ideas, practices, and products.",
+        "stems": [
+            "diffus",
+            "innov",
+            "theori",
+            "present",
+            "research-bas",
+            "model",
+            "individu",
+            "cultur",
+            "adopt",
+            "new",
+            "idea",
+            "practic",
+            "product"
+        ],
         "synonyms": [
             "diffusion",
             "invention",
@@ -18344,7 +19037,7 @@
             "rehearse",
             "product"
         ],
-        "tagged": [
+        "tags": [
             [
                 "diffusion",
                 "NN"
@@ -18860,6 +19553,28 @@
         "meronyms": [],
         "ner_tag": "{'Immanuel': 'PERSON', 'Kant': 'PERSON', '(': 'O', '1724': 'DATE', '–': 'O', '1804': 'DATE', ')': 'O', 'has': 'O', 'formulated': 'O', 'an': 'O', 'individualist': 'O', 'definition': 'O', 'of': 'O', '``': 'O', 'enlightenment': 'O', \"''\": 'O', 'similar': 'O', 'to': 'O', 'the': 'O', 'concept': 'O', 'bildung': 'O', ':': 'O', 'Enlightenment': 'O', 'is': 'O', 'man': 'O', \"'s\": 'O', 'emergence': 'O', 'from': 'O', 'his': 'O', 'self': 'O', '-': 'O', 'incurred': 'O', 'immaturity': 'O', '.': 'O'}",
         "sentence": "Immanuel Kant (1724–1804) has formulated an individualist definition of \"enlightenment\" similar to the concept of bildung: \"Enlightenment is man's emergence from his self-incurred immaturity.\"",
+        "stems": [
+            "immanuel",
+            "kant",
+            "1724–1804",
+            "formul",
+            "individualist",
+            "definit",
+            "``",
+            "enlighten",
+            "''",
+            "similar",
+            "concept",
+            "bildung",
+            "``",
+            "enlighten",
+            "man",
+            "'s",
+            "emerg",
+            "self-incur",
+            "immatur",
+            "''"
+        ],
         "synonyms": [
             "immanuel",
             "Kant",
@@ -18882,7 +19597,7 @@
             "immaturity",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "immanuel",
                 "NN"
@@ -19265,6 +19980,17 @@
         "meronyms": [],
         "ner_tag": "{'He': 'O', 'argued': 'O', 'that': 'O', 'this': 'O', 'immaturity': 'O', 'comes': 'O', 'not': 'O', 'from': 'O', 'a': 'O', 'lack': 'O', 'of': 'O', 'understanding': 'O', ',': 'O', 'but': 'O', 'courage': 'O', 'to': 'O', 'think': 'O', 'independently': 'O', '.': 'O'}",
         "sentence": "He argued that this immaturity comes not from a lack of understanding, but from a lack of courage to think independently.",
+        "stems": [
+            "argu",
+            "immatur",
+            "come",
+            "lack",
+            "understand",
+            "lack",
+            "courag",
+            "think",
+            "independ"
+        ],
         "synonyms": [
             "argue",
             "immaturity",
@@ -19276,7 +20002,7 @@
             "think",
             "independently"
         ],
-        "tagged": [
+        "tags": [
             [
                 "argued",
                 "VBN"
@@ -19548,6 +20274,18 @@
         "meronyms": [],
         "ner_tag": "{'Against': 'O', 'this': 'O', 'intellectual': 'O', 'cowardice': 'O', ',': 'O', 'Kant': 'PERSON', 'urged': 'O', ':': 'O', 'Sapere': 'O', 'aude': 'O', '``': 'O', 'Dare': 'O', 'to': 'O', 'be': 'O', 'wise': 'O', '!': 'O', \"''\": 'O'}",
         "sentence": "Against this intellectual cowardice, Kant urged: Sapere aude, \"Dare to be wise!\"",
+        "stems": [
+            "intellectu",
+            "cowardic",
+            "kant",
+            "urg",
+            "saper",
+            "aud",
+            "``",
+            "dare",
+            "wise",
+            "''"
+        ],
         "synonyms": [
             "intellectual",
             "cowardice",
@@ -19560,7 +20298,7 @@
             "wise",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "intellectual",
                 "JJ"
@@ -20074,6 +20812,28 @@
         ],
         "ner_tag": "{'In': 'O', 'reaction': 'O', 'to': 'O', 'Kant': 'PERSON', ',': 'O', 'German': 'NATIONALITY', 'scholars': 'O', 'such': 'O', 'as': 'O', 'Johann': 'PERSON', 'Gottfried': 'PERSON', 'Herder': 'PERSON', '(': 'O', '1744': 'DATE', '–': 'O', '1803': 'DATE', ')': 'O', 'argued': 'O', 'that': 'O', 'human': 'O', 'creativity': 'O', 'which': 'O', 'necessarily': 'O', 'takes': 'O', 'unpredictable': 'O', 'and': 'O', 'highly': 'O', 'diverse': 'O', 'forms': 'O', 'is': 'O', 'important': 'O', 'rationality': 'O', '.': 'O'}",
         "sentence": "In reaction to Kant, German scholars such as Johann Gottfried Herder (1744–1803) argued that human creativity, which necessarily takes unpredictable and highly diverse forms, is as important as human rationality.",
+        "stems": [
+            "reaction",
+            "kant",
+            "german",
+            "scholar",
+            "johann",
+            "gottfri",
+            "herder",
+            "1744–1803",
+            "argu",
+            "human",
+            "creativ",
+            "necessarili",
+            "take",
+            "unpredict",
+            "highli",
+            "divers",
+            "form",
+            "import",
+            "human",
+            "ration"
+        ],
         "synonyms": [
             "reaction",
             "Kant",
@@ -20096,7 +20856,7 @@
             "human",
             "rationality"
         ],
-        "tagged": [
+        "tags": [
             [
                 "reaction",
                 "NN"
@@ -20653,6 +21413,27 @@
         "meronyms": [],
         "ner_tag": "{'Moreover': 'O', ',': 'O', 'Herder': 'TITLE', 'proposed': 'O', 'a': 'O', 'collective': 'O', 'form': 'O', 'of': 'O', 'bildung': 'O', ':': 'O', '``': 'O', 'For': 'O', 'Bildung': 'PERSON', 'was': 'O', 'the': 'O', 'totality': 'O', 'experiences': 'O', 'that': 'O', 'provide': 'O', 'coherent': 'O', 'identity': 'O', 'and': 'O', 'sense': 'O', 'common': 'O', 'destiny': 'O', 'to': 'O', 'people': 'O', '.': 'O', \"''\": 'O'}",
         "sentence": "Moreover, Herder proposed a collective form of bildung: \"For Herder, Bildung was the totality of experiences that provide a coherent identity, and sense of common destiny, to a people.\"",
+        "stems": [
+            "moreov",
+            "herder",
+            "propos",
+            "collect",
+            "form",
+            "bildung",
+            "``",
+            "herder",
+            "bildung",
+            "total",
+            "experi",
+            "provid",
+            "coher",
+            "ident",
+            "sens",
+            "common",
+            "destini",
+            "peopl",
+            "''"
+        ],
         "synonyms": [
             "furthermore",
             "herder",
@@ -20674,7 +21455,7 @@
             "people",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "moreover",
                 "RB"
@@ -21143,6 +21924,25 @@
         ],
         "ner_tag": "{'In': 'O', '1795': 'DATE', ',': 'O', 'the': 'O', 'Prussian': 'MISC', 'linguist': 'TITLE', 'and': 'O', 'philosopher': 'TITLE', 'Wilhelm': 'PERSON', 'von': 'PERSON', 'Humboldt': 'PERSON', '(': 'O', '1767': 'DATE', '–': 'O', '1835': 'DATE', ')': 'O', 'called': 'O', 'for': 'O', 'an': 'O', 'anthropology': 'O', 'that': 'O', 'would': 'O', 'synthesize': 'O', 'Kant': 'PERSON', \"'s\": 'O', 'Herder': 'TITLE', 'interests': 'O', '.': 'O'}",
         "sentence": "In 1795, the Prussian linguist and philosopher Wilhelm von Humboldt (1767–1835) called for an anthropology that would synthesize Kant's and Herder's interests.",
+        "stems": [
+            "1795",
+            "prussian",
+            "linguist",
+            "philosoph",
+            "wilhelm",
+            "von",
+            "humboldt",
+            "1767–1835",
+            "call",
+            "anthropolog",
+            "would",
+            "synthes",
+            "kant",
+            "'s",
+            "herder",
+            "'s",
+            "interest"
+        ],
         "synonyms": [
             "1795",
             "Prussian",
@@ -21162,7 +21962,7 @@
             "'s",
             "sake"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1795",
                 "CD"
@@ -21982,6 +22782,37 @@
         ],
         "ner_tag": "{'During': 'O', 'the': 'O', 'Romantic': 'MISC', 'era': 'O', ',': 'O', 'scholars': 'O', 'in': 'O', 'Germany': 'COUNTRY', 'especially': 'O', 'those': 'O', 'concerned': 'O', 'with': 'O', 'nationalist': 'IDEOLOGY', 'movements': 'O', '—': 'O', 'such': 'O', 'as': 'O', 'struggle': 'O', 'to': 'O', 'create': 'O', 'a': 'O', '``': 'O', \"''\": 'O', 'out': 'O', 'of': 'O', 'diverse': 'O', 'principalities': 'O', 'and': 'O', 'struggles': 'O', 'by': 'O', 'ethnic': 'O', 'minorities': 'O', 'against': 'O', 'Austro': 'MISC', '-': 'MISC', 'Hungarian': 'MISC', 'Empire': 'MISC', 'developed': 'O', 'more': 'O', 'inclusive': 'O', 'notion': 'O', 'culture': 'O', 'worldview': 'O', '(': 'O', 'Weltanschauung': 'O', ')': 'O', '.': 'O'}",
         "sentence": "During the Romantic era, scholars in Germany, especially those concerned with nationalist movements—such as the nationalist struggle to create a \"Germany\" out of diverse principalities, and the nationalist struggles by ethnic minorities against the Austro-Hungarian Empire—developed a more inclusive notion of culture as \"worldview\" (Weltanschauung).",
+        "stems": [
+            "romant",
+            "era",
+            "scholar",
+            "germani",
+            "especi",
+            "concern",
+            "nationalist",
+            "movements—such",
+            "nationalist",
+            "struggl",
+            "creat",
+            "``",
+            "germani",
+            "''",
+            "divers",
+            "princip",
+            "nationalist",
+            "struggl",
+            "ethnic",
+            "minor",
+            "austro-hungarian",
+            "empire—develop",
+            "inclus",
+            "notion",
+            "cultur",
+            "``",
+            "worldview",
+            "''",
+            "weltanschauung"
+        ],
         "synonyms": [
             "romantic",
             "era",
@@ -22013,7 +22844,7 @@
             "''",
             "Weltanschauung"
         ],
-        "tagged": [
+        "tags": [
             [
                 "romantic",
                 "JJ"
@@ -22453,6 +23284,18 @@
         "meronyms": [],
         "ner_tag": "{'According': 'O', 'to': 'O', 'this': 'O', 'school': 'O', 'of': 'O', 'thought': 'O', ',': 'O', 'each': 'O', 'ethnic': 'O', 'group': 'O', 'has': 'O', 'a': 'O', 'distinct': 'O', 'worldview': 'O', 'that': 'O', 'is': 'O', 'incommensurable': 'O', 'with': 'O', 'the': 'O', 'worldviews': 'O', 'other': 'O', 'groups': 'O', '.': 'O'}",
         "sentence": "According to this school of thought, each ethnic group has a distinct worldview that is incommensurable with the worldviews of other groups.",
+        "stems": [
+            "accord",
+            "school",
+            "thought",
+            "ethnic",
+            "group",
+            "distinct",
+            "worldview",
+            "incommensur",
+            "worldview",
+            "group"
+        ],
         "synonyms": [
             "harmonize",
             "school",
@@ -22465,7 +23308,7 @@
             "worldviews",
             "group"
         ],
-        "tagged": [
+        "tags": [
             [
                 "according",
                 "VBG"
@@ -22871,6 +23714,27 @@
         "meronyms": [],
         "ner_tag": "{'Although': 'O', 'more': 'O', 'inclusive': 'O', 'than': 'O', 'earlier': 'O', 'views': 'O', ',': 'O', 'this': 'O', 'approach': 'O', 'to': 'O', 'culture': 'O', 'still': 'O', 'allowed': 'O', 'for': 'O', 'distinctions': 'O', 'between': 'O', '``': 'O', 'civilized': 'O', \"''\": 'O', 'and': 'O', 'primitive': 'O', 'or': 'O', 'tribal': 'O', 'cultures': 'O', '.': 'O'}",
         "sentence": "Although more inclusive than earlier views, this approach to culture still allowed for distinctions between \"civilized\" and \"primitive\" or \"tribal\" cultures.",
+        "stems": [
+            "although",
+            "inclus",
+            "earlier",
+            "view",
+            "approach",
+            "cultur",
+            "still",
+            "allow",
+            "distinct",
+            "``",
+            "civil",
+            "''",
+            "``",
+            "primit",
+            "''",
+            "``",
+            "tribal",
+            "''",
+            "cultur"
+        ],
         "synonyms": [
             "although",
             "inclusive",
@@ -22892,7 +23756,7 @@
             "''",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -23234,6 +24098,18 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', '1860': 'DATE', ',': 'O', 'Adolf': 'PERSON', 'Bastian': 'PERSON', '(': 'O', '1826': 'DATE', '–': 'O', '1905': 'DATE', ')': 'O', 'argued': 'O', 'for': 'O', '``': 'O', 'the': 'O', 'psychic': 'O', 'unity': 'O', 'of': 'O', 'mankind': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "In 1860, Adolf Bastian (1826–1905) argued for \"the psychic unity of mankind\".",
+        "stems": [
+            "1860",
+            "adolf",
+            "bastian",
+            "1826–1905",
+            "argu",
+            "``",
+            "psychic",
+            "uniti",
+            "mankind",
+            "''"
+        ],
         "synonyms": [
             "1860",
             "adolf",
@@ -23246,7 +24122,7 @@
             "world",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1860",
                 "CD"
@@ -23573,6 +24449,20 @@
         ],
         "ner_tag": "{'He': 'O', 'proposed': 'O', 'that': 'O', 'a': 'O', 'scientific': 'O', 'comparison': 'O', 'of': 'O', 'all': 'O', 'human': 'O', 'societies': 'O', 'would': 'O', 'reveal': 'O', 'distinct': 'O', 'worldviews': 'O', 'consisted': 'O', 'the': 'O', 'same': 'O', 'basic': 'O', 'elements': 'O', '.': 'O'}",
         "sentence": "He proposed that a scientific comparison of all human societies would reveal that distinct worldviews consisted of the same basic elements.",
+        "stems": [
+            "propos",
+            "scientif",
+            "comparison",
+            "human",
+            "societi",
+            "would",
+            "reveal",
+            "distinct",
+            "worldview",
+            "consist",
+            "basic",
+            "element"
+        ],
         "synonyms": [
             "propose",
             "scientific",
@@ -23587,7 +24477,7 @@
             "basic",
             "element"
         ],
-        "tagged": [
+        "tags": [
             [
                 "proposed",
                 "VBN"
@@ -24147,6 +25037,31 @@
         ],
         "ner_tag": "{'According': 'O', 'to': 'O', 'Bastian': 'PERSON', ',': 'O', 'all': 'O', 'human': 'O', 'societies': 'O', 'share': 'O', 'a': 'O', 'set': 'O', 'of': 'O', '``': 'O', 'elementary': 'O', 'ideas': 'O', \"''\": 'O', '(': 'O', 'Elementargedanken': 'O', ')': 'O', ';': 'O', 'different': 'O', 'cultures': 'O', 'or': 'O', 'folk': 'O', 'Völkergedanken': 'O', 'are': 'O', 'local': 'O', 'modifications': 'O', 'the': 'O', '.': 'O'}",
         "sentence": "According to Bastian, all human societies share a set of \"elementary ideas\" (Elementargedanken); different cultures, or different \"folk ideas\" (Völkergedanken), are local modifications of the elementary ideas.",
+        "stems": [
+            "accord",
+            "bastian",
+            "human",
+            "societi",
+            "share",
+            "set",
+            "``",
+            "elementari",
+            "idea",
+            "''",
+            "elementargedanken",
+            "differ",
+            "cultur",
+            "differ",
+            "``",
+            "folk",
+            "idea",
+            "''",
+            "völkergedanken",
+            "local",
+            "modif",
+            "elementari",
+            "idea"
+        ],
         "synonyms": [
             "harmonize",
             "bastian",
@@ -24172,7 +25087,7 @@
             "elementary",
             "theme"
         ],
-        "tagged": [
+        "tags": [
             [
                 "according",
                 "VBG"
@@ -24438,6 +25353,14 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'view': 'O', 'paved': 'O', 'the': 'O', 'way': 'O', 'for': 'O', 'modern': 'O', 'understanding': 'O', 'of': 'O', 'culture': 'O', '.': 'O'}",
         "sentence": "This view paved the way for the modern understanding of culture.",
+        "stems": [
+            "view",
+            "pave",
+            "way",
+            "modern",
+            "understand",
+            "cultur"
+        ],
         "synonyms": [
             "view",
             "paved",
@@ -24446,7 +25369,7 @@
             "understand",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "view",
                 "NN"
@@ -24816,6 +25739,18 @@
         ],
         "ner_tag": "{'Franz': 'PERSON', 'Boas': 'PERSON', '(': 'O', '1858': 'DATE', '–': 'O', '1942': 'DATE', ')': 'O', 'was': 'O', 'trained': 'O', 'in': 'O', 'this': 'O', 'tradition': 'O', ',': 'O', 'and': 'O', 'he': 'O', 'brought': 'O', 'it': 'O', 'with': 'O', 'him': 'O', 'when': 'O', 'left': 'O', 'Germany': 'COUNTRY', 'for': 'O', 'the': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', '.': 'O'}",
         "sentence": "Franz Boas (1858–1942) was trained in this tradition, and he brought it with him when he left Germany for the United States.",
+        "stems": [
+            "franz",
+            "boa",
+            "1858–1942",
+            "train",
+            "tradit",
+            "brought",
+            "left",
+            "germani",
+            "unit",
+            "state"
+        ],
         "synonyms": [
             "franz",
             "feather_boa",
@@ -24828,7 +25763,7 @@
             "united",
             "state"
         ],
-        "tagged": [
+        "tags": [
             [
                 "franz",
                 "JJ"
@@ -25196,6 +26131,20 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'practice': 'O', ',': 'O', 'culture': 'O', 'referred': 'O', 'to': 'O', 'an': 'O', 'élite': 'O', 'ideal': 'O', 'and': 'O', 'was': 'O', 'associated': 'O', 'with': 'O', 'such': 'O', 'activities': 'O', 'as': 'O', 'art': 'O', 'classical': 'O', 'music': 'O', 'haute': 'O', 'cuisine': 'O', '.': 'O'}",
         "sentence": "In practice, culture referred to an élite ideal and was associated with such activities as art, classical music, and haute cuisine.",
+        "stems": [
+            "practic",
+            "cultur",
+            "refer",
+            "élite",
+            "ideal",
+            "associ",
+            "activ",
+            "art",
+            "classic",
+            "music",
+            "haut",
+            "cuisin"
+        ],
         "synonyms": [
             "rehearse",
             "polish",
@@ -25210,7 +26159,7 @@
             "haute",
             "cuisine"
         ],
-        "tagged": [
+        "tags": [
             [
                 "practice",
                 "NN"
@@ -25550,6 +26499,20 @@
         ],
         "ner_tag": "{'As': 'O', 'these': 'O', 'forms': 'O', 'were': 'O', 'associated': 'O', 'with': 'O', 'urban': 'O', 'life': 'O', ',': 'O', '``': 'O', 'culture': 'O', \"''\": 'O', 'was': 'O', 'identified': 'O', 'civilization': 'O', '(': 'O', 'from': 'O', 'lat': 'O', '.': 'O'}",
         "sentence": "As these forms were associated with urban life, \"culture\" was identified with \"civilization\" (from lat.",
+        "stems": [
+            "form",
+            "associ",
+            "urban",
+            "life",
+            "``",
+            "cultur",
+            "''",
+            "identifi",
+            "``",
+            "civil",
+            "''",
+            "lat"
+        ],
         "synonyms": [
             "shape",
             "associate",
@@ -25564,7 +26527,7 @@
             "''",
             "latissimus_dorsi"
         ],
-        "tagged": [
+        "tags": [
             [
                 "forms",
                 "NNS"
@@ -25692,11 +26655,15 @@
         "meronyms": [],
         "ner_tag": "{'civitas': 'O', ',': 'O', 'city': 'O', ')': 'O', '.': 'O'}",
         "sentence": "civitas, city).",
+        "stems": [
+            "civita",
+            "citi"
+        ],
         "synonyms": [
             "civitas",
             "city"
         ],
-        "tagged": [
+        "tags": [
             [
                 "civitas",
                 "NNS"
@@ -25998,6 +26965,21 @@
         ],
         "ner_tag": "{'Another': 'O', 'facet': 'O', 'of': 'O', 'the': 'O', 'Romantic': 'MISC', 'movement': 'O', 'was': 'O', 'an': 'O', 'interest': 'O', 'in': 'O', 'folklore': 'O', ',': 'O', 'which': 'O', 'led': 'O', 'to': 'O', 'identifying': 'O', 'a': 'O', '``': 'O', 'culture': 'O', \"''\": 'O', 'among': 'O', 'non-elites': 'O', '.': 'O'}",
         "sentence": "Another facet of the Romantic movement was an interest in folklore, which led to identifying a \"culture\" among non-elites.",
+        "stems": [
+            "anoth",
+            "facet",
+            "romant",
+            "movement",
+            "interest",
+            "folklor",
+            "led",
+            "identifi",
+            "``",
+            "cultur",
+            "''",
+            "among",
+            "non-elit"
+        ],
         "synonyms": [
             "another",
             "facet",
@@ -26013,7 +26995,7 @@
             "among",
             "non-elites"
         ],
-        "tagged": [
+        "tags": [
             [
                 "another",
                 "DT"
@@ -26364,6 +27346,19 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'distinction': 'O', 'is': 'O', 'often': 'O', 'characterized': 'O', 'as': 'O', 'that': 'O', 'between': 'O', 'high': 'O', 'culture': 'O', ',': 'O', 'namely': 'O', 'of': 'O', 'the': 'O', 'ruling': 'O', 'social': 'O', 'group': 'O', 'and': 'O', 'low': 'O', '.': 'O'}",
         "sentence": "This distinction is often characterized as that between high culture, namely that of the ruling social group, and low culture.",
+        "stems": [
+            "distinct",
+            "often",
+            "character",
+            "high",
+            "cultur",
+            "name",
+            "rule",
+            "social",
+            "group",
+            "low",
+            "cultur"
+        ],
         "synonyms": [
             "distinction",
             "often",
@@ -26377,7 +27372,7 @@
             "moo",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "distinction",
                 "NN"
@@ -26780,6 +27775,24 @@
         ],
         "ner_tag": "{'In': 'O', 'other': 'O', 'words': 'O', ',': 'O', 'the': 'O', 'idea': 'O', 'of': 'O', '``': 'O', 'culture': 'O', \"''\": 'O', 'that': 'O', 'developed': 'O', 'in': 'O', 'Europe': 'LOCATION', 'during': 'O', '18th': 'ORDINAL', 'and': 'O', 'early': 'DATE', '19th': 'DATE', 'centuries': 'DATE', 'reflected': 'O', 'inequalities': 'O', 'within': 'O', 'European': 'NATIONALITY', 'societies': 'O', '.': 'O'}",
         "sentence": "In other words, the idea of \"culture\" that developed in Europe during the 18th and early 19th centuries reflected inequalities within European societies.",
+        "stems": [
+            "word",
+            "idea",
+            "``",
+            "cultur",
+            "''",
+            "develop",
+            "europ",
+            "18th",
+            "earli",
+            "19th",
+            "centuri",
+            "reflect",
+            "inequ",
+            "within",
+            "european",
+            "societi"
+        ],
         "synonyms": [
             "word",
             "theme",
@@ -26798,7 +27811,7 @@
             "European",
             "society"
         ],
-        "tagged": [
+        "tags": [
             [
                 "words",
                 "NNS"
@@ -27301,6 +28314,30 @@
         "meronyms": [],
         "ner_tag": "{'Matthew': 'PERSON', 'Arnold': 'PERSON', 'contrasted': 'O', '``': 'O', 'culture': 'O', \"''\": 'O', 'with': 'O', 'anarchy': 'O', ';': 'O', 'other': 'O', 'Europeans': 'MISC', ',': 'O', 'following': 'O', 'philosophers': 'O', 'Thomas': 'PERSON', 'Hobbes': 'PERSON', 'and': 'O', 'Jean': 'PERSON', '-': 'PERSON', 'Jacques': 'PERSON', 'Rousseau': 'PERSON', 'the': 'O', 'state': 'O', 'of': 'O', 'nature': 'O', '.': 'O'}",
         "sentence": "Matthew Arnold contrasted \"culture\" with anarchy; other Europeans, following philosophers Thomas Hobbes and Jean-Jacques Rousseau, contrasted \"culture\" with \"the state of nature\".",
+        "stems": [
+            "matthew",
+            "arnold",
+            "contrast",
+            "``",
+            "cultur",
+            "''",
+            "anarchi",
+            "european",
+            "follow",
+            "philosoph",
+            "thoma",
+            "hobb",
+            "jean-jacqu",
+            "rousseau",
+            "contrast",
+            "``",
+            "cultur",
+            "''",
+            "``",
+            "state",
+            "natur",
+            "''"
+        ],
         "synonyms": [
             "Matthew",
             "Arnold",
@@ -27325,7 +28362,7 @@
             "nature",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "matthew",
                 "NN"
@@ -27974,6 +29011,29 @@
         ],
         "ner_tag": "{'According': 'O', 'to': 'O', 'Hobbes': 'PERSON', 'and': 'O', 'Rousseau': 'PERSON', ',': 'O', 'the': 'O', 'Native': 'MISC', 'Americans': 'MISC', 'who': 'O', 'were': 'O', 'being': 'O', 'conquered': 'O', 'by': 'O', 'Europeans': 'MISC', 'from': 'O', '16th': 'DATE', 'centuries': 'DATE', 'on': 'O', 'living': 'O', 'in': 'O', 'a': 'O', 'state': 'O', 'of': 'O', 'nature': 'O', ';': 'O', 'this': 'O', 'opposition': 'O', 'was': 'O', 'expressed': 'O', 'through': 'O', 'contrast': 'O', 'between': 'O', '``': 'O', 'civilized': 'O', \"''\": 'O', 'uncivilized': 'O', '.': 'O'}",
         "sentence": "According to Hobbes and Rousseau, the Native Americans who were being conquered by Europeans from the 16th centuries on were living in a state of nature; this opposition was expressed through the contrast between \"civilized\" and \"uncivilized.\"",
+        "stems": [
+            "accord",
+            "hobb",
+            "rousseau",
+            "nativ",
+            "american",
+            "conquer",
+            "european",
+            "16th",
+            "centuri",
+            "live",
+            "state",
+            "natur",
+            "opposit",
+            "express",
+            "contrast",
+            "``",
+            "civil",
+            "''",
+            "``",
+            "uncivil",
+            "''"
+        ],
         "synonyms": [
             "harmonize",
             "Hobbes",
@@ -27997,7 +29057,7 @@
             "barbarian",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "according",
                 "VBG"
@@ -28447,6 +29507,21 @@
         ],
         "ner_tag": "{'According': 'O', 'to': 'O', 'this': 'O', 'way': 'O', 'of': 'O', 'thinking': 'O', ',': 'O', 'one': 'NUMBER', 'could': 'O', 'classify': 'O', 'some': 'O', 'countries': 'O', 'and': 'O', 'nations': 'O', 'as': 'O', 'more': 'O', 'civilized': 'O', 'than': 'O', 'others': 'O', 'people': 'O', 'cultured': 'O', '.': 'O'}",
         "sentence": "According to this way of thinking, one could classify some countries and nations as more civilized than others and some people as more cultured than others.",
+        "stems": [
+            "accord",
+            "way",
+            "think",
+            "one",
+            "could",
+            "classifi",
+            "countri",
+            "nation",
+            "civil",
+            "other",
+            "peopl",
+            "cultur",
+            "other"
+        ],
         "synonyms": [
             "harmonize",
             "way",
@@ -28462,7 +29537,7 @@
             "culture",
             "others"
         ],
-        "tagged": [
+        "tags": [
             [
                 "according",
                 "VBG"
@@ -28797,6 +29872,23 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'contrast': 'O', 'led': 'O', 'to': 'O', 'Herbert': 'PERSON', 'Spencer': 'PERSON', \"'s\": 'O', 'theory': 'O', 'of': 'O', 'Social': 'MISC', 'Darwinism': 'MISC', 'and': 'O', 'Lewis': 'PERSON', 'Henry': 'PERSON', 'Morgan': 'PERSON', 'cultural': 'O', 'evolution': 'O', '.': 'O'}",
         "sentence": "This contrast led to Herbert Spencer's theory of Social Darwinism and Lewis Henry Morgan's theory of cultural evolution.",
+        "stems": [
+            "contrast",
+            "led",
+            "herbert",
+            "spencer",
+            "'s",
+            "theori",
+            "social",
+            "darwin",
+            "lewi",
+            "henri",
+            "morgan",
+            "'s",
+            "theori",
+            "cultur",
+            "evolut"
+        ],
         "synonyms": [
             "line",
             "run",
@@ -28814,7 +29906,7 @@
             "cultural",
             "evolution"
         ],
-        "tagged": [
+        "tags": [
             [
                 "contrast",
                 "NN"
@@ -29560,6 +30652,34 @@
         "meronyms": [],
         "ner_tag": "{'Just': 'O', 'as': 'O', 'some': 'O', 'critics': 'O', 'have': 'O', 'argued': 'O', 'that': 'O', 'the': 'O', 'distinction': 'O', 'between': 'O', 'high': 'O', 'and': 'O', 'low': 'O', 'cultures': 'O', 'is': 'O', 'really': 'O', 'an': 'O', 'expression': 'O', 'of': 'O', 'conflict': 'O', 'European': 'NATIONALITY', 'elites': 'O', 'non-elites': 'O', ',': 'O', 'civilized': 'O', 'uncivilized': 'O', 'people': 'O', 'colonial': 'O', 'powers': 'O', 'their': 'O', 'subjects': 'O', '.': 'O'}",
         "sentence": "Just as some critics have argued that the distinction between high and low cultures is really an expression of the conflict between European elites and non-elites, some critics have argued that the distinction between civilized and uncivilized people is really an expression of the conflict between European colonial powers and their colonial subjects.",
+        "stems": [
+            "critic",
+            "argu",
+            "distinct",
+            "high",
+            "low",
+            "cultur",
+            "realli",
+            "express",
+            "conflict",
+            "european",
+            "elit",
+            "non-elit",
+            "critic",
+            "argu",
+            "distinct",
+            "civil",
+            "uncivil",
+            "peopl",
+            "realli",
+            "express",
+            "conflict",
+            "european",
+            "coloni",
+            "power",
+            "coloni",
+            "subject"
+        ],
         "synonyms": [
             "critic",
             "argue",
@@ -29588,7 +30708,7 @@
             "colonial",
             "subject"
         ],
-        "tagged": [
+        "tags": [
             [
                 "critics",
                 "NNS"
@@ -30238,6 +31358,31 @@
         ],
         "ner_tag": "{'Other': 'O', '19th': 'DATE', '-': 'DATE', 'century': 'DATE', 'critics': 'O', ',': 'O', 'following': 'O', 'Rousseau': 'PERSON', 'have': 'O', 'accepted': 'O', 'this': 'O', 'differentiation': 'O', 'between': 'O', 'higher': 'O', 'and': 'O', 'lower': 'O', 'culture': 'O', 'but': 'O', 'seen': 'O', 'the': 'O', 'refinement': 'O', 'sophistication': 'O', 'of': 'O', 'high': 'O', 'as': 'O', 'corrupting': 'O', 'unnatural': 'O', 'developments': 'O', 'that': 'O', 'obscure': 'O', 'distort': 'O', 'people': 'O', \"'s\": 'O', 'essential': 'O', 'nature': 'O', '.': 'O'}",
         "sentence": "Other 19th-century critics, following Rousseau have accepted this differentiation between higher and lower culture, but have seen the refinement and sophistication of high culture as corrupting and unnatural developments that obscure and distort people's essential nature.",
+        "stems": [
+            "19th-centuri",
+            "critic",
+            "follow",
+            "rousseau",
+            "accept",
+            "differenti",
+            "higher",
+            "lower",
+            "cultur",
+            "seen",
+            "refin",
+            "sophist",
+            "high",
+            "cultur",
+            "corrupt",
+            "unnatur",
+            "develop",
+            "obscur",
+            "distort",
+            "peopl",
+            "'s",
+            "essenti",
+            "natur"
+        ],
         "synonyms": [
             "19th-century",
             "critic",
@@ -30263,7 +31408,7 @@
             "essential",
             "nature"
         ],
-        "tagged": [
+        "tags": [
             [
                 "19th-century",
                 "JJ"
@@ -30864,6 +32009,30 @@
         "meronyms": [],
         "ner_tag": "{'These': 'O', 'critics': 'O', 'considered': 'O', 'folk': 'O', 'music': 'O', '(': 'O', 'as': 'O', 'produced': 'O', 'by': 'O', '``': 'O', 'the': 'O', \"''\": 'O', ',': 'O', 'i.e.': 'O', 'rural': 'O', 'illiterate': 'O', 'peasants': 'O', ')': 'O', 'to': 'O', 'honestly': 'O', 'express': 'O', 'a': 'O', 'natural': 'O', 'way': 'O', 'of': 'O', 'life': 'O', 'while': 'O', 'classical': 'O', 'seemed': 'O', 'superficial': 'O', 'and': 'O', 'decadent': 'O', '.': 'O'}",
         "sentence": "These critics considered folk music (as produced by \"the folk\", i.e., rural, illiterate, peasants) to honestly express a natural way of life, while classical music seemed superficial and decadent.",
+        "stems": [
+            "critic",
+            "consid",
+            "folk",
+            "music",
+            "produc",
+            "``",
+            "folk",
+            "''",
+            "i.e.",
+            "rural",
+            "illiter",
+            "peasant",
+            "honestli",
+            "express",
+            "natur",
+            "way",
+            "life",
+            "classic",
+            "music",
+            "seem",
+            "superfici",
+            "decad"
+        ],
         "synonyms": [
             "critic",
             "view",
@@ -30888,7 +32057,7 @@
             "superficial",
             "decadent"
         ],
-        "tagged": [
+        "tags": [
             [
                 "critics",
                 "NNS"
@@ -31394,6 +32563,29 @@
         "meronyms": [],
         "ner_tag": "{'Equally': 'O', ',': 'O', 'this': 'O', 'view': 'O', 'often': 'O', 'portrayed': 'O', 'indigenous': 'O', 'peoples': 'O', 'as': 'O', '``': 'O', 'noble': 'O', 'savages': 'O', \"''\": 'O', 'living': 'O', 'authentic': 'O', 'and': 'O', 'unblemished': 'O', 'lives': 'O', 'uncomplicated': 'O', 'uncorrupted': 'O', 'by': 'O', 'the': 'O', 'highly': 'O', 'stratified': 'O', 'capitalist': 'O', 'systems': 'O', 'of': 'O', 'West': 'O', '.': 'O'}",
         "sentence": "Equally, this view often portrayed indigenous peoples as \"noble savages\" living authentic and unblemished lives, uncomplicated and uncorrupted by the highly stratified capitalist systems of the West.",
+        "stems": [
+            "equal",
+            "view",
+            "often",
+            "portray",
+            "indigen",
+            "peopl",
+            "``",
+            "nobl",
+            "savag",
+            "''",
+            "live",
+            "authent",
+            "unblemish",
+            "live",
+            "uncompl",
+            "uncorrupt",
+            "highli",
+            "stratifi",
+            "capitalist",
+            "system",
+            "west"
+        ],
         "synonyms": [
             "evenly",
             "view",
@@ -31417,7 +32609,7 @@
             "system",
             "west"
         ],
-        "tagged": [
+        "tags": [
             [
                 "equally",
                 "RB"
@@ -32211,6 +33403,42 @@
         ],
         "ner_tag": "{'Although': 'O', 'anthropologists': 'O', 'worldwide': 'O', 'refer': 'O', 'to': 'O', 'Tylor': 'PERSON', \"'s\": 'O', 'definition': 'O', 'of': 'O', 'culture': 'O', ',': 'O', 'in': 'O', 'the': 'O', '20th': 'DATE', 'century': 'DATE', '``': 'O', \"''\": 'O', 'emerged': 'O', 'as': 'O', 'central': 'O', 'and': 'O', 'unifying': 'O', 'concept': 'O', 'American': 'NATIONALITY', 'anthropology': 'O', 'where': 'O', 'it': 'O', 'most': 'O', 'commonly': 'O', 'refers': 'O', 'universal': 'O', 'human': 'O', 'capacity': 'O', 'classify': 'O', 'encode': 'O', 'experiences': 'O', 'symbolically': 'O', 'communicate': 'O', 'encoded': 'O', 'socially': 'O', '.': 'O'}",
         "sentence": "Although anthropologists worldwide refer to Tylor's definition of culture, in the 20th century \"culture\" emerged as the central and unifying concept of American anthropology, where it most commonly refers to the universal human capacity to classify and encode human experiences symbolically, and to communicate symbolically encoded experiences socially.",
+        "stems": [
+            "although",
+            "anthropologist",
+            "worldwid",
+            "refer",
+            "tylor",
+            "'s",
+            "definit",
+            "cultur",
+            "20th",
+            "centuri",
+            "``",
+            "cultur",
+            "''",
+            "emerg",
+            "central",
+            "unifi",
+            "concept",
+            "american",
+            "anthropolog",
+            "commonli",
+            "refer",
+            "univers",
+            "human",
+            "capac",
+            "classifi",
+            "encod",
+            "human",
+            "experi",
+            "symbol",
+            "commun",
+            "symbol",
+            "encod",
+            "experi",
+            "social"
+        ],
         "synonyms": [
             "although",
             "anthropologist",
@@ -32247,7 +33475,7 @@
             "feel",
             "socially"
         ],
-        "tagged": [
+        "tags": [
             [
                 "although",
                 "IN"
@@ -32872,6 +34100,27 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'American': 'NATIONALITY', 'anthropology': 'O', 'is': 'O', 'organized': 'O', 'into': 'O', 'four': 'NUMBER', 'fields': 'O', ',': 'O', 'each': 'O', 'of': 'O', 'which': 'O', 'plays': 'O', 'an': 'O', 'important': 'O', 'role': 'O', 'in': 'O', 'research': 'O', 'on': 'O', 'culture': 'O', ':': 'O', 'biological': 'O', 'linguistic': 'O', 'cultural': 'O', 'and': 'O', 'archaeology': 'O', '.': 'O'}",
         "sentence": "[citation needed] American anthropology is organized into four fields, each of which plays an important role in research on culture: biological anthropology, linguistic anthropology, cultural anthropology, and archaeology.",
+        "stems": [
+            "citat",
+            "need",
+            "american",
+            "anthropolog",
+            "organ",
+            "four",
+            "field",
+            "play",
+            "import",
+            "role",
+            "research",
+            "cultur",
+            "biolog",
+            "anthropolog",
+            "linguist",
+            "anthropolog",
+            "cultur",
+            "anthropolog",
+            "archaeolog"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -32893,7 +34142,7 @@
             "anthropology",
             "archeology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -33302,6 +34551,20 @@
         ],
         "ner_tag": "{'The': 'O', 'sociology': 'O', 'of': 'O', 'culture': 'O', 'concerns': 'O', '—': 'O', 'usually': 'O', 'understood': 'O', 'as': 'O', 'the': 'O', 'ensemble': 'O', 'symbolic': 'O', 'codes': 'O', 'used': 'O', 'by': 'O', 'a': 'O', 'society': 'O', 'manifested': 'O', 'in': 'O', '.': 'O'}",
         "sentence": "The sociology of culture concerns culture—usually understood as the ensemble of symbolic codes used by a society—as manifested in society.",
+        "stems": [
+            "sociolog",
+            "cultur",
+            "concern",
+            "culture—usu",
+            "understood",
+            "ensembl",
+            "symbol",
+            "code",
+            "use",
+            "society—a",
+            "manifest",
+            "societi"
+        ],
         "synonyms": [
             "sociology",
             "polish",
@@ -33316,7 +34579,7 @@
             "manifest",
             "society"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sociology",
                 "JJ"
@@ -33791,6 +35054,23 @@
         ],
         "ner_tag": "{'For': 'O', 'Georg': 'PERSON', 'Simmel': 'PERSON', '(': 'O', '1858': 'DATE', '–': 'O', '1918': 'DATE', ')': 'O', ',': 'O', 'culture': 'O', 'referred': 'O', 'to': 'O', '``': 'O', 'the': 'O', 'cultivation': 'O', 'of': 'O', 'individuals': 'O', 'through': 'O', 'agency': 'O', 'external': 'O', 'forms': 'O', 'which': 'O', 'have': 'O', 'been': 'O', 'objectified': 'O', 'in': 'O', 'course': 'O', 'history': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "For Georg Simmel (1858–1918), culture referred to \"the cultivation of individuals through the agency of external forms which have been objectified in the course of history\".",
+        "stems": [
+            "georg",
+            "simmel",
+            "1858–1918",
+            "cultur",
+            "refer",
+            "``",
+            "cultiv",
+            "individu",
+            "agenc",
+            "extern",
+            "form",
+            "objectifi",
+            "cours",
+            "histori",
+            "''"
+        ],
         "synonyms": [
             "georg",
             "simmel",
@@ -33808,7 +35088,7 @@
             "history",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "georg",
                 "NN"
@@ -34290,6 +35570,24 @@
         "meronyms": [],
         "ner_tag": "{'Culture': 'O', 'in': 'O', 'the': 'O', 'sociological': 'O', 'field': 'O', 'can': 'O', 'be': 'O', 'defined': 'O', 'as': 'O', 'ways': 'O', 'of': 'O', 'thinking': 'O', ',': 'O', 'acting': 'O', 'and': 'O', 'material': 'O', 'objects': 'O', 'that': 'O', 'together': 'O', 'shape': 'O', 'a': 'O', 'people': 'O', \"'s\": 'O', 'way': 'O', 'life': 'O', '.': 'O'}",
         "sentence": "Culture in the sociological field can be defined as the ways of thinking, the ways of acting, and the material objects that together shape a people's way of life.",
+        "stems": [
+            "cultur",
+            "sociolog",
+            "field",
+            "defin",
+            "way",
+            "think",
+            "way",
+            "act",
+            "materi",
+            "object",
+            "togeth",
+            "shape",
+            "peopl",
+            "'s",
+            "way",
+            "life"
+        ],
         "synonyms": [
             "polish",
             "sociological",
@@ -34308,7 +35606,7 @@
             "way",
             "life_sentence"
         ],
-        "tagged": [
+        "tags": [
             [
                 "culture",
                 "NN"
@@ -34566,6 +35864,15 @@
         "meronyms": [],
         "ner_tag": "{'Culture': 'O', 'can': 'O', 'be': 'O', 'any': 'O', 'of': 'O', 'two': 'NUMBER', 'types': 'O', ',': 'O', 'non-material': 'O', 'culture': 'O', 'or': 'O', 'material': 'O', '.': 'O'}",
         "sentence": "Culture can be any of two types, non-material culture or material culture.",
+        "stems": [
+            "cultur",
+            "two",
+            "type",
+            "non-materi",
+            "cultur",
+            "materi",
+            "cultur"
+        ],
         "synonyms": [
             "polish",
             "two",
@@ -34575,7 +35882,7 @@
             "substantial",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "culture",
                 "NN"
@@ -35036,6 +36343,26 @@
         ],
         "ner_tag": "{'Non-material': 'O', 'culture': 'O', 'refers': 'O', 'to': 'O', 'the': 'O', 'non': 'O', 'physical': 'O', 'ideas': 'O', 'that': 'O', 'individuals': 'O', 'have': 'O', 'about': 'O', 'their': 'O', ',': 'O', 'including': 'O', 'values': 'O', 'belief': 'O', 'system': 'O', 'rules': 'O', 'norms': 'O', 'morals': 'O', 'language': 'O', 'organizations': 'O', 'and': 'O', 'institutions': 'O', '.': 'O'}",
         "sentence": "Non-material culture refers to the non physical ideas that individuals have about their culture, including values, belief system, rules, norms, morals, language, organizations, and institutions.",
+        "stems": [
+            "non-materi",
+            "cultur",
+            "refer",
+            "non",
+            "physic",
+            "idea",
+            "individu",
+            "cultur",
+            "includ",
+            "valu",
+            "belief",
+            "system",
+            "rule",
+            "norm",
+            "moral",
+            "languag",
+            "organ",
+            "institut"
+        ],
         "synonyms": [
             "non-material",
             "polish",
@@ -35056,7 +36383,7 @@
             "organization",
             "mental_hospital"
         ],
-        "tagged": [
+        "tags": [
             [
                 "non-material",
                 "JJ"
@@ -35418,6 +36745,17 @@
         "meronyms": [],
         "ner_tag": "{'While': 'O', 'Material': 'O', 'culture': 'O', 'is': 'O', 'the': 'O', 'physical': 'O', 'evidence': 'O', 'of': 'O', 'a': 'O', 'in': 'O', 'objects': 'O', 'and': 'O', 'architecture': 'O', 'they': 'O', 'make': 'O', ',': 'O', 'or': 'O', 'have': 'O', 'made': 'O', '.': 'O'}",
         "sentence": "While Material culture is the physical evidence of a culture in the objects and architecture they make, or have made.",
+        "stems": [
+            "materi",
+            "cultur",
+            "physic",
+            "evid",
+            "cultur",
+            "object",
+            "architectur",
+            "make",
+            "made"
+        ],
         "synonyms": [
             "material",
             "polish",
@@ -35429,7 +36767,7 @@
             "take",
             "take"
         ],
-        "tagged": [
+        "tags": [
             [
                 "material",
                 "JJ"
@@ -35844,6 +37182,22 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'term': 'O', 'tends': 'O', 'to': 'O', 'be': 'O', 'relevant': 'O', 'only': 'O', 'in': 'O', 'archeological': 'O', 'and': 'O', 'anthropological': 'O', 'studies': 'O', ',': 'O', 'but': 'O', 'it': 'O', 'specifically': 'O', 'means': 'O', 'all': 'O', 'material': 'O', 'evidence': 'O', 'which': 'O', 'can': 'O', 'attributed': 'O', 'culture': 'O', 'past': 'DATE', 'or': 'O', 'present': 'DATE', '.': 'O'}",
         "sentence": "The term tends to be relevant only in archeological and anthropological studies, but it specifically means all material evidence which can be attributed to culture past or present.",
+        "stems": [
+            "term",
+            "tend",
+            "relev",
+            "archeolog",
+            "anthropolog",
+            "studi",
+            "specif",
+            "mean",
+            "materi",
+            "evid",
+            "attribut",
+            "cultur",
+            "past",
+            "present"
+        ],
         "synonyms": [
             "terminus",
             "tend",
@@ -35860,7 +37214,7 @@
             "past",
             "stage"
         ],
-        "tagged": [
+        "tags": [
             [
                 "term",
                 "NN"
@@ -36285,6 +37639,23 @@
         ],
         "ner_tag": "{'Cultural': 'O', 'sociology': 'O', 'first': 'ORDINAL', 'emerged': 'O', 'in': 'O', 'Weimar': 'CITY', 'Germany': 'COUNTRY', '(': 'O', '1918': 'DATE', '–': 'O', '1933': 'DATE', ')': 'O', ',': 'O', 'where': 'O', 'sociologists': 'O', 'such': 'O', 'as': 'O', 'Alfred': 'PERSON', 'Weber': 'PERSON', 'used': 'O', 'the': 'O', 'term': 'O', 'Kultursoziologie': 'PERSON', 'cultural': 'O', '.': 'O'}",
         "sentence": "Cultural sociology first emerged in Weimar Germany (1918–1933), where sociologists such as Alfred Weber used the term Kultursoziologie (cultural sociology).",
+        "stems": [
+            "cultur",
+            "sociolog",
+            "first",
+            "emerg",
+            "weimar",
+            "germani",
+            "1918–1933",
+            "sociologist",
+            "alfr",
+            "weber",
+            "use",
+            "term",
+            "kultursoziologi",
+            "cultur",
+            "sociolog"
+        ],
         "synonyms": [
             "cultural",
             "sociology",
@@ -36302,7 +37673,7 @@
             "cultural",
             "sociology"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cultural",
                 "JJ"
@@ -36833,6 +38204,27 @@
         ],
         "ner_tag": "{'Cultural': 'O', 'sociology': 'O', 'was': 'O', 'then': 'O', '``': 'O', 'reinvented': 'O', \"''\": 'O', 'in': 'O', 'the': 'DATE', 'English': 'MISC', '-': 'MISC', 'speaking': 'MISC', 'world': 'O', 'as': 'O', 'a': 'O', 'product': 'O', 'of': 'O', 'cultural': 'O', 'turn': 'O', '1960s': 'DATE', ',': 'O', 'which': 'O', 'ushered': 'O', 'structuralist': 'O', 'and': 'O', 'postmodern': 'O', 'approaches': 'O', 'to': 'O', 'social': 'O', 'science': 'O', '.': 'O'}",
         "sentence": "Cultural sociology was then \"reinvented\" in the English-speaking world as a product of the \"cultural turn\" of the 1960s, which ushered in structuralist and postmodern approaches to social science.",
+        "stems": [
+            "cultur",
+            "sociolog",
+            "``",
+            "reinvent",
+            "''",
+            "english-speak",
+            "world",
+            "product",
+            "``",
+            "cultur",
+            "turn",
+            "''",
+            "1960",
+            "usher",
+            "structuralist",
+            "postmodern",
+            "approach",
+            "social",
+            "scienc"
+        ],
         "synonyms": [
             "cultural",
             "sociology",
@@ -36854,7 +38246,7 @@
             "sociable",
             "science"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cultural",
                 "JJ"
@@ -37196,6 +38588,20 @@
         ],
         "ner_tag": "{'This': 'O', 'type': 'O', 'of': 'O', 'cultural': 'O', 'sociology': 'O', 'may': 'O', 'loosely': 'O', 'be': 'O', 'regarded': 'O', 'as': 'O', 'an': 'O', 'approach': 'O', 'incorporating': 'O', 'analysis': 'O', 'and': 'O', 'critical': 'O', 'theory': 'O', '.': 'O'}",
         "sentence": "This type of cultural sociology may loosely be regarded as an approach incorporating cultural analysis and critical theory.",
+        "stems": [
+            "type",
+            "cultur",
+            "sociolog",
+            "may",
+            "loos",
+            "regard",
+            "approach",
+            "incorpor",
+            "cultur",
+            "analysi",
+            "critic",
+            "theori"
+        ],
         "synonyms": [
             "type",
             "cultural",
@@ -37210,7 +38616,7 @@
             "critical",
             "theory"
         ],
-        "tagged": [
+        "tags": [
             [
                 "type",
                 "JJ"
@@ -37556,6 +38962,22 @@
         ],
         "ner_tag": "{'Cultural': 'O', 'sociologists': 'O', 'tend': 'O', 'to': 'O', 'reject': 'O', 'scientific': 'O', 'methods': 'O', ',': 'O', '[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'instead': 'O', 'hermeneutically': 'O', 'focusing': 'O', 'on': 'O', 'words': 'O', 'artifacts': 'O', 'and': 'O', 'symbols': 'O', '.': 'O'}",
         "sentence": "Cultural sociologists tend to reject scientific methods,[citation needed] instead hermeneutically focusing on words, artifacts and symbols.",
+        "stems": [
+            "cultur",
+            "sociologist",
+            "tend",
+            "reject",
+            "scientif",
+            "method",
+            "citat",
+            "need",
+            "instead",
+            "hermeneut",
+            "focus",
+            "word",
+            "artifact",
+            "symbol"
+        ],
         "synonyms": [
             "cultural",
             "sociologist",
@@ -37572,7 +38994,7 @@
             "artifact",
             "symbol"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cultural",
                 "JJ"
@@ -37991,6 +39413,29 @@
         ],
         "ner_tag": "{'``': 'O', 'Culture': 'O', \"''\": 'O', 'has': 'O', 'since': 'O', 'become': 'O', 'an': 'O', 'important': 'O', 'concept': 'O', 'across': 'O', 'many': 'O', 'branches': 'O', 'of': 'O', 'sociology': 'O', ',': 'O', 'including': 'O', 'resolutely': 'O', 'scientific': 'O', 'fields': 'O', 'like': 'O', 'social': 'O', 'stratification': 'O', 'and': 'O', 'network': 'O', 'analysis': 'O', '.': 'O'}",
         "sentence": "\"Culture\" has since become an important concept across many branches of sociology, including resolutely scientific fields like social stratification and social network analysis.",
+        "stems": [
+            "``",
+            "cultur",
+            "''",
+            "sinc",
+            "becom",
+            "import",
+            "concept",
+            "across",
+            "mani",
+            "branch",
+            "sociolog",
+            "includ",
+            "resolut",
+            "scientif",
+            "field",
+            "like",
+            "social",
+            "stratif",
+            "social",
+            "network",
+            "analysi"
+        ],
         "synonyms": [
             "``",
             "polish",
@@ -38014,7 +39459,7 @@
             "network",
             "psychoanalysis"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -38331,6 +39776,14 @@
         "meronyms": [],
         "ner_tag": "{'As': 'O', 'a': 'O', 'result': 'O', ',': 'O', 'there': 'O', 'has': 'O', 'been': 'O', 'recent': 'O', 'influx': 'O', 'of': 'O', 'quantitative': 'O', 'sociologists': 'O', 'to': 'O', 'the': 'O', 'field': 'O', '.': 'O'}",
         "sentence": "As a result, there has been a recent influx of quantitative sociologists to the field.",
+        "stems": [
+            "result",
+            "recent",
+            "influx",
+            "quantit",
+            "sociologist",
+            "field"
+        ],
         "synonyms": [
             "solution",
             "recent",
@@ -38339,7 +39792,7 @@
             "sociologist",
             "sphere"
         ],
-        "tagged": [
+        "tags": [
             [
                 "result",
                 "NN"
@@ -38617,6 +40070,16 @@
         "meronyms": [],
         "ner_tag": "{'Thus': 'O', 'there': 'O', 'is': 'O', 'now': 'DATE', 'a': 'O', 'growing': 'O', 'group': 'O', 'of': 'O', 'sociologists': 'O', 'culture': 'O', 'who': 'O', 'are': 'O', ',': 'O', 'confusingly': 'O', 'not': 'O', 'cultural': 'O', '.': 'O'}",
         "sentence": "Thus there is now a growing group of sociologists of culture who are, confusingly, not cultural sociologists.",
+        "stems": [
+            "thu",
+            "grow",
+            "group",
+            "sociologist",
+            "cultur",
+            "confusingli",
+            "cultur",
+            "sociologist"
+        ],
         "synonyms": [
             "thus",
             "turn",
@@ -38627,7 +40090,7 @@
             "cultural",
             "sociologist"
         ],
-        "tagged": [
+        "tags": [
             [
                 "thus",
                 "RB"
@@ -39047,6 +40510,25 @@
         ],
         "ner_tag": "{'These': 'O', 'scholars': 'O', 'reject': 'O', 'the': 'O', 'abstracted': 'O', 'postmodern': 'O', 'aspects': 'O', 'of': 'O', 'cultural': 'O', 'sociology': 'O', ',': 'O', 'and': 'O', 'instead': 'O', 'look': 'O', 'for': 'O', 'a': 'O', 'theoretical': 'O', 'backing': 'O', 'in': 'O', 'more': 'O', 'scientific': 'O', 'vein': 'O', 'social': 'O', 'psychology': 'O', 'cognitive': 'O', 'science': 'O', '.': 'O'}",
         "sentence": "These scholars reject the abstracted postmodern aspects of cultural sociology, and instead look for a theoretical backing in the more scientific vein of social psychology and cognitive science.",
+        "stems": [
+            "scholar",
+            "reject",
+            "abstract",
+            "postmodern",
+            "aspect",
+            "cultur",
+            "sociolog",
+            "instead",
+            "look",
+            "theoret",
+            "back",
+            "scientif",
+            "vein",
+            "social",
+            "psycholog",
+            "cognit",
+            "scienc"
+        ],
         "synonyms": [
             "scholar",
             "rule_out",
@@ -39066,7 +40548,7 @@
             "cognitive",
             "science"
         ],
-        "tagged": [
+        "tags": [
             [
                 "scholars",
                 "NNS"
@@ -39359,6 +40841,18 @@
         ],
         "ner_tag": "{'``': 'O', 'Cultural': 'O', 'sociology': 'O', \"''\": 'O', 'is': 'O', 'one': 'NUMBER', 'of': 'O', 'the': 'O', 'largest': 'O', 'sections': 'O', 'American': 'ORGANIZATION', 'Sociological': 'ORGANIZATION', 'Association': 'ORGANIZATION', '.': 'O'}",
         "sentence": "\"Cultural sociology\" is one of the largest sections of the American Sociological Association.",
+        "stems": [
+            "``",
+            "cultur",
+            "sociolog",
+            "''",
+            "one",
+            "largest",
+            "section",
+            "american",
+            "sociolog",
+            "associ"
+        ],
         "synonyms": [
             "``",
             "cultural",
@@ -39371,7 +40865,7 @@
             "sociological",
             "association"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -39690,6 +41184,20 @@
         ],
         "ner_tag": "{'The': 'O', 'British': 'NATIONALITY', 'establishment': 'O', 'of': 'O', 'cultural': 'O', 'studies': 'O', 'means': 'O', 'the': 'O', 'latter': 'O', 'is': 'O', 'often': 'O', 'taught': 'O', 'as': 'O', 'a': 'O', 'loosely': 'O', 'distinct': 'O', 'discipline': 'O', 'in': 'O', 'UK': 'COUNTRY', '.': 'O'}",
         "sentence": "The British establishment of cultural studies means the latter is often taught as a loosely distinct discipline in the UK.",
+        "stems": [
+            "british",
+            "establish",
+            "cultur",
+            "studi",
+            "mean",
+            "latter",
+            "often",
+            "taught",
+            "loos",
+            "distinct",
+            "disciplin",
+            "uk"
+        ],
         "synonyms": [
             "British",
             "institution",
@@ -39704,7 +41212,7 @@
             "discipline",
             "United_Kingdom"
         ],
-        "tagged": [
+        "tags": [
             [
                 "british",
                 "JJ"
@@ -40372,6 +41880,33 @@
         ],
         "ner_tag": "{'The': 'O', 'sociology': 'O', 'of': 'O', 'culture': 'O', 'grew': 'O', 'from': 'O', 'the': 'O', 'intersection': 'O', 'between': 'O', '(': 'O', 'as': 'O', 'shaped': 'O', 'by': 'O', 'early': 'O', 'theorists': 'O', 'like': 'O', 'Marx': 'PERSON', ',': 'O', 'Durkheim': 'PERSON', 'and': 'O', 'Weber': 'PERSON', ')': 'O', 'with': 'O', 'growing': 'O', 'discipline': 'O', 'anthropology': 'O', 'where': 'O', 'in': 'O', 'researchers': 'O', 'pioneered': 'O', 'ethnographic': 'O', 'strategies': 'O', 'for': 'O', 'describing': 'O', 'analyzing': 'O', 'a': 'O', 'variety': 'O', 'cultures': 'O', 'around': 'O', 'world': 'O', '.': 'O'}",
         "sentence": "The sociology of culture grew from the intersection between sociology (as shaped by early theorists like Marx, Durkheim, and Weber) with the growing discipline of anthropology, where in researchers pioneered ethnographic strategies for describing and analyzing a variety of cultures around the world.",
+        "stems": [
+            "sociolog",
+            "cultur",
+            "grew",
+            "intersect",
+            "sociolog",
+            "shape",
+            "earli",
+            "theorist",
+            "like",
+            "marx",
+            "durkheim",
+            "weber",
+            "grow",
+            "disciplin",
+            "anthropolog",
+            "research",
+            "pioneer",
+            "ethnograph",
+            "strategi",
+            "describ",
+            "analyz",
+            "varieti",
+            "cultur",
+            "around",
+            "world"
+        ],
         "synonyms": [
             "sociology",
             "polish",
@@ -40399,7 +41934,7 @@
             "around",
             "world"
         ],
-        "tagged": [
+        "tags": [
             [
                 "sociology",
                 "NN"
@@ -41181,6 +42716,32 @@
         ],
         "ner_tag": "{'Part': 'O', 'of': 'O', 'the': 'O', 'legacy': 'O', 'early': 'O', 'development': 'O', 'field': 'O', 'lingers': 'O', 'in': 'O', 'methods': 'O', '(': 'O', 'much': 'O', 'cultural': 'O', 'sociological': 'O', 'research': 'O', 'is': 'O', 'qualitative': 'O', ')': 'O', ',': 'O', 'theories': 'O', 'a': 'O', 'variety': 'O', 'critical': 'O', 'approaches': 'O', 'to': 'O', 'sociology': 'O', 'are': 'O', 'central': 'O', 'current': 'DATE', 'communities': 'O', 'and': 'O', 'substantive': 'O', 'focus': 'O', '.': 'O'}",
         "sentence": "Part of the legacy of the early development of the field lingers in the methods (much of cultural sociological research is qualitative), in the theories (a variety of critical approaches to sociology are central to current research communities), and in the substantive focus of the field.",
+        "stems": [
+            "part",
+            "legaci",
+            "earli",
+            "develop",
+            "field",
+            "linger",
+            "method",
+            "much",
+            "cultur",
+            "sociolog",
+            "research",
+            "qualit",
+            "theori",
+            "varieti",
+            "critic",
+            "approach",
+            "sociolog",
+            "central",
+            "current",
+            "research",
+            "commun",
+            "substant",
+            "focu",
+            "field"
+        ],
         "synonyms": [
             "part",
             "bequest",
@@ -41207,7 +42768,7 @@
             "focus",
             "sphere"
         ],
-        "tagged": [
+        "tags": [
             [
                 "part",
                 "NN"
@@ -41619,6 +43180,20 @@
         ],
         "ner_tag": "{'For': 'O', 'instance': 'O', ',': 'O', 'relationships': 'O', 'between': 'O', 'popular': 'O', 'culture': 'O', 'political': 'O', 'control': 'O', 'and': 'O', 'social': 'O', 'class': 'O', 'were': 'O', 'early': 'O', 'lasting': 'O', 'concerns': 'O', 'in': 'O', 'the': 'O', 'field': 'O', '.': 'O'}",
         "sentence": "For instance, relationships between popular culture, political control, and social class were early and lasting concerns in the field.",
+        "stems": [
+            "instanc",
+            "relationship",
+            "popular",
+            "cultur",
+            "polit",
+            "control",
+            "social",
+            "class",
+            "earli",
+            "last",
+            "concern",
+            "field"
+        ],
         "synonyms": [
             "example",
             "relationship",
@@ -41633,7 +43208,7 @@
             "concern",
             "sphere"
         ],
-        "tagged": [
+        "tags": [
             [
                 "instance",
                 "NN"
@@ -42122,6 +43697,23 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'United': 'COUNTRY', 'Kingdom': 'COUNTRY', ',': 'O', 'sociologists': 'O', 'and': 'O', 'other': 'O', 'scholars': 'O', 'influenced': 'O', 'by': 'O', 'Marxism': 'IDEOLOGY', 'such': 'O', 'as': 'O', 'Stuart': 'PERSON', 'Hall': 'PERSON', '(': 'O', '1932': 'DATE', '–': 'O', '2014': 'DATE', ')': 'O', 'Raymond': 'PERSON', 'Williams': 'PERSON', '1921': 'DATE', '1988': 'DATE', 'developed': 'O', 'cultural': 'O', 'studies': 'O', '.': 'O'}",
         "sentence": "In the United Kingdom, sociologists and other scholars influenced by Marxism, such as Stuart Hall (1932–2014) and Raymond Williams (1921–1988), developed cultural studies.",
+        "stems": [
+            "unit",
+            "kingdom",
+            "sociologist",
+            "scholar",
+            "influenc",
+            "marxism",
+            "stuart",
+            "hall",
+            "1932–2014",
+            "raymond",
+            "william",
+            "1921–1988",
+            "develop",
+            "cultur",
+            "studi"
+        ],
         "synonyms": [
             "united",
             "kingdom",
@@ -42139,7 +43731,7 @@
             "cultural",
             "survey"
         ],
-        "tagged": [
+        "tags": [
             [
                 "united",
                 "JJ"
@@ -42645,6 +44237,25 @@
         ],
         "ner_tag": "{'Following': 'O', 'nineteenth': 'O', '-': 'O', 'century': 'O', 'Romantics': 'MISC', ',': 'O', 'they': 'O', 'identified': 'O', '``': 'O', 'culture': 'O', \"''\": 'O', 'with': 'O', 'consumption': 'O', 'goods': 'O', 'and': 'O', 'leisure': 'O', 'activities': 'O', '(': 'O', 'such': 'O', 'as': 'O', 'art': 'O', 'music': 'O', 'film': 'O', 'food': 'O', 'sports': 'O', 'clothing': 'O', ')': 'O', '.': 'O'}",
         "sentence": "Following nineteenth-century Romantics, they identified \"culture\" with consumption goods and leisure activities (such as art, music, film, food, sports, and clothing).",
+        "stems": [
+            "follow",
+            "nineteenth-centuri",
+            "romant",
+            "identifi",
+            "``",
+            "cultur",
+            "''",
+            "consumpt",
+            "good",
+            "leisur",
+            "activ",
+            "art",
+            "music",
+            "film",
+            "food",
+            "sport",
+            "cloth"
+        ],
         "synonyms": [
             "take_after",
             "nineteenth-century",
@@ -42664,7 +44275,7 @@
             "sport",
             "clothing"
         ],
-        "tagged": [
+        "tags": [
             [
                 "following",
                 "VBG"
@@ -43130,6 +44741,22 @@
         ],
         "ner_tag": "{'Nevertheless': 'O', ',': 'O', 'they': 'O', 'saw': 'O', 'patterns': 'O', 'of': 'O', 'consumption': 'O', 'and': 'O', 'leisure': 'O', 'as': 'O', 'determined': 'O', 'by': 'O', 'relations': 'O', 'production': 'O', 'which': 'O', 'led': 'O', 'them': 'O', 'to': 'O', 'focus': 'O', 'on': 'O', 'class': 'O', 'the': 'O', 'organization': 'O', '.': 'O'}",
         "sentence": "Nevertheless, they saw patterns of consumption and leisure as determined by relations of production, which led them to focus on class relations and the organization of production.",
+        "stems": [
+            "nevertheless",
+            "saw",
+            "pattern",
+            "consumpt",
+            "leisur",
+            "determin",
+            "relat",
+            "product",
+            "led",
+            "focu",
+            "class",
+            "relat",
+            "organ",
+            "product"
+        ],
         "synonyms": [
             "however",
             "visit",
@@ -43146,7 +44773,7 @@
             "organization",
             "production"
         ],
-        "tagged": [
+        "tags": [
             [
                 "nevertheless",
                 "RB"
@@ -43635,6 +45262,25 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', ',': 'O', '``': 'O', 'Cultural': 'O', 'Studies': 'O', \"''\": 'O', 'focuses': 'O', 'largely': 'O', 'on': 'O', 'study': 'O', 'of': 'O', 'popular': 'O', 'culture': 'O', 'that': 'O', 'is': 'O', 'social': 'O', 'meanings': 'O', 'mass': 'O', '-': 'O', 'produced': 'O', 'consumer': 'O', 'and': 'O', 'leisure': 'O', 'goods': 'O', '.': 'O'}",
         "sentence": "In the United States, \"Cultural Studies\" focuses largely on the study of popular culture, that is, on the social meanings of mass-produced consumer and leisure goods.",
+        "stems": [
+            "unit",
+            "state",
+            "``",
+            "cultur",
+            "studi",
+            "''",
+            "focus",
+            "larg",
+            "studi",
+            "popular",
+            "cultur",
+            "social",
+            "mean",
+            "mass-produc",
+            "consum",
+            "leisur",
+            "good"
+        ],
         "synonyms": [
             "united",
             "state",
@@ -43654,7 +45300,7 @@
             "leisure",
             "good"
         ],
-        "tagged": [
+        "tags": [
             [
                 "united",
                 "JJ"
@@ -43991,6 +45637,20 @@
         "meronyms": [],
         "ner_tag": "{'Richard': 'PERSON', 'Hoggart': 'PERSON', 'coined': 'O', 'the': 'O', 'term': 'O', 'in': 'O', '1964': 'DATE', 'when': 'O', 'he': 'O', 'founded': 'O', 'Birmingham': 'CITY', 'Centre': 'LOCATION', 'for': 'O', 'Contemporary': 'O', 'Cultural': 'O', 'Studies': 'O', 'or': 'O', 'CCCS': 'ORGANIZATION', '.': 'O'}",
         "sentence": "Richard Hoggart coined the term in 1964 when he founded the Birmingham Centre for Contemporary Cultural Studies or CCCS.",
+        "stems": [
+            "richard",
+            "hoggart",
+            "coin",
+            "term",
+            "1964",
+            "found",
+            "birmingham",
+            "centr",
+            "contemporari",
+            "cultur",
+            "studi",
+            "ccc"
+        ],
         "synonyms": [
             "richard",
             "hoggart",
@@ -44005,7 +45665,7 @@
             "survey",
             "cccs"
         ],
-        "tagged": [
+        "tags": [
             [
                 "richard",
                 "JJ"
@@ -44272,6 +45932,17 @@
         ],
         "ner_tag": "{'It': 'O', 'has': 'O', 'since': 'O', 'become': 'O', 'strongly': 'O', 'associated': 'O', 'with': 'O', 'Stuart': 'PERSON', 'Hall': 'PERSON', ',': 'O', 'who': 'O', 'succeeded': 'O', 'Hoggart': 'PERSON', 'as': 'O', 'Director': 'TITLE', '.': 'O'}",
         "sentence": "It has since become strongly associated with Stuart Hall, who succeeded Hoggart as Director.",
+        "stems": [
+            "sinc",
+            "becom",
+            "strongli",
+            "associ",
+            "stuart",
+            "hall",
+            "succeed",
+            "hoggart",
+            "director"
+        ],
         "synonyms": [
             "since",
             "become",
@@ -44283,7 +45954,7 @@
             "hoggart",
             "film_director"
         ],
-        "tagged": [
+        "tags": [
             [
                 "since",
                 "IN"
@@ -44839,6 +46510,29 @@
         ],
         "ner_tag": "{'Cultural': 'O', 'studies': 'O', 'in': 'O', 'this': 'O', 'sense': 'O', ',': 'O', 'then': 'O', 'can': 'O', 'be': 'O', 'viewed': 'O', 'as': 'O', 'a': 'O', 'limited': 'O', 'concentration': 'O', 'scoped': 'O', 'on': 'O', 'the': 'O', 'intricacies': 'O', 'of': 'O', 'consumerism': 'O', 'which': 'O', 'belongs': 'O', 'to': 'O', 'wider': 'O', 'culture': 'O', 'sometimes': 'O', 'referred': 'O', '``': 'O', 'Western': 'MISC', 'Civilization': 'MISC', \"''\": 'O', 'or': 'O', 'Globalism': 'O', '.': 'O'}",
         "sentence": "Cultural studies in this sense, then, can be viewed as a limited concentration scoped on the intricacies of consumerism, which belongs to a wider culture sometimes referred to as \"Western Civilization\" or as \"Globalism.\"",
+        "stems": [
+            "cultur",
+            "studi",
+            "sens",
+            "view",
+            "limit",
+            "concentr",
+            "scope",
+            "intricaci",
+            "consumer",
+            "belong",
+            "wider",
+            "cultur",
+            "sometim",
+            "refer",
+            "``",
+            "western",
+            "civil",
+            "''",
+            "``",
+            "global",
+            "''"
+        ],
         "synonyms": [
             "cultural",
             "survey",
@@ -44862,7 +46556,7 @@
             "globalism",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "cultural",
                 "JJ"
@@ -45414,6 +47108,29 @@
         ],
         "ner_tag": "{'From': 'O', 'the': 'DATE', '1970s': 'DATE', 'onward': 'O', ',': 'O', 'Stuart': 'PERSON', 'Hall': 'PERSON', \"'s\": 'O', 'pioneering': 'O', 'work': 'O', 'along': 'O', 'with': 'O', 'that': 'O', 'of': 'O', 'his': 'O', 'colleagues': 'O', 'Paul': 'PERSON', 'Willis': 'PERSON', 'Dick': 'PERSON', 'Hebdige': 'PERSON', 'Tony': 'PERSON', 'Jefferson': 'PERSON', 'and': 'O', 'Angela': 'PERSON', 'McRobbie': 'PERSON', 'created': 'O', 'an': 'O', 'international': 'O', 'intellectual': 'O', 'movement': 'O', '.': 'O'}",
         "sentence": "From the 1970s onward, Stuart Hall's pioneering work, along with that of his colleagues Paul Willis, Dick Hebdige, Tony Jefferson, and Angela McRobbie, created an international intellectual movement.",
+        "stems": [
+            "1970",
+            "onward",
+            "stuart",
+            "hall",
+            "'s",
+            "pioneer",
+            "work",
+            "along",
+            "colleagu",
+            "paul",
+            "willi",
+            "dick",
+            "hebdig",
+            "toni",
+            "jefferson",
+            "angela",
+            "mcrobbi",
+            "creat",
+            "intern",
+            "intellectu",
+            "movement"
+        ],
         "synonyms": [
             "seventies",
             "ahead",
@@ -45437,7 +47154,7 @@
             "intellectual",
             "movement"
         ],
-        "tagged": [
+        "tags": [
             [
                 "1970s",
                 "CD"
@@ -46139,6 +47856,36 @@
         ],
         "ner_tag": "{'As': 'O', 'the': 'O', 'field': 'O', 'developed': 'O', 'it': 'O', 'began': 'O', 'to': 'O', 'combine': 'O', 'political': 'O', 'economy': 'O', ',': 'O', 'communication': 'O', 'sociology': 'O', 'social': 'O', 'theory': 'O', 'literary': 'O', 'media': 'O', 'film': 'O', '/': 'O', 'video': 'O', 'studies': 'O', 'cultural': 'O', 'anthropology': 'O', 'philosophy': 'O', 'museum': 'O', 'and': 'O', 'art': 'O', 'history': 'O', 'study': 'O', 'phenomena': 'O', 'or': 'O', 'texts': 'O', '.': 'O'}",
         "sentence": "As the field developed it began to combine political economy, communication, sociology, social theory, literary theory, media theory, film/video studies, cultural anthropology, philosophy, museum studies and art history to study cultural phenomena or cultural texts.",
+        "stems": [
+            "field",
+            "develop",
+            "began",
+            "combin",
+            "polit",
+            "economi",
+            "commun",
+            "sociolog",
+            "social",
+            "theori",
+            "literari",
+            "theori",
+            "media",
+            "theori",
+            "film/video",
+            "studi",
+            "cultur",
+            "anthropolog",
+            "philosophi",
+            "museum",
+            "studi",
+            "art",
+            "histori",
+            "studi",
+            "cultur",
+            "phenomena",
+            "cultur",
+            "text"
+        ],
         "synonyms": [
             "sphere",
             "grow",
@@ -46169,7 +47916,7 @@
             "cultural",
             "textbook"
         ],
-        "tagged": [
+        "tags": [
             [
                 "field",
                 "NN"
@@ -46663,6 +48410,23 @@
         ],
         "ner_tag": "{'In': 'O', 'this': 'O', 'field': 'O', 'researchers': 'O', 'often': 'O', 'concentrate': 'O', 'on': 'O', 'how': 'O', 'particular': 'O', 'phenomena': 'O', 'relate': 'O', 'to': 'O', 'matters': 'O', 'of': 'O', 'ideology': 'O', ',': 'O', 'nationality': 'O', 'ethnicity': 'O', 'social': 'O', 'class': 'O', 'and': 'O', '/': 'O', 'or': 'O', 'gender': 'O', '.': 'O'}",
         "sentence": "In this field researchers often concentrate on how particular phenomena relate to matters of ideology, nationality, ethnicity, social class, and/or gender.",
+        "stems": [
+            "field",
+            "research",
+            "often",
+            "concentr",
+            "particular",
+            "phenomena",
+            "relat",
+            "matter",
+            "ideolog",
+            "nation",
+            "ethnic",
+            "social",
+            "class",
+            "and/or",
+            "gender"
+        ],
         "synonyms": [
             "sphere",
             "research_worker",
@@ -46680,7 +48444,7 @@
             "and/or",
             "gender"
         ],
-        "tagged": [
+        "tags": [
             [
                 "field",
                 "NN"
@@ -46983,6 +48747,17 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Cultural': 'O', 'studies': 'O', 'has': 'O', 'a': 'O', 'concern': 'O', 'with': 'O', 'the': 'O', 'meaning': 'O', 'and': 'O', 'practices': 'O', 'of': 'O', 'everyday': 'O', 'life': 'O', '.': 'O'}",
         "sentence": "[citation needed] Cultural studies has a concern with the meaning and practices of everyday life.",
+        "stems": [
+            "citat",
+            "need",
+            "cultur",
+            "studi",
+            "concern",
+            "mean",
+            "practic",
+            "everyday",
+            "life"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -46994,7 +48769,7 @@
             "everyday",
             "life_sentence"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -47342,6 +49117,19 @@
         ],
         "ner_tag": "{'These': 'O', 'practices': 'O', 'comprise': 'O', 'the': 'O', 'ways': 'O', 'people': 'O', 'do': 'O', 'particular': 'O', 'things': 'O', '(': 'O', 'such': 'O', 'as': 'O', 'watching': 'O', 'television': 'O', ',': 'O', 'or': 'O', 'eating': 'O', 'out': 'O', ')': 'O', 'in': 'O', 'a': 'O', 'given': 'O', 'culture': 'O', '.': 'O'}",
         "sentence": "These practices comprise the ways people do particular things (such as watching television, or eating out) in a given culture.",
+        "stems": [
+            "practic",
+            "compris",
+            "way",
+            "peopl",
+            "particular",
+            "thing",
+            "watch",
+            "televis",
+            "eat",
+            "given",
+            "cultur"
+        ],
         "synonyms": [
             "rehearse",
             "incorporate",
@@ -47355,7 +49143,7 @@
             "given",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "practices",
                 "NNS"
@@ -47607,6 +49395,17 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'field': 'O', 'studies': 'O', 'the': 'O', 'meanings': 'O', 'and': 'O', 'uses': 'O', 'people': 'O', 'attribute': 'O', 'to': 'O', 'various': 'O', 'objects': 'O', 'practices': 'O', '.': 'O'}",
         "sentence": "This field studies the meanings and uses people attribute to various objects and practices.",
+        "stems": [
+            "field",
+            "studi",
+            "mean",
+            "use",
+            "peopl",
+            "attribut",
+            "variou",
+            "object",
+            "practic"
+        ],
         "synonyms": [
             "sphere",
             "survey",
@@ -47618,7 +49417,7 @@
             "object",
             "rehearse"
         ],
-        "tagged": [
+        "tags": [
             [
                 "field",
                 "NN"
@@ -47833,6 +49632,16 @@
         "meronyms": [],
         "ner_tag": "{'Specifically': 'O', ',': 'O', 'culture': 'O', 'involves': 'O', 'those': 'O', 'meanings': 'O', 'and': 'O', 'practices': 'O', 'held': 'O', 'independently': 'O', 'of': 'O', 'reason': 'O', '.': 'O'}",
         "sentence": "Specifically, culture involves those meanings and practices held independently of reason.",
+        "stems": [
+            "specif",
+            "cultur",
+            "involv",
+            "mean",
+            "practic",
+            "held",
+            "independ",
+            "reason"
+        ],
         "synonyms": [
             "specifically",
             "polish",
@@ -47843,7 +49652,7 @@
             "independently",
             "reason"
         ],
-        "tagged": [
+        "tags": [
             [
                 "specifically",
                 "RB"
@@ -48754,6 +50563,44 @@
         ],
         "ner_tag": "{'Watching': 'O', 'television': 'O', 'in': 'O', 'order': 'O', 'to': 'O', 'view': 'O', 'a': 'O', 'public': 'O', 'perspective': 'O', 'on': 'O', 'historical': 'O', 'event': 'O', 'should': 'O', 'not': 'O', 'be': 'O', 'thought': 'O', 'of': 'O', 'as': 'O', 'culture': 'O', ',': 'O', 'unless': 'O', 'referring': 'O', 'the': 'O', 'medium': 'O', 'itself': 'O', 'which': 'O', 'may': 'O', 'have': 'O', 'been': 'O', 'selected': 'O', 'culturally': 'O', ';': 'O', 'however': 'O', 'schoolchildren': 'O', 'watching': 'O', 'after': 'O', 'school': 'O', 'with': 'O', 'their': 'O', 'friends': 'O', '``': 'O', 'fit': 'O', \"''\": 'O', 'certainly': 'O', 'qualifies': 'O', 'since': 'O', 'there': 'O', 'is': 'O', 'no': 'O', 'grounded': 'O', 'reason': 'O', 'for': 'O', 'one': 'NUMBER', \"'s\": 'O', 'participation': 'O', 'this': 'O', 'practice': 'O', '.': 'O'}",
         "sentence": "Watching television in order to view a public perspective on a historical event should not be thought of as culture, unless referring to the medium of television itself, which may have been selected culturally; however, schoolchildren watching television after school with their friends in order to \"fit in\" certainly qualifies, since there is no grounded reason for one's participation in this practice.",
+        "stems": [
+            "watch",
+            "televis",
+            "order",
+            "view",
+            "public",
+            "perspect",
+            "histor",
+            "event",
+            "thought",
+            "cultur",
+            "unless",
+            "refer",
+            "medium",
+            "televis",
+            "may",
+            "select",
+            "cultur",
+            "howev",
+            "schoolchildren",
+            "watch",
+            "televis",
+            "school",
+            "friend",
+            "order",
+            "``",
+            "fit",
+            "''",
+            "certainli",
+            "qualifi",
+            "sinc",
+            "ground",
+            "reason",
+            "one",
+            "'s",
+            "particip",
+            "practic"
+        ],
         "synonyms": [
             "observation",
             "television_receiver",
@@ -48792,7 +50639,7 @@
             "engagement",
             "rehearse"
         ],
-        "tagged": [
+        "tags": [
             [
                 "watching",
                 "VBG"
@@ -49270,6 +51117,19 @@
         "meronyms": [],
         "ner_tag": "{'Recently': 'DATE', ',': 'O', 'as': 'O', 'capitalism': 'IDEOLOGY', 'has': 'O', 'spread': 'O', 'throughout': 'O', 'the': 'O', 'world': 'O', '(': 'O', 'a': 'O', 'process': 'O', 'called': 'O', 'globalization': 'O', ')': 'O', 'cultural': 'O', 'studies': 'O', 'begun': 'O', '[': 'O', 'when': 'O', '?': 'O', ']': 'O'}",
         "sentence": "Recently, as capitalism has spread throughout the world (a process called globalization), cultural studies has begun[when?]",
+        "stems": [
+            "recent",
+            "capit",
+            "spread",
+            "throughout",
+            "world",
+            "process",
+            "call",
+            "global",
+            "cultur",
+            "studi",
+            "begun"
+        ],
         "synonyms": [
             "recently",
             "capitalism",
@@ -49283,7 +51143,7 @@
             "survey",
             "begin"
         ],
-        "tagged": [
+        "tags": [
             [
                 "recently",
                 "RB"
@@ -49497,6 +51357,15 @@
         "meronyms": [],
         "ner_tag": "{'to': 'O', 'analyze': 'O', 'local': 'O', 'and': 'O', 'global': 'O', 'forms': 'O', 'of': 'O', 'resistance': 'O', 'Western': 'MISC', 'hegemony': 'O', '.': 'O'}",
         "sentence": "to analyze local and global forms of resistance to Western hegemony.",
+        "stems": [
+            "analyz",
+            "local",
+            "global",
+            "form",
+            "resist",
+            "western",
+            "hegemoni"
+        ],
         "synonyms": [
             "analyze",
             "local_anesthetic",
@@ -49506,7 +51375,7 @@
             "western",
             "hegemony"
         ],
-        "tagged": [
+        "tags": [
             [
                 "analyze",
                 "RB"
@@ -50057,6 +51926,27 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Globalization': 'O', 'in': 'O', 'this': 'O', 'context': 'O', 'can': 'O', 'be': 'O', 'defined': 'O', 'as': 'O', 'western': 'O', 'civilization': 'O', 'other': 'O', 'ways': 'O', ',': 'O', 'it': 'O', 'undermines': 'O', 'the': 'O', 'cultural': 'O', 'integrity': 'O', 'of': 'O', 'culture': 'O', 'and': 'O', 'is': 'O', 'therefore': 'O', 'repressive': 'O', 'exploitative': 'O', 'harmful': 'O', 'to': 'O', 'most': 'O', 'people': 'O', 'different': 'O', 'places': 'O', '.': 'O'}",
         "sentence": "[citation needed] Globalization in this context can be defined as western civilization in other ways, it undermines the cultural integrity of other culture and it is therefore repressive, exploitative and harmful to most people in different places.",
+        "stems": [
+            "citat",
+            "need",
+            "global",
+            "context",
+            "defin",
+            "western",
+            "civil",
+            "way",
+            "undermin",
+            "cultur",
+            "integr",
+            "cultur",
+            "therefor",
+            "repress",
+            "exploit",
+            "harm",
+            "peopl",
+            "differ",
+            "place"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -50078,7 +51968,7 @@
             "unlike",
             "topographic_point"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -50684,6 +52574,28 @@
         ],
         "ner_tag": "{'In': 'O', 'the': 'O', 'context': 'O', 'of': 'O', 'cultural': 'O', 'studies': 'O', ',': 'O', 'idea': 'O', 'a': 'O', 'text': 'O', 'includes': 'O', 'not': 'O', 'only': 'O', 'written': 'O', 'language': 'O', 'but': 'O', 'also': 'O', 'films': 'O', 'photographs': 'O', 'fashion': 'O', 'or': 'O', 'hairstyles': 'O', ':': 'O', 'texts': 'O', 'comprise': 'O', 'all': 'O', 'meaningful': 'O', 'artifacts': 'O', 'culture': 'O', '.': 'O'}",
         "sentence": "In the context of cultural studies, the idea of a text includes not only written language, but also films, photographs, fashion or hairstyles: the texts of cultural studies comprise all the meaningful artifacts of culture.",
+        "stems": [
+            "context",
+            "cultur",
+            "studi",
+            "idea",
+            "text",
+            "includ",
+            "written",
+            "languag",
+            "also",
+            "film",
+            "photograph",
+            "fashion",
+            "hairstyl",
+            "text",
+            "cultur",
+            "studi",
+            "compris",
+            "meaning",
+            "artifact",
+            "cultur"
+        ],
         "synonyms": [
             "context",
             "cultural",
@@ -50706,7 +52618,7 @@
             "artifact",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "context",
                 "JJ"
@@ -51010,6 +52922,17 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Similarly': 'O', ',': 'O', 'the': 'O', 'discipline': 'O', 'widens': 'O', 'concept': 'O', 'of': 'O', '``': 'O', 'culture': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "[citation needed] Similarly, the discipline widens the concept of \"culture\".",
+        "stems": [
+            "citat",
+            "need",
+            "similarli",
+            "disciplin",
+            "widen",
+            "concept",
+            "``",
+            "cultur",
+            "''"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -51021,7 +52944,7 @@
             "polish",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -51485,6 +53408,27 @@
         "meronyms": [],
         "ner_tag": "{'``': 'O', 'Culture': 'O', \"''\": 'O', 'for': 'O', 'a': 'O', 'cultural': 'O', '-': 'O', 'studies': 'O', 'researcher': 'TITLE', 'not': 'O', 'only': 'O', 'includes': 'O', 'traditional': 'O', 'high': 'O', 'culture': 'O', '(': 'O', 'the': 'O', 'of': 'O', 'ruling': 'O', 'social': 'O', 'groups': 'O', ')': 'O', 'and': 'O', 'popular': 'O', ',': 'O', 'but': 'O', 'also': 'O', 'everyday': 'O', 'meanings': 'O', 'practices': 'O', '.': 'O'}",
         "sentence": "\"Culture\" for a cultural-studies researcher not only includes traditional high culture (the culture of ruling social groups) and popular culture, but also everyday meanings and practices.",
+        "stems": [
+            "``",
+            "cultur",
+            "''",
+            "cultural-studi",
+            "research",
+            "includ",
+            "tradit",
+            "high",
+            "cultur",
+            "cultur",
+            "rule",
+            "social",
+            "group",
+            "popular",
+            "cultur",
+            "also",
+            "everyday",
+            "mean",
+            "practic"
+        ],
         "synonyms": [
             "``",
             "polish",
@@ -51506,7 +53450,7 @@
             "mean",
             "rehearse"
         ],
-        "tagged": [
+        "tags": [
             [
                 "``",
                 "``"
@@ -51811,6 +53755,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'last': 'O', 'two': 'NUMBER', ',': 'O', 'in': 'O', 'fact': 'O', 'have': 'O', 'become': 'O', 'the': 'O', 'main': 'O', 'focus': 'O', 'of': 'O', 'cultural': 'O', 'studies': 'O', '.': 'O'}",
         "sentence": "The last two, in fact, have become the main focus of cultural studies.",
+        "stems": [
+            "last",
+            "two",
+            "fact",
+            "becom",
+            "main",
+            "focu",
+            "cultur",
+            "studi"
+        ],
         "synonyms": [
             "last",
             "two",
@@ -51821,7 +53775,7 @@
             "cultural",
             "survey"
         ],
-        "tagged": [
+        "tags": [
             [
                 "last",
                 "JJ"
@@ -52122,6 +54076,19 @@
         "meronyms": [],
         "ner_tag": "{'A': 'O', 'further': 'O', 'and': 'O', 'recent': 'O', 'approach': 'O', 'is': 'O', 'comparative': 'O', 'cultural': 'O', 'studies': 'O', ',': 'O', 'based': 'O', 'on': 'O', 'the': 'O', 'disciplines': 'O', 'of': 'O', 'literature': 'O', '.': 'O'}",
         "sentence": "A further and recent approach is comparative cultural studies, based on the disciplines of comparative literature and cultural studies.",
+        "stems": [
+            "recent",
+            "approach",
+            "compar",
+            "cultur",
+            "studi",
+            "base",
+            "disciplin",
+            "compar",
+            "literatur",
+            "cultur",
+            "studi"
+        ],
         "synonyms": [
             "recent",
             "overture",
@@ -52135,7 +54102,7 @@
             "cultural",
             "survey"
         ],
-        "tagged": [
+        "tags": [
             [
                 "recent",
                 "JJ"
@@ -52504,6 +54471,23 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Scholars': 'O', 'in': 'O', 'the': 'O', 'United': 'COUNTRY', 'Kingdom': 'COUNTRY', 'and': 'O', 'States': 'COUNTRY', 'developed': 'O', 'somewhat': 'O', 'different': 'O', 'versions': 'O', 'of': 'O', 'cultural': 'O', 'studies': 'O', 'after': 'O', 'late': 'O', '1970s': 'DATE', '.': 'O'}",
         "sentence": "[citation needed] Scholars in the United Kingdom and the United States developed somewhat different versions of cultural studies after the late 1970s.",
+        "stems": [
+            "citat",
+            "need",
+            "scholar",
+            "unit",
+            "kingdom",
+            "unit",
+            "state",
+            "develop",
+            "somewhat",
+            "differ",
+            "version",
+            "cultur",
+            "studi",
+            "late",
+            "1970"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -52521,7 +54505,7 @@
             "late",
             "seventies"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -53230,6 +55214,35 @@
         ],
         "ner_tag": "{'The': 'O', 'British': 'NATIONALITY', 'version': 'O', 'of': 'ORGANIZATION', 'cultural': 'O', 'studies': 'O', 'had': 'O', 'originated': 'O', 'in': 'O', 'the': 'O', '1950s': 'DATE', 'and': 'O', '1960s': 'DATE', ',': 'O', 'mainly': 'O', 'under': 'O', 'influence': 'O', 'first': 'ORDINAL', 'Richard': 'PERSON', 'Hoggart': 'PERSON', 'E.': 'PERSON', 'P.': 'PERSON', 'Thompson': 'PERSON', 'Raymond': 'PERSON', 'Williams': 'PERSON', 'later': 'O', 'that': 'O', 'Stuart': 'PERSON', 'Hall': 'PERSON', 'others': 'O', 'at': 'O', 'Centre': 'ORGANIZATION', 'for': 'ORGANIZATION', 'Contemporary': 'ORGANIZATION', 'Cultural': 'ORGANIZATION', 'Studies': 'ORGANIZATION', 'University': 'ORGANIZATION', 'Birmingham': 'ORGANIZATION', '.': 'O'}",
         "sentence": "The British version of cultural studies had originated in the 1950s and 1960s, mainly under the influence first of Richard Hoggart, E. P. Thompson, and Raymond Williams, and later that of Stuart Hall and others at the Centre for Contemporary Cultural Studies at the University of Birmingham.",
+        "stems": [
+            "british",
+            "version",
+            "cultur",
+            "studi",
+            "origin",
+            "1950",
+            "1960",
+            "mainli",
+            "influenc",
+            "first",
+            "richard",
+            "hoggart",
+            "e.",
+            "p.",
+            "thompson",
+            "raymond",
+            "william",
+            "later",
+            "stuart",
+            "hall",
+            "other",
+            "centr",
+            "contemporari",
+            "cultur",
+            "studi",
+            "univers",
+            "birmingham"
+        ],
         "synonyms": [
             "British",
             "version",
@@ -53259,7 +55272,7 @@
             "university",
             "Birmingham"
         ],
-        "tagged": [
+        "tags": [
             [
                 "british",
                 "JJ"
@@ -53899,6 +55912,31 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'included': 'O', 'overtly': 'O', 'political': 'O', ',': 'O', 'left': 'IDEOLOGY', '-': 'IDEOLOGY', 'wing': 'IDEOLOGY', 'views': 'O', 'and': 'O', 'criticisms': 'O', 'of': 'O', 'popular': 'O', 'culture': 'O', 'as': 'O', '``': 'O', 'capitalist': 'O', \"''\": 'O', 'mass': 'O', ';': 'O', 'it': 'O', 'absorbed': 'O', 'some': 'O', 'the': 'O', 'ideas': 'O', 'Frankfurt': 'ORGANIZATION', 'School': 'ORGANIZATION', 'critique': 'O', 'industry': 'O', '(': 'O', 'i.e': 'O', '.': 'O'}",
         "sentence": "This included overtly political, left-wing views, and criticisms of popular culture as \"capitalist\" mass culture; it absorbed some of the ideas of the Frankfurt School critique of the \"culture industry\" (i.e.",
+        "stems": [
+            "includ",
+            "overtli",
+            "polit",
+            "left-w",
+            "view",
+            "critic",
+            "popular",
+            "cultur",
+            "``",
+            "capitalist",
+            "''",
+            "mass",
+            "cultur",
+            "absorb",
+            "idea",
+            "frankfurt",
+            "school",
+            "critiqu",
+            "``",
+            "cultur",
+            "industri",
+            "''",
+            "i.e"
+        ],
         "synonyms": [
             "include",
             "overtly",
@@ -53924,7 +55962,7 @@
             "''",
             "i.e"
         ],
-        "tagged": [
+        "tags": [
             [
                 "included",
                 "VBN"
@@ -54099,11 +56137,15 @@
         "meronyms": [],
         "ner_tag": "{'mass': 'O', 'culture': 'O', ')': 'O', '.': 'O'}",
         "sentence": "mass culture).",
+        "stems": [
+            "mass",
+            "cultur"
+        ],
         "synonyms": [
             "mass",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "mass",
                 "NN"
@@ -54570,6 +56612,26 @@
         ],
         "ner_tag": "{'This': 'O', 'emerges': 'O', 'in': 'O', 'the': 'O', 'writings': 'O', 'of': 'O', 'early': 'O', 'British': 'NATIONALITY', 'cultural': 'O', '-': 'O', 'studies': 'O', 'scholars': 'O', 'and': 'O', 'their': 'O', 'influences': 'O', ':': 'O', 'see': 'O', 'work': 'O', '(': 'O', 'for': 'O', 'example': 'O', ')': 'O', 'Raymond': 'PERSON', 'Williams': 'PERSON', ',': 'O', 'Stuart': 'PERSON', 'Hall': 'PERSON', 'Paul': 'PERSON', 'Willis': 'PERSON', 'Gilroy': 'PERSON', '.': 'O'}",
         "sentence": "This emerges in the writings of early British cultural-studies scholars and their influences: see the work of (for example) Raymond Williams, Stuart Hall, Paul Willis, and Paul Gilroy.",
+        "stems": [
+            "emerg",
+            "write",
+            "earli",
+            "british",
+            "cultural-studi",
+            "scholar",
+            "influenc",
+            "see",
+            "work",
+            "exampl",
+            "raymond",
+            "william",
+            "stuart",
+            "hall",
+            "paul",
+            "willi",
+            "paul",
+            "gilroy"
+        ],
         "synonyms": [
             "come_forth",
             "writing",
@@ -54590,7 +56652,7 @@
             "Paul",
             "gilroy"
         ],
-        "tagged": [
+        "tags": [
             [
                 "emerges",
                 "NNS"
@@ -55009,6 +57071,21 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'the': 'O', 'United': 'COUNTRY', 'States': 'COUNTRY', ',': 'O', 'Lindlof': 'PERSON', 'and': 'O', 'Taylor': 'PERSON', 'write': 'O', '``': 'O', 'Cultural': 'O', 'studies': 'O', '[': 'O', 'were': 'O', ']': 'O', 'grounded': 'O', 'in': 'O', 'a': 'O', 'pragmatic': 'O', 'liberal': 'O', '-': 'O', 'pluralist': 'O', 'tradition': 'O', \"''\": 'O', '.': 'O'}",
         "sentence": "In the United States, Lindlof and Taylor write, \"Cultural studies [were] grounded in a pragmatic, liberal-pluralist tradition\".",
+        "stems": [
+            "unit",
+            "state",
+            "lindlof",
+            "taylor",
+            "write",
+            "``",
+            "cultur",
+            "studi",
+            "ground",
+            "pragmat",
+            "liberal-pluralist",
+            "tradit",
+            "''"
+        ],
         "synonyms": [
             "united",
             "state",
@@ -55024,7 +57101,7 @@
             "custom",
             "''"
         ],
-        "tagged": [
+        "tags": [
             [
                 "united",
                 "JJ"
@@ -55641,6 +57718,31 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'American': 'NATIONALITY', 'version': 'O', 'of': 'O', 'cultural': 'O', 'studies': 'O', 'initially': 'O', 'concerned': 'O', 'itself': 'O', 'more': 'O', 'with': 'O', 'understanding': 'O', 'the': 'O', 'subjective': 'O', 'and': 'O', 'appropriative': 'O', 'side': 'O', 'audience': 'O', 'reactions': 'O', 'to': 'O', ',': 'O', 'uses': 'O', 'mass': 'O', 'culture': 'O', ';': 'O', 'for': 'O', 'example': 'O', '-': 'O', 'advocates': 'O', 'wrote': 'O', 'about': 'O', 'liberatory': 'O', 'aspects': 'O', 'fandom': 'O', '.': 'O'}",
         "sentence": "The American version of cultural studies initially concerned itself more with understanding the subjective and appropriative side of audience reactions to, and uses of, mass culture; for example, American cultural-studies advocates wrote about the liberatory aspects of fandom.",
+        "stems": [
+            "american",
+            "version",
+            "cultur",
+            "studi",
+            "initi",
+            "concern",
+            "understand",
+            "subject",
+            "appropri",
+            "side",
+            "audienc",
+            "reaction",
+            "use",
+            "mass",
+            "cultur",
+            "exampl",
+            "american",
+            "cultural-studi",
+            "advoc",
+            "wrote",
+            "liberatori",
+            "aspect",
+            "fandom"
+        ],
         "synonyms": [
             "American",
             "version",
@@ -55666,7 +57768,7 @@
             "view",
             "fandom"
         ],
-        "tagged": [
+        "tags": [
             [
                 "american",
                 "JJ"
@@ -55996,6 +58098,16 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'The': 'O', 'distinction': 'O', 'between': 'O', 'American': 'NATIONALITY', 'and': 'O', 'British': 'NATIONALITY', 'strands': 'O', ',': 'O', 'however': 'O', 'has': 'O', 'faded': 'O', '.': 'O'}",
         "sentence": "[citation needed] The distinction between American and British strands, however, has faded.",
+        "stems": [
+            "citat",
+            "need",
+            "distinct",
+            "american",
+            "british",
+            "strand",
+            "howev",
+            "fade"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -56006,7 +58118,7 @@
             "however",
             "languish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -56323,6 +58435,20 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Some': 'O', 'researchers': 'O', ',': 'O', 'especially': 'O', 'in': 'O', 'early': 'O', 'British': 'NATIONALITY', 'cultural': 'O', 'studies': 'O', 'apply': 'O', 'a': 'O', 'Marxist': 'IDEOLOGY', 'model': 'TITLE', 'to': 'O', 'the': 'O', 'field': 'O', '.': 'O'}",
         "sentence": "[citation needed] Some researchers, especially in early British cultural studies, apply a Marxist model to the field.",
+        "stems": [
+            "citat",
+            "need",
+            "research",
+            "especi",
+            "earli",
+            "british",
+            "cultur",
+            "studi",
+            "appli",
+            "marxist",
+            "model",
+            "field"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -56337,7 +58463,7 @@
             "model",
             "sphere"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -56694,6 +58820,19 @@
         ],
         "ner_tag": "{'This': 'O', 'strain': 'O', 'of': 'O', 'thinking': 'O', 'has': 'O', 'some': 'O', 'influence': 'O', 'from': 'O', 'the': 'O', 'Frankfurt': 'ORGANIZATION', 'School': 'ORGANIZATION', ',': 'O', 'but': 'O', 'especially': 'O', 'structuralist': 'O', 'Marxism': 'IDEOLOGY', 'Louis': 'PERSON', 'Althusser': 'PERSON', 'and': 'O', 'others': 'O', '.': 'O'}",
         "sentence": "This strain of thinking has some influence from the Frankfurt School, but especially from the structuralist Marxism of Louis Althusser and others.",
+        "stems": [
+            "strain",
+            "think",
+            "influenc",
+            "frankfurt",
+            "school",
+            "especi",
+            "structuralist",
+            "marxism",
+            "loui",
+            "althuss",
+            "other"
+        ],
         "synonyms": [
             "tune",
             "think",
@@ -56707,7 +58846,7 @@
             "althusser",
             "others"
         ],
-        "tagged": [
+        "tags": [
             [
                 "strain",
                 "NN"
@@ -56957,6 +59096,16 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'main': 'O', 'focus': 'O', 'of': 'O', 'an': 'O', 'orthodox': 'RELIGION', 'Marxist': 'IDEOLOGY', 'approach': 'O', 'concentrates': 'O', 'on': 'O', 'the': 'O', 'production': 'O', 'meaning': 'O', '.': 'O'}",
         "sentence": "The main focus of an orthodox Marxist approach concentrates on the production of meaning.",
+        "stems": [
+            "main",
+            "focu",
+            "orthodox",
+            "marxist",
+            "approach",
+            "concentr",
+            "product",
+            "mean"
+        ],
         "synonyms": [
             "main",
             "focus",
@@ -56967,7 +59116,7 @@
             "production",
             "mean"
         ],
-        "tagged": [
+        "tags": [
             [
                 "main",
                 "JJ"
@@ -57254,6 +59403,19 @@
         "meronyms": [],
         "ner_tag": "{'This': 'O', 'model': 'TITLE', 'assumes': 'O', 'a': 'O', 'mass': 'O', 'production': 'O', 'of': 'O', 'culture': 'O', 'and': 'O', 'identifies': 'O', 'power': 'O', 'as': 'O', 'residing': 'O', 'with': 'O', 'those': 'O', 'producing': 'O', 'cultural': 'O', 'artifacts': 'O', '.': 'O'}",
         "sentence": "This model assumes a mass production of culture and identifies power as residing with those producing cultural artifacts.",
+        "stems": [
+            "model",
+            "assum",
+            "mass",
+            "product",
+            "cultur",
+            "identifi",
+            "power",
+            "resid",
+            "produc",
+            "cultur",
+            "artifact"
+        ],
         "synonyms": [
             "model",
             "simulate",
@@ -57267,7 +59429,7 @@
             "cultural",
             "artifact"
         ],
-        "tagged": [
+        "tags": [
             [
                 "model",
                 "NN"
@@ -57596,6 +59758,18 @@
         "meronyms": [],
         "ner_tag": "{'In': 'O', 'a': 'O', 'Marxist': 'IDEOLOGY', 'view': 'O', ',': 'O', 'those': 'O', 'who': 'O', 'control': 'O', 'the': 'O', 'means': 'O', 'of': 'O', 'production': 'O', '(': 'O', 'economic': 'O', 'base': 'O', ')': 'O', 'essentially': 'O', 'culture': 'O', '.': 'O'}",
         "sentence": "In a Marxist view, those who control the means of production (the economic base) essentially control a culture.",
+        "stems": [
+            "marxist",
+            "view",
+            "control",
+            "mean",
+            "product",
+            "econom",
+            "base",
+            "essenti",
+            "control",
+            "cultur"
+        ],
         "synonyms": [
             "Marxist",
             "view",
@@ -57608,7 +59782,7 @@
             "master",
             "polish"
         ],
-        "tagged": [
+        "tags": [
             [
                 "marxist",
                 "JJ"
@@ -58021,6 +60195,22 @@
         ],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Other': 'O', 'approaches': 'O', 'to': 'O', 'cultural': 'O', 'studies': 'O', ',': 'O', 'such': 'O', 'as': 'O', 'feminist': 'IDEOLOGY', 'and': 'O', 'later': 'O', 'American': 'NATIONALITY', 'developments': 'O', 'of': 'O', 'the': 'O', 'field': 'O', 'distance': 'O', 'themselves': 'O', 'from': 'O', 'this': 'O', 'view': 'O', '.': 'O'}",
         "sentence": "[citation needed] Other approaches to cultural studies, such as feminist cultural studies and later American developments of the field, distance themselves from this view.",
+        "stems": [
+            "citat",
+            "need",
+            "approach",
+            "cultur",
+            "studi",
+            "feminist",
+            "cultur",
+            "studi",
+            "later",
+            "american",
+            "develop",
+            "field",
+            "distanc",
+            "view"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -58037,7 +60227,7 @@
             "distance",
             "view"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -58367,6 +60557,17 @@
         "meronyms": [],
         "ner_tag": "{'They': 'O', 'criticize': 'O', 'the': 'O', 'Marxist': 'IDEOLOGY', 'assumption': 'O', 'of': 'O', 'a': 'O', 'single': 'O', ',': 'O', 'dominant': 'O', 'meaning': 'O', 'shared': 'O', 'by': 'O', 'all': 'O', 'for': 'O', 'any': 'O', 'cultural': 'O', 'product': 'O', '.': 'O'}",
         "sentence": "They criticize the Marxist assumption of a single, dominant meaning, shared by all, for any cultural product.",
+        "stems": [
+            "critic",
+            "marxist",
+            "assumpt",
+            "singl",
+            "domin",
+            "mean",
+            "share",
+            "cultur",
+            "product"
+        ],
         "synonyms": [
             "criticize",
             "Marxist",
@@ -58378,7 +60579,7 @@
             "cultural",
             "product"
         ],
-        "tagged": [
+        "tags": [
             [
                 "criticize",
                 "VB"
@@ -58656,6 +60857,19 @@
         "meronyms": [],
         "ner_tag": "{'The': 'O', 'non-Marxist': 'MISC', 'approaches': 'O', 'suggest': 'O', 'that': 'O', 'different': 'O', 'ways': 'O', 'of': 'O', 'consuming': 'O', 'cultural': 'O', 'artifacts': 'O', 'affect': 'O', 'the': 'O', 'meaning': 'O', 'product': 'O', '.': 'O'}",
         "sentence": "The non-Marxist approaches suggest that different ways of consuming cultural artifacts affect the meaning of the product.",
+        "stems": [
+            "non-marxist",
+            "approach",
+            "suggest",
+            "differ",
+            "way",
+            "consum",
+            "cultur",
+            "artifact",
+            "affect",
+            "mean",
+            "product"
+        ],
         "synonyms": [
             "non-marxist",
             "overture",
@@ -58669,7 +60883,7 @@
             "mean",
             "product"
         ],
-        "tagged": [
+        "tags": [
             [
                 "non-marxist",
                 "JJ"
@@ -59038,6 +61252,21 @@
         ],
         "ner_tag": "{'This': 'O', 'view': 'O', 'comes': 'O', 'through': 'O', 'in': 'O', 'the': 'O', 'book': 'O', 'Doing': 'O', 'Cultural': 'O', 'Studies': 'O', ':': 'O', 'The': 'O', 'Story': 'O', 'of': 'O', 'Sony': 'ORGANIZATION', 'Walkman': 'ORGANIZATION', '(': 'O', 'by': 'O', 'Paul': 'PERSON', 'du': 'PERSON', 'Gay': 'PERSON', 'et': 'O', 'al': 'O', '.': 'O'}",
         "sentence": "This view comes through in the book Doing Cultural Studies: The Story of the Sony Walkman (by Paul du Gay et al.",
+        "stems": [
+            "view",
+            "come",
+            "book",
+            "cultur",
+            "studi",
+            "stori",
+            "soni",
+            "walkman",
+            "paul",
+            "du",
+            "gay",
+            "et",
+            "al"
+        ],
         "synonyms": [
             "view",
             "hail",
@@ -59053,7 +61282,7 @@
             "et",
             "aluminum"
         ],
-        "tagged": [
+        "tags": [
             [
                 "view",
                 "NN"
@@ -59394,6 +61623,17 @@
         "meronyms": [],
         "ner_tag": "{')': 'O', ',': 'O', 'which': 'O', 'seeks': 'O', 'to': 'O', 'challenge': 'O', 'the': 'O', 'notion': 'O', 'that': 'O', 'those': 'O', 'who': 'O', 'produce': 'O', 'commodities': 'O', 'control': 'O', 'meanings': 'O', 'people': 'O', 'attribute': 'O', 'them': 'O', '.': 'O'}",
         "sentence": "), which seeks to challenge the notion that those who produce commodities control the meanings that people attribute to them.",
+        "stems": [
+            "seek",
+            "challeng",
+            "notion",
+            "produc",
+            "commod",
+            "control",
+            "mean",
+            "peopl",
+            "attribut"
+        ],
         "synonyms": [
             "seek",
             "challenge",
@@ -59405,7 +61645,7 @@
             "people",
             "property"
         ],
-        "tagged": [
+        "tags": [
             [
                 "seeks",
                 "NN"
@@ -59739,6 +61979,23 @@
         "meronyms": [],
         "ner_tag": "{'Feminist': 'IDEOLOGY', 'cultural': 'O', 'analyst': 'TITLE', ',': 'O', 'theorist': 'O', 'and': 'O', 'art': 'O', 'historian': 'TITLE', 'Griselda': 'PERSON', 'Pollock': 'PERSON', 'contributed': 'O', 'to': 'O', 'studies': 'O', 'from': 'O', 'viewpoints': 'O', 'of': 'O', 'history': 'O', 'psychoanalysis': 'O', '.': 'O'}",
         "sentence": "Feminist cultural analyst, theorist and art historian Griselda Pollock contributed to cultural studies from viewpoints of art history and psychoanalysis.",
+        "stems": [
+            "feminist",
+            "cultur",
+            "analyst",
+            "theorist",
+            "art",
+            "historian",
+            "griselda",
+            "pollock",
+            "contribut",
+            "cultur",
+            "studi",
+            "viewpoint",
+            "art",
+            "histori",
+            "psychoanalysi"
+        ],
         "synonyms": [
             "feminist",
             "cultural",
@@ -59756,7 +62013,7 @@
             "history",
             "psychoanalysis"
         ],
-        "tagged": [
+        "tags": [
             [
                 "feminist",
                 "JJ"
@@ -60200,6 +62457,24 @@
         ],
         "ner_tag": "{'The': 'O', 'writer': 'TITLE', 'Julia': 'PERSON', 'Kristeva': 'PERSON', 'is': 'O', 'among': 'O', 'influential': 'O', 'voices': 'O', 'at': 'O', 'the': 'O', 'turn': 'O', 'of': 'O', 'century': 'DATE', ',': 'O', 'contributing': 'O', 'to': 'O', 'cultural': 'O', 'studies': 'O', 'from': 'O', 'field': 'O', 'art': 'O', 'and': 'O', 'psychoanalytical': 'O', 'French': 'NATIONALITY', 'feminism': 'IDEOLOGY', '.': 'O'}",
         "sentence": "The writer Julia Kristeva is among influential voices at the turn of the century, contributing to cultural studies from the field of art and psychoanalytical French feminism.",
+        "stems": [
+            "writer",
+            "julia",
+            "kristeva",
+            "among",
+            "influenti",
+            "voic",
+            "turn",
+            "centuri",
+            "contribut",
+            "cultur",
+            "studi",
+            "field",
+            "art",
+            "psychoanalyt",
+            "french",
+            "femin"
+        ],
         "synonyms": [
             "writer",
             "julia",
@@ -60218,7 +62493,7 @@
             "French",
             "feminism"
         ],
-        "tagged": [
+        "tags": [
             [
                 "writer",
                 "NN"
@@ -60538,6 +62813,18 @@
         "meronyms": [],
         "ner_tag": "{'[': 'O', 'citation': 'O', 'needed': 'O', ']': 'O', 'Raimon': 'PERSON', 'Panikkar': 'PERSON', 'pointed': 'O', 'out': 'O', '29': 'NUMBER', 'ways': 'O', 'in': 'O', 'which': 'O', 'cultural': 'O', 'change': 'O', 'can': 'O', 'be': 'O', 'brought': 'O', 'about': 'O', '.': 'O'}",
         "sentence": "[citation needed] Raimon Panikkar pointed out 29 ways in which cultural change can be brought about.",
+        "stems": [
+            "citat",
+            "need",
+            "raimon",
+            "panikkar",
+            "point",
+            "29",
+            "way",
+            "cultur",
+            "chang",
+            "brought"
+        ],
         "synonyms": [
             "quotation",
             "need",
@@ -60550,7 +62837,7 @@
             "variety",
             "lend"
         ],
-        "tagged": [
+        "tags": [
             [
                 "citation",
                 "NN"
@@ -61167,6 +63454,28 @@
         ],
         "ner_tag": "{'Some': 'O', 'of': 'O', 'these': 'O', 'are': 'O', ':': 'O', 'growth': 'O', ',': 'O', 'development': 'O', 'evolution': 'O', 'involution': 'O', 'renovation': 'O', 'reconception': 'O', 'reform': 'O', 'innovation': 'O', 'revivalism': 'O', 'revolution': 'O', 'mutation': 'O', 'progress': 'O', 'diffusion': 'O', 'osmosis': 'O', 'borrowing': 'O', 'eclecticism': 'O', 'syncretism': 'O', 'modernization': 'IDEOLOGY', 'indigenization': 'O', 'and': 'O', 'transformation': 'O', '.': 'O'}",
         "sentence": "Some of these are: growth, development, evolution, involution, renovation, reconception, reform, innovation, revivalism, revolution, mutation, progress, diffusion, osmosis, borrowing, eclecticism, syncretism, modernization, indigenization, and transformation.",
+        "stems": [
+            "growth",
+            "develop",
+            "evolut",
+            "involut",
+            "renov",
+            "reconcept",
+            "reform",
+            "innov",
+            "reviv",
+            "revolut",
+            "mutat",
+            "progress",
+            "diffus",
+            "osmosi",
+            "borrow",
+            "eclectic",
+            "syncret",
+            "modern",
+            "indigen",
+            "transform"
+        ],
         "synonyms": [
             "increase",
             "growth",
@@ -61189,7 +63498,7 @@
             "indigenization",
             "transformation"
         ],
-        "tagged": [
+        "tags": [
             [
                 "growth",
                 "NN"
@@ -61591,6 +63900,20 @@
         ],
         "ner_tag": "{'Hence': 'O', 'Modernization': 'IDEOLOGY', 'could': 'O', 'be': 'O', 'similar': 'O', 'or': 'O', 'related': 'O', 'to': 'O', 'the': 'O', 'enlightenment': 'O', 'but': 'O', 'a': 'O', \"'\": 'O', 'looser': 'O', 'term': 'O', 'set': 'O', 'ideal': 'O', 'and': 'O', 'values': 'O', 'that': 'O', 'flourish': 'O', '.': 'O'}",
         "sentence": "Hence Modernization could be similar or related to the enlightenment but a 'looser' term set to ideal and values that flourish.",
+        "stems": [
+            "henc",
+            "modern",
+            "could",
+            "similar",
+            "relat",
+            "enlighten",
+            "'looser",
+            "term",
+            "set",
+            "ideal",
+            "valu",
+            "flourish"
+        ],
         "synonyms": [
             "therefore",
             "modernization",
@@ -61605,7 +63928,7 @@
             "values",
             "thrive"
         ],
-        "tagged": [
+        "tags": [
             [
                 "hence",
                 "NN"
@@ -61750,12 +64073,17 @@
         "meronyms": [],
         "ner_tag": "{'a': 'O', 'belief': 'O', 'in': 'O', 'objectivity': 'O', 'progress': 'O', '.': 'O'}",
         "sentence": "a belief in objectivity progress.",
+        "stems": [
+            "belief",
+            "object",
+            "progress"
+        ],
         "synonyms": [
             "impression",
             "objectivity",
             "progress"
         ],
-        "tagged": [
+        "tags": [
             [
                 "belief",
                 "NN"
@@ -62184,6 +64512,26 @@
         ],
         "ner_tag": "{'Also': 'O', 'seen': 'O', 'as': 'O', 'a': 'O', 'belief': 'O', 'in': 'O', 'secular': 'RELIGION', 'society': 'O', '(': 'O', 'free': 'O', 'from': 'O', 'religious': 'O', 'influences': 'O', ')': 'O', 'example': 'O', 'objective': 'O', 'and': 'O', 'rational': 'O', ',': 'O', 'science': 'O', 'vs': 'O', 'religion': 'O', 'finally': 'O', 'been': 'O', 'modern': 'O', 'means': 'O', 'not': 'O', 'being': 'O', '.': 'O'}",
         "sentence": "Also seen as a belief in a secular society (free from religious influences) example objective and rational, science vs religion and finally been modern means not being religious.",
+        "stems": [
+            "also",
+            "seen",
+            "belief",
+            "secular",
+            "societi",
+            "free",
+            "religi",
+            "influenc",
+            "exampl",
+            "object",
+            "ration",
+            "scienc",
+            "vs",
+            "religion",
+            "final",
+            "modern",
+            "mean",
+            "religi"
+        ],
         "synonyms": [
             "besides",
             "visit",
@@ -62204,7 +64552,7 @@
             "means",
             "religious"
         ],
-        "tagged": [
+        "tags": [
             [
                 "also",
                 "RB"
