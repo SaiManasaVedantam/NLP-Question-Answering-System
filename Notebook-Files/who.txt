@@ -1,0 +1,4 @@
+[297, [("Who trained under Bastian's ideas on culture?", 'Franz Boas'), ("Who's definition of culture did anthropologist  accept?", "Tylor's")]]
+[282, [('Who would engrave the master disc of a vinyl record?', 'record cutter'), ('Who developed the 3-to-2 mix to create lifelike recordings?', 'Mercury'), ('Who created the CD-4 format?', 'RCA'), ('Who released the first commercial long play discs?', 'RCA Victor')]]
+[151, [('Who is the current FBI director?', 'James B. Comey'), ('Who manages each FBI branch?', 'An executive assistant director')]]
+[247, [('Who co-hosts CERN along with the French department of Ain?', 'Geneva'), ('Who were the largest single group of foreigners in 2010?', 'Italians')]]
