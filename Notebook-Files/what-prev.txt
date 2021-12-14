@@ -1,0 +1,4 @@
+[400, [('What was the capital of the Safavid Dynasty?', 'Tabriz'), ('What Proto-Indo-European term means "skillful assembler?"', '*ar-yo-')]]
+[390, [('What is the Chax Press?', 'a publisher of poetry books in trade and book arts editions'), ('What is the giant letter downtown in honor of?', 'University of Arizona')]]
+[181, [('In what form is Selenizza offered?', 'granular'), ('For what purpose did American Indians use asphalt? ', 'adhesive'), ('To what other paving material is Selenizza added?', 'mastic asphalts')]]
+[297, [('What does non-material culture refer to?', 'non physical ideas'), ('What is most of the research into sociological culture ?', 'qualitative'), ('Capitalism can be referred to as what process?', 'a process called globalization')]]
