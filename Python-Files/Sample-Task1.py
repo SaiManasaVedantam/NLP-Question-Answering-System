@@ -1,12 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+# ## TASK 1 - Feature Extraction by passing text through the NLP Pipeline
+
+# In[1]:
 
 
 #This file implements all the mandatory feature extraction specified in Task 1.
 #    It only prints the features. We save these features along with few more in the actual training file.
-#   Features extracted here are:
+#    Features extracted here are:
 #    1. Text tokenization into sentences & words
 #    2. Word Lemmatization
 #    3. Part-of-Speech (POS) tagging
@@ -14,7 +16,9 @@
 #    5. WordNet features - Hypernymns, Hyponyms, Meronyms, Holonyms
 
 
-# In[27]:
+# ### All necessary imports
+
+# In[2]:
 
 
 # Turn off unnecessary warnings
@@ -36,7 +40,9 @@ from nltk.corpus import stopwords
 from nltk.parse.corenlp import CoreNLPDependencyParser
 
 
-# In[6]:
+# ### Set up globally used variables
+
+# In[3]:
 
 
 # Start common things globally
@@ -46,7 +52,9 @@ wordnet_lemmatizer = WordNetLemmatizer()
 tokenizer = nltk.data.load("tokenizers/punkt/english.pickle")
 
 
-# In[7]:
+# ### Methods to perform Tokenization, Lemmatization, Part-of-Speech (POS) Tagging
+
+# In[4]:
 
 
 # Performs Word tokenization on sentences
@@ -70,7 +78,9 @@ def POSTagging(sentence):
     return POStags   
 
 
-# In[26]:
+# ### Method to perform Dependency Parsing
+
+# In[5]:
 
 
 # Performs Dependency Parsing
@@ -84,7 +94,9 @@ def DependencyParsing(sentence):
     return depParseResult
 
 
-# In[9]:
+# ### Method to extract WordNet features : Synonyms, Meronyms, Holonyms, Hypernyms, Hyponyms
+
+# In[6]:
 
 
 # Obtains WordNet Features
@@ -132,14 +144,13 @@ def WordNetFeatures(sentence, word_tokens):
    
 
 
-# In[28]:
+# ### Method that helps us to pass the articles through the NLP pipeline
+
+# In[12]:
 
 
 # NLP pipeline through which all the articles & question will pass
 def NLP_Pipeline(sentence):
-    print("\n------SENTENCE------")
-    print(sen)
-
     word_tokens = Tokenization(sentence)
     print("\nWord Tokenization : Done")
     print(word_tokens)
@@ -175,7 +186,9 @@ def NLP_Pipeline(sentence):
     pprint(depParse)
 
 
-# In[29]:
+# ### Execute Task 1
+
+# In[14]:
 
 
 # Get contents from the sample file
@@ -198,15 +211,21 @@ print("Extracting features for each sentence in the file...")
     
 # Extracting words
 for sen in sentences:
+    print("\n------SENTENCE------")
+    print(sen)
     NLP_Pipeline(sen)
         
-print("Completed processing the sample file")    
+print("\nCompleted processing the sample file")    
 print("\nSample Task 1 Successfully Completed !!!")
     
 
 
-# In[ ]:
+# ### Extracting features from a sample question
+
+# In[15]:
 
 
-
+sample_que = "What are being analyzed here?"
+print(sample_que)
+NLP_Pipeline(sample_que)
 

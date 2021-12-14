@@ -1,17 +1,58 @@
-EXECUTING TASK 1:
--- You need to install nltk, Stanford's CoreNLPDependencyParser specifically along with any other modules you may need.
--- Run the Stanford's dependency parser from the terminal. Make sure to have compatible java version.
+-*--*--*-  Instructions to execute the Project  -*--*--*-
 
-Command: java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
+-*--*- Execution using Jupyter Notebook -*--*-
+- Install Anaconda on your system using official documentation based on the configuration.
+- Use NLP-Project.ipynb version of the code which is located in Notebook-files folder.
+- Execute each cell in the notebook one-by-one or choose Run All option to achieve the same with a single choice.
 
--- You can download and run either Task1-NLP-Pipeline.ipynb or use "python Task1-NLP-Pipeline.py"
--- Download the articles and put them in the path in which you have the python file OR you can use the articles uploaded in this repository directly.
--- Create a Pipeline-Output folder to which the output files for which should be used as input for ElasticSearch are stored.
-
-EXECUTING TASK 2:
--- You need ElasticSearch for this. Download, unzip and run it.
--- For mac, go to the location & give the command:
-./bin/elasticsearch
+-*--*- Execution in terminal -*--*-
+- Install python version >= 2.7 on your system.
+- Use NLP-Project.py version of the code which is located in Python-files folder.
+- Open terminal and set the relative path to where you have saved the code and run : "python NLP-Project.py"
 
 
-File 111.txt is 11KB -> Run sample on this
+-*--*--*- Common instructions to resolve Dependencies -*--*--*-
+
+-*--*- Package installations -*--*-
+You need to install certain modules to get the setup ready to execute.
+- Installing nltk : Run "pip install nltk"
+- Installing Stanford's CoreNLPDependencyParser : Download the module that is compatible with your configuration and just run it to install the package
+- For CoreNLPDependencyParser to work, install Java version compatible with it from Java Official Website.
+- Installing ElasticSearch : Download the zip file from the official website, unzip it and run: "python -m pip install ElasticSearch"
+- To handle SSL issues, install pyopenssl using : "pip install -U pyopenssl"
+- If your system did not ever install the packages listed below, use the command : "pip install <package_name>"
+a. dateparser
+b. urllib3
+- Also make sure to install any other packages that are specifically required for your system to use the Project
+
+
+-*--*- Setting up the Environment -*--*-
+- You need to have the Dependency Parser up & running. Go to the location where you have installed it and then start it using : "java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000" for MAC
+-- You should also have the ElasticSearch active. Go to the location where you have installed it and then start it using : "./bin/elasticsearch" for MAC
+
+-*--*--*-  Additional tips on executing tasks  -*--*--*-
+- Once the entire environment is ready with all necessary packages installed, you can execute tasks as explained here.
+- In the Project, I have a single file that handles entire Training & Testing processes. As long as the session is active, the system uses the pre-trained model.
+- If the session just began, it will train for once and we use the same model throughout in the code.
+- You can have separate train and test files if that's convenient for you.
+- I have a sample file with few features that are generated for each sentence. You can execute that to have a peek through what are the Basic features that can be easily generated.
+- Run the sample file using : "python Sample-Task1.py" from the terminal.
+- Execute the sample file using .ipynb version of the same in Jupyter Notebook.
+
+
+-*--*-  Execution with various input files  -*--*-
+- The program is interactive and asks you to input a file on which pipeline can be executed.
+- This file should be in the format : (Line separated questions)
+Question1 
+Question2
+...
+QuestionN
+- It should be a .txt file which is in the location where the .ipynb (if Jupiter Notebook is used )or .py (if terminal is used) file is present. So, make sure to have the file in the location of your choice.
+- View the result obtained on your input file in the "output.csv" that gets dynamically generated in the same location.
+
+
+-*--*-  Preliminary Analysis Information  -*--*-
+- This project is tested on a variety of datasets.
+- All files in Preliminary-Analysis-Datasets folder are used along with the Validation-Data.txt to decide upon the best features to use.
+- After the model is fully trained, post-training analysis is carried out on Easy, Medium, Hard and Mix of questions.
+- These files are in both Notebook-files and Python-files folders with names:
