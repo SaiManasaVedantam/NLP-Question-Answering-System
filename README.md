@@ -54,7 +54,7 @@ This stage involves generating answers for a list of questions with different le
 
 
 ## Architecture
-
+<img width="375" alt="Architecture" src="https://user-images.githubusercontent.com/28973352/149229899-20c007c0-d740-47b8-bdf0-cb41789bf1b0.png">
 
 
 ## Execution Instructions
