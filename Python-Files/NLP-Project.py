@@ -5,7 +5,7 @@
 
 # ### All required package imports
 
-# In[2]:
+# In[1]:
 
 
 # Turn off unnecessary warnings
@@ -19,6 +19,7 @@ import nltk
 import string
 import urllib
 import os.path
+from pprint import pprint
 from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize, sent_tokenize 
@@ -32,7 +33,7 @@ from nltk.stem.porter import PorterStemmer
 
 # ### Global declarations 
 
-# In[3]:
+# In[23]:
 
 
 # Start common things globally
@@ -49,7 +50,7 @@ UNAVAILABLE_ARTICLE = "unavailable"
 
 # ### Methods to perform Tokenization, Lemmatization, Stemming and Part-of-Speech (POS) tagging
 
-# In[4]:
+# In[2]:
 
 
 # Performs Word tokenization on sentences
@@ -81,7 +82,7 @@ def POSTagging(sentence):
 
 # ### Methods to perform Dependency Parsing and Named Entity identification
 
-# In[5]:
+# In[3]:
 
 
 # Performs Dependency Parsing
@@ -111,7 +112,7 @@ def NamedEntities(sentence, tokens):
 
 # ### Method to obtain sentence Heads
 
-# In[6]:
+# In[4]:
 
 
 # Obtains sentence heads
@@ -153,7 +154,7 @@ def getHeads(sentence, word_tokens):
 
 # ### Method to obtain WordNet features like Synonyms, Meronyms, Hypernyms, Hyponyms & Holonyms 
 
-# In[7]:
+# In[5]:
 
 
 # Obtains WordNet Features
@@ -201,9 +202,9 @@ def WordNetFeatures(sentence, word_tokens):
    
 
 
-# ### Method to build NLP Pipeline end-to-end using all the features we used above
+# ### Method to build NLP Pipeline end-to-end using all the features used above
 
-# In[8]:
+# In[6]:
 
 
 # NLP pipeline through which all the articles & question will pass
@@ -237,7 +238,7 @@ def NLP_Pipeline(sentence, count, data_dict, articleName = None):
             
     depParse = DependencyParsing(sentence)
     #print("Dependency Parsing : Done")
-    #print(depParse)
+    #pprint(depParse)
 
     headList = getHeads(sentence, word_tokens)
     #print("Obtaining Heads : Done")
@@ -309,7 +310,7 @@ def NLP_Pipeline(sentence, count, data_dict, articleName = None):
 
 # ## TASK 1 - Building an NLP Pipeline end-to-end in training phase by using 30 articles
 
-# In[9]:
+# In[7]:
 
 
 # Builds NLP Pipeline in the Task 1
@@ -360,7 +361,7 @@ def task1():
 
 # ## TASK 2 - Indexing and obtaining answer for the given query
 
-# In[10]:
+# In[8]:
 
 
 # Import all the required packages
@@ -380,7 +381,7 @@ req = requests.get("http://localhost:9200", verify=False)
 
 # ### Implements sentence indexing
 
-# In[11]:
+# In[9]:
 
 
 # Indexing using Elastic Search
@@ -425,7 +426,7 @@ def task2_part1():
 
 # ### Uses the indexed content, generate question features from the pipeline & obtain the result
 
-# In[12]:
+# In[10]:
 
 
 # Import all necessary packages
@@ -436,7 +437,7 @@ import re
 
 # ### Extracts features associated with the query by passing it through the NLP pipeline
 
-# In[13]:
+# In[11]:
 
 
 # Obtains features in the question by using the result obtained from the NLP Pipeline
@@ -480,7 +481,7 @@ def questionFeatures(question):
 
 # ### Query the indexed content with features & their importance
 
-# In[14]:
+# In[12]:
 
 
 # Check and obtain matched sentences using the query string
@@ -527,7 +528,7 @@ def GetMatchedSentences(queryStr, dependencyList):
 
 # ### Find scores associated with each sentence that satisfies the query & implement deeper NLP pipeline
 
-# In[15]:
+# In[13]:
 
 
 # Find the match score to know how well a statement is matched
@@ -601,7 +602,7 @@ def FindScore(queType, NEhints, sentences, scores, depParses, articles, NEs, dep
 
 # ### Method to retrieve data from the Validation set
 
-# In[16]:
+# In[14]:
 
 
 # Obtains contents from validation set & returns list of questions
@@ -629,7 +630,7 @@ def getValidationData():
 
 # ### Method to obtain the best possible answer for the query
 
-# In[17]:
+# In[15]:
 
 
 # Obtains best possible answer for the query
@@ -674,7 +675,7 @@ def getAnswer(question):
 
 # ### Method to run the NLP pipeline on Validation set & obtain accuracy
 
-# In[18]:
+# In[16]:
 
 
 # Runs the pipeline on the validation set and obtains accuracy
@@ -711,7 +712,7 @@ def validateAndGetAccuracy():
 
 # ### Runs the NLP pipeline on the sample input file
 
-# In[19]:
+# In[17]:
 
 
 # Runs the pipeline on the sample questions with different levels of complexity
@@ -729,7 +730,7 @@ def runPipelineOnSample(inputFile, outputFile):
 
 # ### Methods to read input data & to check if the file specified is valid
 
-# In[20]:
+# In[18]:
 
 
 # Reads content from the input file using fileName & returns questions
@@ -750,7 +751,7 @@ def checkFile(fileName):
 
 # ### Method to process the input file and generate output in csv format
 
-# In[21]:
+# In[19]:
 
 
 # Produces output in the required format & save as .csv
@@ -783,7 +784,7 @@ def processAndGenerateOutput(questions):
 
 # ### Use a flag to train the system if it isn't already trained
 
-# In[22]:
+# In[20]:
 
 
 # Setup a boolean flag to check if the System is already trained
@@ -792,7 +793,7 @@ isTrained = False
 
 # ### Method to train the System
 
-# In[23]:
+# In[21]:
 
 
 def TrainSystem():
@@ -839,7 +840,7 @@ if __name__ == '__main__':
         
 
 
-# ## Demonstrating the capability of our System in handling several features & scenarios 
+# ## Demonstrating the capability of the System in handling several features & scenarios 
 
 # ### Handling questions that doesn't come under the scope of question
 
@@ -962,7 +963,7 @@ print(getAnswer("What part of bird need to be molted to reduce suffering?"))
 
 # ### Testing on a sample Easy questions dataset
 
-# In[36]:
+# In[35]:
 
 
 runPipelineOnSample("Easy-Que.txt", "Easy-Ans.txt")
@@ -970,7 +971,7 @@ runPipelineOnSample("Easy-Que.txt", "Easy-Ans.txt")
 
 # ### Testing on a sample Medium questions dataset
 
-# In[37]:
+# In[36]:
 
 
 runPipelineOnSample("Medium-Que.txt", "Medium-Ans.txt")
@@ -978,7 +979,7 @@ runPipelineOnSample("Medium-Que.txt", "Medium-Ans.txt")
 
 # ### Testing on a sample Hard questions dataset
 
-# In[41]:
+# In[37]:
 
 
 runPipelineOnSample("Hard-Que.txt", "Hard-Ans.txt")
@@ -986,8 +987,14 @@ runPipelineOnSample("Hard-Que.txt", "Hard-Ans.txt")
 
 # ### Testing on a sample of mix of questions dataset
 
-# In[40]:
+# In[38]:
 
 
 runPipelineOnSample("Sample-Que.txt", "Sample-Ans.txt")
+
+
+# In[ ]:
+
+
+
 
