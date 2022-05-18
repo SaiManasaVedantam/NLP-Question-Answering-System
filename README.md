@@ -1,4 +1,4 @@
-# NLP-Question-Answering-System (October 2021)
+# Question-Answering-System-with-Natural-Language-Processing (October 2021)
 This project implements a Closed-Domain Question-Answering System using Natural Language Processing techniques. We all know that the use of interactive, intelligent assistants which can respond to human statements/questions is increasing day-by-day. Using NLP, this project aims to answer WHAT, WHEN and WHO
 type questions based on 30 articles from the Stanford Question Answering Dataset(SQuAD). 
 
@@ -54,7 +54,7 @@ This stage involves generating answers for a list of questions with different le
 
 
 ## Architecture
-<img width="375" alt="Architecture" src="https://user-images.githubusercontent.com/28973352/149229899-20c007c0-d740-47b8-bdf0-cb41789bf1b0.png">
+<img width="500" alt="Architecture" src="https://user-images.githubusercontent.com/28973352/149229899-20c007c0-d740-47b8-bdf0-cb41789bf1b0.png">
 
 
 ## Execution Instructions
